@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-05T13:52:48.384Z",
+  "builtAt": "2026-09-05T21:06:25.425Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 338,
+      "poolSize": 339,
       "items": [
+        {
+          "title": "23개월 만에 최저 환율에…기업 달러예금 역대 최대",
+          "link": "https://www.yna.co.kr/view/AKR20260905048200002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율이 1,345원으로 23개월 만에 최저 수준으로 내려가자 기업 달러 예금이 역대 최대 규모로 확대...",
+          "publishedAt": "2026-09-05T20:53:01.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/04/PYH2026090413120001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "달러 환율 1년 2개월 만에 최저…더 떨어질까",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008738808",
@@ -25,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "'국채 금리 격차' 중국은 1%대, 미국은 5%대…중국 기업의 '뜻밖의 무기'",
@@ -38,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "[외환] 원/달러 환율 8.9원 내린 1,350.4원(15:30 기준가)",
@@ -51,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.8
+          "score": 6.7
         },
         {
           "title": "[뉴욕증시] 금리 인상 경계감 완화에 증시 상승세…테슬라 5% '급등'",
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.7
-        },
-        {
-          "title": "금리인상 우려 완화에 기술주 반등…미 3대 주가지수 1%대 ‘동반 상승’",
-          "link": "https://www.khan.co.kr/article/202609040726001/",
-          "summary": "로이터연합뉴스3일(현지시간) 미국 뉴욕증시 3대 주요 주가지수가 일제히 1% 넘게 상승했다.미 국채금리 급등세가 진정되고 미 연방준비제도(Fed·연준) 주요 인사가 금리동결을 시사하면서 9월 기준금리 인상 경계감이 완화된 영향으로 풀이된다.이날 다우존스30 산업평균지수는 전장보다 624.16포인트(1.18%) 오른 5만3686.11에 거래를 마쳤다.스탠더드…",
-          "publishedAt": "2026-09-03T22:26:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.7
+          "score": 6.5
         }
       ]
     },
@@ -98,20 +98,20 @@
           "title": "어린이 눈높이로 풀어낸 〈아함경〉",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505136",
           "summary": "불교 초기 경전인 〈아함경〉은 석가모니 부처님 입멸 후 제자들이 ‘나는 이와 같이 들었다(如是我聞)’며 기억을 되살려 정리한 최초의 경전이다. 인간의 삶과 고뇌, 깨달음에 대한 깊은 통찰은 물론, 사성제(四聖諦)와 팔정도(八正道), 연기법(緣起法) 등 불교의 핵심 교리를 담아 불교 공부의 입문이자 완성으로 꼽힌다. 부처님의 깊은 가르침이 담긴 〈아함경〉을…",
-          "publishedAt": "2026-09-04T01:28:53.000Z",
+          "publishedAt": "2026-09-04T10:28:53.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 5.2
+          "score": 5.3
         },
         {
           "title": "주경스님, 육군훈련소 2천여 훈련장병 수계",
           "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4104825",
           "summary": "조계종 중앙종회 의장 주경스님이 오늘 오후 육군훈련소 연무관을 찾아 2천여 훈련장병을 대상으로 수계법회를 봉행하고 불제자로서의 첫걸음을 격려했습니다. 수계 법회는 주경스님을 전계사로 삼귀의와 반야심경 봉독, 청성과 청법가, 청사와 개도, 법문, 참회와 연비의식, 계첩 수여와 후원금 전달, 사홍서원 등의 순으로 진행됐습니다.특히, 이번 법회는 부산 내원정사가…",
-          "publishedAt": "2026-09-05T09:39:29.000Z",
+          "publishedAt": "2026-09-05T18:39:29.000Z",
           "image": "",
           "sourceName": "BBS 불교방송",
           "sourceId": "bbs-news",
@@ -124,40 +124,40 @@
           "title": "9. 선불교적 돌봄 위한 교법사의 역할",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=337583",
           "summary": "데이비슨대학에서 첫해를 보내던 어느 날, 한 학생이 사무실에 들어와 채플린(교법사)을 찾았습니다. 저는 그에게 “안녕하세요. 저는 이반이고, 이곳의 불교 교법사입니다. 제가 어떻게 함께해 드릴까요?”라고 말했습니다.학생은 저에게 “다른 교법사를 만날 수 있나요?”라고 물었습니다. 그는 기독교 교법사를 찾았습니다.그렇다면 불교 교법사는 기독교나 이슬람 교법사…",
-          "publishedAt": "2026-09-04T01:37:52.000Z",
+          "publishedAt": "2026-09-04T10:37:52.000Z",
           "image": "",
           "sourceName": "법보신문",
           "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.8
         },
         {
           "title": "[법인 스님의 문자 반야] 55. 육결일해(六結一解)",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505135",
           "summary": "〈능엄경(楞嚴經)〉 제5권에는 마음의 번뇌와 해탈의 원리를 일깨우는 명쾌한 비유가 나온다. 부처님께서 시자 아난 앞에 부드러운 비단 수건 한 장을 펼쳐 보이셨다. 그리고 아난이 지켜보는 가운데 수건의 한쪽을 잡아 첫 번째 매듭을 묶고, 이어 차례로 여섯 번째 매듭까지 묶으셨다.부처님께서 물으셨다. “이 매듭들을 한꺼번에 풀 수 있겠느냐?”아난은 고개를 저으…",
-          "publishedAt": "2026-09-04T01:23:18.000Z",
+          "publishedAt": "2026-09-04T10:23:18.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.8
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 17. 자신을 지키지 못함 참회의 주의 사항",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505134",
           "summary": "주의 사항‘자신을 지키지 못함’ 참회와 다른 항목의 참회를 혼동하지 않도록 매우 주의해야 한다. 즉 자신이 남에게 피해를 끼친 경우와, 반대로 자신이 남에게 피해를 당한 경우를 구분할 수 있어야 한다는 말이다.예를 들어, 자기가 탐진을 일으켜 남에게 피해를 끼쳤는데도 자신을 지키기 위한 정당한 행동이었다고 생각해 참회를 하지 않으면, 자신의 탐욕이나 분노를…",
-          "publishedAt": "2026-09-04T01:17:03.000Z",
+          "publishedAt": "2026-09-04T10:17:03.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.8
         }
       ]
     },
@@ -172,8 +172,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 129,
+      "poolSize": 152,
       "items": [
+        {
+          "title": "Adversarial Collaboration in Philosophy (guest post)",
+          "link": "https://dailynous.com/2026/09/02/adversarial-collaboration-in-philosophy-guest-post/",
+          "summary": "“Philosophical work would be better with adversaries collaborating to keep each other honest.” Why is that? What would it look like? In the following guest post, members of the Mind and Morality Lab a…",
+          "publishedAt": "2026-09-02T12:00:32.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/09/opposing-arrows-circle.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 6
+        },
+        {
+          "title": "Free to Be Experimental Philosophy",
+          "link": "https://dailynous.com/2026/09/04/free-to-be-experimental-philosophy/",
+          "summary": "“But is this actually philosophy?” Ethan Landes (Eindhoven University of Technology) is tired of experimental philosophers being asked The Question. And he’s tired of experimental philosophers “appeas…",
+          "publishedAt": "2026-09-04T14:06:21.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/09/free-to-be-cover-1024x606.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 5.4
+        },
         {
           "title": "Sir Anthony Kenny obituary",
           "link": "https://www.theguardian.com/books/2026/aug/31/sir-anthony-kenny-obituary",
@@ -182,6 +208,19 @@
           "image": "https://i.guim.co.uk/img/media/21788e17835de4e2c1f188b9494d4ceae76c7a53/0_522_3109_2487/master/3109.jpg?width=140&quality=85&auto=format&fit=max&s=22a4d94bc0b157518e9637feb2272537",
           "sourceName": "The Guardian",
           "sourceId": "guardian-philosophy",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "Philosopher’s Annual for 2025",
+          "link": "https://dailynous.com/2026/08/30/philosophers-annual-for-2025/",
+          "summary": "The articles that made it into the latest edition of Philosophers Annual have been announced. The list aims to “select the ten best articles published in philosophy each year—an attempt as simple to s…",
+          "publishedAt": "2026-08-31T02:41:07.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/08/ten-aces-1024x757.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
           "candidates": [
             "philosophy"
           ],
@@ -199,46 +238,7 @@
             "philosophy",
             "art"
           ],
-          "score": 3.5
-        },
-        {
-          "title": "Philippa Foot",
-          "link": "https://plato.stanford.edu/entries/philippa-foot/",
-          "summary": "[Revised entry by John Hacker-Wright on August 28, 2026. Changes to: Main text, Bibliography] Philippa Foot wrote extensively on metaethics, moral psychology, and applied ethics, and authored Natural…",
-          "publishedAt": "2026-08-29T01:33:21.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3
-        },
-        {
-          "title": "‘If you’re just interested in answers, you are missing out’: philosopher Lani Watson on the power of asking questions",
-          "link": "https://www.theguardian.com/lifeandstyle/2026/aug/21/philosopher-lani-watson-power-of-asking-questions",
-          "summary": "<p>The author and academic explains how an open, questioning mindset can bring people with opposing views closer together – and even change history</p><p>Asking a question can change your mood, and ha…",
-          "publishedAt": "2026-08-21T10:30:31.000Z",
-          "image": "https://i.guim.co.uk/img/media/53a111e1f616f61a1858adb5e462eee3cfcb28ff/681_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=a27ecbb70dde079aa576875530c7f53c",
-          "sourceName": "The Guardian",
-          "sourceId": "guardian-philosophy",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3
-        },
-        {
-          "title": "Chauncey Wright",
-          "link": "https://plato.stanford.edu/entries/wright/",
-          "summary": "[Revised entry by Jean De Groot on September 3, 2026. Changes to: Main text, Bibliography, notes.html] Chauncey Wright was an American philosopher of science of the second half of the nineteenth centu…",
-          "publishedAt": "2026-09-04T01:24:20.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 2.2
+          "score": 3.4
         }
       ]
     },
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 205,
+      "poolSize": 202,
       "items": [
         {
           "title": "부산비엔날레 전시장서 류성실 작품 손상…비엔날레 측 사과",
@@ -266,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "시민 쇠붙이가 악기로 오월 아픔은 그림으로…광주비엔날레 개막",
@@ -279,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.4
+          "score": 5.3
         },
         {
           "title": "광주비엔날레 대표 “대만관 논란·중국관 철수 송구…파빌리온 제도 개선”",
@@ -292,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.4
+          "score": 5.2
         },
         {
           "title": "60억 ‘빅딜’은 없었지만···‘키아프리즈’서 확인된 미술시장 ‘두꺼워진 허리’",
@@ -305,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.9
+          "score": 4.7
         },
         {
           "title": "금호미술관, 내년 7월 폐관…38년 미술사업 종료",
@@ -318,7 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         }
       ]
     }
