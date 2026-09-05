@@ -117,6 +117,18 @@
       "url": "https://www.kyosu.net/rss/allArticle.xml",
       "interests": ["philosophy"]
     },
+    {
+      "id": "hani-culture",
+      "name": "한겨레 문화",
+      "url": "https://www.hani.co.kr/rss/culture/",
+      "interests": ["philosophy"]
+    },
+    {
+      "id": "stanford-sep",
+      "name": "Stanford Encyclopedia",
+      "url": "https://plato.stanford.edu/rss/sep.xml",
+      "interests": ["philosophy"]
+    },
 
     {
       "id": "hyperallergic",

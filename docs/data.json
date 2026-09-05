@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-05T12:53:58.160Z",
+  "builtAt": "2026-09-05T12:59:11.078Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 314,
+      "poolSize": 338,
       "items": [
+        {
+          "title": "달러 환율 1년 2개월 만에 최저…더 떨어질까",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008738808",
+          "summary": "원/달러 환율이 지난해 7월 이후 처음으로 장중 1천340원대까지 내렸습니다. 우리나라 수출 실적이 좋은 데다, 대내·외 여건까지 겹치면서 당분간 하락세가 이어질 거라는 전망이 나옵니다.김혜민 기자입니다.",
+          "publishedAt": "2026-09-04T22:29:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260905/202219316_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.2
+        },
         {
           "title": "'국채 금리 격차' 중국은 1%대, 미국은 5%대…중국 기업의 '뜻밖의 무기'",
           "link": "https://www.hankyung.com/article/202609033212i",
@@ -26,19 +39,6 @@
             "econ"
           ],
           "score": 7.2
-        },
-        {
-          "title": "엔화 강세에…원/달러 환율 14개월 만에 장중 1,340원대로",
-          "link": "https://www.yna.co.kr/view/AKR20260904124900002",
-          "summary": "(세종=연합뉴스) 김수현 기자 = 원/달러 환율이 1년 2개월 만에 장중 1,340원대로 떨어졌다. 일본 외환 당국의 개입 경계감에 엔화가 강세...",
-          "publishedAt": "2026-09-04T06:56:05.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/04/PYH2026090412680001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.9
         },
         {
           "title": "[외환] 원/달러 환율 8.9원 내린 1,350.4원(15:30 기준가)",
@@ -54,6 +54,19 @@
           "score": 6.9
         },
         {
+          "title": "[뉴욕증시] 금리 인상 경계감 완화에 증시 상승세…테슬라 5% '급등'",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737243",
+          "summary": "미국 국채 금리 급등세가 진정되고 연준의 금리 인상 경계감이 완화되면서, 주요 3대 지수가 1% 넘게 올랐습니다.에너지를 제외한 전 업종이 오른…",
+          "publishedAt": "2026-09-03T22:45:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260904/202218997_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6.7
+        },
+        {
           "title": "금리인상 우려 완화에 기술주 반등…미 3대 주가지수 1%대 ‘동반 상승’",
           "link": "https://www.khan.co.kr/article/202609040726001/",
           "summary": "로이터연합뉴스3일(현지시간) 미국 뉴욕증시 3대 주요 주가지수가 일제히 1% 넘게 상승했다.미 국채금리 급등세가 진정되고 미 연방준비제도(Fed·연준) 주요 인사가 금리동결을 시사하면서 9월 기준금리 인상 경계감이 완화된 영향으로 풀이된다.이날 다우존스30 산업평균지수는 전장보다 624.16포인트(1.18%) 오른 5만3686.11에 거래를 마쳤다.스탠더드…",
@@ -65,19 +78,6 @@
             "econ"
           ],
           "score": 6.7
-        },
-        {
-          "title": "코스피 1.6% 상승 마감…원-달러 환율 한때 1350원 아래로",
-          "link": "https://www.hani.co.kr/arti/economy/economy_general/1276295.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레",
-          "sourceId": "hani-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.5
         }
       ]
     },
@@ -92,72 +92,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 199,
+      "poolSize": 177,
       "items": [
         {
           "title": "어린이 눈높이로 풀어낸 〈아함경〉",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505136",
           "summary": "불교 초기 경전인 〈아함경〉은 석가모니 부처님 입멸 후 제자들이 ‘나는 이와 같이 들었다(如是我聞)’며 기억을 되살려 정리한 최초의 경전이다. 인간의 삶과 고뇌, 깨달음에 대한 깊은 통찰은 물론, 사성제(四聖諦)와 팔정도(八正道), 연기법(緣起法) 등 불교의 핵심 교리를 담아 불교 공부의 입문이자 완성으로 꼽힌다. 부처님의 깊은 가르침이 담긴 〈아함경〉을…",
-          "publishedAt": "2026-09-04T10:28:53.000Z",
+          "publishedAt": "2026-09-04T01:28:53.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 5.4
+          "score": 5.3
         },
         {
           "title": "주경스님, 육군훈련소 2천여 훈련장병 수계",
           "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4104825",
           "summary": "조계종 중앙종회 의장 주경스님이 오늘 오후 육군훈련소 연무관을 찾아 2천여 훈련장병을 대상으로 수계법회를 봉행하고 불제자로서의 첫걸음을 격려했습니다. 수계 법회는 주경스님을 전계사로 삼귀의와 반야심경 봉독, 청성과 청법가, 청사와 개도, 법문, 참회와 연비의식, 계첩 수여와 후원금 전달, 사홍서원 등의 순으로 진행됐습니다.특히, 이번 법회는 부산 내원정사가…",
-          "publishedAt": "2026-09-05T18:39:29.000Z",
+          "publishedAt": "2026-09-05T09:39:29.000Z",
           "image": "",
           "sourceName": "BBS 불교방송",
           "sourceId": "bbs-news",
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.4
         },
         {
           "title": "9. 선불교적 돌봄 위한 교법사의 역할",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=337583",
           "summary": "데이비슨대학에서 첫해를 보내던 어느 날, 한 학생이 사무실에 들어와 채플린(교법사)을 찾았습니다. 저는 그에게 “안녕하세요. 저는 이반이고, 이곳의 불교 교법사입니다. 제가 어떻게 함께해 드릴까요?”라고 말했습니다.학생은 저에게 “다른 교법사를 만날 수 있나요?”라고 물었습니다. 그는 기독교 교법사를 찾았습니다.그렇다면 불교 교법사는 기독교나 이슬람 교법사…",
-          "publishedAt": "2026-09-04T10:37:52.000Z",
+          "publishedAt": "2026-09-04T01:37:52.000Z",
           "image": "",
           "sourceName": "법보신문",
           "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.8
         },
         {
           "title": "[법인 스님의 문자 반야] 55. 육결일해(六結一解)",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505135",
           "summary": "〈능엄경(楞嚴經)〉 제5권에는 마음의 번뇌와 해탈의 원리를 일깨우는 명쾌한 비유가 나온다. 부처님께서 시자 아난 앞에 부드러운 비단 수건 한 장을 펼쳐 보이셨다. 그리고 아난이 지켜보는 가운데 수건의 한쪽을 잡아 첫 번째 매듭을 묶고, 이어 차례로 여섯 번째 매듭까지 묶으셨다.부처님께서 물으셨다. “이 매듭들을 한꺼번에 풀 수 있겠느냐?”아난은 고개를 저으…",
-          "publishedAt": "2026-09-04T10:23:18.000Z",
+          "publishedAt": "2026-09-04T01:23:18.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.9
+          "score": 3.8
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 17. 자신을 지키지 못함 참회의 주의 사항",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505134",
           "summary": "주의 사항‘자신을 지키지 못함’ 참회와 다른 항목의 참회를 혼동하지 않도록 매우 주의해야 한다. 즉 자신이 남에게 피해를 끼친 경우와, 반대로 자신이 남에게 피해를 당한 경우를 구분할 수 있어야 한다는 말이다.예를 들어, 자기가 탐진을 일으켜 남에게 피해를 끼쳤는데도 자신을 지키기 위한 정당한 행동이었다고 생각해 참회를 하지 않으면, 자신의 탐욕이나 분노를…",
-          "publishedAt": "2026-09-04T10:17:03.000Z",
+          "publishedAt": "2026-09-04T01:17:03.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.9
+          "score": 3.8
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 74,
+      "poolSize": 105,
       "items": []
     },
     {

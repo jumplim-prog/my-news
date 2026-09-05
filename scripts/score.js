@@ -1,4 +1,5 @@
 import { claudeEnabled, scoreArticles, summarizeCard } from '../lib/claude.js';
+import { titleOverlapRatio } from '../lib/util.js';
 
 const SHORTLIST = 40;
 
@@ -52,7 +53,17 @@ export async function score(config, articles, log = console.log) {
 
     const minScore = config.site.minScore ?? 3;
     const passing = ranked.filter((article) => article.score >= minScore);
-    const items = passing.slice(0, config.site.itemsPerCard);
+    const items = [];
+    let skippedSimilar = 0;
+    for (const article of passing) {
+      if (items.length >= config.site.itemsPerCard) break;
+      const tooSimilar = items.some((picked) => titleOverlapRatio(picked.title, article.title) > 0.5);
+      if (tooSimilar) {
+        skippedSimilar += 1;
+        continue;
+      }
+      items.push(article);
+    }
     let summary = '';
 
     if (config.site.summaryEnabled && interest.showSummary && claudeEnabled() && items.length >= 2) {
@@ -75,7 +86,11 @@ export async function score(config, articles, log = console.log) {
     });
 
     const cut = ranked.length - passing.length;
-    log(`  ${interest.label}: 후보 ${pool.length}건 → ${items.length}건 선정 (${scoredBy}${cut ? `, ${minScore}점 미만 ${cut}건 제외` : ''})`);
+    const extras = [
+      cut ? `${minScore}점 미만 ${cut}건 제외` : '',
+      skippedSimilar ? `유사 제목 ${skippedSimilar}건 건너뜀` : ''
+    ].filter(Boolean);
+    log(`  ${interest.label}: 후보 ${pool.length}건 → ${items.length}건 선정 (${scoredBy}${extras.length ? `, ${extras.join(', ')}` : ''})`);
   }
 
   return cards;
