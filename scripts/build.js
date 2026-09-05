@@ -6,8 +6,30 @@ const ICONS = {
   flower: 'M12 8a4 4 0 1 0 0 8 4 4 0 0 0 0-8M12 8V4M12 20v-4M8 12H4M20 12h-4M9.2 9.2 6.3 6.3M17.7 17.7l-2.9-2.9M14.8 9.2l2.9-2.9M6.3 17.7l2.9-2.9',
   book: 'M4 4.5A2.5 2.5 0 0 1 6.5 2H20v18H6.5A2.5 2.5 0 0 0 4 22zM8 7h8M8 11h5',
   palette: 'M12 21a9 9 0 1 1 0-18c4.97 0 9 3.58 9 8 0 2.2-1.8 4-4 4h-2a2 2 0 0 0-1.4 3.4A2 2 0 0 1 12 21M7.5 10.5h.01M10.5 7.5h.01M14.5 7.5h.01',
+  refresh: 'M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8M21 3v5h-5M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16M8 16H3v5',
   dot: 'M12 12h.01'
 };
+
+const REFRESH_HOURS_KST = [6, 12, 18];
+
+function kstHourMinute(date) {
+  const parts = new Intl.DateTimeFormat('en-GB', {
+    timeZone: 'Asia/Seoul',
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false
+  }).formatToParts(date);
+  const hour = Number(parts.find((part) => part.type === 'hour').value);
+  const minute = Number(parts.find((part) => part.type === 'minute').value);
+  return { hour: hour === 24 ? 0 : hour, minute };
+}
+
+export function nextRefreshLabel(builtAt) {
+  const { hour, minute } = kstHourMinute(builtAt);
+  const hm = hour * 60 + minute;
+  const nextHour = REFRESH_HOURS_KST.find((h) => hm < h * 60) ?? REFRESH_HOURS_KST[0];
+  return `${String(nextHour).padStart(2, '0')}:00`;
+}
 
 function icon(name) {
   const path = ICONS[name] || ICONS.dot;
@@ -91,13 +113,23 @@ body {
 }
 .wrap { max-width: 1120px; margin: 0 auto; }
 .top {
-  display: flex; align-items: baseline; justify-content: space-between;
+  display: flex; align-items: flex-start; justify-content: space-between;
   gap: 16px; flex-wrap: wrap;
   padding-bottom: 14px; margin-bottom: 20px;
   border-bottom: 1px solid var(--line);
 }
 .top h1 { font-size: 21px; font-weight: 600; margin: 0; letter-spacing: -.01em; }
-.stamp { font-size: 13px; color: var(--ink-3); }
+.stamp { font-size: 13px; color: var(--ink-3); text-align: right; }
+.stamp-row { display: inline-flex; align-items: center; gap: 6px; }
+.reload {
+  appearance: none; background: none; border: none;
+  padding: 0; margin: 0; color: inherit; cursor: pointer;
+  display: inline-flex; line-height: 0;
+}
+.reload svg { width: 15px; height: 15px; }
+.reload:hover { color: var(--ink-2); }
+.reload:focus-visible { outline: 2px solid var(--chip-ink); outline-offset: 2px; border-radius: 3px; }
+.stamp-next { display: block; margin-top: 3px; font-size: 12px; color: var(--ink-3); }
 .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 14px; }
 .card {
   background: var(--card);
@@ -146,6 +178,8 @@ export function renderHtml(config, cards, builtAt) {
     month: '2-digit', day: '2-digit', weekday: 'short',
     hour: '2-digit', minute: '2-digit', hour12: false
   }).format(builtAt);
+  const nextRefresh = nextRefreshLabel(builtAt);
+  const reloadTitle = '최신 페이지 다시 받기 (기사는 하루 3회 자동 갱신됩니다)';
 
   return `<!DOCTYPE html>
 <html lang="ko">
@@ -162,7 +196,13 @@ export function renderHtml(config, cards, builtAt) {
 <div class="wrap">
   <div class="top">
     <h1>${escapeHtml(config.site.title)}</h1>
-    <span class="stamp">${escapeHtml(stamp)} 기준 · 관련도순</span>
+    <div class="stamp">
+      <div class="stamp-row">
+        <span>${escapeHtml(stamp)} 기준 · 관련도순</span>
+        <button type="button" class="reload" aria-label="${escapeHtml(reloadTitle)}" title="${escapeHtml(reloadTitle)}" onclick="location.href = location.pathname + '?t=' + Date.now()">${icon('refresh')}</button>
+      </div>
+      <span class="stamp-next">다음 갱신 ${escapeHtml(nextRefresh)}</span>
+    </div>
   </div>
   <div class="grid">
 ${cards.map((card) => renderCard(card, builtAt)).join('\n')}
