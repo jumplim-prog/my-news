@@ -3,7 +3,7 @@
     "title": "내 뉴스",
     "itemsPerCard": 5,
     "maxAgeHours": 72,
-    "minScore": 3,
+    "minScore": 2,
     "summaryEnabled": true
   },
   "interests": [
