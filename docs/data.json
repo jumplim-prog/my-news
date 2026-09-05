@@ -1,0 +1,259 @@
+{
+  "builtAt": "2026-09-05T12:25:42.492Z",
+  "cards": [
+    {
+      "id": "econ",
+      "label": "경제 · 매크로",
+      "icon": "chart",
+      "keywords": [
+        "금리",
+        "환율",
+        "연준"
+      ],
+      "summary": "",
+      "scoredBy": "keyword",
+      "poolSize": 338,
+      "items": [
+        {
+          "title": "달러 환율 1년 2개월 만에 최저…더 떨어질까",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008738808",
+          "summary": "원/달러 환율이 지난해 7월 이후 처음으로 장중 1천340원대까지 내렸습니다. 우리나라 수출 실적이 좋은 데다, 대내·외 여건까지 겹치면서 당분간 하락세가 이어질 거라는 전망이 나옵니다.김혜민 기자입니다.",
+          "publishedAt": "2026-09-04T22:29:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260905/202219316_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.2
+        },
+        {
+          "title": "'국채 금리 격차' 중국은 1%대, 미국은 5%대…중국 기업의 '뜻밖의 무기'",
+          "link": "https://www.hankyung.com/article/202609033212i",
+          "summary": "",
+          "publishedAt": "2026-09-04T22:00:02.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.2
+        },
+        {
+          "title": "엔화 강세에…원·달러 환율 14개월 만에 장중 1,340원대로",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008738365",
+          "summary": "▲ 4일 서울 중구 하나은행 딜링룸 현황판에 코스피, 코스닥, 원·달러 환율 등이 표시되고 있다.원·달러 환율이 1년 2개월 만에 장…",
+          "publishedAt": "2026-09-04T07:18:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260904/202219165_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6.9
+        },
+        {
+          "title": "[외환] 원/달러 환율 8.9원 내린 1,350.4원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20260904121000002",
+          "summary": "(",
+          "publishedAt": "2026-09-04T06:30:45.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/04/AKR20260904121000002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6.9
+        },
+        {
+          "title": "[뉴욕증시] 금리 인상 경계감 완화에 증시 상승세…테슬라 5% '급등'",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737243",
+          "summary": "미국 국채 금리 급등세가 진정되고 연준의 금리 인상 경계감이 완화되면서, 주요 3대 지수가 1% 넘게 올랐습니다.에너지를 제외한 전 업종이 오른…",
+          "publishedAt": "2026-09-03T22:45:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260904/202218997_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6.7
+        }
+      ]
+    },
+    {
+      "id": "buddhism",
+      "label": "불교",
+      "icon": "flower",
+      "keywords": [
+        "고광스님",
+        "초기불교",
+        "대승불교"
+      ],
+      "summary": "",
+      "scoredBy": "keyword",
+      "poolSize": 176,
+      "items": [
+        {
+          "title": "어린이 눈높이로 풀어낸 〈아함경〉",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505136",
+          "summary": "불교 초기 경전인 〈아함경〉은 석가모니 부처님 입멸 후 제자들이 ‘나는 이와 같이 들었다(如是我聞)’며 기억을 되살려 정리한 최초의 경전이다. 인간의 삶과 고뇌, 깨달음에 대한 깊은 통찰은 물론, 사성제(四聖諦)와 팔정도(八正道), 연기법(緣起法) 등 불교의 핵심 교리를 담아 불교 공부의 입문이자 완성으로 꼽힌다. 부처님의 깊은 가르침이 담긴 〈아함경〉을…",
+          "publishedAt": "2026-09-04T01:28:53.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 5.3
+        },
+        {
+          "title": "주경스님, 육군훈련소 2천여 훈련장병 수계",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4104825",
+          "summary": "조계종 중앙종회 의장 주경스님이 오늘 오후 육군훈련소 연무관을 찾아 2천여 훈련장병을 대상으로 수계법회를 봉행하고 불제자로서의 첫걸음을 격려했습니다. 수계 법회는 주경스님을 전계사로 삼귀의와 반야심경 봉독, 청성과 청법가, 청사와 개도, 법문, 참회와 연비의식, 계첩 수여와 후원금 전달, 사홍서원 등의 순으로 진행됐습니다.특히, 이번 법회는 부산 내원정사가…",
+          "publishedAt": "2026-09-05T09:39:29.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "9. 선불교적 돌봄 위한 교법사의 역할",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337583",
+          "summary": "데이비슨대학에서 첫해를 보내던 어느 날, 한 학생이 사무실에 들어와 채플린(교법사)을 찾았습니다. 저는 그에게 “안녕하세요. 저는 이반이고, 이곳의 불교 교법사입니다. 제가 어떻게 함께해 드릴까요?”라고 말했습니다.학생은 저에게 “다른 교법사를 만날 수 있나요?”라고 물었습니다. 그는 기독교 교법사를 찾았습니다.그렇다면 불교 교법사는 기독교나 이슬람 교법사…",
+          "publishedAt": "2026-09-04T01:37:52.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.8
+        },
+        {
+          "title": "[법인 스님의 문자 반야] 55. 육결일해(六結一解)",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505135",
+          "summary": "〈능엄경(楞嚴經)〉 제5권에는 마음의 번뇌와 해탈의 원리를 일깨우는 명쾌한 비유가 나온다. 부처님께서 시자 아난 앞에 부드러운 비단 수건 한 장을 펼쳐 보이셨다. 그리고 아난이 지켜보는 가운데 수건의 한쪽을 잡아 첫 번째 매듭을 묶고, 이어 차례로 여섯 번째 매듭까지 묶으셨다.부처님께서 물으셨다. “이 매듭들을 한꺼번에 풀 수 있겠느냐?”아난은 고개를 저으…",
+          "publishedAt": "2026-09-04T01:23:18.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.8
+        },
+        {
+          "title": "[반야 참회로 여는 수행의 첫걸음] 17. 자신을 지키지 못함 참회의 주의 사항",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505134",
+          "summary": "주의 사항‘자신을 지키지 못함’ 참회와 다른 항목의 참회를 혼동하지 않도록 매우 주의해야 한다. 즉 자신이 남에게 피해를 끼친 경우와, 반대로 자신이 남에게 피해를 당한 경우를 구분할 수 있어야 한다는 말이다.예를 들어, 자기가 탐진을 일으켜 남에게 피해를 끼쳤는데도 자신을 지키기 위한 정당한 행동이었다고 생각해 참회를 하지 않으면, 자신의 탐욕이나 분노를…",
+          "publishedAt": "2026-09-04T01:17:03.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.8
+        }
+      ]
+    },
+    {
+      "id": "philosophy",
+      "label": "철학",
+      "icon": "book",
+      "keywords": [
+        "철학",
+        "현상학",
+        "존재론"
+      ],
+      "summary": "",
+      "scoredBy": "keyword",
+      "poolSize": 72,
+      "items": []
+    },
+    {
+      "id": "art",
+      "label": "예술",
+      "icon": "palette",
+      "keywords": [
+        "전시",
+        "미술관",
+        "비엔날레"
+      ],
+      "summary": "",
+      "scoredBy": "keyword",
+      "poolSize": 205,
+      "items": [
+        {
+          "title": "부산비엔날레 전시장서 류성실 작품 손상…비엔날레 측 사과",
+          "link": "https://www.yna.co.kr/view/AKR20260905041700005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 부산비엔날레에서 선보이고 있는 류성실 작가의 설치·사운드 작업 '만 가지 꿈'이 사고로 손상되는 일이 벌어졌다...",
+          "publishedAt": "2026-09-05T08:12:56.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/05/AKR20260905041700005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "시민 쇠붙이가 악기로 오월 아픔은 그림으로…광주비엔날레 개막",
+          "link": "https://www.yna.co.kr/view/AKR20260904038400005",
+          "summary": "(전남광주=연합뉴스) 박의래 기자 = 전시장 바닥에 다양한 형태의 제주 화산암들이 놓였다. 한순간의 분출과 냉각으로 형태를 얻은 뒤 수천 년의 ...",
+          "publishedAt": "2026-09-04T09:20:41.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/04/PYH2026090411490005400_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 5.4
+        },
+        {
+          "title": "광주비엔날레 대표 “대만관 논란·중국관 철수 송구…파빌리온 제도 개선”",
+          "link": "https://www.khan.co.kr/article/202609041727011/",
+          "summary": "4일 오전 전남광주 북구 용봉동 광주비엔날레전시관 거시기홀에서 열린 제16회 광주비엔날레 개막식 기자간담회에서 윤범모 대표이사가 ‘대만관 설치 논란’과 관련한 취재진 질의에 답변하고 있다. 연합뉴스윤범모 광주비엔날레 대표이사가 광주비엔날레 대만관 명칭 논란 끝에 중국관이 철수한 데 대해 유감을 표하고, 국가관과 기관관을 구분해 온 파빌리온 운영 제도를 개·…",
+          "publishedAt": "2026-09-04T08:27:01.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 5.4
+        },
+        {
+          "title": "60억 ‘빅딜’은 없었지만···‘키아프리즈’서 확인된 미술시장 ‘두꺼워진 허리’",
+          "link": "https://www.khan.co.kr/article/202609031548011/",
+          "summary": "지난 2일 서울 강남구 삼성동 코엑스에서 개막한 ‘키아프·프리즈 2026’을 찾은 관람객들이 갤러리들이 선보이는 작품을 둘러보고 있다. 이준헌 기자3일 오전 서울 강남구 코엑스에는 개장 전부터 ‘키아프리즈(키아프+프리즈)’를 찾은 관람객들의 발길이 이어졌다. 전날 VIP 프리뷰로 막을 올린 국내 최대 아트페어 키아프 서울과 세계적인 아트페어 프리즈 서울은…",
+          "publishedAt": "2026-09-03T06:48:01.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.9
+        },
+        {
+          "title": "금호미술관, 내년 7월 폐관…38년 미술사업 종료",
+          "link": "https://www.yna.co.kr/view/AKR20260905048100005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 1989년 금호갤러리로 출발한 금호미술관이 38년 만에 문을 닫게 됐다.",
+          "publishedAt": "2026-09-05T10:44:43.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2017/05/18/01/C0A8CAE20000015C19149D5A00000006_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        }
+      ]
+    }
+  ]
+}

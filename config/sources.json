@@ -1,0 +1,152 @@
+{
+  "note": "url이 바뀌거나 죽는 피드가 생깁니다. npm run check 로 전체 피드 상태를 확인하세요. 죽은 피드는 수집 시 자동으로 건너뜁니다.",
+  "sources": [
+    {
+      "id": "hani-economy",
+      "name": "한겨레",
+      "url": "https://www.hani.co.kr/rss/economy/",
+      "interests": ["econ"]
+    },
+    {
+      "id": "khan-economy",
+      "name": "경향신문",
+      "url": "https://www.khan.co.kr/rss/rssdata/economy_news.xml",
+      "interests": ["econ"]
+    },
+    {
+      "id": "yna-economy",
+      "name": "연합뉴스",
+      "url": "https://www.yna.co.kr/rss/economy.xml",
+      "interests": ["econ"]
+    },
+    {
+      "id": "hankyung-economy",
+      "name": "한국경제",
+      "url": "https://www.hankyung.com/feed/economy",
+      "interests": ["econ"]
+    },
+    {
+      "id": "mk-economy",
+      "name": "매일경제",
+      "url": "https://www.mk.co.kr/rss/30100041/",
+      "interests": ["econ"]
+    },
+    {
+      "id": "sbs-economy",
+      "name": "SBS",
+      "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=02",
+      "interests": ["econ"]
+    },
+    {
+      "id": "fed-monetary",
+      "name": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+      "interests": ["econ"]
+    },
+    {
+      "id": "marginal-revolution",
+      "name": "Marginal Revolution",
+      "url": "https://marginalrevolution.com/feed",
+      "interests": ["econ"]
+    },
+
+    {
+      "id": "ibulgyo",
+      "name": "불교신문",
+      "url": "https://www.ibulgyo.com/rss/allArticle.xml",
+      "interests": ["buddhism"]
+    },
+    {
+      "id": "beopbo",
+      "name": "법보신문",
+      "url": "https://www.beopbo.com/rss/allArticle.xml",
+      "interests": ["buddhism"]
+    },
+    {
+      "id": "hyunbul",
+      "name": "현대불교",
+      "url": "https://www.hyunbulnews.com/rss/allArticle.xml",
+      "interests": ["buddhism"]
+    },
+    {
+      "id": "bbs-news",
+      "name": "BBS 불교방송",
+      "url": "https://news.bbsi.co.kr/rss/allArticle.xml",
+      "interests": ["buddhism"]
+    },
+    {
+      "id": "lionsroar",
+      "name": "Lion's Roar",
+      "url": "https://www.lionsroar.com/feed/",
+      "interests": ["buddhism"]
+    },
+    {
+      "id": "tricycle",
+      "name": "Tricycle",
+      "url": "https://tricycle.org/feed/",
+      "interests": ["buddhism"]
+    },
+
+    {
+      "id": "aeon",
+      "name": "Aeon",
+      "url": "https://aeon.co/feed.rss",
+      "interests": ["philosophy"]
+    },
+    {
+      "id": "dailynous",
+      "name": "Daily Nous",
+      "url": "https://dailynous.com/feed/",
+      "interests": ["philosophy"]
+    },
+    {
+      "id": "3quarks",
+      "name": "3 Quarks Daily",
+      "url": "https://3quarksdaily.com/feed",
+      "interests": ["philosophy", "art"]
+    },
+    {
+      "id": "guardian-philosophy",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/philosophy/rss",
+      "interests": ["philosophy"]
+    },
+    {
+      "id": "kyosu",
+      "name": "교수신문",
+      "url": "https://www.kyosu.net/rss/allArticle.xml",
+      "interests": ["philosophy"]
+    },
+
+    {
+      "id": "hyperallergic",
+      "name": "Hyperallergic",
+      "url": "https://hyperallergic.com/feed/",
+      "interests": ["art"]
+    },
+    {
+      "id": "artnews",
+      "name": "ARTnews",
+      "url": "https://www.artnews.com/feed/",
+      "interests": ["art"]
+    },
+    {
+      "id": "artnewspaper",
+      "name": "The Art Newspaper",
+      "url": "https://www.theartnewspaper.com/rss",
+      "interests": ["art"]
+    },
+    {
+      "id": "yna-culture",
+      "name": "연합뉴스",
+      "url": "https://www.yna.co.kr/rss/culture.xml",
+      "interests": ["art"]
+    },
+    {
+      "id": "khan-culture",
+      "name": "경향신문",
+      "url": "https://www.khan.co.kr/rss/rssdata/culture_news.xml",
+      "interests": ["art"]
+    }
+  ]
+}
