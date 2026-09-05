@@ -1,6 +1,6 @@
 import { fetchFeed } from '../lib/rss.js';
 import { naverEnabled, searchNaver } from '../lib/naver.js';
-import { titleKey } from '../lib/util.js';
+import { interestMaxAgeHours, isWithinMaxAge, titleKey } from '../lib/util.js';
 
 const CONCURRENCY = 6;
 
@@ -18,7 +18,10 @@ async function pooled(items, worker, limit = CONCURRENCY) {
 }
 
 export async function collect(config, sourceConfig) {
-  const cutoff = Date.now() - config.site.maxAgeHours * 3600 * 1000;
+  const collectHours = Math.max(
+    ...config.interests.map((interest) => interestMaxAgeHours(interest, config.site)),
+    config.site.maxAgeHours ?? 72
+  );
   const validIds = new Set(config.interests.map((i) => i.id));
   const collected = [];
   const report = { ok: [], failed: [] };
@@ -33,7 +36,7 @@ export async function collect(config, sourceConfig) {
       const items = await fetchFeed(source);
       let kept = 0;
       for (const item of items) {
-        if (item.publishedAt && item.publishedAt.getTime() < cutoff) continue;
+        if (!isWithinMaxAge(item, collectHours)) continue;
         collected.push({
           ...item,
           sourceName: source.name,
@@ -60,7 +63,7 @@ export async function collect(config, sourceConfig) {
         const items = await searchNaver(query);
         let kept = 0;
         for (const item of items) {
-          if (item.publishedAt && item.publishedAt.getTime() < cutoff) continue;
+          if (!isWithinMaxAge(item, collectHours)) continue;
           collected.push({
             ...item,
             sourceId: `naver:${query}`,

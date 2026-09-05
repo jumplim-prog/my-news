@@ -1,5 +1,5 @@
 import { claudeEnabled, scoreArticles, summarizeCard } from '../lib/claude.js';
-import { titleOverlapRatio } from '../lib/util.js';
+import { interestMaxAgeHours, isWithinMaxAge, titleOverlapRatio } from '../lib/util.js';
 
 const SHORTLIST = 40;
 
@@ -18,15 +18,21 @@ function keywordScore(interest, article) {
     ? (Date.now() - article.publishedAt.getTime()) / 3600000
     : 48;
   const freshness = Math.max(0, 1.5 - ageHours / 48);
-  return Math.round((base + freshness) * 10) / 10;
+  let penalty = 0;
+  for (const keyword of interest.excludeKeywords || []) {
+    if (haystack.includes(keyword.toLowerCase())) penalty += 2;
+  }
+  return Math.round((base + freshness - penalty) * 10) / 10;
 }
 
 export async function score(config, articles, log = console.log) {
   const cards = [];
 
   for (const interest of config.interests) {
+    const maxAgeHours = interestMaxAgeHours(interest, config.site);
     const pool = articles
       .filter((article) => article.candidates.includes(interest.id))
+      .filter((article) => isWithinMaxAge(article, maxAgeHours))
       .map((article) => ({ ...article, score: keywordScore(interest, article) }))
       .sort((a, b) => b.score - a.score);
 

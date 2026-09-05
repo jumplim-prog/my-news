@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-05T12:59:11.078Z",
+  "builtAt": "2026-09-05T13:15:32.627Z",
   "cards": [
     {
       "id": "econ",
@@ -163,17 +163,84 @@
     },
     {
       "id": "philosophy",
-      "label": "철학",
+      "label": "철학 · 인문",
       "icon": "book",
       "keywords": [
         "철학",
-        "현상학",
-        "존재론"
+        "사상",
+        "인문학"
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 105,
-      "items": []
+      "poolSize": 129,
+      "items": [
+        {
+          "title": "Sir Anthony Kenny obituary",
+          "link": "https://www.theguardian.com/books/2026/aug/31/sir-anthony-kenny-obituary",
+          "summary": "<p>Historian of philosophy and former Roman Catholic priest who wrote and lectured on figures from Aristotle to Wittgenstein with verve and lucidity</p><p>The historian of philosophy Anthony Kenny, wh…",
+          "publishedAt": "2026-08-31T16:56:21.000Z",
+          "image": "https://i.guim.co.uk/img/media/21788e17835de4e2c1f188b9494d4ceae76c7a53/0_522_3109_2487/master/3109.jpg?width=140&quality=85&auto=format&fit=max&s=22a4d94bc0b157518e9637feb2272537",
+          "sourceName": "The Guardian",
+          "sourceId": "guardian-philosophy",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "Given access to email, A.I. agents have started reaching out to the philosophers and researchers exploring deep questions about them",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/given-access-to-email-a-i-agents-have-started-reaching-out-to-the-philosophers-and-researchers-exploring-deep-questions-about-them.html",
+          "summary": "Cade Metz at the New York Times: In October, Cameron Berg published a research paper asking whether the latest wave of artificial intelligence technologies believed they were conscious. Several months…",
+          "publishedAt": "2026-09-03T15:45:14.000Z",
+          "image": "https://3quarksdaily.com/wp-content/uploads/2026/09/31SCI-AI-EMAIL-fqmp-superJumbo-270x360.png",
+          "sourceName": "3 Quarks Daily",
+          "sourceId": "3quarks",
+          "candidates": [
+            "philosophy",
+            "art"
+          ],
+          "score": 3.6
+        },
+        {
+          "title": "Philippa Foot",
+          "link": "https://plato.stanford.edu/entries/philippa-foot/",
+          "summary": "[Revised entry by John Hacker-Wright on August 28, 2026. Changes to: Main text, Bibliography] Philippa Foot wrote extensively on metaethics, moral psychology, and applied ethics, and authored Natural…",
+          "publishedAt": "2026-08-29T01:33:21.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 3
+        },
+        {
+          "title": "‘If you’re just interested in answers, you are missing out’: philosopher Lani Watson on the power of asking questions",
+          "link": "https://www.theguardian.com/lifeandstyle/2026/aug/21/philosopher-lani-watson-power-of-asking-questions",
+          "summary": "<p>The author and academic explains how an open, questioning mindset can bring people with opposing views closer together – and even change history</p><p>Asking a question can change your mood, and ha…",
+          "publishedAt": "2026-08-21T10:30:31.000Z",
+          "image": "https://i.guim.co.uk/img/media/53a111e1f616f61a1858adb5e462eee3cfcb28ff/681_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=a27ecbb70dde079aa576875530c7f53c",
+          "sourceName": "The Guardian",
+          "sourceId": "guardian-philosophy",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 3
+        },
+        {
+          "title": "Chauncey Wright",
+          "link": "https://plato.stanford.edu/entries/wright/",
+          "summary": "[Revised entry by Jean De Groot on September 3, 2026. Changes to: Main text, Bibliography, notes.html] Chauncey Wright was an American philosopher of science of the second half of the nineteenth centu…",
+          "publishedAt": "2026-09-04T01:24:20.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 2.3
+        }
+      ]
     },
     {
       "id": "art",
@@ -251,7 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.4
         }
       ]
     }
