@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-06T03:07:11.588Z",
+  "builtAt": "2026-09-06T09:06:42.479Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 335,
+      "poolSize": 333,
       "items": [
+        {
+          "title": "1300원대 유지중인 원달러 환율",
+          "link": "https://www.mk.co.kr/news/economy/12145457",
+          "summary": "6일 서울 중구 명동의 한 환전소에 환율이 표시돼 있다. 지난 4일 오후 3시 30분 기준 원/달러 환율은 1,350.4원으로 집계됐다. 이는 지난 6월 말 주간거래 종가(1,54..",
+          "publishedAt": "2026-09-06T08:10:29.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/06/news-p.v1.20260906.1b65aa34215f4af99ec14dc2ca07a71d_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "“달러·엔 나중에 쓰면 되니까, 쌀 때 일단 사둬”…환율 급락에 외화예금 역대 최대",
           "link": "https://www.mk.co.kr/news/economy/12145235",
@@ -25,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "[머니톡스] 미 국채금리의 경고…'안전지대는 없다'",
@@ -38,20 +51,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.3
         },
         {
           "title": "23개월 만에 최저 환율에…기업 달러예금 역대 최대",
           "link": "https://www.yna.co.kr/view/AKR20260905048200002",
           "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율이 1,345원으로 23개월 만에 최저 수준으로 내려가자 기업 달러 예금이 역대 최대 규모로 확대...",
           "publishedAt": "2026-09-05T20:53:01.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/04/PYH2026090413120001300_P2.jpg",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/06/PYH2026090603830001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "달러 환율 1년 2개월 만에 최저…더 떨어질까",
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.9
-        },
-        {
-          "title": "'국채 금리 격차' 중국은 1%대, 미국은 5%대…중국 기업의 '뜻밖의 무기'",
-          "link": "https://www.hankyung.com/article/202609033212i",
-          "summary": "",
-          "publishedAt": "2026-09-04T22:00:02.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.9
+          "score": 6.8
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 177,
+      "poolSize": 181,
       "items": [
         {
           "title": "어린이 눈높이로 풀어낸 〈아함경〉",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 5.2
+          "score": 5
         },
         {
           "title": "주경스님, 육군훈련소 2천여 훈련장병 수계",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4.2
         },
         {
           "title": "9. 선불교적 돌봄 위한 교법사의 역할",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.5
         },
         {
           "title": "[법인 스님의 문자 반야] 55. 육결일해(六結一解)",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.5
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 17. 자신을 지키지 못함 참회의 주의 사항",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.6
+          "score": 3.5
         }
       ]
     },
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.2
+          "score": 5.1
         },
         {
           "title": "Sir Anthony Kenny obituary",
@@ -238,7 +238,7 @@
             "philosophy",
             "art"
           ],
-          "score": 3.3
+          "score": 3.1
         }
       ]
     },
@@ -253,8 +253,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 202,
+      "poolSize": 197,
       "items": [
+        {
+          "title": "‘너는 네 삶을 바꿔야 한다’, 덜어내기 택한 광주비엔날레…정치적 논란 속 개막",
+          "link": "https://www.khan.co.kr/article/202609061552001/",
+          "summary": "22개국 43팀 참여, 11월15일까지 저항과 트라우마 넘어 ‘일상의 실천’ 조명규모 줄이고 한곳에 모아, 작품·작가에 집중대만관 논란은 과제로지난 5일 개막한 제16회 광주비엔날레 ‘너는 네 삶을 바꿔야 한다’ 1전시실에 골딘+세네비의 ‘송진 연못’ 곁에 진 바스의 조각이 놓여 있다. 배문규 기자전시장 바닥에 황금빛 웅덩이가 번들거린다. 골딘+세네비가 ·…",
+          "publishedAt": "2026-09-06T06:52:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.5
+        },
         {
           "title": "젊은 작가 키우던 금호미술관 38년 만에 문 닫는다",
           "link": "https://www.khan.co.kr/article/202609061001001/",
@@ -266,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "부산비엔날레 전시장서 류성실 작품 손상…비엔날레 측 사과",
@@ -279,20 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.1
-        },
-        {
-          "title": "시민 쇠붙이가 악기로 오월 아픔은 그림으로…광주비엔날레 개막",
-          "link": "https://www.yna.co.kr/view/AKR20260904038400005",
-          "summary": "(전남광주=연합뉴스) 박의래 기자 = 전시장 바닥에 다양한 형태의 제주 화산암들이 놓였다. 한순간의 분출과 냉각으로 형태를 얻은 뒤 수천 년의 ...",
-          "publishedAt": "2026-09-04T09:20:41.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/04/PYH2026090411490005400_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 5.1
+          "score": 7
         },
         {
           "title": "광주비엔날레 대표 “대만관 논란·중국관 철수 송구…파빌리온 제도 개선”",
@@ -305,20 +305,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5.1
+          "score": 5
         },
         {
-          "title": "60억 ‘빅딜’은 없었지만···‘키아프리즈’서 확인된 미술시장 ‘두꺼워진 허리’",
-          "link": "https://www.khan.co.kr/article/202609031548011/",
-          "summary": "지난 2일 서울 강남구 삼성동 코엑스에서 개막한 ‘키아프·프리즈 2026’을 찾은 관람객들이 갤러리들이 선보이는 작품을 둘러보고 있다. 이준헌 기자3일 오전 서울 강남구 코엑스에는 개장 전부터 ‘키아프리즈(키아프+프리즈)’를 찾은 관람객들의 발길이 이어졌다. 전날 VIP 프리뷰로 막을 올린 국내 최대 아트페어 키아프 서울과 세계적인 아트페어 프리즈 서울은…",
-          "publishedAt": "2026-09-03T06:48:01.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "흥보가부터 성매매업소 참사 전시까지…전북 문화행사 다양",
+          "link": "https://www.yna.co.kr/view/AKR20260906033300055",
+          "summary": "(전주=연합뉴스) 나보배 기자 = 이달 전북 곳곳에서 판소리 공연과 태권소리극, 역사적 현장을 조명하는 전시 등 다양한 문화행사가 열린다.",
+          "publishedAt": "2026-09-06T06:40:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/06/AKR20260906033300055_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.6
+          "score": 4.4
         }
       ]
     }
