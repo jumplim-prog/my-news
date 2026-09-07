@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-07T03:07:15.784Z",
+  "builtAt": "2026-09-07T09:07:29.077Z",
   "cards": [
     {
       "id": "econ",
@@ -15,43 +15,43 @@
       "poolSize": 340,
       "items": [
         {
-          "title": "[속보] 원/달러 환율 1,330원대로 하락…1년 11개월만",
-          "link": "https://www.yna.co.kr/view/AKR20260907041500002",
+          "title": "환율 1200원대 가나…1년 11개월 만에 장중 1330원대 터치",
+          "link": "https://www.khan.co.kr/article/202609071645001/",
+          "summary": "7일 서울 중구 하나은행 본점 딜링룸에서 직원들이 증시와 환율을 모니터하고 있다. 연합뉴스원·달러 환율이 7일 1년 11개월 만에 장중 1330원대까지 하락했다. 두 달 만에 200원 넘게 하락한 것이다. 미국 고용 지표가 시장 예상을 웃돌면서 미국 기준금리 인상 가능성이 다시 부각됐음에도 원화 강세 흐름은 이어졌다. 시장에서는 조만간 1300원선까지 내려…",
+          "publishedAt": "2026-09-07T07:45:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "장기금리의 역습을 맞은 자산배분",
+          "link": "https://www.hankyung.com/article/202609078122i",
+          "summary": "",
+          "publishedAt": "2026-09-07T06:57:56.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "[외환] 원/달러 환율 9.9원 내린 1,340.5원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20260907118200002",
           "summary": "(",
-          "publishedAt": "2026-09-07T00:31:33.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/07/PYH2026090703500001300_P2.jpg",
+          "publishedAt": "2026-09-07T06:30:46.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/07/AKR20260907118200002_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
           "score": 7.4
-        },
-        {
-          "title": "1300원대 유지중인 원달러 환율",
-          "link": "https://www.mk.co.kr/news/economy/12145457",
-          "summary": "6일 서울 중구 명동의 한 환전소에 환율이 표시돼 있다. 지난 4일 오후 3시 30분 기준 원/달러 환율은 1,350.4원으로 집계됐다. 이는 지난 6월 말 주간거래 종가(1,54..",
-          "publishedAt": "2026-09-06T08:10:29.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/06/news-p.v1.20260906.1b65aa34215f4af99ec14dc2ca07a71d_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.1
-        },
-        {
-          "title": "“달러·엔 나중에 쓰면 되니까, 쌀 때 일단 사둬”…환율 급락에 외화예금 역대 최대",
-          "link": "https://www.mk.co.kr/news/economy/12145235",
-          "summary": "원달러 환율 23개월 만에 최저 수출기업들 달러매도 늦추고 수입기업 적극적으로 분할 매입원·달러 환율이 1345원까지 떨어져 23개월 만에 최저 수준을 기록하면서 기업을 중심으로 ..",
-          "publishedAt": "2026-09-06T01:31:07.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/06/rcv.YNA.20260904.PYH2026090413120001300_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7
         },
         {
           "title": "국내 경제 유동성 크게 늘 듯…성장 기대 속 물가·금리 오를 우려",
@@ -67,13 +67,13 @@
           "score": 6.5
         },
         {
-          "title": "美 '엔저 시정 압박' 통했나…달러당 150엔대 초반 전망도",
-          "link": "https://www.yna.co.kr/view/AKR20260907072600073",
-          "summary": "(도쿄=연합뉴스) 조성미 특파원 = 달러당 164엔대까지 치솟았던 엔/달러 환율이 안정세를 되찾으면서 150엔대 초반까지 떨어질 수 있다는 전망...",
-          "publishedAt": "2026-09-07T02:23:35.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2022/06/10/37/PCM20220610000037990_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "“수출 그대로인데 실적 확 깎인다고?”…환율 급락이 만든 삼전 ‘5조원 충격’",
+          "link": "https://www.mk.co.kr/news/economy/12146298",
+          "summary": "3분기 들어 원달러 환율 200원 하락 車·반도체·조선 ‘환율 버팀목’ 사라져 4분기 1370~1400원 전망, 부담 지속자동차와 반도체, 조선 등 국내 대표 수출기업의 실적을 떠..",
+          "publishedAt": "2026-09-07T08:22:48.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/07/rcv.NEWS1.NEWS1.20260907.2026-09-07T155450_1008092731_FINANCE-STOCK_I_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
@@ -92,33 +92,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 185,
+      "poolSize": 191,
       "items": [
         {
-          "title": "울산 석남사, 시민 선 수행·문화공간 '반야원' 준공",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4104961",
-          "summary": "일반 시민들이 스님들의 선 수행과 다양한 문화예술을 체험하고 즐길 수 있는 수행문화공간이 울산의 한 사찰에 들어섰습니다. 천년고찰이자 전국 최대 비구니 수행도량인 울산 석남사는 지난 6일 경내에서 '수행문화공간(명상관) 반야원' 준공식을 개최했습니다. '지혜의 정원'이라는 뜻의 반야원은 건축면적 370여㎡의 지상 2층 규모로, 1층은 지역 문화예술인들의 전…",
-          "publishedAt": "2026-09-07T11:24:29.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.7
-        },
-        {
-          "title": "어린이 눈높이로 풀어낸 〈아함경〉",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505136",
-          "summary": "불교 초기 경전인 〈아함경〉은 석가모니 부처님 입멸 후 제자들이 ‘나는 이와 같이 들었다(如是我聞)’며 기억을 되살려 정리한 최초의 경전이다. 인간의 삶과 고뇌, 깨달음에 대한 깊은 통찰은 물론, 사성제(四聖諦)와 팔정도(八正道), 연기법(緣起法) 등 불교의 핵심 교리를 담아 불교 공부의 입문이자 완성으로 꼽힌다. 부처님의 깊은 가르침이 담긴 〈아함경〉을…",
-          "publishedAt": "2026-09-04T10:28:53.000Z",
+          "title": "반야불교문화硏, 한국불교의 참모습 묻다",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505176",
+          "summary": "(사)반야불교문화연구원(원장 지안 대종사)이 오는 10월 10일부터 11월 14일까지 통도사 반야암 설법전에서 '2026년 가을철 산사인문학 강좌'를 개최한다.강좌 주제는 '한국불교의 표정들-한국불교의 특징에 관한 담론들'이다. 종교로서 불교가 가진 세계적 보편성과 한국적 특수성의 관계를 조명하고, '무엇이 한국불교를 한국불교답게 만들어 왔는가'라는 근원적…",
+          "publishedAt": "2026-09-07T14:48:28.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.6
         },
         {
           "title": "‘불교 연기법’으로 풀어낸 조선 정조의 삶",
@@ -131,7 +118,33 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.5
+        },
+        {
+          "title": "울산 석남사, 대중 위한 수행·예술 공간 ‘반야원’ 준공",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505171",
+          "summary": "천년의 세월 동안 비구니 선 수행의 맥을 이어온 울산 석남사가 부처님의 지혜와 예술의 향기를 일반 대중과 나누는 새로운 공간의 문을 열었다.울산 석남사(주지 천조 스님)는 9월 6일 반야원 준공식을 봉행하고, 누구나 일상에서 벗어나 자신의 마음을 돌아보며 수행과 명상, 문화예술을 향유할 수 있는 열린 수행공간의 출발을 알렸다.준공식에는 석남사 선원장 도문…",
+          "publishedAt": "2026-09-07T08:09:31.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "어린이 눈높이로 풀어낸 〈아함경〉",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505136",
+          "summary": "불교 초기 경전인 〈아함경〉은 석가모니 부처님 입멸 후 제자들이 ‘나는 이와 같이 들었다(如是我聞)’며 기억을 되살려 정리한 최초의 경전이다. 인간의 삶과 고뇌, 깨달음에 대한 깊은 통찰은 물론, 사성제(四聖諦)와 팔정도(八正道), 연기법(緣起法) 등 불교의 핵심 교리를 담아 불교 공부의 입문이자 완성으로 꼽힌다. 부처님의 깊은 가르침이 담긴 〈아함경〉을…",
+          "publishedAt": "2026-09-04T10:28:53.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
         },
         {
           "title": "울산 가지산 석남사, 반야원 준공식 봉행",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
-        },
-        {
-          "title": "9. 선불교적 돌봄 위한 교법사의 역할",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337583",
-          "summary": "데이비슨대학에서 첫해를 보내던 어느 날, 한 학생이 사무실에 들어와 채플린(교법사)을 찾았습니다. 저는 그에게 “안녕하세요. 저는 이반이고, 이곳의 불교 교법사입니다. 제가 어떻게 함께해 드릴까요?”라고 말했습니다.학생은 저에게 “다른 교법사를 만날 수 있나요?”라고 물었습니다. 그는 기독교 교법사를 찾았습니다.그렇다면 불교 교법사는 기독교나 이슬람 교법사…",
-          "publishedAt": "2026-09-04T10:37:52.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.2
+          "score": 4.2
         }
       ]
     },
@@ -174,6 +174,19 @@
       "scoredBy": "keyword",
       "poolSize": 151,
       "items": [
+        {
+          "title": "계명대 목요철학원 '인간의 가치와 삶의 의미' 포럼, 9월 10일~12월 10일 개최",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=209908",
+          "summary": "올해로 46주년을 맞이한 계명대의 '목요철학 인문포럼'이 2026년 하반기 강연을 준비하고 있다. 1980년 10월 8일 '목요철학 세미나'로 시작된 이 포럼은 2025년 11월 제900회 특집을 성공적으로 마치는 등 대구 지역을 대표하는 시민 인문학 플랫폼으로 자리매김해왔다. 이번 하반기 포럼은 '인간의 가치와 삶의 의미를 다시 묻다'라는 주제로 진행된다…",
+          "publishedAt": "2026-09-07T17:19:35.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 6.2
+        },
         {
           "title": "Adversarial Collaboration in Philosophy (guest post)",
           "link": "https://dailynous.com/2026/09/02/adversarial-collaboration-in-philosophy-guest-post/",
@@ -198,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.7
+          "score": 4.6
         },
         {
           "title": "Sir Anthony Kenny obituary",
@@ -225,19 +238,6 @@
             "philosophy"
           ],
           "score": 4.5
-        },
-        {
-          "title": "Bhandary from Iowa to Stony Brook",
-          "link": "https://dailynous.com/2026/08/31/bhandary-from-iowa-to-stony-brook/",
-          "summary": "Asha Leena Bhandary, recently professor of philosophy at University of Iowa, has moved to Stony Brook University. Professor Bhandary works in social and political philosophy, ethics, feminist theory,…",
-          "publishedAt": "2026-08-31T12:58:41.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/08/bhandary.jpg",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3
         }
       ]
     },
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
           "title": "‘너는 네 삶을 바꿔야 한다’, 덜어내기 택한 광주비엔날레…정치적 논란 속 개막",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.1
+          "score": 7
         },
         {
           "title": "젊은 작가 키우던 금호미술관 38년 만에 문 닫는다",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7
+          "score": 6.8
         },
         {
           "title": "사물과 시간, 삶과 실천…변화를 꿈꾸다",
@@ -304,20 +304,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5.7
+          "score": 5.5
         },
         {
-          "title": "광주비엔날레 대표 “대만관 논란·중국관 철수 송구…파빌리온 제도 개선”",
-          "link": "https://www.khan.co.kr/article/202609041727011/",
-          "summary": "4일 오전 전남광주 북구 용봉동 광주비엔날레전시관 거시기홀에서 열린 제16회 광주비엔날레 개막식 기자간담회에서 윤범모 대표이사가 ‘대만관 설치 논란’과 관련한 취재진 질의에 답변하고 있다. 연합뉴스윤범모 광주비엔날레 대표이사가 광주비엔날레 대만관 명칭 논란 끝에 중국관이 철수한 데 대해 유감을 표하고, 국가관과 기관관을 구분해 온 파빌리온 운영 제도를 개·…",
-          "publishedAt": "2026-09-04T08:27:01.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "제4회 최인호청년문화상에 정세랑 작가",
+          "link": "https://www.yna.co.kr/view/AKR20260907147900005",
+          "summary": "(서울=연합뉴스) 강종훈 기자 = 제4회 최인호청년문화상 수상자로 정세랑 작가가 선정됐다고 최인호청년문화상 운영위원회가 7일 밝혔다.",
+          "publishedAt": "2026-09-07T09:00:03.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/07/AKR20260907147900005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.6
+          "score": 4.5
         }
       ]
     }
