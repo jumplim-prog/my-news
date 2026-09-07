@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-06T21:06:01.801Z",
+  "builtAt": "2026-09-07T03:07:15.784Z",
   "cards": [
     {
       "id": "econ",
@@ -12,14 +12,14 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 313,
+      "poolSize": 340,
       "items": [
         {
-          "title": "트럼프 \"美-캐나다 달러 불균형\"…관세 이어 환율 건드리나",
-          "link": "https://www.yna.co.kr/view/AKR20260907001200071",
-          "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령이 미-캐나다 달러 환율을 문제 삼으면서 양국 간 '관세 전쟁'의 확전 가능성이 ...",
-          "publishedAt": "2026-09-06T16:38:33.000Z",
-          "image": "https://img.yna.co.kr/photo/etc/gt/2026/08/17/PGT20260817120401009_P2.jpg",
+          "title": "[속보] 원/달러 환율 1,330원대로 하락…1년 11개월만",
+          "link": "https://www.yna.co.kr/view/AKR20260907041500002",
+          "summary": "(",
+          "publishedAt": "2026-09-07T00:31:33.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/07/PYH2026090703500001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.1
         },
         {
           "title": "“달러·엔 나중에 쓰면 되니까, 쌀 때 일단 사둬”…환율 급락에 외화예금 역대 최대",
@@ -51,33 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 7
         },
         {
-          "title": "[머니톡스] 미 국채금리의 경고…'안전지대는 없다'",
-          "link": "https://www.yna.co.kr/view/AKR20260904059600546",
-          "summary": "(서울=연합뉴스) 윤선희 선임기자 = ＃ 유동성 잔치는 공짜가 아니었다. 지난 달 말 케빈 워시 연준 의장이 잭슨홀 연설에서 매파적(통화 긴축 ...",
-          "publishedAt": "2026-09-05T22:22:02.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/04/AKR20260904059600546_01_i_P2.jpg",
+          "title": "국내 경제 유동성 크게 늘 듯…성장 기대 속 물가·금리 오를 우려",
+          "link": "https://www.hani.co.kr/arti/economy/economy_general/1276468.html",
+          "summary": "",
+          "publishedAt": null,
+          "image": "",
+          "sourceName": "한겨레",
+          "sourceId": "hani-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6.5
+        },
+        {
+          "title": "美 '엔저 시정 압박' 통했나…달러당 150엔대 초반 전망도",
+          "link": "https://www.yna.co.kr/view/AKR20260907072600073",
+          "summary": "(도쿄=연합뉴스) 조성미 특파원 = 달러당 164엔대까지 치솟았던 엔/달러 환율이 안정세를 되찾으면서 150엔대 초반까지 떨어질 수 있다는 전망...",
+          "publishedAt": "2026-09-07T02:23:35.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2022/06/10/37/PCM20220610000037990_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7
-        },
-        {
-          "title": "23개월 만에 최저 환율에…기업 달러예금 역대 최대",
-          "link": "https://www.yna.co.kr/view/AKR20260905048200002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율이 1,345원으로 23개월 만에 최저 수준으로 내려가자 기업 달러 예금이 역대 최대 규모로 확대...",
-          "publishedAt": "2026-09-05T20:53:01.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/06/PYH2026090603830001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7
+          "score": 6
         }
       ]
     },
@@ -92,8 +92,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 167,
+      "poolSize": 185,
       "items": [
+        {
+          "title": "울산 석남사, 시민 선 수행·문화공간 '반야원' 준공",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4104961",
+          "summary": "일반 시민들이 스님들의 선 수행과 다양한 문화예술을 체험하고 즐길 수 있는 수행문화공간이 울산의 한 사찰에 들어섰습니다. 천년고찰이자 전국 최대 비구니 수행도량인 울산 석남사는 지난 6일 경내에서 '수행문화공간(명상관) 반야원' 준공식을 개최했습니다. '지혜의 정원'이라는 뜻의 반야원은 건축면적 370여㎡의 지상 2층 규모로, 1층은 지역 문화예술인들의 전…",
+          "publishedAt": "2026-09-07T11:24:29.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
+        },
         {
           "title": "어린이 눈높이로 풀어낸 〈아함경〉",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505136",
@@ -105,7 +118,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.8
+          "score": 4.7
+        },
+        {
+          "title": "‘불교 연기법’으로 풀어낸 조선 정조의 삶",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=441992",
+          "summary": "로 삼성문학상을 수상했으며 일타스님, 성철스님, 법정스님 등 우리 시대 선지식을 조명한 백금남 소설가가 이번에는 조선시대 아픈 역사를 간직한 영조와 사도세자, 정조로 이어지는 3대의 이야기인 1·2를 출간했다.이 소설은 조선시대 사도세자가 남긴 지팡이의 본목(本木)을 찾아 나선 정조의 여정을 통해 풍수라는 거대한 세계를 새롭게 해석한 역사 픽션이다. 저자는…",
+          "publishedAt": "2026-09-07T09:04:44.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.6
         },
         {
           "title": "울산 가지산 석남사, 반야원 준공식 봉행",
@@ -118,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "9. 선불교적 돌봄 위한 교법사의 역할",
@@ -131,33 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.3
-        },
-        {
-          "title": "[법인 스님의 문자 반야] 55. 육결일해(六結一解)",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505135",
-          "summary": "〈능엄경(楞嚴經)〉 제5권에는 마음의 번뇌와 해탈의 원리를 일깨우는 명쾌한 비유가 나온다. 부처님께서 시자 아난 앞에 부드러운 비단 수건 한 장을 펼쳐 보이셨다. 그리고 아난이 지켜보는 가운데 수건의 한쪽을 잡아 첫 번째 매듭을 묶고, 이어 차례로 여섯 번째 매듭까지 묶으셨다.부처님께서 물으셨다. “이 매듭들을 한꺼번에 풀 수 있겠느냐?”아난은 고개를 저으…",
-          "publishedAt": "2026-09-04T10:23:18.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.3
-        },
-        {
-          "title": "[반야 참회로 여는 수행의 첫걸음] 17. 자신을 지키지 못함 참회의 주의 사항",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505134",
-          "summary": "주의 사항‘자신을 지키지 못함’ 참회와 다른 항목의 참회를 혼동하지 않도록 매우 주의해야 한다. 즉 자신이 남에게 피해를 끼친 경우와, 반대로 자신이 남에게 피해를 당한 경우를 구분할 수 있어야 한다는 말이다.예를 들어, 자기가 탐진을 일으켜 남에게 피해를 끼쳤는데도 자신을 지키기 위한 정당한 행동이었다고 생각해 참회를 하지 않으면, 자신의 탐욕이나 분노를…",
-          "publishedAt": "2026-09-04T10:17:03.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.3
+          "score": 3.2
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 152,
+      "poolSize": 151,
       "items": [
         {
           "title": "Adversarial Collaboration in Philosophy (guest post)",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.9
+          "score": 4.7
         },
         {
           "title": "Sir Anthony Kenny obituary",
@@ -252,8 +252,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 177,
+      "poolSize": 176,
       "items": [
+        {
+          "title": "광주비엔날레 연계 '양림 마을투어'…전시·연극 행사",
+          "link": "https://www.yna.co.kr/view/AKR20260907078600054",
+          "summary": "(전남광주=연합뉴스) 박철홍 기자 = 전남광주통합특별시는 광주비엔날레와 남구 양림동의 근대 역사·문화 자원을 연계한 '양림권역 마을투어'를 운영...",
+          "publishedAt": "2026-09-07T02:37:17.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/07/AKR20260907078600054_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.5
+        },
         {
           "title": "‘너는 네 삶을 바꿔야 한다’, 덜어내기 택한 광주비엔날레…정치적 논란 속 개막",
           "link": "https://www.khan.co.kr/article/202609061552001/",
@@ -265,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.2
+          "score": 7.1
         },
         {
           "title": "젊은 작가 키우던 금호미술관 38년 만에 문 닫는다",
@@ -278,20 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.1
-        },
-        {
-          "title": "부산비엔날레 전시장서 류성실 작품 손상…비엔날레 측 사과",
-          "link": "https://www.yna.co.kr/view/AKR20260905041700005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 부산비엔날레에서 선보이고 있는 류성실 작가의 설치·사운드 작업 '만 가지 꿈'이 사고로 손상되는 일이 벌어졌다...",
-          "publishedAt": "2026-09-05T08:12:56.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/05/AKR20260905041700005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 6.7
+          "score": 7
         },
         {
           "title": "사물과 시간, 삶과 실천…변화를 꿈꾸다",
@@ -304,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
+          "score": 5.7
         },
         {
           "title": "광주비엔날레 대표 “대만관 논란·중국관 철수 송구…파빌리온 제도 개선”",
@@ -317,7 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.7
+          "score": 4.6
         }
       ]
     }
