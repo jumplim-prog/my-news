@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-07T09:07:29.077Z",
+  "builtAt": "2026-09-07T21:06:52.744Z",
   "cards": [
     {
       "id": "econ",
@@ -12,33 +12,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 340,
+      "poolSize": 339,
       "items": [
         {
-          "title": "환율 1200원대 가나…1년 11개월 만에 장중 1330원대 터치",
-          "link": "https://www.khan.co.kr/article/202609071645001/",
-          "summary": "7일 서울 중구 하나은행 본점 딜링룸에서 직원들이 증시와 환율을 모니터하고 있다. 연합뉴스원·달러 환율이 7일 1년 11개월 만에 장중 1330원대까지 하락했다. 두 달 만에 200원 넘게 하락한 것이다. 미국 고용 지표가 시장 예상을 웃돌면서 미국 기준금리 인상 가능성이 다시 부각됐음에도 원화 강세 흐름은 이어졌다. 시장에서는 조만간 1300원선까지 내려…",
-          "publishedAt": "2026-09-07T07:45:00.000Z",
+          "title": "원·달러 환율, 1년11개월 만에 장중 1330원대 ‘터치’",
+          "link": "https://www.khan.co.kr/article/202609072034025/",
+          "summary": "두 달 만에 200원 넘게 하락…외국인 2조원대 주식 매수세 영향미 금리 인상 가능성에도 원화 강세…이번주 미 물가지수 ‘변수’코스피 4% 넘게 급등 코스피가 4% 넘게 급등한 7일 서울 중구 하나은행 딜링룸 현황판에 코스피와 코스닥, 환율이 표시돼 있다. 이날 코스피는 하룻동안 전 거래일 대비 300포인트 이상 상승했다. 연합뉴스원·달러 환율이 7일 1·…",
+          "publishedAt": "2026-09-07T11:34:02.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
-        },
-        {
-          "title": "장기금리의 역습을 맞은 자산배분",
-          "link": "https://www.hankyung.com/article/202609078122i",
-          "summary": "",
-          "publishedAt": "2026-09-07T06:57:56.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "[외환] 원/달러 환율 9.9원 내린 1,340.5원(15:30 기준가)",
@@ -51,20 +38,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
-          "title": "국내 경제 유동성 크게 늘 듯…성장 기대 속 물가·금리 오를 우려",
-          "link": "https://www.hani.co.kr/arti/economy/economy_general/1276468.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레",
-          "sourceId": "hani-economy",
+          "title": "美 '엔저 시정 압박' 통했나…6개월만에 달러당 154엔대로 하락(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20260907072651073",
+          "summary": "(도쿄=연합뉴스) 조성미 이도연 특파원 = 달러당 164엔대까지 치솟았던 엔/달러 환율이 안정세를 되찾으면서 150엔대 초반까지 떨어질 수 있다...",
+          "publishedAt": "2026-09-07T12:17:45.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2022/06/10/37/PCM20220610000037990_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6.5
+          "score": 5.8
         },
         {
           "title": "“수출 그대로인데 실적 확 깎인다고?”…환율 급락이 만든 삼전 ‘5조원 충격’",
@@ -77,7 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 6
+          "score": 5.7
+        },
+        {
+          "title": "약 2년만에 환율 1,330원대…국민연금 환헤지 중단에 낙폭 반납",
+          "link": "https://www.yna.co.kr/view/AKR20260907123600002",
+          "summary": "(세종·서울=연합뉴스) 김수현 이도흔 기자 = 원/달러 환율은 7일 수출 업체의 달러화 매도(네고) 물량 영향으로 약 2년 만에 1,330원대까...",
+          "publishedAt": "2026-09-07T07:00:26.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/07/PYH2026090703410001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.7
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 191,
+      "poolSize": 145,
       "items": [
         {
           "title": "반야불교문화硏, 한국불교의 참모습 묻다",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.4
         },
         {
           "title": "‘불교 연기법’으로 풀어낸 조선 정조의 삶",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "울산 석남사, 대중 위한 수행·예술 공간 ‘반야원’ 준공",
@@ -131,20 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
-        },
-        {
-          "title": "어린이 눈높이로 풀어낸 〈아함경〉",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505136",
-          "summary": "불교 초기 경전인 〈아함경〉은 석가모니 부처님 입멸 후 제자들이 ‘나는 이와 같이 들었다(如是我聞)’며 기억을 되살려 정리한 최초의 경전이다. 인간의 삶과 고뇌, 깨달음에 대한 깊은 통찰은 물론, 사성제(四聖諦)와 팔정도(八正道), 연기법(緣起法) 등 불교의 핵심 교리를 담아 불교 공부의 입문이자 완성으로 꼽힌다. 부처님의 깊은 가르침이 담긴 〈아함경〉을…",
-          "publishedAt": "2026-09-04T10:28:53.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "울산 가지산 석남사, 반야원 준공식 봉행",
@@ -157,7 +144,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 3.9
+        },
+        {
+          "title": "대불청 전북지구, 소통·화합으로 전법 의지 다져",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337657",
+          "summary": "대한불교청년회 전북지구 청년불자들이 한자리에 모여 소통과 화합을 다지고 청년불교 활성화와 전법 실천에 앞장설 것을 다짐했다.대한불교청년회 전북지구(회장 장석희)는 9월 5일 동국대 부설 금산중·고 체육관에서 ‘대불청 전북지구 단합 체육대회’를 개최했다. 행사는 1부 의례와 2부 체육대회로 진행됐다. 1부에서는 삼귀의와 우리말 반야심경 봉독, 대불청 헌장 전…",
+          "publishedAt": "2026-09-07T17:44:31.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 2.9
         }
       ]
     },
@@ -175,19 +175,6 @@
       "poolSize": 151,
       "items": [
         {
-          "title": "계명대 목요철학원 '인간의 가치와 삶의 의미' 포럼, 9월 10일~12월 10일 개최",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=209908",
-          "summary": "올해로 46주년을 맞이한 계명대의 '목요철학 인문포럼'이 2026년 하반기 강연을 준비하고 있다. 1980년 10월 8일 '목요철학 세미나'로 시작된 이 포럼은 2025년 11월 제900회 특집을 성공적으로 마치는 등 대구 지역을 대표하는 시민 인문학 플랫폼으로 자리매김해왔다. 이번 하반기 포럼은 '인간의 가치와 삶의 의미를 다시 묻다'라는 주제로 진행된다…",
-          "publishedAt": "2026-09-07T17:19:35.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 6.2
-        },
-        {
           "title": "Adversarial Collaboration in Philosophy (guest post)",
           "link": "https://dailynous.com/2026/09/02/adversarial-collaboration-in-philosophy-guest-post/",
           "summary": "“Philosophical work would be better with adversaries collaborating to keep each other honest.” Why is that? What would it look like? In the following guest post, members of the Mind and Morality Lab a…",
@@ -201,6 +188,19 @@
           "score": 6
         },
         {
+          "title": "계명대 목요철학원 '인간의 가치와 삶의 의미' 포럼, 9월 10일~12월 10일 개최",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=209908",
+          "summary": "올해로 46주년을 맞이한 계명대의 '목요철학 인문포럼'이 2026년 하반기 강연을 준비하고 있다. 1980년 10월 8일 '목요철학 세미나'로 시작된 이 포럼은 2025년 11월 제900회 특집을 성공적으로 마치는 등 대구 지역을 대표하는 시민 인문학 플랫폼으로 자리매김해왔다. 이번 하반기 포럼은 '인간의 가치와 삶의 의미를 다시 묻다'라는 주제로 진행된다…",
+          "publishedAt": "2026-09-07T17:19:35.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 5.9
+        },
+        {
           "title": "Free to Be Experimental Philosophy",
           "link": "https://dailynous.com/2026/09/04/free-to-be-experimental-philosophy/",
           "summary": "“But is this actually philosophy?” Ethan Landes (Eindhoven University of Technology) is tired of experimental philosophers being asked The Question. And he’s tired of experimental philosophers “appeas…",
@@ -211,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.6
+          "score": 4.5
         },
         {
           "title": "Sir Anthony Kenny obituary",
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 176,
+      "poolSize": 182,
       "items": [
         {
           "title": "광주비엔날레 연계 '양림 마을투어'…전시·연극 행사",
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "‘너는 네 삶을 바꿔야 한다’, 덜어내기 택한 광주비엔날레…정치적 논란 속 개막",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7
+          "score": 6.7
         },
         {
           "title": "젊은 작가 키우던 금호미술관 38년 만에 문 닫는다",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.8
+          "score": 6.6
         },
         {
           "title": "사물과 시간, 삶과 실천…변화를 꿈꾸다",
@@ -304,20 +304,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5.5
+          "score": 5.3
         },
         {
-          "title": "제4회 최인호청년문화상에 정세랑 작가",
-          "link": "https://www.yna.co.kr/view/AKR20260907147900005",
-          "summary": "(서울=연합뉴스) 강종훈 기자 = 제4회 최인호청년문화상 수상자로 정세랑 작가가 선정됐다고 최인호청년문화상 운영위원회가 7일 밝혔다.",
-          "publishedAt": "2026-09-07T09:00:03.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/07/AKR20260907147900005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "“세잔의 그림 보고 ‘관통당한 느낌’…예술이 준 구원 경험”",
+          "link": "https://www.khan.co.kr/article/202609072024015/",
+          "summary": "에세이집 ‘절룩거리며 찾아 나선 정화의 순간들’ 낸 배우 김신록에세이집 <절룩거리며 찾아 나선 정화의 순간들>을 펴낸 배우 김신록은 “연기라는 일, 배우라는 정체성을 넓은 의미로 탐색 중”이라고 말했다. ⓒ이승희공연·전시회 등 ‘내돈내산’ 관람 ‘영혼이 저조한 날’ 예술 만나러 가 “어떤 작은 조각이 좋았으면 충분” “배우 매력은 삶을 연습한다···",
+          "publishedAt": "2026-09-07T11:24:01.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.3
         }
       ]
     }
