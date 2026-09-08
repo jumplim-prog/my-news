@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-08T09:07:06.130Z",
+  "builtAt": "2026-09-08T21:06:10.387Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 337,
+      "poolSize": 336,
       "items": [
+        {
+          "title": "'긴축의 무게' 금리 0.5%p 오르면 가계 이자 연 6.5조원↑",
+          "link": "https://www.yna.co.kr/view/AKR20260908155700002",
+          "summary": "(서울=연합뉴스) 한지훈 기자 = 한국은행이 두 달 연속 기준금리를 인상한 가운데 최근 금리 상승 폭을 단순 적용할 경우 가계의 연간 대출 이자...",
+          "publishedAt": "2026-09-08T20:45:01.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/08/PYH2026090814470001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "[외환] 원/달러 환율 5.1원 오른 1,345.6원(15:30 기준가)",
           "link": "https://www.yna.co.kr/view/AKR20260908124200002",
@@ -25,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "엔/달러 환율 장중 152엔대까지 하락…엔화가치 7개월 만에 최고",
@@ -38,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "\"주식·채권 '6대4' 자산배분 제역할 못해…가상자산 배분 제안\"",
@@ -51,33 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
-          "title": "엔화 강세에도 유가 상승 등에 환율 상승…1,345.6원",
-          "link": "https://www.yna.co.kr/view/AKR20260908128900002",
-          "summary": "(세종=연합뉴스) 김수현 기자 = 엔화가 강세를 보였지만 국제유가가 뛰고 수입 업체의 달러 매수세가 뒷받침되면서 원/달러 환율은 8일 상승 압력...",
-          "publishedAt": "2026-09-08T06:56:07.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/08/PYH2026090818910001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "‘3만달러 돌파’ 12년 만에…1인당 GNI 4만달러 ‘확실’",
+          "link": "https://www.khan.co.kr/article/202609082120005/",
+          "summary": "인구 5000만 국가 중 6번째 달성2분기 명목 GDP 26.4% 증가 ‘견인’한국 GNI 4만달러 ‘확실’반도체 호황에 따른 국내총생산(GDP) 증가에 힘입어 올해 1인당 국민총소득(GNI) 4만달러 돌파가 확실시되고 있다. 2분기 명목 GDP는 1년 전보다 26.4% 증가해 47년 만에 최고 수준을 기록했다.한국은행이 8일 발표한 ‘2분기 국민소득(잠정…",
+          "publishedAt": "2026-09-08T12:20:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6
-        },
-        {
-          "title": "2분기 명목 GDP 성장률 47년 만에 최고…\"1인당 4만 달러 가능성\"",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742350",
-          "summary": "올해 2분기 한국 경제는 수출과 민간 소비가 함께 늘면서 견조한 성장세를 지속했습니다.한국은행은 2분기 실질 국내총생산 성장률이 0.6%로 집계…",
-          "publishedAt": "2026-09-08T02:43:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260821/202214594_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.9
+          "score": 5.8
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 190,
+      "poolSize": 191,
       "items": [
         {
           "title": "용인 반야선원도 '만공On'...\"방송포교 응원합니다\"",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 6.2
+          "score": 5.9
         },
         {
           "title": "호국연무사 수계법회 봉행...장병 2000여 명에 오계 전해",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.4
         },
         {
           "title": "반야불교문화硏, 한국불교의 참모습 묻다",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.1
+          "score": 3.9
         },
         {
           "title": "‘불교 연기법’으로 풀어낸 조선 정조의 삶",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.7
         },
         {
           "title": "울산 석남사, 대중 위한 수행·예술 공간 ‘반야원’ 준공",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.7
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 151,
+      "poolSize": 152,
       "items": [
         {
           "title": "Adversarial Collaboration in Philosophy (guest post)",
@@ -227,17 +227,18 @@
           "score": 4.5
         },
         {
-          "title": "Online Philosophy Resources Weekly Update",
-          "link": "https://dailynous.com/2026/09/07/online-philosophy-resources-weekly-update-439/",
-          "summary": "This is the weekly report on new and revised entries at online philosophy resources, new reviews of philosophy books, new podcast episodes, recently published open access philosophy books, and more. (…",
-          "publishedAt": "2026-09-07T13:28:27.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2023/01/weekly-update-logo-2023.png",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
+          "title": "On the Life and Philosophy of Henri Bergson",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/on-the-life-and-philosophy-of-henri-bergson.html",
+          "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
+          "publishedAt": "2026-09-08T14:45:50.000Z",
+          "image": "",
+          "sourceName": "3 Quarks Daily",
+          "sourceId": "3quarks",
           "candidates": [
-            "philosophy"
+            "philosophy",
+            "art"
           ],
-          "score": 4.1
+          "score": 4.4
         }
       ]
     },
@@ -252,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 190,
+      "poolSize": 203,
       "items": [
         {
           "title": "울산 지역작가들, 세계유산 반구대 암각화 재해석 작품 전시",
@@ -265,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "‘너는 네 삶을 바꿔야 한다’, 덜어내기 택한 광주비엔날레…정치적 논란 속 개막",
@@ -278,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.5
+          "score": 6.2
         },
         {
           "title": "젊은 작가 키우던 금호미술관 38년 만에 문 닫는다",
@@ -291,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.3
+          "score": 6.1
         },
         {
           "title": "'신진작가 등용문' YG미술대상전 18일부터 대전 윤갤러리서 개막",
@@ -304,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.9
+          "score": 5.7
         },
         {
           "title": "사물과 시간, 삶과 실천…변화를 꿈꾸다",
@@ -317,7 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5
+          "score": 4.8
         }
       ]
     }
