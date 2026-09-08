@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-08T03:07:03.067Z",
+  "builtAt": "2026-09-08T09:07:06.130Z",
   "cards": [
     {
       "id": "econ",
@@ -15,6 +15,32 @@
       "poolSize": 337,
       "items": [
         {
+          "title": "[외환] 원/달러 환율 5.1원 오른 1,345.6원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20260908124200002",
+          "summary": "(",
+          "publishedAt": "2026-09-08T06:30:42.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/08/AKR20260908124200002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "엔/달러 환율 장중 152엔대까지 하락…엔화가치 7개월 만에 최고",
+          "link": "https://www.yna.co.kr/view/AKR20260908086300073",
+          "summary": "(도쿄=연합뉴스) 이도연 특파원 = 달러당 164엔대까지 치솟았던 엔/달러 환율이 연일 하락하고 있다.",
+          "publishedAt": "2026-09-08T03:34:29.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/03/PYH2026090308400001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
           "title": "\"주식·채권 '6대4' 자산배분 제역할 못해…가상자산 배분 제안\"",
           "link": "https://www.yna.co.kr/view/AKR20260908082000008",
           "summary": "(서울=연합뉴스) 김유향 기자 = 전통적인 '주식 60%, 채권 40%'의 자산배분 전략이 최근 들어 제 역할을 하지 못하면서 원자재와 디지털 ...",
@@ -25,20 +51,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
-          "title": "원·달러 환율, 1년11개월 만에 장중 1330원대 ‘터치’",
-          "link": "https://www.khan.co.kr/article/202609072034025/",
-          "summary": "두 달 만에 200원 넘게 하락…외국인 2조원대 주식 매수세 영향미 금리 인상 가능성에도 원화 강세…이번주 미 물가지수 ‘변수’코스피 4% 넘게 급등 코스피가 4% 넘게 급등한 7일 서울 중구 하나은행 딜링룸 현황판에 코스피와 코스닥, 환율이 표시돼 있다. 이날 코스피는 하룻동안 전 거래일 대비 300포인트 이상 상승했다. 연합뉴스원·달러 환율이 7일 1·…",
-          "publishedAt": "2026-09-07T11:34:02.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
+          "title": "엔화 강세에도 유가 상승 등에 환율 상승…1,345.6원",
+          "link": "https://www.yna.co.kr/view/AKR20260908128900002",
+          "summary": "(세종=연합뉴스) 김수현 기자 = 엔화가 강세를 보였지만 국제유가가 뛰고 수입 업체의 달러 매수세가 뒷받침되면서 원/달러 환율은 8일 상승 압력...",
+          "publishedAt": "2026-09-08T06:56:07.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/08/PYH2026090818910001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 6
         },
         {
           "title": "2분기 명목 GDP 성장률 47년 만에 최고…\"1인당 4만 달러 가능성\"",
@@ -51,33 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6
-        },
-        {
-          "title": "“수출 그대로인데 실적 확 깎인다고?”…환율 급락이 만든 삼전 ‘5조원 충격’",
-          "link": "https://www.mk.co.kr/news/economy/12146298",
-          "summary": "3분기 들어 원달러 환율 200원 하락 車·반도체·조선 ‘환율 버팀목’ 사라져 4분기 1370~1400원 전망, 부담 지속자동차와 반도체, 조선 등 국내 대표 수출기업의 실적을 떠..",
-          "publishedAt": "2026-09-07T08:22:48.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/07/rcv.NEWS1.NEWS1.20260907.2026-09-07T155450_1008092731_FINANCE-STOCK_I_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.6
-        },
-        {
-          "title": "미 고용 서프라이즈에도…환율 1년 11개월 만에 1,330원대",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008740758",
-          "summary": "▲ 7일 서울 중구 하나은행 본점 딜링룸에서 직원들이 증시와 환율을 모니터하고 있다. 원/달러 환율은 오전 8시47분 하나은행 고시 …",
-          "publishedAt": "2026-09-07T01:16:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260907/202219777_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.5
+          "score": 5.9
         }
       ]
     },
@@ -92,13 +92,13 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 168,
+      "poolSize": 190,
       "items": [
         {
-          "title": "속리산 법주사, 무현스님 초청 '육조단경' 특별 법문",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4105210",
-          "summary": "법주사가 지역 주민과 불교대학 학생들을 위한 특별한 법석을 마련했습니다.법주사는 7일 경내 선불장에서 무현스님을 초청해 선불교의 대표 경전인 '육조단경'에 관한 특별법문을 봉행했습니다.'마음이 곧 부처임을 깨닫는 길'을 주제로 진행된 법문은 육조단경을 통해 본래 마음을 돌아보고 수행과 신행의 자세를 함께 점검하고 배우는 시간을 마련했습니다.참여 대중들은 \"…",
-          "publishedAt": "2026-09-08T10:40:54.000Z",
+          "title": "용인 반야선원도 '만공On'...\"방송포교 응원합니다\"",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4105390",
+          "summary": "BBS불교방송의 후원조직 '만공회'가 불자들의 신행현장을 찾아 방송포교 동참을 권선하면서 지난 주말 40여 명에 이르는 소중한 불연이 새로 맺어졌습니다. BBS불교방송은 그제(6일) 경기 용인 반야선원에서 봉행된 '보만스님 초청 법회'에서 부스를 열고 방송포교 동참 방안을 안내하는 등 만공회 공덕주 모집에 나섰습니다. 현장에는 초청 법문에 동참하기 위해 사…",
+          "publishedAt": "2026-09-08T17:40:08.000Z",
           "image": "",
           "sourceName": "BBS 불교방송",
           "sourceId": "bbs-news",
@@ -106,6 +106,19 @@
             "buddhism"
           ],
           "score": 6.2
+        },
+        {
+          "title": "호국연무사 수계법회 봉행...장병 2000여 명에 오계 전해",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442076",
+          "summary": "육군훈련소 호국연무사(주지 혜총스님)는 9월5일 연무관에서 중앙종회의장 주경스님을 전계사로 수계법회를 봉행했다. 훈련장병 2000여 명이 동참한 법회는 삼귀의와 반야심경 봉독, 청성, 청법가, 청사와 개도, 법문, 참회와 연비의식, 계첩 수여, 후원금 전달, 사홍서원 등의 순으로 진행됐다.특히 이번 수계법회는 부산 내원정사가 호국연무사에 수계지원금 2000…",
+          "publishedAt": "2026-09-08T14:13:15.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.6
         },
         {
           "title": "반야불교문화硏, 한국불교의 참모습 묻다",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4.1
         },
         {
           "title": "‘불교 연기법’으로 풀어낸 조선 정조의 삶",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.1
+          "score": 4
         },
         {
           "title": "울산 석남사, 대중 위한 수행·예술 공간 ‘반야원’ 준공",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.1
-        },
-        {
-          "title": "울산 가지산 석남사, 반야원 준공식 봉행",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=441976",
-          "summary": "“석남사 창건후 1,200년이 지나 일반인들을 위한 선수행 공간, 반야원이 탄생하는 역사적인 날입니다.”울산 가지산 석남사(주지 천조스님)가 일반인을 위한 수행공간 ‘반야원(般若園)’의 3년 불사를 마무리했다. 신라 헌덕왕 16년(824년) 도의국사가 석남사를 창건했다. 1592년 임진왜란으로 전소됐다가 1666년 언양 현감 강응이 석남사를 재건했고, 6·…",
-          "publishedAt": "2026-09-06T17:58:27.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.8
+          "score": 4
         }
       ]
     },
@@ -186,19 +186,6 @@
             "philosophy"
           ],
           "score": 6
-        },
-        {
-          "title": "계명대 목요철학원 '인간의 가치와 삶의 의미' 포럼, 9월 10일~12월 10일 개최",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=209908",
-          "summary": "올해로 46주년을 맞이한 계명대의 '목요철학 인문포럼'이 2026년 하반기 강연을 준비하고 있다. 1980년 10월 8일 '목요철학 세미나'로 시작된 이 포럼은 2025년 11월 제900회 특집을 성공적으로 마치는 등 대구 지역을 대표하는 시민 인문학 플랫폼으로 자리매김해왔다. 이번 하반기 포럼은 '인간의 가치와 삶의 의미를 다시 묻다'라는 주제로 진행된다…",
-          "publishedAt": "2026-09-07T17:19:35.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 5.8
         },
         {
           "title": "Free to Be Experimental Philosophy",
@@ -238,6 +225,19 @@
             "philosophy"
           ],
           "score": 4.5
+        },
+        {
+          "title": "Online Philosophy Resources Weekly Update",
+          "link": "https://dailynous.com/2026/09/07/online-philosophy-resources-weekly-update-439/",
+          "summary": "This is the weekly report on new and revised entries at online philosophy resources, new reviews of philosophy books, new podcast episodes, recently published open access philosophy books, and more. (…",
+          "publishedAt": "2026-09-07T13:28:27.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2023/01/weekly-update-logo-2023.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.1
         }
       ]
     },
@@ -252,8 +252,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 180,
+      "poolSize": 190,
       "items": [
+        {
+          "title": "울산 지역작가들, 세계유산 반구대 암각화 재해석 작품 전시",
+          "link": "https://www.yna.co.kr/view/AKR20260908121800057",
+          "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주문화재단은 8일 서(西)울주문화센터 전시실에서 2026 지역작가 초대 그룹전 '석화, 색으로 피어나다...",
+          "publishedAt": "2026-09-08T06:26:36.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/08/AKR20260908121800057_02_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.4
+        },
         {
           "title": "‘너는 네 삶을 바꿔야 한다’, 덜어내기 택한 광주비엔날레…정치적 논란 속 개막",
           "link": "https://www.khan.co.kr/article/202609061552001/",
@@ -265,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.6
+          "score": 6.5
         },
         {
           "title": "젊은 작가 키우던 금호미술관 38년 만에 문 닫는다",
@@ -278,7 +291,20 @@
           "candidates": [
             "art"
           ],
-          "score": 6.5
+          "score": 6.3
+        },
+        {
+          "title": "'신진작가 등용문' YG미술대상전 18일부터 대전 윤갤러리서 개막",
+          "link": "https://www.yna.co.kr/view/AKR20260908112300063",
+          "summary": "(대전=연합뉴스) 이주형 기자 = 제1회 YG 미술대상전 입상작 전시가 오는 18일부터 23일까지 대전 중구 소재 윤갤러리에서 열린다.",
+          "publishedAt": "2026-09-08T05:56:10.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2026/09/08/52/PCM20260908000052990_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 5.9
         },
         {
           "title": "사물과 시간, 삶과 실천…변화를 꿈꾸다",
@@ -291,33 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.2
-        },
-        {
-          "title": "장애 넘어 예술로 소통…강동구 '함께 만드는 우리' 전시회",
-          "link": "https://www.yna.co.kr/view/AKR20260908054400004",
-          "summary": "(서울=연합뉴스) 김준태 기자 = 강동구는 장애인과 비장애인 모두 예술로 소통하는 전시회 '함께 만드는 우리'를 오는 18일까지 강동어울림복지관...",
-          "publishedAt": "2026-09-08T01:09:55.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/08/AKR20260908054400004_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "여행·전시를 한 번에…놀유니버스, 인터파크투어·NOL티켓 통합",
-          "link": "https://www.yna.co.kr/view/AKR20260908025100030",
-          "summary": "(서울=연합뉴스) 이상서 기자 = 놀유니버스는 놀(NOL) 인터파크투어와 NOL 티켓의 서비스를 NOL로 통합해 이용자의 편의성을 높인다고 8일...",
-          "publishedAt": "2026-09-08T00:26:48.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/08/AKR20260908025100030_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
+          "score": 5
         }
       ]
     }
