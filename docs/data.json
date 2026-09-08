@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-07T21:06:52.744Z",
+  "builtAt": "2026-09-08T03:07:03.067Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 339,
+      "poolSize": 337,
       "items": [
+        {
+          "title": "\"주식·채권 '6대4' 자산배분 제역할 못해…가상자산 배분 제안\"",
+          "link": "https://www.yna.co.kr/view/AKR20260908082000008",
+          "summary": "(서울=연합뉴스) 김유향 기자 = 전통적인 '주식 60%, 채권 40%'의 자산배분 전략이 최근 들어 제 역할을 하지 못하면서 원자재와 디지털 ...",
+          "publishedAt": "2026-09-08T02:49:37.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/08/AKR20260908082000008_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "원·달러 환율, 1년11개월 만에 장중 1330원대 ‘터치’",
           "link": "https://www.khan.co.kr/article/202609072034025/",
@@ -25,33 +38,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
-        },
-        {
-          "title": "[외환] 원/달러 환율 9.9원 내린 1,340.5원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20260907118200002",
-          "summary": "(",
-          "publishedAt": "2026-09-07T06:30:46.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/07/AKR20260907118200002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
           "score": 7.2
         },
         {
-          "title": "美 '엔저 시정 압박' 통했나…6개월만에 달러당 154엔대로 하락(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20260907072651073",
-          "summary": "(도쿄=연합뉴스) 조성미 이도연 특파원 = 달러당 164엔대까지 치솟았던 엔/달러 환율이 안정세를 되찾으면서 150엔대 초반까지 떨어질 수 있다...",
-          "publishedAt": "2026-09-07T12:17:45.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2022/06/10/37/PCM20220610000037990_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "2분기 명목 GDP 성장률 47년 만에 최고…\"1인당 4만 달러 가능성\"",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742350",
+          "summary": "올해 2분기 한국 경제는 수출과 민간 소비가 함께 늘면서 견조한 성장세를 지속했습니다.한국은행은 2분기 실질 국내총생산 성장률이 0.6%로 집계…",
+          "publishedAt": "2026-09-08T02:43:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260821/202214594_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5.8
+          "score": 6
         },
         {
           "title": "“수출 그대로인데 실적 확 깎인다고?”…환율 급락이 만든 삼전 ‘5조원 충격’",
@@ -64,20 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.7
+          "score": 5.6
         },
         {
-          "title": "약 2년만에 환율 1,330원대…국민연금 환헤지 중단에 낙폭 반납",
-          "link": "https://www.yna.co.kr/view/AKR20260907123600002",
-          "summary": "(세종·서울=연합뉴스) 김수현 이도흔 기자 = 원/달러 환율은 7일 수출 업체의 달러화 매도(네고) 물량 영향으로 약 2년 만에 1,330원대까...",
-          "publishedAt": "2026-09-07T07:00:26.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/07/PYH2026090703410001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "미 고용 서프라이즈에도…환율 1년 11개월 만에 1,330원대",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008740758",
+          "summary": "▲ 7일 서울 중구 하나은행 본점 딜링룸에서 직원들이 증시와 환율을 모니터하고 있다. 원/달러 환율은 오전 8시47분 하나은행 고시 …",
+          "publishedAt": "2026-09-07T01:16:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260907/202219777_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5.7
+          "score": 5.5
         }
       ]
     },
@@ -92,8 +92,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 145,
+      "poolSize": 168,
       "items": [
+        {
+          "title": "속리산 법주사, 무현스님 초청 '육조단경' 특별 법문",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4105210",
+          "summary": "법주사가 지역 주민과 불교대학 학생들을 위한 특별한 법석을 마련했습니다.법주사는 7일 경내 선불장에서 무현스님을 초청해 선불교의 대표 경전인 '육조단경'에 관한 특별법문을 봉행했습니다.'마음이 곧 부처임을 깨닫는 길'을 주제로 진행된 법문은 육조단경을 통해 본래 마음을 돌아보고 수행과 신행의 자세를 함께 점검하고 배우는 시간을 마련했습니다.참여 대중들은 \"…",
+          "publishedAt": "2026-09-08T10:40:54.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 6.2
+        },
         {
           "title": "반야불교문화硏, 한국불교의 참모습 묻다",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505176",
@@ -105,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "‘불교 연기법’으로 풀어낸 조선 정조의 삶",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4.1
         },
         {
           "title": "울산 석남사, 대중 위한 수행·예술 공간 ‘반야원’ 준공",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4.1
         },
         {
           "title": "울산 가지산 석남사, 반야원 준공식 봉행",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.9
-        },
-        {
-          "title": "대불청 전북지구, 소통·화합으로 전법 의지 다져",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337657",
-          "summary": "대한불교청년회 전북지구 청년불자들이 한자리에 모여 소통과 화합을 다지고 청년불교 활성화와 전법 실천에 앞장설 것을 다짐했다.대한불교청년회 전북지구(회장 장석희)는 9월 5일 동국대 부설 금산중·고 체육관에서 ‘대불청 전북지구 단합 체육대회’를 개최했다. 행사는 1부 의례와 2부 체육대회로 진행됐다. 1부에서는 삼귀의와 우리말 반야심경 봉독, 대불청 헌장 전…",
-          "publishedAt": "2026-09-07T17:44:31.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.9
+          "score": 3.8
         }
       ]
     },
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.9
+          "score": 5.8
         },
         {
           "title": "Free to Be Experimental Philosophy",
@@ -252,21 +252,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 182,
+      "poolSize": 180,
       "items": [
-        {
-          "title": "광주비엔날레 연계 '양림 마을투어'…전시·연극 행사",
-          "link": "https://www.yna.co.kr/view/AKR20260907078600054",
-          "summary": "(전남광주=연합뉴스) 박철홍 기자 = 전남광주통합특별시는 광주비엔날레와 남구 양림동의 근대 역사·문화 자원을 연계한 '양림권역 마을투어'를 운영...",
-          "publishedAt": "2026-09-07T02:37:17.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/07/AKR20260907078600054_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 7.1
-        },
         {
           "title": "‘너는 네 삶을 바꿔야 한다’, 덜어내기 택한 광주비엔날레…정치적 논란 속 개막",
           "link": "https://www.khan.co.kr/article/202609061552001/",
@@ -278,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.7
+          "score": 6.6
         },
         {
           "title": "젊은 작가 키우던 금호미술관 38년 만에 문 닫는다",
@@ -291,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.6
+          "score": 6.5
         },
         {
           "title": "사물과 시간, 삶과 실천…변화를 꿈꾸다",
@@ -304,20 +291,33 @@
           "candidates": [
             "art"
           ],
-          "score": 5.3
+          "score": 5.2
         },
         {
-          "title": "“세잔의 그림 보고 ‘관통당한 느낌’…예술이 준 구원 경험”",
-          "link": "https://www.khan.co.kr/article/202609072024015/",
-          "summary": "에세이집 ‘절룩거리며 찾아 나선 정화의 순간들’ 낸 배우 김신록에세이집 <절룩거리며 찾아 나선 정화의 순간들>을 펴낸 배우 김신록은 “연기라는 일, 배우라는 정체성을 넓은 의미로 탐색 중”이라고 말했다. ⓒ이승희공연·전시회 등 ‘내돈내산’ 관람 ‘영혼이 저조한 날’ 예술 만나러 가 “어떤 작은 조각이 좋았으면 충분” “배우 매력은 삶을 연습한다···",
-          "publishedAt": "2026-09-07T11:24:01.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "장애 넘어 예술로 소통…강동구 '함께 만드는 우리' 전시회",
+          "link": "https://www.yna.co.kr/view/AKR20260908054400004",
+          "summary": "(서울=연합뉴스) 김준태 기자 = 강동구는 장애인과 비장애인 모두 예술로 소통하는 전시회 '함께 만드는 우리'를 오는 18일까지 강동어울림복지관...",
+          "publishedAt": "2026-09-08T01:09:55.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/08/AKR20260908054400004_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.5
+        },
+        {
+          "title": "여행·전시를 한 번에…놀유니버스, 인터파크투어·NOL티켓 통합",
+          "link": "https://www.yna.co.kr/view/AKR20260908025100030",
+          "summary": "(서울=연합뉴스) 이상서 기자 = 놀유니버스는 놀(NOL) 인터파크투어와 NOL 티켓의 서비스를 NOL로 통합해 이용자의 편의성을 높인다고 8일...",
+          "publishedAt": "2026-09-08T00:26:48.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/08/AKR20260908025100030_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         }
       ]
     }
