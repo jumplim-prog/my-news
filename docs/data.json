@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-09T09:07:01.344Z",
+  "builtAt": "2026-09-09T21:06:09.837Z",
   "cards": [
     {
       "id": "econ",
@@ -12,20 +12,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 334,
+      "poolSize": 335,
       "items": [
         {
-          "title": "이창용 \"한국은 이제 대외채권국…환율 바라보는 시선 달라져야\"",
-          "link": "https://www.hankyung.com/article/202609094464i",
+          "title": "100달러 넘어선 유가에 금리인상 우려…美증시 하락",
+          "link": "https://www.hankyung.com/article/202609095050i",
           "summary": "",
-          "publishedAt": "2026-09-09T07:49:44.000Z",
+          "publishedAt": "2026-09-09T14:31:49.000Z",
           "image": "",
           "sourceName": "한국경제",
           "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
           "title": "환율, 유가 상승에도 기업 달러 매도에 9.5원 내린 1,336.1원",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "해진공, 대만서 3억 달러 규모 외화채권 발행",
@@ -51,7 +51,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
+        },
+        {
+          "title": "NH증권 \"글로벌 재정지배의 시대…금리 인상 허들 높아졌다\"",
+          "link": "https://www.yna.co.kr/view/AKR20260909157800008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = NH투자증권은 국가 부채 확대가 통화정책 운용 방식 자체를 바꾸고 있으며, 재정 정책이 사실상 주도권을 쥔 국...",
+          "publishedAt": "2026-09-09T09:11:50.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/09/AKR20260909157800008_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.8
         },
         {
           "title": "'유가 상승·미 CPI 경계' 국고채 금리 상승…3년물 연 3.910%",
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6
-        },
-        {
-          "title": "“금리 0.5%P 올랐다고, 얼마를 더 내라는 거야?”…가계 부담 연 6.5조 늘어날 듯",
-          "link": "https://www.mk.co.kr/news/economy/12147850",
-          "summary": "한은 기준금리 ‘백투백’ 인상 여파 1%P 오르면 연간 13.1조 증가 추산한국은행이 두 달 연속 기준금리를 인상한 가운데 최근 인상 폭인 0.5%포인트만큼 대출 금리가 오른다고 ..",
-          "publishedAt": "2026-09-09T00:21:45.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/09/news-p.v1.20260904.73068f377c9747e9bd79eb1a47741583_R.png",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.8
+          "score": 5.7
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 202,
+      "poolSize": 200,
       "items": [
         {
           "title": "호국연무사 수계법회 봉행...장병 2000여 명에 오계 전해",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.1
+          "score": 3.9
         },
         {
           "title": "반야불교문화硏, 한국불교의 참모습 묻다",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.6
+          "score": 3.4
         },
         {
           "title": "울산 석남사, 대중 위한 수행·예술 공간 ‘반야원’ 준공",
@@ -131,33 +131,33 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
+          "score": 3.2
         },
         {
-          "title": "동림선원, 문화공간 동림 첫 전시, 아원 스님 ‘울림’ 개막",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505208",
-          "summary": "김해 동림선원(주지 신공 스님)이 ‘문화공간 동림’의 첫 전시를 선보이며 문화포교의 첫발을 내딛었다.동림선원과 은암문화재단(이사장 신공 스님)은 9월 5일 문화공간 동림 1층 반야홀에서 아원 스님 초대전 ‘울림’ 개막식을 개최했다. 이번 초대전은 동림선원이 복합 문화시설로 새롭게 조성한 동림의 첫 공식 전시다.초대전 주인공 아원 스님은 자신만의 색채와 붓의…",
-          "publishedAt": "2026-09-09T10:44:02.000Z",
+          "title": "김해 동림선원, 아원 스님 그림 초대전 ‘울림’ 개막",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337711",
+          "summary": "경남 김해 동림선원의 문화공간 동림 1층 반야홀에서 아원스님의 초대전 ‘울림’이 막을 올렸다.이번 전시는 동림선원과 (재)은암문화재단(주지·이사장 신공 스님)이 공동 주최했으며, 9월 5일시작해 오는 10월 2일까지 이어진다. 관람 시간은 오전 9시부터 오후 5시까지다. 전시에서는 관세음보살과 참선 수행자를 형상화한 작품부터 관람객의 사색을 이끄는 추상화까…",
+          "publishedAt": "2026-09-09T23:24:45.000Z",
           "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
           "score": 3
         },
         {
-          "title": "대전 용수사, 화엄대강백 무비스님 친견…“화엄행자 삶 서원”",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442077",
-          "summary": "통도사대전불교대학 용수사(주지 설문스님) 경전반 학생들이 9월5일 범어사 화엄전을 찾아 화엄대강백 여천무비스님을 친견하고 화엄경 공부에 대한 원력을 다지며 화엄행자의 삶을 살아갈 것을 다짐했다.4년 과정으로 화엄경을 공부하고 있는 용수사 경전반 학생들은 이날 무비스님에게 법문을 청해 듣고 화엄의 가르침을 삶 속에서 실천하겠다는 마음을 새롭게 했다.무비스님은…",
-          "publishedAt": "2026-09-08T14:09:16.000Z",
+          "title": "동국대 인도철학동문회, 송광사서 인도철학과 재건 발원",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337710",
+          "summary": "동국대 인도철학동문회(회장 선일 스님) 임원단이 인도철학과 재건을 발원하며 삼보사찰 순례 기도법회를 회향했다.동문회는 9월 7일 승보사찰 송광사를 찾아 인도철학과 재건 기도법회를 봉행했다. 이번 법회는 지난 6월 남해 보리암을 시작으로 통도사와 해인사를 거쳐 진행해온 순례의 마지막 삼보사찰 기도법회다. 동문회장 선일 스님은 법문에서 “인도철학의 발전은 한국…",
+          "publishedAt": "2026-09-09T20:47:34.000Z",
           "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.6
+          "score": 3
         }
       ]
     },
@@ -188,45 +188,6 @@
           "score": 6
         },
         {
-          "title": "시인과 재규어",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=209988",
-          "summary": "2016년 문학과사회 신인문학상을 통해 비평 활동을 시작한 문학평론가 김영임의 첫 비평집 『시인과 재규어』가 문학과지성사에서 출간되었다. 데뷔 당시 “2000년대 이후 한국문학에 대한 평론의 ‘위치감’을 의식하는” 신중함과 “다종다양한 대중문화적·예술적·문헌적 재료를”(2016년 문학과사회 신인문학상 심사평) 적재적소에 배치하는 능란함으로 주목받은 그는 박…",
-          "publishedAt": "2026-09-09T15:45:34.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.6
-        },
-        {
-          "title": "이기적 유전자 : 50주년 기념판",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=209994",
-          "summary": "저자가 자신의 50주년 기념판 에필로그를 집필하는 사례는 그리 흔치 않다. 더욱이 그동안 저서의 핵심 내용이 거의 달라지지 않았다는 사실은 경이롭기까지 하다. 『이기적 유전자』는 그런 면에서 희귀하며 독보적인 저서다. 1976년에 출간된 이래 반세기 동안 30여 개 언어로 번역되며 지금까지 꾸준히 사랑받는 스테디셀러이자 고전으로 자리 잡은 이 책은 그간 보…",
-          "publishedAt": "2026-09-09T15:41:08.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.6
-        },
-        {
-          "title": "회고록 철학하기",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210010",
-          "summary": "회고록을 쓰려는 이들이 마주하는 ‘회고록의 내용은 모두 진실일까?’, ‘과거에 대한 내 기억은 정확할까?’, ‘가족의 이야기를 어디까지 드러내야 할까?’와 같은 질문을 철학적으로 살펴본다. 철학 교수이자 회고록 작가인 지은이가 회고록의 개념과 이에 대한 오해와 비판, 예술성과 진실성의 긴장 관계, 주변인에 대한 작가의 의무, 회고록을 쓰는 이유 등을 체계적…",
-          "publishedAt": "2026-09-09T15:30:48.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.6
-        },
-        {
           "title": "Free to Be Experimental Philosophy",
           "link": "https://dailynous.com/2026/09/04/free-to-be-experimental-philosophy/",
           "summary": "“But is this actually philosophy?” Ethan Landes (Eindhoven University of Technology) is tired of experimental philosophers being asked The Question. And he’s tired of experimental philosophers “appeas…",
@@ -238,6 +199,45 @@
             "philosophy"
           ],
           "score": 4.5
+        },
+        {
+          "title": "Sir Anthony Kenny obituary",
+          "link": "https://www.theguardian.com/books/2026/aug/31/sir-anthony-kenny-obituary",
+          "summary": "<p>Historian of philosophy and former Roman Catholic priest who wrote and lectured on figures from Aristotle to Wittgenstein with verve and lucidity</p><p>The historian of philosophy Anthony Kenny, wh…",
+          "publishedAt": "2026-08-31T16:56:21.000Z",
+          "image": "https://i.guim.co.uk/img/media/21788e17835de4e2c1f188b9494d4ceae76c7a53/0_522_3109_2487/master/3109.jpg?width=140&quality=85&auto=format&fit=max&s=22a4d94bc0b157518e9637feb2272537",
+          "sourceName": "The Guardian",
+          "sourceId": "guardian-philosophy",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "Philosopher’s Annual for 2025",
+          "link": "https://dailynous.com/2026/08/30/philosophers-annual-for-2025/",
+          "summary": "The articles that made it into the latest edition of Philosophers Annual have been announced. The list aims to “select the ten best articles published in philosophy each year—an attempt as simple to s…",
+          "publishedAt": "2026-08-31T02:41:07.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/08/ten-aces-1024x757.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "시인과 재규어",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=209988",
+          "summary": "2016년 문학과사회 신인문학상을 통해 비평 활동을 시작한 문학평론가 김영임의 첫 비평집 『시인과 재규어』가 문학과지성사에서 출간되었다. 데뷔 당시 “2000년대 이후 한국문학에 대한 평론의 ‘위치감’을 의식하는” 신중함과 “다종다양한 대중문화적·예술적·문헌적 재료를”(2016년 문학과사회 신인문학상 심사평) 적재적소에 배치하는 능란함으로 주목받은 그는 박…",
+          "publishedAt": "2026-09-09T15:45:34.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.4
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 207,
+      "poolSize": 209,
       "items": [
         {
           "title": "'54만명 흥행' 허스트, 작품 2점 국립현대미술관에 기증하기로",
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "“못 봐도 본 것이나 다름없다?”···구정아의 아리송한 ‘우스모스’",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6
+          "score": 5.7
         },
         {
           "title": "'바람의 나라' 세계관 품은 전통공예…경복궁 계조당서 전시",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "[공연소식] 국립국악원 국악박물관, 브라질서 전통예술 전시",
@@ -304,20 +304,20 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
-          "title": "사물과 시간, 삶과 실천…변화를 꿈꾸다",
-          "link": "https://www.khan.co.kr/article/202609062027005/",
-          "summary": "지난 5일 개막한 제16회 광주비엔날레 1전시실 전경. 골딘+세네비의 ‘송진 연못’ 곁에 진 바스의 조각이 놓여 있다. 이번 비엔날레에서는 22개국 43명(팀)의 작업을 전시관 한곳에 모았다.5일 막 올린 광주비엔날레 ‘너는 네 삶을 바꿔야 한다’거대한 ‘송진 연못’ 주변으로 곳곳에 제주 화산암과 작품들 전시실별 주제와 개인전 서사 여러 관람의 축을 포개어…",
-          "publishedAt": "2026-09-06T11:27:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "'조선 우표박물관' 10일 파주에 문 열어…기념 전시회",
+          "link": "https://www.yna.co.kr/view/AKR20260909130400060",
+          "summary": "(파주=연합뉴스) 노승혁 기자 = 우표를 통해 시대와 국가의 서사를 읽어보는 특별한 전시가 열린다.",
+          "publishedAt": "2026-09-09T06:39:42.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/09/AKR20260909130400060_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.2
         }
       ]
     }
