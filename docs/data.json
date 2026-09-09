@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-09T03:06:46.875Z",
+  "builtAt": "2026-09-09T09:07:01.344Z",
   "cards": [
     {
       "id": "econ",
@@ -12,14 +12,40 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 328,
+      "poolSize": 334,
       "items": [
         {
-          "title": "한양증권, 우량채권 4종 특판…\"시장금리보다 최대 연 1.2%p↑\"",
-          "link": "https://www.yna.co.kr/view/AKR20260909032100008",
-          "summary": "(서울=연합뉴스) 김유향 기자 = 한양증권[001750]은 시장금리보다 최대 1.2%포인트 높은 수익률을 제공하는 '리테일 채권 특판'을 진행한...",
-          "publishedAt": "2026-09-09T00:01:01.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/09/AKR20260909032100008_01_i_P2.jpg",
+          "title": "이창용 \"한국은 이제 대외채권국…환율 바라보는 시선 달라져야\"",
+          "link": "https://www.hankyung.com/article/202609094464i",
+          "summary": "",
+          "publishedAt": "2026-09-09T07:49:44.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "환율, 유가 상승에도 기업 달러 매도에 9.5원 내린 1,336.1원",
+          "link": "https://www.yna.co.kr/view/AKR20260909141300002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 환율은 9일 중동 지역 정세 불안에 따른 국제 유가 상승에도 불구하고 반도체 기업 등의 달러 매도로 하락했다.",
+          "publishedAt": "2026-09-09T07:25:04.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/09/PYH2026090919060001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "해진공, 대만서 3억 달러 규모 외화채권 발행",
+          "link": "https://www.yna.co.kr/view/AKR20260909129700051",
+          "summary": "(부산=연합뉴스) 박창수 기자 = 한국해양진흥공사(해진공)가 대만에서 3억 달러를 조달하며 외화채권 발행 역량을 입증했다.",
+          "publishedAt": "2026-09-09T06:10:30.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2018/07/05/03/C0A8CA3D00000164697C054900047F55_P2.jpeg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
@@ -28,30 +54,17 @@
           "score": 7.4
         },
         {
-          "title": "中 저금리에 위안화 차입 급증…발행액 1500억달러 육박",
-          "link": "https://www.hankyung.com/article/202609092706i",
-          "summary": "",
-          "publishedAt": "2026-09-08T23:25:04.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
+          "title": "'유가 상승·미 CPI 경계' 국고채 금리 상승…3년물 연 3.910%",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008745557",
+          "summary": "국고채 금리가 오늘 대체로 소폭 상승 마감했습니다.오늘 서울 채권시장에서 3년 만기 국고채 금리는 전 거래일보다 0.9bp 오른 연 3.910%…",
+          "publishedAt": "2026-09-09T08:14:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260902/202218494_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.4
-        },
-        {
-          "title": "일본 15조엔·인도 150억달러…'환율 전쟁'이 글로벌 금융시장 흔든다 [김주완의 글로벌 머니 X파일]",
-          "link": "https://www.hankyung.com/article/202609081439i",
-          "summary": "",
-          "publishedAt": "2026-09-08T22:00:02.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
+          "score": 6
         },
         {
           "title": "“금리 0.5%P 올랐다고, 얼마를 더 내라는 거야?”…가계 부담 연 6.5조 늘어날 듯",
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.9
-        },
-        {
-          "title": "‘3만달러 돌파’ 12년 만에…1인당 GNI 4만달러 ‘확실’",
-          "link": "https://www.khan.co.kr/article/202609082120005/",
-          "summary": "인구 5000만 국가 중 6번째 달성2분기 명목 GDP 26.4% 증가 ‘견인’한국 GNI 4만달러 ‘확실’반도체 호황에 따른 국내총생산(GDP) 증가에 힘입어 올해 1인당 국민총소득(GNI) 4만달러 돌파가 확실시되고 있다. 2분기 명목 GDP는 1년 전보다 26.4% 증가해 47년 만에 최고 수준을 기록했다.한국은행이 8일 발표한 ‘2분기 국민소득(잠정…",
-          "publishedAt": "2026-09-08T12:20:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.7
+          "score": 5.8
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 194,
+      "poolSize": 202,
       "items": [
         {
           "title": "호국연무사 수계법회 봉행...장병 2000여 명에 오계 전해",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4.1
         },
         {
           "title": "반야불교문화硏, 한국불교의 참모습 묻다",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.6
         },
         {
           "title": "울산 석남사, 대중 위한 수행·예술 공간 ‘반야원’ 준공",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.6
+          "score": 3.5
         },
         {
           "title": "동림선원, 문화공간 동림 첫 전시, 아원 스님 ‘울림’ 개막",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3
         },
         {
           "title": "대전 용수사, 화엄대강백 무비스님 친견…“화엄행자 삶 서원”",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.7
+          "score": 2.6
         }
       ]
     },
@@ -188,6 +188,45 @@
           "score": 6
         },
         {
+          "title": "시인과 재규어",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=209988",
+          "summary": "2016년 문학과사회 신인문학상을 통해 비평 활동을 시작한 문학평론가 김영임의 첫 비평집 『시인과 재규어』가 문학과지성사에서 출간되었다. 데뷔 당시 “2000년대 이후 한국문학에 대한 평론의 ‘위치감’을 의식하는” 신중함과 “다종다양한 대중문화적·예술적·문헌적 재료를”(2016년 문학과사회 신인문학상 심사평) 적재적소에 배치하는 능란함으로 주목받은 그는 박…",
+          "publishedAt": "2026-09-09T15:45:34.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.6
+        },
+        {
+          "title": "이기적 유전자 : 50주년 기념판",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=209994",
+          "summary": "저자가 자신의 50주년 기념판 에필로그를 집필하는 사례는 그리 흔치 않다. 더욱이 그동안 저서의 핵심 내용이 거의 달라지지 않았다는 사실은 경이롭기까지 하다. 『이기적 유전자』는 그런 면에서 희귀하며 독보적인 저서다. 1976년에 출간된 이래 반세기 동안 30여 개 언어로 번역되며 지금까지 꾸준히 사랑받는 스테디셀러이자 고전으로 자리 잡은 이 책은 그간 보…",
+          "publishedAt": "2026-09-09T15:41:08.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.6
+        },
+        {
+          "title": "회고록 철학하기",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210010",
+          "summary": "회고록을 쓰려는 이들이 마주하는 ‘회고록의 내용은 모두 진실일까?’, ‘과거에 대한 내 기억은 정확할까?’, ‘가족의 이야기를 어디까지 드러내야 할까?’와 같은 질문을 철학적으로 살펴본다. 철학 교수이자 회고록 작가인 지은이가 회고록의 개념과 이에 대한 오해와 비판, 예술성과 진실성의 긴장 관계, 주변인에 대한 작가의 의무, 회고록을 쓰는 이유 등을 체계적…",
+          "publishedAt": "2026-09-09T15:30:48.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.6
+        },
+        {
           "title": "Free to Be Experimental Philosophy",
           "link": "https://dailynous.com/2026/09/04/free-to-be-experimental-philosophy/",
           "summary": "“But is this actually philosophy?” Ethan Landes (Eindhoven University of Technology) is tired of experimental philosophers being asked The Question. And he’s tired of experimental philosophers “appeas…",
@@ -199,46 +238,6 @@
             "philosophy"
           ],
           "score": 4.5
-        },
-        {
-          "title": "Sir Anthony Kenny obituary",
-          "link": "https://www.theguardian.com/books/2026/aug/31/sir-anthony-kenny-obituary",
-          "summary": "<p>Historian of philosophy and former Roman Catholic priest who wrote and lectured on figures from Aristotle to Wittgenstein with verve and lucidity</p><p>The historian of philosophy Anthony Kenny, wh…",
-          "publishedAt": "2026-08-31T16:56:21.000Z",
-          "image": "https://i.guim.co.uk/img/media/21788e17835de4e2c1f188b9494d4ceae76c7a53/0_522_3109_2487/master/3109.jpg?width=140&quality=85&auto=format&fit=max&s=22a4d94bc0b157518e9637feb2272537",
-          "sourceName": "The Guardian",
-          "sourceId": "guardian-philosophy",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "Philosopher’s Annual for 2025",
-          "link": "https://dailynous.com/2026/08/30/philosophers-annual-for-2025/",
-          "summary": "The articles that made it into the latest edition of Philosophers Annual have been announced. The list aims to “select the ten best articles published in philosophy each year—an attempt as simple to s…",
-          "publishedAt": "2026-08-31T02:41:07.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/08/ten-aces-1024x757.png",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "On the Life and Philosophy of Henri Bergson",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/on-the-life-and-philosophy-of-henri-bergson.html",
-          "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
-          "publishedAt": "2026-09-08T14:45:50.000Z",
-          "image": "",
-          "sourceName": "3 Quarks Daily",
-          "sourceId": "3quarks",
-          "candidates": [
-            "philosophy",
-            "art"
-          ],
-          "score": 4.2
         }
       ]
     },
@@ -253,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 205,
+      "poolSize": 207,
       "items": [
         {
           "title": "'54만명 흥행' 허스트, 작품 2점 국립현대미술관에 기증하기로",
@@ -266,20 +265,46 @@
           "candidates": [
             "art"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
-          "title": "‘너는 네 삶을 바꿔야 한다’, 덜어내기 택한 광주비엔날레…정치적 논란 속 개막",
-          "link": "https://www.khan.co.kr/article/202609061552001/",
-          "summary": "22개국 43팀 참여, 11월15일까지 저항과 트라우마 넘어 ‘일상의 실천’ 조명규모 줄이고 한곳에 모아, 작품·작가에 집중대만관 논란은 과제로지난 5일 개막한 제16회 광주비엔날레 ‘너는 네 삶을 바꿔야 한다’ 1전시실에 골딘+세네비의 ‘송진 연못’ 곁에 진 바스의 조각이 놓여 있다. 배문규 기자전시장 바닥에 황금빛 웅덩이가 번들거린다. 골딘+세네비가 ·…",
-          "publishedAt": "2026-09-06T06:52:00.000Z",
+          "title": "“못 봐도 본 것이나 다름없다?”···구정아의 아리송한 ‘우스모스’",
+          "link": "https://www.khan.co.kr/article/202609091544001/",
+          "summary": "리움미술관 ‘구정아: 우스모스’돌 틈 크리스털부터 천장 모서리까지곳곳에 숨어 있는 35점자석·중력·향·인광…보이지 않는 힘으로 이어지는 30년 작업정해진 동선 대신 발견·놓침 자체가 관람 경험‘구정아: 우스모스’ 전시장에서 구정아 작가. 리움미술관 제공구정아 개인전 ‘구정아: 우스모스’의 전시 모습. 연합뉴스리움미술관에서 열리는 ‘구정아: 우스모스···",
+          "publishedAt": "2026-09-09T06:44:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 6.1
+          "score": 6
+        },
+        {
+          "title": "'바람의 나라' 세계관 품은 전통공예…경복궁 계조당서 전시",
+          "link": "https://www.yna.co.kr/view/AKR20260909160100005",
+          "summary": "(서울=연합뉴스) 김예나 기자 = 한국전통문화대는 넥슨재단, 넥슨코리아와 이달 21일까지 서울 경복궁 계조당에서 '보더리스(BORDERLESS)...",
+          "publishedAt": "2026-09-09T08:27:41.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/09/AKR20260909160100005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "[공연소식] 국립국악원 국악박물관, 브라질서 전통예술 전시",
+          "link": "https://www.yna.co.kr/view/AKR20260909152900005",
+          "summary": "(서울=연합뉴스) 권지현 기자 = ▲ 브라질서 전통예술 전시 = 국립국악원 국악박물관은 브라질 상파울루에서 11월 8일까지 '케이팝(K-POP)...",
+          "publishedAt": "2026-09-09T08:18:25.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/09/AKR20260909152900005_03_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
         },
         {
           "title": "사물과 시간, 삶과 실천…변화를 꿈꾸다",
@@ -289,32 +314,6 @@
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.7
-        },
-        {
-          "title": "발굴실습·전시공간 제공…서울시 문화예술계 청년 지원사업",
-          "link": "https://www.yna.co.kr/view/AKR20260909048900004",
-          "summary": "(서울=연합뉴스) 김준태 기자 = 서울시가 문화예술 분야 청년의 진로 탐색부터 창작활동까지 다양한 지원사업을 추진하고 있다고 9일 밝혔다.",
-          "publishedAt": "2026-09-09T02:15:02.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/09/AKR20260909048900004_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "장기하, 오늘 첫 솔로 정규앨범 '산산조각'",
-          "link": "https://www.yna.co.kr/view/AKR20260909064900005",
-          "summary": "(서울=연합뉴스) 김선우 기자 = 가수 장기하가 9일 오후 6시 첫 솔로 정규앨범 '산산조각'을 발매한다고 소속사 두루두루 아티스트 컴퍼니가 밝...",
-          "publishedAt": "2026-09-09T01:24:25.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/09/AKR20260909064900005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
