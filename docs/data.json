@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-10T03:07:03.867Z",
+  "builtAt": "2026-09-10T09:07:01.600Z",
   "cards": [
     {
       "id": "econ",
@@ -12,72 +12,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 341,
+      "poolSize": 337,
       "items": [
         {
-          "title": "100달러 넘어선 유가에 금리인상 우려…美증시 하락",
-          "link": "https://www.hankyung.com/article/202609095050i",
-          "summary": "",
-          "publishedAt": "2026-09-09T14:31:49.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.2
-        },
-        {
-          "title": "환율, 유가 상승에도 기업 달러 매도에 9.5원 내린 1,336.1원",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008745445",
-          "summary": "▲ 9일 서울 중구 하나은행 딜링룸 현황판환율이 오늘 중동 지역 정세 불안에 따른 국제 유가상승에도 불구하고 반도체 기업 등의 달러 …",
-          "publishedAt": "2026-09-09T07:34:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260909/202220682_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.1
-        },
-        {
-          "title": "한은 \"대내외 여건 따라 기준금리 인상 시기·속도 결정\"",
-          "link": "https://www.yna.co.kr/view/AKR20260909163200002",
-          "summary": "(서울=연합뉴스) 한지훈 기자 = 한국은행은 10일 향후 기준금리 운영과 관련, \"대내외 여건 변화를 점검하면서 추가 인상의 시기와 속도를 결정...",
-          "publishedAt": "2026-09-10T03:00:06.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2025/09/11/PYH2025091112680001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6
-        },
-        {
-          "title": "ECB 10일 금리인상 유력…6월 인상후 7월엔 동결",
-          "link": "https://www.yna.co.kr/view/AKR20260910061300009",
-          "summary": "(서울=연합뉴스) 정주호 기자 = 국제유가 급등에 따른 인플레이션 우려 속에서 유럽중앙은행(ECB)과 영국 잉글랜드은행(BOE) 모두 추가 금리...",
-          "publishedAt": "2026-09-10T01:40:49.000Z",
-          "image": "https://img.yna.co.kr/photo/etc/epa/2026/07/23/PEP20260723102301009_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6
-        },
-        {
-          "title": "구윤철 부총리 “1인당 국민소득 4만달러 달성 가능성 확대”",
-          "link": "https://www.mk.co.kr/news/economy/12149085",
-          "summary": "“한국 경제, 어느 때보다 탄탄하게 회복·성장 향해” 경제장관회의, 철강산업·지식산업센터 공실 논의최근 한국은행이 2분기 국민소득 잠정수치를 발표한 가운데, 구윤철 부총리 겸 재정..",
-          "publishedAt": "2026-09-10T01:09:18.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/10/rcv.YNA.20260910.PYH2026091001320001300_R.jpg",
+          "title": "한은, 추가 금리 인상 예고 \"물가 상당기간 2% 웃돌 것\"",
+          "link": "https://www.mk.co.kr/news/economy/12149643",
+          "summary": "한국은행이 물가 상승률을 상당 기간 목표 수준인 2%를 웃돌 것으로 예상하면서 추가 기준금리 인상 가능성을 열어뒀다. 반도체 수출과 투자 호조에 소비 회복까지 더해지면서 탄탄한 성..",
+          "publishedAt": "2026-09-10T08:49:23.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/11/20260911_01110114000002_S00.jpg",
           "sourceName": "매일경제",
           "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6
+          "score": 7.5
+        },
+        {
+          "title": "국고채 금리, 유가 100달러 돌파·美금리 여파에 상승(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20260910143851008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 10일 국고채 금리가 대체로 상승했다.",
+          "publishedAt": "2026-09-10T08:05:40.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910143851008_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "[외환] 원/달러 환율 3.1원 오른 1,339.2원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20260910125800002",
+          "summary": "(",
+          "publishedAt": "2026-09-10T06:30:46.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910125800002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "로이터 설문조사…\"70%, 9월에 연준 금리동결 예상\"",
+          "link": "https://www.yna.co.kr/view/AKR20260910084700009",
+          "summary": "(서울=연합뉴스) 정주호 기자 = 미국 연방준비제도(Fed·연준)가 오는 15~16일(현지시간) 예정된 연방공개시장위원회(FOMC) 회의에서 금...",
+          "publishedAt": "2026-09-10T03:10:05.000Z",
+          "image": "https://img.yna.co.kr/photo/reuters/2026/08/27/PRU20260827204801009_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "미 정부 재정적자에 계속 오르는 장기국채 금리…‘AI발 경제성장’ 분석도",
+          "link": "https://www.hani.co.kr/arti/economy/finance/1277208.html",
+          "summary": "",
+          "publishedAt": null,
+          "image": "",
+          "sourceName": "한겨레",
+          "sourceId": "hani-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6.5
         }
       ]
     },
@@ -95,6 +95,19 @@
       "poolSize": 200,
       "items": [
         {
+          "title": "‘선정 수행’·‘지혜 개발’, 함께 가는가 따로 가는가",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337724",
+          "summary": "불교 수행의 두 날개인 지관(止觀), 즉 선정과 지혜의 관계를 초기불교·대승불교·티베트불교·현대명상·심리학의 측면에서 종합적으로 조명하는 자리가 마련된다.20년 넘게 수행을 주제로 연찬회를 열어온 밝은사람들연구소(소장 박찬욱)는 11월 7일 동국대 서울캠퍼스 남산홀에서 ‘지관, 함께 닦는가 따로 닦는가’를 주제로 제25회 밝은사람들 학술연찬회를 개최한다.…",
+          "publishedAt": "2026-09-10T17:08:20.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
+        },
+        {
           "title": "호국연무사 수계법회 봉행...장병 2000여 명에 오계 전해",
           "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442076",
           "summary": "육군훈련소 호국연무사(주지 혜총스님)는 9월5일 연무관에서 중앙종회의장 주경스님을 전계사로 수계법회를 봉행했다. 훈련장병 2000여 명이 동참한 법회는 삼귀의와 반야심경 봉독, 청성, 청법가, 청사와 개도, 법문, 참회와 연비의식, 계첩 수여, 후원금 전달, 사홍서원 등의 순으로 진행됐다.특히 이번 수계법회는 부산 내원정사가 호국연무사에 수계지원금 2000…",
@@ -105,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.6
         },
         {
           "title": "반야불교문화硏, 한국불교의 참모습 묻다",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3.1
         },
         {
           "title": "<79>자신의 단점에 견주어 타인을 이쁘게 보라",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 3
         },
         {
           "title": "김해 동림선원, 아원 스님 그림 초대전 ‘울림’ 개막",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.9
-        },
-        {
-          "title": "동국대 인도철학동문회, 송광사서 인도철학과 재건 발원",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337710",
-          "summary": "동국대 인도철학동문회(회장 선일 스님) 임원단이 인도철학과 재건을 발원하며 삼보사찰 순례 기도법회를 회향했다.동문회는 9월 7일 승보사찰 송광사를 찾아 인도철학과 재건 기도법회를 봉행했다. 이번 법회는 지난 6월 남해 보리암을 시작으로 통도사와 해인사를 거쳐 진행해온 순례의 마지막 삼보사찰 기도법회다. 동문회장 선일 스님은 법문에서 “인도철학의 발전은 한국…",
-          "publishedAt": "2026-09-09T20:47:34.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.9
+          "score": 2.8
         }
       ]
     },
@@ -172,8 +172,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 152,
+      "poolSize": 151,
       "items": [
+        {
+          "title": "창원대, 한인 이주사 조사 하와이·캘리포니아·우즈베크로 확대…독립유공자·이민 선조 묘소 확인",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210120",
+          "summary": "국립창원대 한인디아스포라발굴조사단이 최근 하와이에서 미국 본토, 중앙아시아 우즈베키스탄까지 조사 범위를 넓히며 한인 이주사 연구의 지평을 넓혔다. 이들은 현지에서 독립유공자와 초기 한인 이민 선조들의 묘소, 유적, 문헌, 구술자료를 수집하는 동시에, 묘비 3D 스캔과 GPS 위치 기록 등 디지털 인문학 연구를 위한 기초자료도 구축했다. 조사단은 8월 4일부…",
+          "publishedAt": "2026-09-10T17:20:46.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 6.2
+        },
         {
           "title": "Adversarial Collaboration in Philosophy (guest post)",
           "link": "https://dailynous.com/2026/09/02/adversarial-collaboration-in-philosophy-guest-post/",
@@ -225,19 +238,6 @@
             "philosophy"
           ],
           "score": 4.5
-        },
-        {
-          "title": "시인과 재규어",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=209988",
-          "summary": "2016년 문학과사회 신인문학상을 통해 비평 활동을 시작한 문학평론가 김영임의 첫 비평집 『시인과 재규어』가 문학과지성사에서 출간되었다. 데뷔 당시 “2000년대 이후 한국문학에 대한 평론의 ‘위치감’을 의식하는” 신중함과 “다종다양한 대중문화적·예술적·문헌적 재료를”(2016년 문학과사회 신인문학상 심사평) 적재적소에 배치하는 능란함으로 주목받은 그는 박…",
-          "publishedAt": "2026-09-09T15:45:34.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.3
         }
       ]
     },
@@ -252,8 +252,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 207,
+      "poolSize": 203,
       "items": [
+        {
+          "title": "완주 작가 6인 회화·설치미술 전시회…누에아트홀서 내달까지",
+          "link": "https://www.yna.co.kr/view/AKR20260910116500055",
+          "summary": "(완주=연합뉴스) 최영수 기자 = 전북 완주군 문화관광재단은 미술작가 6명의 작품 전시회 '예술가는 어떤 세상을 사는가'를 10월 3일까지 용진...",
+          "publishedAt": "2026-09-10T05:58:34.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910116500055_02_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.4
+        },
         {
           "title": "“못 봐도 본 것이나 다름없다?”···구정아의 아리송한 ‘우스모스’",
           "link": "https://www.khan.co.kr/article/202609091544001/",
@@ -265,7 +278,33 @@
           "candidates": [
             "art"
           ],
-          "score": 5.6
+          "score": 5.5
+        },
+        {
+          "title": "[전남광주소식] 아시아문화전당서 허영만 '식객: 맛의 뒤편' 전시",
+          "link": "https://www.yna.co.kr/view/AKR20260910157600054",
+          "summary": "(전남광주=연합뉴스) 국립아시아문화전당재단은 허영만 화백의 대표 만화를 주제로 한 '식객: 맛의 뒤편' 전시를 연다고 10일 밝혔다.",
+          "publishedAt": "2026-09-10T08:53:29.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910157600054_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "\"조선 통감이 소장\" 추정 김홍도 그림, 日서 돌아와 경매에",
+          "link": "https://www.yna.co.kr/view/AKR20260910108900005",
+          "summary": "(서울=연합뉴스) 김예나 기자 = 조선 통감을 지낸 소네 아라스케(1849∼1910)가 과거 소장한 것으로 추정되는 단원 김홍도(1745∼180...",
+          "publishedAt": "2026-09-10T05:28:47.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910108900005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "강원의료기기전시회 수출계약 4천55만달러…역대 최대 규모",
@@ -274,51 +313,11 @@
           "publishedAt": "2026-09-10T01:20:01.000Z",
           "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910057000062_01_i_P2.jpg",
           "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ",
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "울주군청 울주갤러리서 '엄마의 민화' 작품전시회 열려",
-          "link": "https://www.yna.co.kr/view/AKR20260910050600057",
-          "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 평생학습동아리 '엄마의 민화'가 오는 14일까지 울주군청 1층 울주갤러리에서 작품전시회를 개최한...",
-          "publishedAt": "2026-09-10T01:17:05.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910050600057_02_i_P2.jpg",
-          "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.5
-        },
-        {
-          "title": "대전시, 추석명절 종합대책…500명 상황 근무 투입",
-          "link": "https://www.yna.co.kr/view/AKR20260910056700063",
-          "summary": "(대전=연합뉴스) 박주영 기자 = 대전시는 14일부터 27일까지 '2026년 추석명절 종합대책'을 추진한다고 10일 밝혔다.",
-          "publishedAt": "2026-09-10T01:15:10.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2026/09/04/65/PCM20260904000065063_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "YG엔터, 군산서 다음달 2∼31일 '프로젝트 유어사이드' 전시",
-          "link": "https://www.yna.co.kr/view/AKR20260910040300055",
-          "summary": "(군산=연합뉴스) 김진방 기자 = YG엔터테인먼트는 전북 군산문화관광재단과 함께 다음 달 2∼31일 군산회관과 군산항1981 일원에서 '프로젝트...",
-          "publishedAt": "2026-09-10T00:38:56.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910040300055_02_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
+          "score": 4.3
         }
       ]
     }
