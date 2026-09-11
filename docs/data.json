@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-11T03:06:57.657Z",
+  "builtAt": "2026-09-11T09:06:46.126Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,60 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 339,
+      "poolSize": 331,
       "items": [
+        {
+          "title": "전쟁 장기화에 불안한 시장…코스피 내리고, 금리·환율 상승(종합2보)",
+          "link": "https://www.yna.co.kr/view/AKR20260911135752008",
+          "summary": "(서울=연합뉴스) 임은진 강수지 기자 = 미국과 이란 간 전쟁이 길어지면서 시장의 불안도가 높아지고 있다.",
+          "publishedAt": "2026-09-11T08:23:24.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/11/PYH2026091112740001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "유가·미 국채 금리에 국고채 금리 급등…3년물 3년 만에 4%대",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008749228",
+          "summary": "오늘 국고채 금리가 일제히 상승하며, 초장기물을 제외한 모든 만기에서 연고점을 경신했습니다.간밤 미국 국채금리가 유가 상승과 재정 우려에 급등한…",
+          "publishedAt": "2026-09-11T08:22:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260911/202221527_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "고유가·미 금리 인상 우려에…환율, 6.7원 오른 1,345.9원",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008749165",
+          "summary": "▲ 11일 서울 중구 하나은행 딜링룸 현황판에 코스피와 코스닥지수 등이 표시되고 있다. 이날 코스피는 전 거래일 대비 124.01포인…",
+          "publishedAt": "2026-09-11T07:47:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260911/202221501_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "[외환] 원/달러 환율 6.7원 오른 1,345.9원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20260911117600002",
+          "summary": "(",
+          "publishedAt": "2026-09-11T06:34:42.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911117600002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "美 경유값 사상 첫 6달러 돌파…중간선거 앞두고 물가 부담",
           "link": "https://www.yna.co.kr/view/AKR20260911066300009",
@@ -25,59 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
-        },
-        {
-          "title": "미국 인플레 우려에…원/달러 환율 1,350원 육박",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008748380",
-          "summary": "▲ 11일 서울 중구 하나은행 본점 딜링룸에서 직원들이 업무를 보고 있다. 이날 코스피는 전장보다 231.42포인트 내린 6,802.…",
-          "publishedAt": "2026-09-11T00:58:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260911/202221385_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "중앙은행 떠난 미 국채시장…민간 투자자 금리 요구 높여",
-          "link": "https://www.hankyung.com/article/202609117985i",
-          "summary": "",
-          "publishedAt": "2026-09-10T23:27:43.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
           "score": 7.4
-        },
-        {
-          "title": "유가·국채금리 급등에 무너진 투심…美 3대증시 하락 [월가월부]",
-          "link": "https://www.mk.co.kr/news/economy/12150011",
-          "summary": "호르무즈·홍해 봉쇄 우려에 브렌트유·WTI 100달러 돌파이란전쟁이 확전과 장기전 양상으로 흘러가면서 국제유가가 또다시 100달러를 돌파하며 인플레이션 우려가 확산되는 가운데 미..",
-          "publishedAt": "2026-09-10T20:35:14.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260911.5c4fd902e11241298df5599e90d16b95_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "ECB 올해 두번째 금리 인상…유럽 국채금리 급등(종합2보)",
-          "link": "https://www.yna.co.kr/view/AKR20260910169653085",
-          "summary": "(런던=연합뉴스) 김지연 특파원 = 유럽중앙은행(ECB)이 10일(현지시간) 에너지 가격을 비롯한 물가 상승에 대응해 3대 정책금리를 0.25%...",
-          "publishedAt": "2026-09-10T16:27:37.000Z",
-          "image": "https://img.yna.co.kr/photo/ap/2026/04/05/PAP20260405017001009_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
         }
       ]
     },
@@ -95,6 +95,32 @@
       "poolSize": 201,
       "items": [
         {
+          "title": "오송 보건의료행정타운 불자연합회, 동국대 혜성스님 초청 법회 봉행",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106126",
+          "summary": "오송보건의료행정타운 불자연합회가 오늘 행정타운 내 후생관 국제회의실에서 정기 법회를 열고 회원들의 신심을 다졌습니다.이번 법회는 삼귀의와 반야심경에 이어 혜성스님 법문, 발원문 낭독, 사홍서원, 기념촬영 등으로 진행됐습니다. 평소보다 젊은 불자회원들이 많이 참여한 이날 법회는 혜성스님의 쉽고 재미있는 법문으로 큰 호응을 얻었습니다. 이 자리에서 혜성스님은…",
+          "publishedAt": "2026-09-11T17:51:11.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
+        },
+        {
+          "title": "'반야의 지혜' 양산 통도사 금강계단",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106091",
+          "summary": "안녕하십니까. 문화재위원 대구한의대학교 한문화건축연구소의 최영식 교수입니다. 오늘은 ‘양산 통도사 금강계단’에 대해서 알아보도록 하겠습니다.통도사의 금강계단은 연못을 메우고 그 자리에 건립한 대웅전 바로 뒤에 위치해 있으며, 이곳은 통도사 가람의 중심을 이루고 있습니다.금강계단의 금강金剛이라는 말은 금강석을 의미합니다. 어떤 것도 금강석을 깨뜨릴 수는 없지…",
+          "publishedAt": "2026-09-11T16:25:34.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
+        },
+        {
           "title": "[법인 스님의 문자 반야] 56. 부증불감(不增不減)",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505261",
           "summary": "〈반야심경〉은 “시제법공상 불생불멸 불구부정 부증불감”이라고 선언한다. 모든 현상의 참모습인 공상(空相)의 자리에서는 생겨남도 소멸함도 없고, 더러움도 깨끗함도 없으며, 늘어남도 줄어듦도 없다는 뜻이다. 그러나 많은 사람은 이 구절을 치열한 삶과 수행을 부정하는 허무주의로 오해한다.하지만 부증불감은 삶의 변화를 가로막는 가르침이 아니다. 오히려 고정된 실체…",
@@ -105,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "‘선정 수행’·‘지혜 계발’, 함께 닦는지 따로 닦는지 묻는다",
@@ -118,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4.2
         },
         {
           "title": "도표로 정리한 방대한 화엄 세계",
@@ -131,33 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
-        },
-        {
-          "title": "2600년 전 ‘마음의 지도’로 오늘의 길을 묻다",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337742",
-          "summary": "분노와 불안, 욕망과 허무가 쉼 없이 교차한다. 정보와 선택지는 넘쳐나지만 정작 ‘어떻게 살아야 하는가’라는 질문에는 답하기 어려운 시대다. 고전평론가 고미숙이 이런 혼돈 속에서 펼쳐 든 것은 2600여 년 전 초기불교 경전 ‘숫따니빠따’다. 그리고 이 책 ‘숫따니빠따와 마음의 지도’는 오래된 경전을 오늘의 삶 한가운데로 불러내 우리가 어디에 서 있고 어디…",
-          "publishedAt": "2026-09-11T10:25:22.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.2
-        },
-        {
-          "title": "인류는 스스로 피의자고 피해자다",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337736",
-          "summary": "애초에 인류는 세계를 파괴하고 종말의 목적으로 설계되어 있는 듯 하다. 동양의 종교는 말법시대로 서양 종교는 종말로 종결하고 있다. 중요한 것은 결국은 인류가 파괴의 피의자라는 것이다. ‘아함경’ ‘세기경’에서 겁이라는 거대한 시간의 흐름에서 성주괴공의 순환적 우주관을 말한다. 성겁(成劫)은 우주 세계가 생기고, 주겁(住劫)은 일정기간 유지되고. 괴겁(壞劫…",
-          "publishedAt": "2026-09-11T10:14:02.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.1
+          "score": 3
         }
       ]
     },
@@ -188,19 +188,6 @@
           "score": 6
         },
         {
-          "title": "창원대, 한인 이주사 조사 하와이·캘리포니아·우즈베크로 확대…독립유공자·이민 선조 묘소 확인",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210120",
-          "summary": "국립창원대 한인디아스포라발굴조사단이 최근 하와이에서 미국 본토, 중앙아시아 우즈베키스탄까지 조사 범위를 넓히며 한인 이주사 연구의 지평을 넓혔다. 이들은 현지에서 독립유공자와 초기 한인 이민 선조들의 묘소, 유적, 문헌, 구술자료를 수집하는 동시에, 묘비 3D 스캔과 GPS 위치 기록 등 디지털 인문학 연구를 위한 기초자료도 구축했다. 조사단은 8월 4일부…",
-          "publishedAt": "2026-09-10T17:20:46.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 5.8
-        },
-        {
           "title": "Hyena Ethics: When Harming Others Feels Righteous and Pleasing",
           "link": "https://3quarksdaily.com/3quarksdaily/2026/09/hyena-ethics-when-harming-others-feels-righteous-and-pleasing.html",
           "summary": "by Daniel Gauss Metaphorically, if hippo ethics is the impulse to respond to suffering with compassion, hyena ethics is the impulse to enjoy, justify or morally authorize suffering. Harm toward anothe…",
@@ -212,7 +199,7 @@
             "philosophy",
             "art"
           ],
-          "score": 5.6
+          "score": 5.5
         },
         {
           "title": "Free to Be Experimental Philosophy",
@@ -239,6 +226,19 @@
             "philosophy"
           ],
           "score": 4.5
+        },
+        {
+          "title": "Philosopher’s Annual for 2025",
+          "link": "https://dailynous.com/2026/08/30/philosophers-annual-for-2025/",
+          "summary": "The articles that made it into the latest edition of Philosophers Annual have been announced. The list aims to “select the ten best articles published in philosophy each year—an attempt as simple to s…",
+          "publishedAt": "2026-08-31T02:41:07.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/08/ten-aces-1024x757.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
         }
       ]
     },
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 211,
+      "poolSize": 207,
       "items": [
         {
           "title": "[대전소식] 대전시립미술관 일원서 야간관광을…19일 밤밤페스타",
@@ -266,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.4
+          "score": 7.3
         },
         {
           "title": "스마트폰으로 살려낸 보화각…간송미술관 VR로 상시 관람",
@@ -279,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.9
+          "score": 5.8
         },
         {
           "title": "“못 봐도 본 것이나 다름없다?”···구정아의 아리송한 ‘우스모스’",
@@ -292,14 +292,14 @@
           "candidates": [
             "art"
           ],
-          "score": 5.1
+          "score": 5
         },
         {
-          "title": "작가란 무엇인가…'소설 기계' 김경욱의 '소설가 소설'",
-          "link": "https://www.yna.co.kr/view/AKR20260911072900005",
-          "summary": "(서울=연합뉴스) 김기훈 기자 = 소설가 김경욱(55)은 문단의 소문난 '별명 부자'다.",
-          "publishedAt": "2026-09-11T02:24:12.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911072900005_02_i_P2.jpg",
+          "title": "[담양소식] 산림청과 남도정원비엔날레 성공 개최 협력",
+          "link": "https://www.yna.co.kr/view/AKR20260911128900054",
+          "summary": "(담양=연합뉴스) ▲ 전남광주시 담양군은 산림청과 간담회를 열고 2027년 남도정원비엔날레 성공 개최와 정원문화 활성화를 위한 협력 방안을 논의...",
+          "publishedAt": "2026-09-11T07:18:43.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911128900054_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -308,17 +308,17 @@
           "score": 4.5
         },
         {
-          "title": "‘탄생 100주년’ 박경리의 대하소설 ‘토지’···그림 30점으로 읽어볼까",
-          "link": "https://www.khan.co.kr/article/202609111108001/",
-          "summary": "올해는 박경리 작가(1926~2008)의 탄생 100주년이다. 그의 대표작 <토지>를 그림으로 만나는 문학그림전 ‘하늘의 빛, 땅의 빛’이 선보인다.서울 교보문고 광화문점 교보아트스페이스에서는 대하소설 <토지>를 그림으로 재해석한 전시가 다음 달 27일까지 열린다. 길현, 김선두, 박문종, 홍승희 등 화가 8명이 참여해 <토지&g···",
-          "publishedAt": "2026-09-11T02:08:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "전주독서대전 개막…나태주·정세랑·이금희 작가 초청",
+          "link": "https://www.yna.co.kr/view/AKR20260911111700055",
+          "summary": "(전주=연합뉴스) 김동철 기자 = 대한민국 대표 독서출판문화축제인 '제9회 전주독서대전'이 11일 전북 전주한벽문화관 일원에서 막을 올렸다.",
+          "publishedAt": "2026-09-11T06:28:42.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911111700055_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.4
         }
       ]
     }
