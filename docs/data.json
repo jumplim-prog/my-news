@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-11T09:06:46.126Z",
+  "builtAt": "2026-09-11T21:06:08.851Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 331,
+      "poolSize": 333,
       "items": [
+        {
+          "title": "미국 8월 소비자물가 전년 대비 3.4% 상승···기준금리 인상할까",
+          "link": "https://www.khan.co.kr/article/202609112210001/",
+          "summary": "미국의 한 식료품점에서 계산원이 식료품을 계산하고 있다. AP연합뉴스미국 노동부 노동통계국은 8월 미국의 소비자물가지수(CPI)가 전년 동월 대비 3.4% 상승했다고 11일(현지시간) 밝혔다.전월 대비 상승률은 0.4%로, 전년·전월 대비 모두 전문가 전망치에 부합했다.변동성이 큰 에너지·식품을 제외한 근원 CPI는 전년 대비 2.4%, 전월 대비 0.3%…",
+          "publishedAt": "2026-09-11T13:10:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
         {
           "title": "전쟁 장기화에 불안한 시장…코스피 내리고, 금리·환율 상승(종합2보)",
           "link": "https://www.yna.co.kr/view/AKR20260911135752008",
@@ -25,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "유가·미 국채 금리에 국고채 금리 급등…3년물 3년 만에 4%대",
@@ -38,20 +51,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
-          "title": "고유가·미 금리 인상 우려에…환율, 6.7원 오른 1,345.9원",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008749165",
-          "summary": "▲ 11일 서울 중구 하나은행 딜링룸 현황판에 코스피와 코스닥지수 등이 표시되고 있다. 이날 코스피는 전 거래일 대비 124.01포인…",
-          "publishedAt": "2026-09-11T07:47:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260911/202221501_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
+          "title": "고유가·미 금리인상 우려에…환율, 6.7원 오른 1,345.9원",
+          "link": "https://www.yna.co.kr/view/AKR20260911125100002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율은 11일 미국 금리인상 우려와 중동 지역 긴장에 따른 국제유가 급등 등의 영향으로 상승했다.",
+          "publishedAt": "2026-09-11T07:32:03.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/11/PYH2026091112880001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "[외환] 원/달러 환율 6.7원 오른 1,345.9원(15:30 기준가)",
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
-        },
-        {
-          "title": "美 경유값 사상 첫 6달러 돌파…중간선거 앞두고 물가 부담",
-          "link": "https://www.yna.co.kr/view/AKR20260911066300009",
-          "summary": "(서울=연합뉴스) 정주호 기자 = 미국의 경유 가격이 갤런당 6달러를 넘어서며 사상 최고치를 새로 썼다.",
-          "publishedAt": "2026-09-11T02:05:57.000Z",
-          "image": "https://img.yna.co.kr/photo/ap/2026/09/11/PAP20260911162701009_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
+          "score": 7.2
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 201,
+      "poolSize": 196,
       "items": [
         {
           "title": "오송 보건의료행정타운 불자연합회, 동국대 혜성스님 초청 법회 봉행",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.4
         },
         {
           "title": "'반야의 지혜' 양산 통도사 금강계단",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.4
         },
         {
           "title": "[법인 스님의 문자 반야] 56. 부증불감(不增不減)",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "‘선정 수행’·‘지혜 계발’, 함께 닦는지 따로 닦는지 묻는다",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 3.9
         },
         {
           "title": "도표로 정리한 방대한 화엄 세계",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.8
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 151,
+      "poolSize": 149,
       "items": [
         {
           "title": "Adversarial Collaboration in Philosophy (guest post)",
@@ -199,7 +199,7 @@
             "philosophy",
             "art"
           ],
-          "score": 5.5
+          "score": 5.3
         },
         {
           "title": "Free to Be Experimental Philosophy",
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 207,
+      "poolSize": 202,
       "items": [
         {
           "title": "[대전소식] 대전시립미술관 일원서 야간관광을…19일 밤밤페스타",
@@ -266,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
+          "score": 7.1
         },
         {
           "title": "스마트폰으로 살려낸 보화각…간송미술관 VR로 상시 관람",
@@ -279,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
+          "score": 5.6
         },
         {
           "title": "“못 봐도 본 것이나 다름없다?”···구정아의 아리송한 ‘우스모스’",
@@ -292,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5
+          "score": 4.7
         },
         {
           "title": "[담양소식] 산림청과 남도정원비엔날레 성공 개최 협력",
@@ -305,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "전주독서대전 개막…나태주·정세랑·이금희 작가 초청",
@@ -318,7 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         }
       ]
     }
