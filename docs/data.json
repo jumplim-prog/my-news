@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-10T21:06:10.403Z",
+  "builtAt": "2026-09-11T03:06:57.657Z",
   "cards": [
     {
       "id": "econ",
@@ -15,7 +15,46 @@
       "poolSize": 339,
       "items": [
         {
-          "title": "유가·국채금리 급등에 무너진 투심...美 3대증시 하락 [월가월부]",
+          "title": "美 경유값 사상 첫 6달러 돌파…중간선거 앞두고 물가 부담",
+          "link": "https://www.yna.co.kr/view/AKR20260911066300009",
+          "summary": "(서울=연합뉴스) 정주호 기자 = 미국의 경유 가격이 갤런당 6달러를 넘어서며 사상 최고치를 새로 썼다.",
+          "publishedAt": "2026-09-11T02:05:57.000Z",
+          "image": "https://img.yna.co.kr/photo/ap/2026/09/11/PAP20260911162701009_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "미국 인플레 우려에…원/달러 환율 1,350원 육박",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008748380",
+          "summary": "▲ 11일 서울 중구 하나은행 본점 딜링룸에서 직원들이 업무를 보고 있다. 이날 코스피는 전장보다 231.42포인트 내린 6,802.…",
+          "publishedAt": "2026-09-11T00:58:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260911/202221385_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "중앙은행 떠난 미 국채시장…민간 투자자 금리 요구 높여",
+          "link": "https://www.hankyung.com/article/202609117985i",
+          "summary": "",
+          "publishedAt": "2026-09-10T23:27:43.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "유가·국채금리 급등에 무너진 투심…美 3대증시 하락 [월가월부]",
           "link": "https://www.mk.co.kr/news/economy/12150011",
           "summary": "호르무즈·홍해 봉쇄 우려에 브렌트유·WTI 100달러 돌파이란전쟁이 확전과 장기전 양상으로 흘러가면서 국제유가가 또다시 100달러를 돌파하며 인플레이션 우려가 확산되는 가운데 미..",
           "publishedAt": "2026-09-10T20:35:14.000Z",
@@ -25,55 +64,16 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
           "title": "ECB 올해 두번째 금리 인상…유럽 국채금리 급등(종합2보)",
           "link": "https://www.yna.co.kr/view/AKR20260910169653085",
           "summary": "(런던=연합뉴스) 김지연 특파원 = 유럽중앙은행(ECB)이 10일(현지시간) 에너지 가격을 비롯한 물가 상승에 대응해 3대 정책금리를 0.25%...",
           "publishedAt": "2026-09-10T16:27:37.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910169653085_01_i_P2.jpg",
+          "image": "https://img.yna.co.kr/photo/ap/2026/04/05/PAP20260405017001009_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "미국 국채 30년 금리 5.35% 기록···2007년 이후 최고치",
-          "link": "https://www.khan.co.kr/article/202609102234001/",
-          "summary": "10년물 금리 4.9% 넘어9일(현지시간) 미국 뉴욕증권거래소(NYSE) 앞을 지나는 사람들. AFP연합뉴스미국의 30년물 국채 금리가 5.35%까지 치솟으며 2007년 이후 최고치를 기록했다. 미국 국채 10년물 금리도 4.9%를 넘어 ‘심리적 저항선’인 5%에 바짝 다가섰다.10일(현지시간) 블룸버그통신에 따르면 이날 미 국채 30년물 금리는 장중 5.…",
-          "publishedAt": "2026-09-10T13:34:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
-        },
-        {
-          "title": "[속보] 美 30년물 국채금리 5.35%로 급등…2007년 이후 최고",
-          "link": "https://www.hankyung.com/article/2026091076667",
-          "summary": "",
-          "publishedAt": "2026-09-10T13:21:30.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
-        },
-        {
-          "title": "WTI 100달러 넘자 10년물 미국채 수익률 4.9% 돌파",
-          "link": "https://www.hankyung.com/article/202609107646i",
-          "summary": "",
-          "publishedAt": "2026-09-10T13:15:14.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
@@ -92,8 +92,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 192,
+      "poolSize": 201,
       "items": [
+        {
+          "title": "[법인 스님의 문자 반야] 56. 부증불감(不增不減)",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505261",
+          "summary": "〈반야심경〉은 “시제법공상 불생불멸 불구부정 부증불감”이라고 선언한다. 모든 현상의 참모습인 공상(空相)의 자리에서는 생겨남도 소멸함도 없고, 더러움도 깨끗함도 없으며, 늘어남도 줄어듦도 없다는 뜻이다. 그러나 많은 사람은 이 구절을 치열한 삶과 수행을 부정하는 허무주의로 오해한다.하지만 부증불감은 삶의 변화를 가로막는 가르침이 아니다. 오히려 고정된 실체…",
+          "publishedAt": "2026-09-11T10:41:24.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
+        },
         {
           "title": "‘선정 수행’·‘지혜 계발’, 함께 닦는지 따로 닦는지 묻는다",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=337724",
@@ -105,59 +118,46 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
-          "title": "호국연무사 수계법회 봉행...장병 2000여 명에 오계 전해",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442076",
-          "summary": "육군훈련소 호국연무사(주지 혜총스님)는 9월5일 연무관에서 중앙종회의장 주경스님을 전계사로 수계법회를 봉행했다. 훈련장병 2000여 명이 동참한 법회는 삼귀의와 반야심경 봉독, 청성, 청법가, 청사와 개도, 법문, 참회와 연비의식, 계첩 수여, 후원금 전달, 사홍서원 등의 순으로 진행됐다.특히 이번 수계법회는 부산 내원정사가 호국연무사에 수계지원금 2000…",
-          "publishedAt": "2026-09-08T14:13:15.000Z",
+          "title": "도표로 정리한 방대한 화엄 세계",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505266",
+          "summary": "대승 경전 가운데서도 널리 알려진 〈화엄경〉의 본래 이름은 〈대방광불화엄경(大方廣佛華嚴經)〉이다. ‘위대한 부처님을 꽃으로 아름답게 장식한 경전’이라는 뜻이다. 동아시아 불교사상의 꽃으로 꼽힐 만큼 깊은 사상적 체계를 자랑하며, 일체유심조(一切唯心造)·법계연기(法界緣起) 등 핵심 사상부터 보살 수행에 이르기까지 대승불교의 거대한 세계를 담고 있다. 우리나라…",
+          "publishedAt": "2026-09-11T10:51:45.000Z",
           "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.4
+          "score": 3.2
         },
         {
-          "title": "<79>자신의 단점에 견주어 타인을 이쁘게 보라",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442187",
-          "summary": "자신과 다른 성향의 사람을 어리석다고 비난하면서 자신은 ‘진리에 도달한 완성자’라고 말하는 이가 있다. 스스로를 ‘진리의 사도(使徒)’라고 자처하면서 다른 사람을 멸시하고, 자만에 빠져 있다. #888이 게송을 보는 순간, 을 떠올렸다. 부처님께서 법문을 시작하기 전, 5000명의 사부대중이 자리를 박차고 일어나 나가버린다. 부처님의 가르침을 거부하고, 회…",
-          "publishedAt": "2026-09-10T09:51:11.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.8
-        },
-        {
-          "title": "김해 동림선원, 아원 스님 그림 초대전 ‘울림’ 개막",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337711",
-          "summary": "경남 김해 동림선원의 문화공간 동림 1층 반야홀에서 아원스님의 초대전 ‘울림’이 막을 올렸다.이번 전시는 동림선원과 (재)은암문화재단(주지·이사장 신공 스님)이 공동 주최했으며, 9월 5일시작해 오는 10월 2일까지 이어진다. 관람 시간은 오전 9시부터 오후 5시까지다. 전시에서는 관세음보살과 참선 수행자를 형상화한 작품부터 관람객의 사색을 이끄는 추상화까…",
-          "publishedAt": "2026-09-09T23:24:45.000Z",
+          "title": "2600년 전 ‘마음의 지도’로 오늘의 길을 묻다",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337742",
+          "summary": "분노와 불안, 욕망과 허무가 쉼 없이 교차한다. 정보와 선택지는 넘쳐나지만 정작 ‘어떻게 살아야 하는가’라는 질문에는 답하기 어려운 시대다. 고전평론가 고미숙이 이런 혼돈 속에서 펼쳐 든 것은 2600여 년 전 초기불교 경전 ‘숫따니빠따’다. 그리고 이 책 ‘숫따니빠따와 마음의 지도’는 오래된 경전을 오늘의 삶 한가운데로 불러내 우리가 어디에 서 있고 어디…",
+          "publishedAt": "2026-09-11T10:25:22.000Z",
           "image": "",
           "sourceName": "법보신문",
           "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.5
+          "score": 3.2
         },
         {
-          "title": "동국대 인도철학동문회, 송광사서 인도철학과 재건 발원",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337710",
-          "summary": "동국대 인도철학동문회(회장 선일 스님) 임원단이 인도철학과 재건을 발원하며 삼보사찰 순례 기도법회를 회향했다.동문회는 9월 7일 승보사찰 송광사를 찾아 인도철학과 재건 기도법회를 봉행했다. 이번 법회는 지난 6월 남해 보리암을 시작으로 통도사와 해인사를 거쳐 진행해온 순례의 마지막 삼보사찰 기도법회다. 동문회장 선일 스님은 법문에서 “인도철학의 발전은 한국…",
-          "publishedAt": "2026-09-09T20:47:34.000Z",
+          "title": "인류는 스스로 피의자고 피해자다",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337736",
+          "summary": "애초에 인류는 세계를 파괴하고 종말의 목적으로 설계되어 있는 듯 하다. 동양의 종교는 말법시대로 서양 종교는 종말로 종결하고 있다. 중요한 것은 결국은 인류가 파괴의 피의자라는 것이다. ‘아함경’ ‘세기경’에서 겁이라는 거대한 시간의 흐름에서 성주괴공의 순환적 우주관을 말한다. 성겁(成劫)은 우주 세계가 생기고, 주겁(住劫)은 일정기간 유지되고. 괴겁(壞劫…",
+          "publishedAt": "2026-09-11T10:14:02.000Z",
           "image": "",
           "sourceName": "법보신문",
           "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.5
+          "score": 3.1
         }
       ]
     },
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.9
+          "score": 5.8
         },
         {
           "title": "Hyena Ethics: When Harming Others Feels Righteous and Pleasing",
@@ -212,7 +212,7 @@
             "philosophy",
             "art"
           ],
-          "score": 5.8
+          "score": 5.6
         },
         {
           "title": "Free to Be Experimental Philosophy",
@@ -253,20 +253,33 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 209,
+      "poolSize": 211,
       "items": [
         {
-          "title": "완주 작가 6인 회화·설치미술 전시회…누에아트홀서 내달까지",
-          "link": "https://www.yna.co.kr/view/AKR20260910116500055",
-          "summary": "(완주=연합뉴스) 최영수 기자 = 전북 완주군 문화관광재단은 미술작가 6명의 작품 전시회 '예술가는 어떤 세상을 사는가'를 10월 3일까지 용진...",
-          "publishedAt": "2026-09-10T05:58:34.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910116500055_02_i_P2.jpg",
+          "title": "[대전소식] 대전시립미술관 일원서 야간관광을…19일 밤밤페스타",
+          "link": "https://www.yna.co.kr/view/AKR20260911040600063",
+          "summary": "(대전=연합뉴스) 대전시는 오는 19일 오후 6시 대전시립미술관 일원에서 '2026 대한민국 밤밤페스타 in 대전'을 개최한다고 11일 밝혔다....",
+          "publishedAt": "2026-09-11T00:29:38.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911040600063_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 7.2
+          "score": 7.4
+        },
+        {
+          "title": "스마트폰으로 살려낸 보화각…간송미술관 VR로 상시 관람",
+          "link": "https://www.yna.co.kr/view/AKR20260911043300017",
+          "summary": "(서울=연합뉴스) 오지은 기자 = 네이버의 선행기술 연구개발 자회사 네이버랩스와 간송미술문화재단은 간송미술관의 주요 전시 공간과 소장품을 가상현...",
+          "publishedAt": "2026-09-11T00:40:18.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911043300017_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 5.9
         },
         {
           "title": "“못 봐도 본 것이나 다름없다?”···구정아의 아리송한 ‘우스모스’",
@@ -279,46 +292,33 @@
           "candidates": [
             "art"
           ],
-          "score": 5.2
+          "score": 5.1
         },
         {
-          "title": "[전남광주소식] 아시아문화전당서 허영만 '식객: 맛의 뒤편' 전시",
-          "link": "https://www.yna.co.kr/view/AKR20260910157600054",
-          "summary": "(전남광주=연합뉴스) 국립아시아문화전당재단은 허영만 화백의 대표 만화를 주제로 한 '식객: 맛의 뒤편' 전시를 연다고 10일 밝혔다.",
-          "publishedAt": "2026-09-10T08:53:29.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910157600054_01_i_P2.jpg",
+          "title": "작가란 무엇인가…'소설 기계' 김경욱의 '소설가 소설'",
+          "link": "https://www.yna.co.kr/view/AKR20260911072900005",
+          "summary": "(서울=연합뉴스) 김기훈 기자 = 소설가 김경욱(55)은 문단의 소문난 '별명 부자'다.",
+          "publishedAt": "2026-09-11T02:24:12.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911072900005_02_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.2
+          "score": 4.5
         },
         {
-          "title": "\"조선 통감이 소장\" 추정 김홍도 그림, 日서 돌아와 경매에",
-          "link": "https://www.yna.co.kr/view/AKR20260910108900005",
-          "summary": "(서울=연합뉴스) 김예나 기자 = 조선 통감을 지낸 소네 아라스케(1849∼1910)가 과거 소장한 것으로 추정되는 단원 김홍도(1745∼180...",
-          "publishedAt": "2026-09-10T05:28:47.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910108900005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "‘탄생 100주년’ 박경리의 대하소설 ‘토지’···그림 30점으로 읽어볼까",
+          "link": "https://www.khan.co.kr/article/202609111108001/",
+          "summary": "올해는 박경리 작가(1926~2008)의 탄생 100주년이다. 그의 대표작 <토지>를 그림으로 만나는 문학그림전 ‘하늘의 빛, 땅의 빛’이 선보인다.서울 교보문고 광화문점 교보아트스페이스에서는 대하소설 <토지>를 그림으로 재해석한 전시가 다음 달 27일까지 열린다. 길현, 김선두, 박문종, 홍승희 등 화가 8명이 참여해 <토지&g···",
+          "publishedAt": "2026-09-11T02:08:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.2
-        },
-        {
-          "title": "강원의료기기전시회 수출계약 4천55만달러…역대 최대 규모",
-          "link": "https://www.yna.co.kr/view/AKR20260910057000062",
-          "summary": "(원주=연합뉴스) 임보연 기자 = 원주의료기기산업진흥원은 제22회 강원의료기기전시회(GMES 2026)가 역대 최대 규모로 열려 4천55만달러 ...",
-          "publishedAt": "2026-09-10T01:20:01.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910057000062_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.1
+          "score": 4.5
         }
       ]
     }
