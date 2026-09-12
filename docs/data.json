@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-11T21:06:08.851Z",
+  "builtAt": "2026-09-12T03:06:48.110Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 333,
+      "poolSize": 332,
       "items": [
         {
           "title": "미국 8월 소비자물가 전년 대비 3.4% 상승···기준금리 인상할까",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "전쟁 장기화에 불안한 시장…코스피 내리고, 금리·환율 상승(종합2보)",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.1
         },
         {
           "title": "유가·미 국채 금리에 국고채 금리 급등…3년물 3년 만에 4%대",
@@ -51,20 +51,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.1
         },
         {
-          "title": "고유가·미 금리인상 우려에…환율, 6.7원 오른 1,345.9원",
-          "link": "https://www.yna.co.kr/view/AKR20260911125100002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율은 11일 미국 금리인상 우려와 중동 지역 긴장에 따른 국제유가 급등 등의 영향으로 상승했다.",
-          "publishedAt": "2026-09-11T07:32:03.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/11/PYH2026091112880001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "고유가·미 금리 인상 우려에…환율, 6.7원 오른 1,345.9원",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008749165",
+          "summary": "▲ 11일 서울 중구 하나은행 딜링룸 현황판에 코스피와 코스닥지수 등이 표시되고 있다. 이날 코스피는 전 거래일 대비 124.01포인…",
+          "publishedAt": "2026-09-11T07:47:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260911/202221501_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.1
         },
         {
           "title": "[외환] 원/달러 환율 6.7원 오른 1,345.9원(15:30 기준가)",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.1
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 196,
+      "poolSize": 197,
       "items": [
         {
           "title": "오송 보건의료행정타운 불자연합회, 동국대 혜성스님 초청 법회 봉행",
@@ -105,20 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
-        },
-        {
-          "title": "'반야의 지혜' 양산 통도사 금강계단",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106091",
-          "summary": "안녕하십니까. 문화재위원 대구한의대학교 한문화건축연구소의 최영식 교수입니다. 오늘은 ‘양산 통도사 금강계단’에 대해서 알아보도록 하겠습니다.통도사의 금강계단은 연못을 메우고 그 자리에 건립한 대웅전 바로 뒤에 위치해 있으며, 이곳은 통도사 가람의 중심을 이루고 있습니다.금강계단의 금강金剛이라는 말은 금강석을 의미합니다. 어떤 것도 금강석을 깨뜨릴 수는 없지…",
-          "publishedAt": "2026-09-11T16:25:34.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "[법인 스님의 문자 반야] 56. 부증불감(不增不減)",
@@ -131,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4.2
         },
         {
           "title": "‘선정 수행’·‘지혜 계발’, 함께 닦는지 따로 닦는지 묻는다",
@@ -144,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.9
+          "score": 3.8
         },
         {
           "title": "도표로 정리한 방대한 화엄 세계",
@@ -157,7 +144,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
+          "score": 2.7
+        },
+        {
+          "title": "2600년 전 ‘마음의 지도’로 오늘의 길을 묻다",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337742",
+          "summary": "분노와 불안, 욕망과 허무가 쉼 없이 교차한다. 정보와 선택지는 넘쳐나지만 정작 ‘어떻게 살아야 하는가’라는 질문에는 답하기 어려운 시대다. 고전평론가 고미숙이 이런 혼돈 속에서 펼쳐 든 것은 2600여 년 전 초기불교 경전 ‘숫따니빠따’다. 그리고 이 책 ‘숫따니빠따와 마음의 지도’는 오래된 경전을 오늘의 삶 한가운데로 불러내 우리가 어디에 서 있고 어디…",
+          "publishedAt": "2026-09-11T10:25:22.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 2.7
         }
       ]
     },
@@ -199,7 +199,7 @@
             "philosophy",
             "art"
           ],
-          "score": 5.3
+          "score": 5.1
         },
         {
           "title": "Free to Be Experimental Philosophy",
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 202,
+      "poolSize": 201,
       "items": [
         {
           "title": "[대전소식] 대전시립미술관 일원서 야간관광을…19일 밤밤페스타",
@@ -266,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.1
+          "score": 6.9
         },
         {
           "title": "스마트폰으로 살려낸 보화각…간송미술관 VR로 상시 관람",
@@ -279,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.6
+          "score": 5.4
         },
         {
           "title": "“못 봐도 본 것이나 다름없다?”···구정아의 아리송한 ‘우스모스’",
@@ -292,7 +292,21 @@
           "candidates": [
             "art"
           ],
-          "score": 4.7
+          "score": 4.6
+        },
+        {
+          "title": "[금주핫템] 유시몰 '오리지널 치약 티 에디션'·LF 빈스 '26 FW 컬렉션",
+          "link": "https://www.yna.co.kr/view/AKR20260910107100030",
+          "summary": "▲ LG생활건강의 구강 관리 브랜드 유시몰은 1천450ppm의 고불소 처방에 영국의 차문화에서 영감을 얻은 향을 더한 '오리지널 치약 티 에디션...",
+          "publishedAt": "2026-09-11T22:00:11.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910107100030_04_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ",
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "[담양소식] 산림청과 남도정원비엔날레 성공 개최 협력",
@@ -305,20 +319,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.2
-        },
-        {
-          "title": "전주독서대전 개막…나태주·정세랑·이금희 작가 초청",
-          "link": "https://www.yna.co.kr/view/AKR20260911111700055",
-          "summary": "(전주=연합뉴스) 김동철 기자 = 대한민국 대표 독서출판문화축제인 '제9회 전주독서대전'이 11일 전북 전주한벽문화관 일원에서 막을 올렸다.",
-          "publishedAt": "2026-09-11T06:28:42.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911111700055_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.2
+          "score": 4.1
         }
       ]
     }
