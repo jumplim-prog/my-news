@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-12T09:06:50.311Z",
+  "builtAt": "2026-09-12T21:06:25.936Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 308,
+      "poolSize": 332,
       "items": [
+        {
+          "title": "3분기 원화 절상률 1위, 엔화의 3배…미·일 금리 결정에 주목",
+          "link": "https://www.yna.co.kr/view/AKR20260912043500002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율이 1,600원을 향하다가 두 달여 만에 1,300원대 중반까지 떨어지면서 3분기 원화 절상률이 ...",
+          "publishedAt": "2026-09-12T20:53:00.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/06/PYH2026090603870001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "미 연준 금리 올릴까 긴장 고조…당국, F4 회의 등 대응 착수",
+          "link": "https://www.yna.co.kr/view/AKR20260912039000002",
+          "summary": "(서울=연합뉴스) 배영경 강수련 기자 = 미국 기준금리 인상 가능성 확대와 국제유가 상승 등으로 세계 금융시장 불안이 고조되는 가운데 금융당국도...",
+          "publishedAt": "2026-09-12T20:52:00.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/04/30/PYH2026043001890001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "미국 8월 소비자물가 전년 대비 3.4% 상승···기준금리 인상할까",
           "link": "https://www.khan.co.kr/article/202609112210001/",
@@ -25,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.8
         },
         {
           "title": "전쟁 장기화에 불안한 시장…코스피 내리고, 금리·환율 상승(종합2보)",
@@ -38,46 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7
+          "score": 6.7
         },
         {
-          "title": "유가·美국채금리에 국고채 금리 급등…3년물 3년만에 4%대(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20260911135751008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 11일 국고채 금리가 일제히 상승하며, 초장기물을 제외한 모든 만기에서 연고점을 경신했다.",
-          "publishedAt": "2026-09-11T07:57:38.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911135751008_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "유가·미 국채 금리에 국고채 금리 급등…3년물 3년 만에 4%대",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008749228",
+          "summary": "오늘 국고채 금리가 일제히 상승하며, 초장기물을 제외한 모든 만기에서 연고점을 경신했습니다.간밤 미국 국채금리가 유가 상승과 재정 우려에 급등한…",
+          "publishedAt": "2026-09-11T08:22:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260911/202221527_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7
-        },
-        {
-          "title": "고유가·미 금리인상 우려에…환율, 6.7원 오른 1,345.9원",
-          "link": "https://www.yna.co.kr/view/AKR20260911125100002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율은 11일 미국 금리인상 우려와 중동 지역 긴장에 따른 국제유가 급등 등의 영향으로 상승했다.",
-          "publishedAt": "2026-09-11T07:32:03.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/11/PYH2026091112880001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7
-        },
-        {
-          "title": "[외환] 원/달러 환율 6.7원 오른 1,345.9원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20260911117600002",
-          "summary": "(",
-          "publishedAt": "2026-09-11T06:34:42.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911117600002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.9
+          "score": 6.7
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 200,
+      "poolSize": 185,
       "items": [
         {
           "title": "[법인 스님의 문자 반야] 56. 부증불감(不增不減)",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.8
         },
         {
           "title": "‘선정 수행’·‘지혜 계발’, 함께 닦는지 따로 닦는지 묻는다",
@@ -118,7 +118,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.4
+        },
+        {
+          "title": "BBS 만공회, 덕숭산 수덕사서 '선 트레킹' 국내 성지순례 진행",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106196",
+          "summary": "BBS 불교방송이 만공회 회원들과 함께 한국선불교의 중흥조인 경허·만공 스님을 배출한 덕숭산을 찾아 '선 트레킹'을 주제로 선의 진수를 체험하고 수행자들의 숨결이 살아있는 현장을 둘러보는 소중한 시간을 가졌습니다.이번 성지순례에는 180여 명의 만공회 회원들이 참여한 가운데, 홍대선원 선원장 준한 스님의 지도 아래 산사에서 마음을 비우는 '선 명상 트레킹'…",
+          "publishedAt": "2026-09-12T18:58:47.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3
         },
         {
           "title": "늘기쁜마을, ‘보현사상과 사회복지’ 주제로 제3회 세미나 개최",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.8
         },
         {
           "title": "도표로 정리한 방대한 화엄 세계",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.5
-        },
-        {
-          "title": "2600년 전 ‘마음의 지도’로 오늘의 길을 묻다",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337742",
-          "summary": "분노와 불안, 욕망과 허무가 쉼 없이 교차한다. 정보와 선택지는 넘쳐나지만 정작 ‘어떻게 살아야 하는가’라는 질문에는 답하기 어려운 시대다. 고전평론가 고미숙이 이런 혼돈 속에서 펼쳐 든 것은 2600여 년 전 초기불교 경전 ‘숫따니빠따’다. 그리고 이 책 ‘숫따니빠따와 마음의 지도’는 오래된 경전을 오늘의 삶 한가운데로 불러내 우리가 어디에 서 있고 어디…",
-          "publishedAt": "2026-09-11T10:25:22.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.5
+          "score": 2.3
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 149,
+      "poolSize": 150,
       "items": [
         {
           "title": "Adversarial Collaboration in Philosophy (guest post)",
@@ -199,16 +199,16 @@
             "philosophy",
             "art"
           ],
-          "score": 5
+          "score": 4.8
         },
         {
-          "title": "소크라테스의 법정 변론, 강렬한 랩으로 다시 태어나다",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210196",
-          "summary": "고대 그리스 철학자 소크라테스의 법정 변론이 강렬한 랩 음악과 2인극 구조의 창작뮤지컬로 다시 태어난다. 뮤지컬 「소크라테스 패러독스」(HJ컬쳐)는 소크라테스가 아테네 법정에서 자신을 고발한 멜레토스와 벌이는 논쟁을 중심으로 이야기를 펼친다. 철학적 질문과 논리를 랩 배틀 형식으로 풀어내며 관객에게 익숙한 공연 언어로 고전 철학을 새롭게 바라보게 한다. 공…",
-          "publishedAt": "2026-09-12T13:10:34.000Z",
+          "title": "Moral Learning",
+          "link": "https://plato.stanford.edu/entries/moral-learning/",
+          "summary": "[New Entry by Tamar Kushnir and Shaun Nichols on September 12, 2026.] In this piece moral learning is taken to comprise the acquisition of norms and values in the moral domain. The investigation of th…",
+          "publishedAt": "2026-09-13T00:16:47.000Z",
           "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
           "candidates": [
             "philosophy"
           ],
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 197,
+      "poolSize": 190,
       "items": [
         {
           "title": "[인터뷰] LA 찾은 웹툰 '지우학' 작가…\"좀비물 종주국의 반응 궁금\"",
@@ -266,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.1
         },
         {
           "title": "[금주핫템] 유시몰 '오리지널 치약 티 에디션'·LF 빈스 '26 FW 컬렉션",
@@ -280,7 +280,7 @@
             "econ",
             "art"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "[담양소식] 산림청과 남도정원비엔날레 성공 개최 협력",
@@ -293,7 +293,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 3.7
         },
         {
           "title": "전주독서대전 개막…나태주·정세랑·이금희 작가 초청",
@@ -306,7 +306,7 @@
           "candidates": [
             "art"
           ],
-          "score": 3.9
+          "score": 3.7
         },
         {
           "title": "작가란 무엇인가…'소설 기계' 김경욱의 '소설가 소설'",
@@ -319,7 +319,7 @@
           "candidates": [
             "art"
           ],
-          "score": 3.9
+          "score": 3.6
         }
       ]
     }
