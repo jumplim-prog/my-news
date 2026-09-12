@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-12T03:06:48.110Z",
+  "builtAt": "2026-09-12T09:06:50.311Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 332,
+      "poolSize": 308,
       "items": [
         {
           "title": "미국 8월 소비자물가 전년 대비 3.4% 상승···기준금리 인상할까",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.1
         },
         {
           "title": "전쟁 장기화에 불안한 시장…코스피 내리고, 금리·환율 상승(종합2보)",
@@ -38,33 +38,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 7
         },
         {
-          "title": "유가·미 국채 금리에 국고채 금리 급등…3년물 3년 만에 4%대",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008749228",
-          "summary": "오늘 국고채 금리가 일제히 상승하며, 초장기물을 제외한 모든 만기에서 연고점을 경신했습니다.간밤 미국 국채금리가 유가 상승과 재정 우려에 급등한…",
-          "publishedAt": "2026-09-11T08:22:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260911/202221527_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
+          "title": "유가·美국채금리에 국고채 금리 급등…3년물 3년만에 4%대(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20260911135751008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 11일 국고채 금리가 일제히 상승하며, 초장기물을 제외한 모든 만기에서 연고점을 경신했다.",
+          "publishedAt": "2026-09-11T07:57:38.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911135751008_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 7
         },
         {
-          "title": "고유가·미 금리 인상 우려에…환율, 6.7원 오른 1,345.9원",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008749165",
-          "summary": "▲ 11일 서울 중구 하나은행 딜링룸 현황판에 코스피와 코스닥지수 등이 표시되고 있다. 이날 코스피는 전 거래일 대비 124.01포인…",
-          "publishedAt": "2026-09-11T07:47:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260911/202221501_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
+          "title": "고유가·미 금리인상 우려에…환율, 6.7원 오른 1,345.9원",
+          "link": "https://www.yna.co.kr/view/AKR20260911125100002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율은 11일 미국 금리인상 우려와 중동 지역 긴장에 따른 국제유가 급등 등의 영향으로 상승했다.",
+          "publishedAt": "2026-09-11T07:32:03.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/11/PYH2026091112880001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 7
         },
         {
           "title": "[외환] 원/달러 환율 6.7원 오른 1,345.9원(15:30 기준가)",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.9
         }
       ]
     },
@@ -92,21 +92,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 197,
+      "poolSize": 200,
       "items": [
-        {
-          "title": "오송 보건의료행정타운 불자연합회, 동국대 혜성스님 초청 법회 봉행",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106126",
-          "summary": "오송보건의료행정타운 불자연합회가 오늘 행정타운 내 후생관 국제회의실에서 정기 법회를 열고 회원들의 신심을 다졌습니다.이번 법회는 삼귀의와 반야심경에 이어 혜성스님 법문, 발원문 낭독, 사홍서원, 기념촬영 등으로 진행됐습니다. 평소보다 젊은 불자회원들이 많이 참여한 이날 법회는 혜성스님의 쉽고 재미있는 법문으로 큰 호응을 얻었습니다. 이 자리에서 혜성스님은…",
-          "publishedAt": "2026-09-11T17:51:11.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.3
-        },
         {
           "title": "[법인 스님의 문자 반야] 56. 부증불감(不增不減)",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505261",
@@ -118,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
           "title": "‘선정 수행’·‘지혜 계발’, 함께 닦는지 따로 닦는지 묻는다",
@@ -131,7 +118,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.8
+          "score": 3.7
+        },
+        {
+          "title": "늘기쁜마을, ‘보현사상과 사회복지’ 주제로 제3회 세미나 개최",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442242",
+          "summary": "사회복지법인 늘기쁜마을(대표이사 지현스님)이 9월11일 부산 사하구 환희노인요양원 가동 5층 강당에서 보현사상과 사회복지를 주제로 ‘제3회 늘기쁜마을 사회복지연구위원회 세미나’를 개최했다.제3회 세미나는 대승불교의 핵심 실천 철학인 ‘보현행원’을 현대 사회복지 현장에 접목하고, 급변하는 시대 환경 속에서 실천적 가치와 대안을 모색하기 위해 마련됐다.세미나는…",
+          "publishedAt": "2026-09-12T09:26:18.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3
         },
         {
           "title": "도표로 정리한 방대한 화엄 세계",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.7
+          "score": 2.5
         },
         {
           "title": "2600년 전 ‘마음의 지도’로 오늘의 길을 묻다",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.7
+          "score": 2.5
         }
       ]
     },
@@ -199,7 +199,20 @@
             "philosophy",
             "art"
           ],
-          "score": 5.1
+          "score": 5
+        },
+        {
+          "title": "소크라테스의 법정 변론, 강렬한 랩으로 다시 태어나다",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210196",
+          "summary": "고대 그리스 철학자 소크라테스의 법정 변론이 강렬한 랩 음악과 2인극 구조의 창작뮤지컬로 다시 태어난다. 뮤지컬 「소크라테스 패러독스」(HJ컬쳐)는 소크라테스가 아테네 법정에서 자신을 고발한 멜레토스와 벌이는 논쟁을 중심으로 이야기를 펼친다. 철학적 질문과 논리를 랩 배틀 형식으로 풀어내며 관객에게 익숙한 공연 언어로 고전 철학을 새롭게 바라보게 한다. 공…",
+          "publishedAt": "2026-09-12T13:10:34.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.6
         },
         {
           "title": "Free to Be Experimental Philosophy",
@@ -226,19 +239,6 @@
             "philosophy"
           ],
           "score": 4.5
-        },
-        {
-          "title": "Philosopher’s Annual for 2025",
-          "link": "https://dailynous.com/2026/08/30/philosophers-annual-for-2025/",
-          "summary": "The articles that made it into the latest edition of Philosophers Annual have been announced. The list aims to “select the ten best articles published in philosophy each year—an attempt as simple to s…",
-          "publishedAt": "2026-08-31T02:41:07.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/08/ten-aces-1024x757.png",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.5
         }
       ]
     },
@@ -253,46 +253,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 201,
+      "poolSize": 197,
       "items": [
         {
-          "title": "[대전소식] 대전시립미술관 일원서 야간관광을…19일 밤밤페스타",
-          "link": "https://www.yna.co.kr/view/AKR20260911040600063",
-          "summary": "(대전=연합뉴스) 대전시는 오는 19일 오후 6시 대전시립미술관 일원에서 '2026 대한민국 밤밤페스타 in 대전'을 개최한다고 11일 밝혔다....",
-          "publishedAt": "2026-09-11T00:29:38.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911040600063_01_i_P2.jpg",
+          "title": "[인터뷰] LA 찾은 웹툰 '지우학' 작가…\"좀비물 종주국의 반응 궁금\"",
+          "link": "https://www.yna.co.kr/view/AKR20260912026200075",
+          "summary": "(로스앤젤레스=연합뉴스) 김경윤 특파원 = \"미국은 좀비물을 사랑하고, 좀비물에 자부심도 있는 나라라고 생각해요. '좀비물 종주국'에 초대돼서 ...",
+          "publishedAt": "2026-09-12T03:13:00.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/12/AKR20260912026200075_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 6.9
-        },
-        {
-          "title": "스마트폰으로 살려낸 보화각…간송미술관 VR로 상시 관람",
-          "link": "https://www.yna.co.kr/view/AKR20260911043300017",
-          "summary": "(서울=연합뉴스) 오지은 기자 = 네이버의 선행기술 연구개발 자회사 네이버랩스와 간송미술문화재단은 간송미술관의 주요 전시 공간과 소장품을 가상현...",
-          "publishedAt": "2026-09-11T00:40:18.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911043300017_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 5.4
-        },
-        {
-          "title": "“못 봐도 본 것이나 다름없다?”···구정아의 아리송한 ‘우스모스’",
-          "link": "https://www.khan.co.kr/article/202609091544001/",
-          "summary": "리움미술관 ‘구정아: 우스모스’돌 틈 크리스털부터 천장 모서리까지곳곳에 숨어 있는 35점자석·중력·향·인광…보이지 않는 힘으로 이어지는 30년 작업정해진 동선 대신 발견·놓침 자체가 관람 경험‘구정아: 우스모스’ 전시장에서 구정아 작가. 리움미술관 제공구정아 개인전 ‘구정아: 우스모스’의 전시 모습. 연합뉴스리움미술관에서 열리는 ‘구정아: 우스모스···",
-          "publishedAt": "2026-09-09T06:44:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.6
+          "score": 4.4
         },
         {
           "title": "[금주핫템] 유시몰 '오리지널 치약 티 에디션'·LF 빈스 '26 FW 컬렉션",
@@ -306,7 +280,7 @@
             "econ",
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "[담양소식] 산림청과 남도정원비엔날레 성공 개최 협력",
@@ -319,7 +293,33 @@
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 4
+        },
+        {
+          "title": "전주독서대전 개막…나태주·정세랑·이금희 작가 초청",
+          "link": "https://www.yna.co.kr/view/AKR20260911111700055",
+          "summary": "(전주=연합뉴스) 김동철 기자 = 대한민국 대표 독서출판문화축제인 '제9회 전주독서대전'이 11일 전북 전주한벽문화관 일원에서 막을 올렸다.",
+          "publishedAt": "2026-09-11T06:28:42.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911111700055_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 3.9
+        },
+        {
+          "title": "작가란 무엇인가…'소설 기계' 김경욱의 '소설가 소설'",
+          "link": "https://www.yna.co.kr/view/AKR20260911072900005",
+          "summary": "(서울=연합뉴스) 김기훈 기자 = 소설가 김경욱(55)은 문단의 소문난 '별명 부자'다.",
+          "publishedAt": "2026-09-11T02:24:12.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911072900005_02_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 3.9
         }
       ]
     }
