@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-12T21:06:25.936Z",
+  "builtAt": "2026-09-13T03:06:59.397Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 332,
+      "poolSize": 333,
       "items": [
+        {
+          "title": "채권시장 덮친 '유가 쇼크'…한은의 선제적 인상, 방파제되나",
+          "link": "https://www.yna.co.kr/view/AKR20260912024200008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 지난 7월과 8월 한국은행의 연속 기준금리 인상 이후 주춤했던 국내 채권금리가 다시 상승세로 돌아섰다. 미국과...",
+          "publishedAt": "2026-09-12T21:35:00.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/08/27/PYH2026082710400001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "유가 등 중동 악재에 눌린 코스피, 美 FOMC 금리결정 주시",
+          "link": "https://www.yna.co.kr/view/AKR20260912001200008",
+          "summary": "(서울=연합뉴스) 황철환 기자 = 지난 한 주 한국 주식시장에는 미국과 이란의 무력충돌 재격화에 따른 고유가와 미국 국채금리 급등의 파고가 몰아...",
+          "publishedAt": "2026-09-12T21:00:08.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/11/PYH2026091112810001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "3분기 원화 절상률 1위, 엔화의 3배…미·일 금리 결정에 주목",
           "link": "https://www.yna.co.kr/view/AKR20260912043500002",
@@ -25,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
           "title": "미 연준 금리 올릴까 긴장 고조…당국, F4 회의 등 대응 착수",
@@ -38,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
           "title": "미국 8월 소비자물가 전년 대비 3.4% 상승···기준금리 인상할까",
@@ -48,32 +74,6 @@
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.8
-        },
-        {
-          "title": "전쟁 장기화에 불안한 시장…코스피 내리고, 금리·환율 상승(종합2보)",
-          "link": "https://www.yna.co.kr/view/AKR20260911135752008",
-          "summary": "(서울=연합뉴스) 임은진 강수지 기자 = 미국과 이란 간 전쟁이 길어지면서 시장의 불안도가 높아지고 있다.",
-          "publishedAt": "2026-09-11T08:23:24.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/11/PYH2026091112740001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.7
-        },
-        {
-          "title": "유가·미 국채 금리에 국고채 금리 급등…3년물 3년 만에 4%대",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008749228",
-          "summary": "오늘 국고채 금리가 일제히 상승하며, 초장기물을 제외한 모든 만기에서 연고점을 경신했습니다.간밤 미국 국채금리가 유가 상승과 재정 우려에 급등한…",
-          "publishedAt": "2026-09-11T08:22:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260911/202221527_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
@@ -92,8 +92,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 185,
+      "poolSize": 189,
       "items": [
+        {
+          "title": "제주불교 4.3피해 추모사진전...'반야의 빛, 어둠을 밝히다' 열려",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106203",
+          "summary": "제주 불교계가 입은 4.3의 피해를 사진으로 추모하는 작품 전시회가 제주 도민들을 만납니다.사단법인 제주불교 4.3희생자 추모사업회가 주최하는 '제주불교 4.3 피해 추모 사진전 반야의 빛, 어둠을 밝히다'가 오늘(12일) 이룸 갤러리에서 개막식을 가지고 32점의 작품을 공개했습니다.이번 작품은 임관표, 원정희 작가가 직접 4.3 피해 사찰을 중심으로 사진…",
+          "publishedAt": "2026-09-12T23:04:13.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.4
+        },
         {
           "title": "[법인 스님의 문자 반야] 56. 부증불감(不增不減)",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505261",
@@ -105,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.8
+          "score": 3.7
         },
         {
           "title": "‘선정 수행’·‘지혜 계발’, 함께 닦는지 따로 닦는지 묻는다",
@@ -118,7 +131,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.4
+          "score": 3.3
+        },
+        {
+          "title": "지리산 벽송사, '벽송선원 무문관' 회향… 간화선 중흥 도량 거듭나",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106205",
+          "summary": "[앵커 멘트]조선시대 선불교의 종통을 잇는 지리산 천년고찰 함양 벽송사가 치열한 정진 공간인 ‘벽송선원 무문관’을 완공하고 낙성법회를 봉행했습니다.해인총림 방장 대원대종사를 비롯한 사부대중은 무문관 낙성을 계기로 벽송사가 간화선 수행의 근본 도량으로 우뚝 서기를 발원했습니다.BBS부산 조현제 기자가 보도합니다.[리포트]지리산 칠선계곡 입구, 조선 선불교의…",
+          "publishedAt": "2026-09-12T23:07:15.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 2.9
         },
         {
           "title": "BBS 만공회, 덕숭산 수덕사서 '선 트레킹' 국내 성지순례 진행",
@@ -131,33 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
-        },
-        {
-          "title": "늘기쁜마을, ‘보현사상과 사회복지’ 주제로 제3회 세미나 개최",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442242",
-          "summary": "사회복지법인 늘기쁜마을(대표이사 지현스님)이 9월11일 부산 사하구 환희노인요양원 가동 5층 강당에서 보현사상과 사회복지를 주제로 ‘제3회 늘기쁜마을 사회복지연구위원회 세미나’를 개최했다.제3회 세미나는 대승불교의 핵심 실천 철학인 ‘보현행원’을 현대 사회복지 현장에 접목하고, 급변하는 시대 환경 속에서 실천적 가치와 대안을 모색하기 위해 마련됐다.세미나는…",
-          "publishedAt": "2026-09-12T09:26:18.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
           "score": 2.8
-        },
-        {
-          "title": "도표로 정리한 방대한 화엄 세계",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505266",
-          "summary": "대승 경전 가운데서도 널리 알려진 〈화엄경〉의 본래 이름은 〈대방광불화엄경(大方廣佛華嚴經)〉이다. ‘위대한 부처님을 꽃으로 아름답게 장식한 경전’이라는 뜻이다. 동아시아 불교사상의 꽃으로 꼽힐 만큼 깊은 사상적 체계를 자랑하며, 일체유심조(一切唯心造)·법계연기(法界緣起) 등 핵심 사상부터 보살 수행에 이르기까지 대승불교의 거대한 세계를 담고 있다. 우리나라…",
-          "publishedAt": "2026-09-11T10:51:45.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.3
         }
       ]
     },
@@ -199,19 +199,6 @@
             "philosophy",
             "art"
           ],
-          "score": 4.8
-        },
-        {
-          "title": "Moral Learning",
-          "link": "https://plato.stanford.edu/entries/moral-learning/",
-          "summary": "[New Entry by Tamar Kushnir and Shaun Nichols on September 12, 2026.] In this piece moral learning is taken to comprise the acquisition of norms and values in the moral domain. The investigation of th…",
-          "publishedAt": "2026-09-13T00:16:47.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
           "score": 4.6
         },
         {
@@ -239,6 +226,19 @@
             "philosophy"
           ],
           "score": 4.5
+        },
+        {
+          "title": "Philosopher’s Annual for 2025",
+          "link": "https://dailynous.com/2026/08/30/philosophers-annual-for-2025/",
+          "summary": "The articles that made it into the latest edition of Philosophers Annual have been announced. The list aims to “select the ten best articles published in philosophy each year—an attempt as simple to s…",
+          "publishedAt": "2026-08-31T02:41:07.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/08/ten-aces-1024x757.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
         }
       ]
     },
@@ -253,8 +253,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 190,
+      "poolSize": 191,
       "items": [
+        {
+          "title": "세종 비엔날레 전시관 개관 기념 특별전 '세종과 남준'",
+          "link": "https://www.yna.co.kr/view/AKR20260913016700063",
+          "summary": "(세종=연합뉴스) 박주영 기자 = 세종시는 내달 9일부터 11월 8일까지 중앙공원 비엔날레 전시관에서 2026 한글문화특별기획전 '세종과 남준'...",
+          "publishedAt": "2026-09-13T00:45:07.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/13/AKR20260913016700063_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "성혜령 작가 \"'손절'의 시대…관계의 울퉁불퉁한 단면 관찰\"",
+          "link": "https://www.yna.co.kr/view/AKR20260912043400005",
+          "summary": "(서울=연합뉴스) 김기훈 기자 = 소설가 성혜령(37)의 작품 세계는 어딘가 불안하고 불편하다.",
+          "publishedAt": "2026-09-12T23:11:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/12/AKR20260912043400005_02_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
         {
           "title": "[인터뷰] LA 찾은 웹툰 '지우학' 작가…\"좀비물 종주국의 반응 궁금\"",
           "link": "https://www.yna.co.kr/view/AKR20260912026200075",
@@ -266,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 4
         },
         {
           "title": "[금주핫템] 유시몰 '오리지널 치약 티 에디션'·LF 빈스 '26 FW 컬렉션",
@@ -280,7 +306,7 @@
             "econ",
             "art"
           ],
-          "score": 4
+          "score": 3.9
         },
         {
           "title": "[담양소식] 산림청과 남도정원비엔날레 성공 개최 협력",
@@ -288,32 +314,6 @@
           "summary": "(담양=연합뉴스) ▲ 전남광주시 담양군은 산림청과 간담회를 열고 2027년 남도정원비엔날레 성공 개최와 정원문화 활성화를 위한 협력 방안을 논의...",
           "publishedAt": "2026-09-11T07:18:43.000Z",
           "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911128900054_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.7
-        },
-        {
-          "title": "전주독서대전 개막…나태주·정세랑·이금희 작가 초청",
-          "link": "https://www.yna.co.kr/view/AKR20260911111700055",
-          "summary": "(전주=연합뉴스) 김동철 기자 = 대한민국 대표 독서출판문화축제인 '제9회 전주독서대전'이 11일 전북 전주한벽문화관 일원에서 막을 올렸다.",
-          "publishedAt": "2026-09-11T06:28:42.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911111700055_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.7
-        },
-        {
-          "title": "작가란 무엇인가…'소설 기계' 김경욱의 '소설가 소설'",
-          "link": "https://www.yna.co.kr/view/AKR20260911072900005",
-          "summary": "(서울=연합뉴스) 김기훈 기자 = 소설가 김경욱(55)은 문단의 소문난 '별명 부자'다.",
-          "publishedAt": "2026-09-11T02:24:12.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911072900005_02_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
