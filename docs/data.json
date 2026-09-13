@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-13T03:06:59.397Z",
+  "builtAt": "2026-09-13T21:06:40.513Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,60 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 333,
+      "poolSize": 334,
       "items": [
+        {
+          "title": "트럼프 \"美, 연준 공식과 상관 없이 세계 최저금리 적용받아야\"(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20260913061851071",
+          "summary": "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 13일(현지시간) 이란 전쟁이 \"중간선거 직후, 어쩌면 그 전에, 끝날 것\"이...",
+          "publishedAt": "2026-09-13T16:09:17.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/13/AKR20260913061851071_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "기준금리 인상으로 기우는 추…미 국채 ‘10년물 금리’ 5% 넘나",
+          "link": "https://www.khan.co.kr/article/202609132026035/",
+          "summary": "연준, 이번주 결정…다시 치솟는 유가와 고용·물가지표 ‘압력’국내 국고채 금리 급등, 대출·주식 부담…17일 ‘F4 회의’로 대응이번주 미국 기준금리를 결정하는 연방준비제도(Fed·연준)의 연방공개시장위원회(FOMC)가 열린다. 국제유가가 배럴당 100달러까지 치솟으며 물가 상승 우려가 커지고 미국 10년 만기 국채 금리마저 5%에 바짝 다가서면서 연준이…",
+          "publishedAt": "2026-09-13T11:26:03.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
+        {
+          "title": "환율·채권, 주춤한 원·달러 환율 다시 오르나",
+          "link": "https://www.hankyung.com/article/2026091313171",
+          "summary": "",
+          "publishedAt": "2026-09-13T10:12:34.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
+        {
+          "title": "숨죽인 금융시장···미 10년물 국채 금리 5% 육박, 유가 100달러 돌파, 미국도 금리 올리나",
+          "link": "https://www.khan.co.kr/article/202609131557001/",
+          "summary": "케빈 워시 미국 연방준비제도(Fed) 신임 의장이 지난 6월17일(현지시간) 연방공개시장위원회(FOMC) 회의에서 금리 동결을 결정한 이후 기자간담회를 하고 있다. AP연합뉴스이번 주 미국 기준금리를 결정하는 연방준비제도(Fed)의 연방공개시장위원회(FOMC)가 열린다. 국제유가가 배럴당 100달러까지 치솟으며 물가 상승 우려가 커지고 미국 10년 만기 국…",
+          "publishedAt": "2026-09-13T06:57:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.2
+        },
         {
           "title": "채권시장 덮친 '유가 쇼크'…한은의 선제적 인상, 방파제되나",
           "link": "https://www.yna.co.kr/view/AKR20260912024200008",
@@ -25,59 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
-        },
-        {
-          "title": "유가 등 중동 악재에 눌린 코스피, 美 FOMC 금리결정 주시",
-          "link": "https://www.yna.co.kr/view/AKR20260912001200008",
-          "summary": "(서울=연합뉴스) 황철환 기자 = 지난 한 주 한국 주식시장에는 미국과 이란의 무력충돌 재격화에 따른 고유가와 미국 국채금리 급등의 파고가 몰아...",
-          "publishedAt": "2026-09-12T21:00:08.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/11/PYH2026091112810001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "3분기 원화 절상률 1위, 엔화의 3배…미·일 금리 결정에 주목",
-          "link": "https://www.yna.co.kr/view/AKR20260912043500002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율이 1,600원을 향하다가 두 달여 만에 1,300원대 중반까지 떨어지면서 3분기 원화 절상률이 ...",
-          "publishedAt": "2026-09-12T20:53:00.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/06/PYH2026090603870001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "미 연준 금리 올릴까 긴장 고조…당국, F4 회의 등 대응 착수",
-          "link": "https://www.yna.co.kr/view/AKR20260912039000002",
-          "summary": "(서울=연합뉴스) 배영경 강수련 기자 = 미국 기준금리 인상 가능성 확대와 국제유가 상승 등으로 세계 금융시장 불안이 고조되는 가운데 금융당국도...",
-          "publishedAt": "2026-09-12T20:52:00.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/04/30/PYH2026043001890001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "미국 8월 소비자물가 전년 대비 3.4% 상승···기준금리 인상할까",
-          "link": "https://www.khan.co.kr/article/202609112210001/",
-          "summary": "미국의 한 식료품점에서 계산원이 식료품을 계산하고 있다. AP연합뉴스미국 노동부 노동통계국은 8월 미국의 소비자물가지수(CPI)가 전년 동월 대비 3.4% 상승했다고 11일(현지시간) 밝혔다.전월 대비 상승률은 0.4%로, 전년·전월 대비 모두 전문가 전망치에 부합했다.변동성이 큰 에너지·식품을 제외한 근원 CPI는 전년 대비 2.4%, 전월 대비 0.3%…",
-          "publishedAt": "2026-09-11T13:10:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.7
+          "score": 7
         }
       ]
     },
@@ -92,20 +92,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 189,
+      "poolSize": 162,
       "items": [
         {
-          "title": "제주불교 4.3피해 추모사진전...'반야의 빛, 어둠을 밝히다' 열려",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106203",
-          "summary": "제주 불교계가 입은 4.3의 피해를 사진으로 추모하는 작품 전시회가 제주 도민들을 만납니다.사단법인 제주불교 4.3희생자 추모사업회가 주최하는 '제주불교 4.3 피해 추모 사진전 반야의 빛, 어둠을 밝히다'가 오늘(12일) 이룸 갤러리에서 개막식을 가지고 32점의 작품을 공개했습니다.이번 작품은 임관표, 원정희 작가가 직접 4.3 피해 사찰을 중심으로 사진…",
-          "publishedAt": "2026-09-12T23:04:13.000Z",
+          "title": "은해사, 2026년 '문중 합동 추모 다례재' 봉행",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106240",
+          "summary": "대한불교조계종 제10교구 본사 은해사가 13일 경내 육화원에서 역대 선지식들의 사상과 삶을 기리는 ‘문중 합동 추모 다례재’를 봉행했습니다.다례재는 부도전과 조사전 참배 뒤 육화원에서 명종 5타를 시작으로 삼귀의와 반야심경 봉독, 주지스님 인사, 행장 소개, 동곡당 일타 대종사의 생전 육성법문 청취, 종사영반, 조실스님 법어, 음성공양, 사홍서원 순으로 진…",
+          "publishedAt": "2026-09-13T21:20:06.000Z",
           "image": "",
           "sourceName": "BBS 불교방송",
           "sourceId": "bbs-news",
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 4.5
         },
         {
           "title": "[법인 스님의 문자 반야] 56. 부증불감(不增不減)",
@@ -118,26 +118,26 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
-        },
-        {
-          "title": "‘선정 수행’·‘지혜 계발’, 함께 닦는지 따로 닦는지 묻는다",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337724",
-          "summary": "불교 수행의 두 날개인 지관(止觀), 즉 선정과 지혜의 관계를 초기불교·대승불교·티베트불교·현대명상·심리학의 측면에서 종합적으로 조명하는 자리가 마련된다.20년 넘게 수행을 주제로 연찬회를 열어온 밝은사람들연구소(소장 박찬욱)는 11월 7일 동국대 서울캠퍼스 남산홀에서 ‘지관, 함께 닦는가 따로 닦는가’를 주제로 제25회 밝은사람들 학술연찬회를 개최한다.…",
-          "publishedAt": "2026-09-10T17:08:20.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
           "score": 3.3
         },
         {
-          "title": "지리산 벽송사, '벽송선원 무문관' 회향… 간화선 중흥 도량 거듭나",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106205",
-          "summary": "[앵커 멘트]조선시대 선불교의 종통을 잇는 지리산 천년고찰 함양 벽송사가 치열한 정진 공간인 ‘벽송선원 무문관’을 완공하고 낙성법회를 봉행했습니다.해인총림 방장 대원대종사를 비롯한 사부대중은 무문관 낙성을 계기로 벽송사가 간화선 수행의 근본 도량으로 우뚝 서기를 발원했습니다.BBS부산 조현제 기자가 보도합니다.[리포트]지리산 칠선계곡 입구, 조선 선불교의…",
-          "publishedAt": "2026-09-12T23:07:15.000Z",
+          "title": "부여 대조사, 백제 왕 행차 재현 '미륵불-백제의 꿈이 되다' 첫 개최",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106248",
+          "summary": "대한불교조계종 부여 대조사가 오늘 오전 경주 남산 삼불사 33 반야성지순례단과 함께 전통산사문화재 활용사업의 일환으로 '미륵불-백제의 꿈이 되다' 프로그램을 처음으로 개최했습니다. 이번 행사는 백제 임금이 미륵불을 접견하기 위해 대조사에 행차했다는 지역 설화를 재현한 프로그램으로, 경주 삼불사 주지 지범스님과 박은국 33 반야성지순례단장을 비롯한 순례단원…",
+          "publishedAt": "2026-09-13T18:48:03.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3
+        },
+        {
+          "title": "“보현사상, 현대 복지의 길을 묻다”… 늘기쁜마을, 제3회 사회복지연구위원회 세미나 개최",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106236",
+          "summary": "대승불교의 핵심 실천 철학인 ‘보현행원’을 현대 사회복지 현장에 접목하고 대안을 모색하기 위한 뜻깊은 자리가 마련되었습니다.사회복지법인 늘기쁜마을(대표이사 지현 스님)은 9월 11일 부산 사하구 환희노인요양원 5층 강당에서 ‘제3회 늘기쁜마을 사회복지연구위원회 세미나’를 개최했습니다.'보현사상과 사회복지'를 주제로 열린 이날 행사에는 부산 지역 사회복지법인…",
+          "publishedAt": "2026-09-13T15:09:36.000Z",
           "image": "",
           "sourceName": "BBS 불교방송",
           "sourceId": "bbs-news",
@@ -147,17 +147,17 @@
           "score": 2.9
         },
         {
-          "title": "BBS 만공회, 덕숭산 수덕사서 '선 트레킹' 국내 성지순례 진행",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106196",
-          "summary": "BBS 불교방송이 만공회 회원들과 함께 한국선불교의 중흥조인 경허·만공 스님을 배출한 덕숭산을 찾아 '선 트레킹'을 주제로 선의 진수를 체험하고 수행자들의 숨결이 살아있는 현장을 둘러보는 소중한 시간을 가졌습니다.이번 성지순례에는 180여 명의 만공회 회원들이 참여한 가운데, 홍대선원 선원장 준한 스님의 지도 아래 산사에서 마음을 비우는 '선 명상 트레킹'…",
-          "publishedAt": "2026-09-12T18:58:47.000Z",
+          "title": "늘기쁜마을, ‘보현사상과 사회복지’ 주제로 제3회 세미나 개최",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442242",
+          "summary": "사회복지법인 늘기쁜마을(대표이사 지현스님)이 9월11일 부산 사하구 환희노인요양원 가동 5층 강당에서 보현사상과 사회복지를 주제로 ‘제3회 늘기쁜마을 사회복지연구위원회 세미나’를 개최했다.제3회 세미나는 대승불교의 핵심 실천 철학인 ‘보현행원’을 현대 사회복지 현장에 접목하고, 급변하는 시대 환경 속에서 실천적 가치와 대안을 모색하기 위해 마련됐다.세미나는…",
+          "publishedAt": "2026-09-12T09:26:18.000Z",
           "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
+          "score": 2.3
         }
       ]
     },
@@ -186,20 +186,6 @@
             "philosophy"
           ],
           "score": 6
-        },
-        {
-          "title": "Hyena Ethics: When Harming Others Feels Righteous and Pleasing",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/hyena-ethics-when-harming-others-feels-righteous-and-pleasing.html",
-          "summary": "by Daniel Gauss Metaphorically, if hippo ethics is the impulse to respond to suffering with compassion, hyena ethics is the impulse to enjoy, justify or morally authorize suffering. Harm toward anothe…",
-          "publishedAt": "2026-09-10T10:00:24.000Z",
-          "image": "https://3quarksdaily.com/wp-content/uploads/2026/09/pexels-balazsimon-15994103-360x240.jpg",
-          "sourceName": "3 Quarks Daily",
-          "sourceId": "3quarks",
-          "candidates": [
-            "philosophy",
-            "art"
-          ],
-          "score": 4.6
         },
         {
           "title": "Free to Be Experimental Philosophy",
@@ -239,6 +225,20 @@
             "philosophy"
           ],
           "score": 4.5
+        },
+        {
+          "title": "Normativity from the Standpoint of Its Victims",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/normativity-from-the-standpoint-of-its-victims.html",
+          "summary": "Lorna Finlayson in The Boston Review: German philosopher Jürgen Habermas—both inheritor and critic of the Frankfurt School, best known for his theories of discourse ethics, communicative action, and d…",
+          "publishedAt": "2026-09-13T17:41:48.000Z",
+          "image": "",
+          "sourceName": "3 Quarks Daily",
+          "sourceId": "3quarks",
+          "candidates": [
+            "philosophy",
+            "art"
+          ],
+          "score": 4.4
         }
       ]
     },
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 191,
+      "poolSize": 188,
       "items": [
         {
           "title": "세종 비엔날레 전시관 개관 기념 특별전 '세종과 남준'",
@@ -266,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.5
+          "score": 7.1
         },
         {
           "title": "성혜령 작가 \"'손절'의 시대…관계의 울퉁불퉁한 단면 관찰\"",
@@ -279,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4
         },
         {
           "title": "[인터뷰] LA 찾은 웹툰 '지우학' 작가…\"좀비물 종주국의 반응 궁금\"",
@@ -292,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 3.6
         },
         {
           "title": "[금주핫템] 유시몰 '오리지널 치약 티 에디션'·LF 빈스 '26 FW 컬렉션",
@@ -301,25 +301,24 @@
           "publishedAt": "2026-09-11T22:00:11.000Z",
           "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910107100030_04_i_P2.jpg",
           "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ",
-            "art"
-          ],
-          "score": 3.9
-        },
-        {
-          "title": "[담양소식] 산림청과 남도정원비엔날레 성공 개최 협력",
-          "link": "https://www.yna.co.kr/view/AKR20260911128900054",
-          "summary": "(담양=연합뉴스) ▲ 전남광주시 담양군은 산림청과 간담회를 열고 2027년 남도정원비엔날레 성공 개최와 정원문화 활성화를 위한 협력 방안을 논의...",
-          "publishedAt": "2026-09-11T07:18:43.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911128900054_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 3.6
+          "score": 3.5
+        },
+        {
+          "title": "‘탄생 100주년’ 박경리의 대하소설 ‘토지’···그림 30점으로 읽어볼까",
+          "link": "https://www.khan.co.kr/article/202609111108001/",
+          "summary": "‘하늘의 빛, 땅의 빛’ 전시장 모습. 교보문고 제공올해는 박경리 작가(1926~2008)의 탄생 100주년이다. 그의 대표작 <토지>를 그림으로 만나는 문학그림전 ‘하늘의 빛, 땅의 빛’이 선보인다.서울 교보문고 광화문점 교보아트스페이스에서는 대하소설 <토지>를 그림으로 재해석한 전시가 다음 달 27일까지 열린다. 길현, 김선두, 박···",
+          "publishedAt": "2026-09-11T02:08:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 3.1
         }
       ]
     }
