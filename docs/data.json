@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-14T03:06:57.436Z",
+  "builtAt": "2026-09-14T09:08:39.636Z",
   "cards": [
     {
       "id": "econ",
@@ -12,14 +12,40 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 337,
+      "poolSize": 339,
       "items": [
         {
-          "title": "iM증권 \"美금리 동결 가능성 무게…국채금리 안정 신호 필요\"",
-          "link": "https://www.yna.co.kr/view/AKR20260914017500008",
-          "summary": "(서울=연합뉴스) 김유아 기자 = iM증권은 미국 중앙은행 연방준비제도(Fed·연준)가 이주 연방공개시장위원회(FOMC)에서 기준금리를 동결할 ...",
-          "publishedAt": "2026-09-13T23:27:10.000Z",
-          "image": "https://img.yna.co.kr/photo/etc/af/2026/09/14/PAF20260914005501009_P2.jpg",
+          "title": "‘7천피’에 갇힌 코스피···유가 100달러 돌파에 ‘AI 속도조절론’까지 가세",
+          "link": "https://www.khan.co.kr/article/202609141645001/",
+          "summary": "지난 10일 사우디아라비아 헤자즈주 메디나 남쪽 동서 송유관 일대에서 검은 연기가 피어오르는 모습을 담은 위성 사진. 로이터연합뉴스국제 유가 폭등·금리 인상 우려·AI 둔화 ‘삼중고’FOMC 점도표·국채 금리 5% 재돌파 여부가 관건중동 정세 불안으로 국제유가가 100달러를 넘나들고, 그 여파로 금리마저 치솟을 것이란 전망이 나오면서 코스피 지수가 된서리를…",
+          "publishedAt": "2026-09-14T07:45:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "원/달러 환율 1,347.3원…美 FOMC 앞두고 박스권 등락",
+          "link": "https://www.yna.co.kr/view/AKR20260914133100002",
+          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 14일 미국 기준금리 결정을 앞두고 1,340원대 박스권에서 등락을 거듭했다.",
+          "publishedAt": "2026-09-14T07:13:57.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/14/PYH2026091402710001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "[외환] 원/달러 환율 1.4원 오른 1,347.3원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20260914124500002",
+          "summary": "(",
+          "publishedAt": "2026-09-14T06:42:03.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/14/AKR20260914124500002_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
@@ -28,13 +54,13 @@
           "score": 7.4
         },
         {
-          "title": "[뉴욕증시] '금리 인상' 우려…연준 행보에 '주목'",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008751137",
-          "summary": "15일부터 FOMC 회의가 열리는 가운데 16일에는 기준금리가 결정되며 8월 소매 판매 지표가 공개됩니다.지난 주말 미 증시 3대 지수가 일제히…",
-          "publishedAt": "2026-09-13T22:42:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260914/202222017_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
+          "title": "美 9월 금리 인상 가능성 고조에 韓 채권시장 '긴장'",
+          "link": "https://www.yna.co.kr/view/AKR20260914118500008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 미국 연방준비제도(Fed·연준)의 9월 기준금리 인상 가능성이 커지면서 한국 채권시장에도 긴장감이 감돌고 있다...",
+          "publishedAt": "2026-09-14T06:17:39.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/14/AKR20260914118500008_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
@@ -51,33 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
-        },
-        {
-          "title": "주춤한 원·달러 환율 다시 오르나",
-          "link": "https://www.hankyung.com/article/2026091313171",
-          "summary": "",
-          "publishedAt": "2026-09-13T10:12:34.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.1
-        },
-        {
-          "title": "숨죽인 금융시장···미 10년물 국채 금리 5% 육박, 유가 100달러 돌파, 미국도 금리 올리나",
-          "link": "https://www.khan.co.kr/article/202609131557001/",
-          "summary": "케빈 워시 미국 연방준비제도(Fed) 신임 의장이 지난 6월17일(현지시간) 연방공개시장위원회(FOMC) 회의에서 금리 동결을 결정한 이후 기자간담회를 하고 있다. AP연합뉴스이번 주 미국 기준금리를 결정하는 연방준비제도(Fed)의 연방공개시장위원회(FOMC)가 열린다. 국제유가가 배럴당 100달러까지 치솟으며 물가 상승 우려가 커지고 미국 10년 만기 국…",
-          "publishedAt": "2026-09-13T06:57:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.1
+          "score": 7
         }
       ]
     },
@@ -95,6 +95,32 @@
       "poolSize": 184,
       "items": [
         {
+          "title": "전남광주 보은사, 제44회 고월백고좌법회 봉행…금강스님 초청 법문",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106487",
+          "summary": "전남광주 보은사는 지난 13일 경내 법당에서 제44회 고월백고좌법회를 봉행했습니다.이번 법회에는 조계종 선명상위원장이자 중앙승가대학교 교수인 금강스님이 ‘내 안의 평화가 피어나길 바라는 마음’을 주제로 법문을 전했습니다.금강스님은 “현대인들이 일상에서 좋아하고 싫어하는 마음, 내 것과 내 것 아닌 것, 내가 아는 것과 내가 모르는 것에 대한 분별이 끊임없이…",
+          "publishedAt": "2026-09-14T17:37:57.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
+        },
+        {
+          "title": "창원 반야사, 추석 맞아 지역에 쌀 200포 자비나눔",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505308",
+          "summary": "창원 반야사(주지 혜명 스님)가 추석을 맞아 지역의 어려운 이웃들에게 쌀을 전달하며 부처님의 자비정신을 실천했다.반야사는 9월 11일 대웅전에서 ‘추석맞이 백미 나눔보시’ 행사를 열고 창원특례시 마산회원구에 740만원 상당의 쌀 200포를 기탁했다.이날 전달식에는 반야사 주지 혜명 스님을 비롯해 경문 스님, 자오 스님, 조정현 마산회원구청장과 반야사 임원진…",
+          "publishedAt": "2026-09-14T15:11:27.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.6
+        },
+        {
           "title": "인도·중국·조선불교서 서양철학까지…신진학자 연구 한자리",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=337786",
           "summary": "인도불교와 중국불교, 조선불교에서 서양철학의 불교 이해까지 신진연구자들의 관심 주제를 살펴볼 수 있는 논문발표회가 열린다.불교학연구회(회장 김원명)는 9월 19일 오후 1시 서울시립대 인문학관 5401호에서 ‘2026년 가을논문발표회’를 개최한다. 발표회에서는 대학원생과 신진연구자의 연구 가운데 엄선된 5편이 소개되며, ‘대승기신론’과 ‘기신론소’, ‘유가…",
@@ -105,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "공주 신원사, 제18기 불교대학 18기 입학식 개최",
@@ -118,20 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
-        },
-        {
-          "title": "[법인 스님의 문자 반야] 56. 부증불감(不增不減)",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505261",
-          "summary": "〈반야심경〉은 “시제법공상 불생불멸 불구부정 부증불감”이라고 선언한다. 모든 현상의 참모습인 공상(空相)의 자리에서는 생겨남도 소멸함도 없고, 더러움도 깨끗함도 없으며, 늘어남도 줄어듦도 없다는 뜻이다. 그러나 많은 사람은 이 구절을 치열한 삶과 수행을 부정하는 허무주의로 오해한다.하지만 부증불감은 삶의 변화를 가로막는 가르침이 아니다. 오히려 고정된 실체…",
-          "publishedAt": "2026-09-11T10:41:24.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.2
+          "score": 3.1
         },
         {
           "title": "광주 보은사, 선명상위원장 금강스님 초청법회",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
-        },
-        {
-          "title": "함양 벽송사, 500년 선맥 이을 무문관 낙성",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505289",
-          "summary": "조선 선불교의 수행가풍을 이어온 지리산 함양 벽송사가 수행자들이 오롯이 화두와 마주하며 정진할 수 있는 ‘벽송선원 무문관’을 새롭게 열었다.함양 벽송사(주지 만일 스님)는 9월 12일 ‘벽송선원 무문관 낙성법회’를 봉행하고, 500여 년간 이어온 선맥을 계승할 새로운 정진도량의 출발을 알렸다.벽송사는 1520년 벽송 지엄 선사가 중창한 이후 수많은 선지식이…",
-          "publishedAt": "2026-09-14T08:20:07.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.1
+          "score": 3
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 150,
+      "poolSize": 148,
       "items": [
         {
           "title": "Adversarial Collaboration in Philosophy (guest post)",
@@ -186,6 +186,19 @@
             "philosophy"
           ],
           "score": 6
+        },
+        {
+          "title": "철학과 힙합이 만나다...뮤지컬 ‘소크라테스 패러독스’, 대학로를 뜨겁게 달구다",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210238",
+          "summary": "[리뷰_「소크라테스 패러독스」(9월 13일 오후 6시 공연, 정민X이준우 배우)]",
+          "publishedAt": "2026-09-14T16:19:01.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.6
         },
         {
           "title": "Free to Be Experimental Philosophy",
@@ -225,20 +238,6 @@
             "philosophy"
           ],
           "score": 4.5
-        },
-        {
-          "title": "Normativity from the Standpoint of Its Victims",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/normativity-from-the-standpoint-of-its-victims.html",
-          "summary": "Lorna Finlayson in The Boston Review: German philosopher Jürgen Habermas—both inheritor and critic of the Frankfurt School, best known for his theories of discourse ethics, communicative action, and d…",
-          "publishedAt": "2026-09-13T17:41:48.000Z",
-          "image": "",
-          "sourceName": "3 Quarks Daily",
-          "sourceId": "3quarks",
-          "candidates": [
-            "philosophy",
-            "art"
-          ],
-          "score": 4.3
         }
       ]
     },
@@ -253,27 +252,14 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 185,
+      "poolSize": 187,
       "items": [
         {
-          "title": "경주 미술관 4곳 할인 입장권 하나로 관람…아트패스 판매",
-          "link": "https://www.yna.co.kr/view/AKR20260914073400053",
-          "summary": "(경주=연합뉴스) 손대성 기자 = 경북문화관광공사는 10월 13일까지 경주의 미술관과 박물관 통합 할인 입장권인 '경주아트패스'를 판매한다고 1...",
-          "publishedAt": "2026-09-14T02:13:29.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2020/10/30/61/PCM20201030000061053_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "'들쥐' 원작 루드비코 작가 \"신분탈취, 한번쯤 생각해볼 공포죠\"",
-          "link": "https://www.yna.co.kr/view/AKR20260911152900005",
-          "summary": "(서울=연합뉴스) 장진리 기자 = \"개인정보가 더 이상 내 것이 아니게 된 시대에 답답함을 넘어 한 번쯤 생각해 볼 만한 공포라고 생각합니다.\"...",
-          "publishedAt": "2026-09-14T00:27:49.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911152900005_01_i_P2.jpg",
+          "title": "완주서 만나는 미술 거장 '프리다 칼로' 전시회 개막",
+          "link": "https://www.yna.co.kr/view/AKR20260914126700055",
+          "summary": "(완주=연합뉴스) 최영수 기자 = 전북 완주군 삼례문화예술촌은 멕시코 출신의 세계적인 미술 거장 프리다 칼로(1907∼1954년) 특별기획전을 ...",
+          "publishedAt": "2026-09-14T06:41:22.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/14/AKR20260914126700055_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -282,44 +268,57 @@
           "score": 4.4
         },
         {
-          "title": "[대전소식] 대전시, 추석 연휴 맞아 환경오염행위 특별감시",
-          "link": "https://www.yna.co.kr/view/AKR20260914036500063",
-          "summary": "(대전=연합뉴스) 대전시는 추석 연휴를 맞아 오는 18일부터 내달 8일까지 하수·분뇨·폐수·폐기물 등 환경기초시설과 주요 하천을 대상으로 '단계...",
-          "publishedAt": "2026-09-14T00:25:20.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2024/07/26/46/PCM20240726000446990_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
-        },
-        {
-          "title": "농심, UAE '중동 영화·코믹콘'서 신라면 체험 행사",
-          "link": "https://www.yna.co.kr/view/AKR20260914035300030",
-          "summary": "(서울=연합뉴스) 한주홍 기자 = 농심[004370]은 지난 11∼13일(현지시간) 아랍에미리트(UAE) 아부다비 국립전시장에서 열린 '중동 영...",
-          "publishedAt": "2026-09-14T00:33:13.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/14/AKR20260914035300030_01_i_P2.jpg",
+          "title": "[게시판] iM뱅크, 대구간송미술관과 문화예술 발전 업무협약",
+          "link": "https://www.yna.co.kr/view/AKR20260914121800053",
+          "summary": "▲ iM뱅크는 14일 대구 간송미술관과 '지역 사회공헌 및 문화예술 발전을 위한 업무협약'을 하고 후원금 1천500만원을 전달했다. 양측은 앞으...",
+          "publishedAt": "2026-09-14T06:21:46.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/14/AKR20260914121800053_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ",
             "art"
           ],
-          "score": 2.9
+          "score": 4.4
         },
         {
-          "title": "부산서 국제환경에너지산업전…국내외 판로개척 지원",
-          "link": "https://www.yna.co.kr/view/AKR20260914013800051",
-          "summary": "(부산=연합뉴스) 김선호 기자 = 부산시는 16일부터 사흘간 벡스코 제1전시장에서 2026 국제환경에너지산업전(ENTECH 2026)을 연다.",
-          "publishedAt": "2026-09-13T23:04:41.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/14/AKR20260914013800051_01_i_P2.jpg",
+          "title": "추석 연휴 청주서 전시·공연·체험 프로그램 풍성",
+          "link": "https://www.yna.co.kr/view/AKR20260914096900064",
+          "summary": "(청주=연합뉴스) 김형우 기자 = 추석 연휴 청주에서 가족과 함께 즐길 수 있는 전시·공연 행사가 풍성하게 열린다.",
+          "publishedAt": "2026-09-14T05:17:12.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/14/AKR20260914096900064_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 2.9
+          "score": 4.4
+        },
+        {
+          "title": "구름·바람에서 마음의 풍경으로…강운의 36년 작업 한자리에",
+          "link": "https://www.yna.co.kr/view/AKR20260914088900005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 자연과 시간, 보이지 않는 현상을 화면에 담아온 작가 강운(60)의 36년 작업을 조명하는 전시가 서울 진관동...",
+          "publishedAt": "2026-09-14T04:11:35.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/14/AKR20260914088900005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "한강·하루키 책 낸 문학동네, 최대주주 지분 매물로···‘문학 이해하는 자본 찾을까’ 술렁",
+          "link": "https://www.khan.co.kr/article/202609141731001/",
+          "summary": "최대주주 강병선 전 대표 지분 매각 추진‘IT·컨텐츠 분야 투자 등 출판사 체질 개선’도 이유변화 몰고 올 지분 변화에 출판계 이목 집중강 전 대표, 매각 관련 관계자들과 대화 예정지난 6월 서울 강남구 삼성동 코엑스에서 열린 2026 서울국제도서전에서 문학동네 시인선이 전시된 벽면을 방문객들이 둘러보고 있다. 권도현 기자국내 단행본 출판사 1위인 문학동네…",
+          "publishedAt": "2026-09-14T08:31:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 3
         }
       ]
     }
