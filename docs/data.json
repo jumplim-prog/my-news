@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-13T21:06:40.513Z",
+  "builtAt": "2026-09-14T03:06:57.436Z",
   "cards": [
     {
       "id": "econ",
@@ -12,16 +12,29 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 334,
+      "poolSize": 337,
       "items": [
         {
-          "title": "트럼프 \"美, 연준 공식과 상관 없이 세계 최저금리 적용받아야\"(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20260913061851071",
-          "summary": "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 13일(현지시간) 이란 전쟁이 \"중간선거 직후, 어쩌면 그 전에, 끝날 것\"이...",
-          "publishedAt": "2026-09-13T16:09:17.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/13/AKR20260913061851071_01_i_P2.jpg",
+          "title": "iM증권 \"美금리 동결 가능성 무게…국채금리 안정 신호 필요\"",
+          "link": "https://www.yna.co.kr/view/AKR20260914017500008",
+          "summary": "(서울=연합뉴스) 김유아 기자 = iM증권은 미국 중앙은행 연방준비제도(Fed·연준)가 이주 연방공개시장위원회(FOMC)에서 기준금리를 동결할 ...",
+          "publishedAt": "2026-09-13T23:27:10.000Z",
+          "image": "https://img.yna.co.kr/photo/etc/af/2026/09/14/PAF20260914005501009_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "[뉴욕증시] '금리 인상' 우려…연준 행보에 '주목'",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008751137",
+          "summary": "15일부터 FOMC 회의가 열리는 가운데 16일에는 기준금리가 결정되며 8월 소매 판매 지표가 공개됩니다.지난 주말 미 증시 3대 지수가 일제히…",
+          "publishedAt": "2026-09-13T22:42:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260914/202222017_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
@@ -38,10 +51,10 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
-          "title": "환율·채권, 주춤한 원·달러 환율 다시 오르나",
+          "title": "주춤한 원·달러 환율 다시 오르나",
           "link": "https://www.hankyung.com/article/2026091313171",
           "summary": "",
           "publishedAt": "2026-09-13T10:12:34.000Z",
@@ -51,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.1
         },
         {
           "title": "숨죽인 금융시장···미 10년물 국채 금리 5% 육박, 유가 100달러 돌파, 미국도 금리 올리나",
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
-        },
-        {
-          "title": "채권시장 덮친 '유가 쇼크'…한은의 선제적 인상, 방파제되나",
-          "link": "https://www.yna.co.kr/view/AKR20260912024200008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 지난 7월과 8월 한국은행의 연속 기준금리 인상 이후 주춤했던 국내 채권금리가 다시 상승세로 돌아섰다. 미국과...",
-          "publishedAt": "2026-09-12T21:35:00.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/08/27/PYH2026082710400001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7
+          "score": 7.1
         }
       ]
     },
@@ -92,20 +92,33 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 162,
+      "poolSize": 184,
       "items": [
         {
-          "title": "은해사, 2026년 '문중 합동 추모 다례재' 봉행",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106240",
-          "summary": "대한불교조계종 제10교구 본사 은해사가 13일 경내 육화원에서 역대 선지식들의 사상과 삶을 기리는 ‘문중 합동 추모 다례재’를 봉행했습니다.다례재는 부도전과 조사전 참배 뒤 육화원에서 명종 5타를 시작으로 삼귀의와 반야심경 봉독, 주지스님 인사, 행장 소개, 동곡당 일타 대종사의 생전 육성법문 청취, 종사영반, 조실스님 법어, 음성공양, 사홍서원 순으로 진…",
-          "publishedAt": "2026-09-13T21:20:06.000Z",
+          "title": "인도·중국·조선불교서 서양철학까지…신진학자 연구 한자리",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337786",
+          "summary": "인도불교와 중국불교, 조선불교에서 서양철학의 불교 이해까지 신진연구자들의 관심 주제를 살펴볼 수 있는 논문발표회가 열린다.불교학연구회(회장 김원명)는 9월 19일 오후 1시 서울시립대 인문학관 5401호에서 ‘2026년 가을논문발표회’를 개최한다. 발표회에서는 대학원생과 신진연구자의 연구 가운데 엄선된 5편이 소개되며, ‘대승기신론’과 ‘기신론소’, ‘유가…",
+          "publishedAt": "2026-09-14T10:25:22.000Z",
           "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.7
+        },
+        {
+          "title": "공주 신원사, 제18기 불교대학 18기 입학식 개최",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337791",
+          "summary": "공주 계룡산 신원사가 불교의 기초교리와 경전 공부를 통해 신행의 깊이를 더할 제18기 불교대학 신입생을 맞았다.신원사(주지 성관 스님)는 9월 13일 경내 세심당에서 신입생 25명이 참석한 가운데 ‘제18기 신원사 불교대학 입학식’을 봉행하고 본격적인 학사 일정에 들어갔다. 입학식은 명종을 시작으로 개회사, 삼귀의, 우리말 반야심경, 청법가, 입정, 주지…",
+          "publishedAt": "2026-09-14T11:36:58.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
         },
         {
           "title": "[법인 스님의 문자 반야] 56. 부증불감(不增不減)",
@@ -118,46 +131,33 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.3
+          "score": 3.2
         },
         {
-          "title": "부여 대조사, 백제 왕 행차 재현 '미륵불-백제의 꿈이 되다' 첫 개최",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106248",
-          "summary": "대한불교조계종 부여 대조사가 오늘 오전 경주 남산 삼불사 33 반야성지순례단과 함께 전통산사문화재 활용사업의 일환으로 '미륵불-백제의 꿈이 되다' 프로그램을 처음으로 개최했습니다. 이번 행사는 백제 임금이 미륵불을 접견하기 위해 대조사에 행차했다는 지역 설화를 재현한 프로그램으로, 경주 삼불사 주지 지범스님과 박은국 33 반야성지순례단장을 비롯한 순례단원…",
-          "publishedAt": "2026-09-13T18:48:03.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3
-        },
-        {
-          "title": "“보현사상, 현대 복지의 길을 묻다”… 늘기쁜마을, 제3회 사회복지연구위원회 세미나 개최",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106236",
-          "summary": "대승불교의 핵심 실천 철학인 ‘보현행원’을 현대 사회복지 현장에 접목하고 대안을 모색하기 위한 뜻깊은 자리가 마련되었습니다.사회복지법인 늘기쁜마을(대표이사 지현 스님)은 9월 11일 부산 사하구 환희노인요양원 5층 강당에서 ‘제3회 늘기쁜마을 사회복지연구위원회 세미나’를 개최했습니다.'보현사상과 사회복지'를 주제로 열린 이날 행사에는 부산 지역 사회복지법인…",
-          "publishedAt": "2026-09-13T15:09:36.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.9
-        },
-        {
-          "title": "늘기쁜마을, ‘보현사상과 사회복지’ 주제로 제3회 세미나 개최",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442242",
-          "summary": "사회복지법인 늘기쁜마을(대표이사 지현스님)이 9월11일 부산 사하구 환희노인요양원 가동 5층 강당에서 보현사상과 사회복지를 주제로 ‘제3회 늘기쁜마을 사회복지연구위원회 세미나’를 개최했다.제3회 세미나는 대승불교의 핵심 실천 철학인 ‘보현행원’을 현대 사회복지 현장에 접목하고, 급변하는 시대 환경 속에서 실천적 가치와 대안을 모색하기 위해 마련됐다.세미나는…",
-          "publishedAt": "2026-09-12T09:26:18.000Z",
+          "title": "광주 보은사, 선명상위원장 금강스님 초청법회",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442252",
+          "summary": "일상에서 잠시 멈추어 본래의 고요한 마음으로 돌아가는 선명상 법석이 빛고을 광주에서 펼쳐졌다.조계총림 송광사 광산포교당 보은사(주지 도제스님)는 9월13일 경내 2층 법당에서 조계종 선명상위원장 금강스님(중앙승가대 교수)을 초청해 ‘제44회 고월(古月) 백고좌(百高座)법회’를 봉행했다.법문에 앞서 주지 도제스님은 “한국불교 선명상 대중화를 이끌고 있는 금강…",
+          "publishedAt": "2026-09-14T10:10:23.000Z",
           "image": "",
           "sourceName": "불교신문",
           "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.3
+          "score": 3.1
+        },
+        {
+          "title": "함양 벽송사, 500년 선맥 이을 무문관 낙성",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505289",
+          "summary": "조선 선불교의 수행가풍을 이어온 지리산 함양 벽송사가 수행자들이 오롯이 화두와 마주하며 정진할 수 있는 ‘벽송선원 무문관’을 새롭게 열었다.함양 벽송사(주지 만일 스님)는 9월 12일 ‘벽송선원 무문관 낙성법회’를 봉행하고, 500여 년간 이어온 선맥을 계승할 새로운 정진도량의 출발을 알렸다.벽송사는 1520년 벽송 지엄 선사가 중창한 이후 수많은 선지식이…",
+          "publishedAt": "2026-09-14T08:20:07.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
         }
       ]
     },
@@ -238,7 +238,7 @@
             "philosophy",
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         }
       ]
     },
@@ -253,72 +253,73 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 188,
+      "poolSize": 185,
       "items": [
         {
-          "title": "세종 비엔날레 전시관 개관 기념 특별전 '세종과 남준'",
-          "link": "https://www.yna.co.kr/view/AKR20260913016700063",
-          "summary": "(세종=연합뉴스) 박주영 기자 = 세종시는 내달 9일부터 11월 8일까지 중앙공원 비엔날레 전시관에서 2026 한글문화특별기획전 '세종과 남준'...",
-          "publishedAt": "2026-09-13T00:45:07.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/13/AKR20260913016700063_01_i_P2.jpg",
+          "title": "경주 미술관 4곳 할인 입장권 하나로 관람…아트패스 판매",
+          "link": "https://www.yna.co.kr/view/AKR20260914073400053",
+          "summary": "(경주=연합뉴스) 손대성 기자 = 경북문화관광공사는 10월 13일까지 경주의 미술관과 박물관 통합 할인 입장권인 '경주아트패스'를 판매한다고 1...",
+          "publishedAt": "2026-09-14T02:13:29.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2020/10/30/61/PCM20201030000061053_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 7.1
+          "score": 4.5
         },
         {
-          "title": "성혜령 작가 \"'손절'의 시대…관계의 울퉁불퉁한 단면 관찰\"",
-          "link": "https://www.yna.co.kr/view/AKR20260912043400005",
-          "summary": "(서울=연합뉴스) 김기훈 기자 = 소설가 성혜령(37)의 작품 세계는 어딘가 불안하고 불편하다.",
-          "publishedAt": "2026-09-12T23:11:01.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/12/AKR20260912043400005_02_i_P2.jpg",
+          "title": "'들쥐' 원작 루드비코 작가 \"신분탈취, 한번쯤 생각해볼 공포죠\"",
+          "link": "https://www.yna.co.kr/view/AKR20260911152900005",
+          "summary": "(서울=연합뉴스) 장진리 기자 = \"개인정보가 더 이상 내 것이 아니게 된 시대에 답답함을 넘어 한 번쯤 생각해 볼 만한 공포라고 생각합니다.\"...",
+          "publishedAt": "2026-09-14T00:27:49.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911152900005_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 4.4
         },
         {
-          "title": "[인터뷰] LA 찾은 웹툰 '지우학' 작가…\"좀비물 종주국의 반응 궁금\"",
-          "link": "https://www.yna.co.kr/view/AKR20260912026200075",
-          "summary": "(로스앤젤레스=연합뉴스) 김경윤 특파원 = \"미국은 좀비물을 사랑하고, 좀비물에 자부심도 있는 나라라고 생각해요. '좀비물 종주국'에 초대돼서 ...",
-          "publishedAt": "2026-09-12T03:13:00.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/12/AKR20260912026200075_01_i_P2.jpg",
+          "title": "[대전소식] 대전시, 추석 연휴 맞아 환경오염행위 특별감시",
+          "link": "https://www.yna.co.kr/view/AKR20260914036500063",
+          "summary": "(대전=연합뉴스) 대전시는 추석 연휴를 맞아 오는 18일부터 내달 8일까지 하수·분뇨·폐수·폐기물 등 환경기초시설과 주요 하천을 대상으로 '단계...",
+          "publishedAt": "2026-09-14T00:25:20.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2024/07/26/46/PCM20240726000446990_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 3.6
+          "score": 4.4
         },
         {
-          "title": "[금주핫템] 유시몰 '오리지널 치약 티 에디션'·LF 빈스 '26 FW 컬렉션",
-          "link": "https://www.yna.co.kr/view/AKR20260910107100030",
-          "summary": "▲ LG생활건강의 구강 관리 브랜드 유시몰은 1천450ppm의 고불소 처방에 영국의 차문화에서 영감을 얻은 향을 더한 '오리지널 치약 티 에디션...",
-          "publishedAt": "2026-09-11T22:00:11.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910107100030_04_i_P2.jpg",
+          "title": "농심, UAE '중동 영화·코믹콘'서 신라면 체험 행사",
+          "link": "https://www.yna.co.kr/view/AKR20260914035300030",
+          "summary": "(서울=연합뉴스) 한주홍 기자 = 농심[004370]은 지난 11∼13일(현지시간) 아랍에미리트(UAE) 아부다비 국립전시장에서 열린 '중동 영...",
+          "publishedAt": "2026-09-14T00:33:13.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/14/AKR20260914035300030_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ",
+            "art"
+          ],
+          "score": 2.9
+        },
+        {
+          "title": "부산서 국제환경에너지산업전…국내외 판로개척 지원",
+          "link": "https://www.yna.co.kr/view/AKR20260914013800051",
+          "summary": "(부산=연합뉴스) 김선호 기자 = 부산시는 16일부터 사흘간 벡스코 제1전시장에서 2026 국제환경에너지산업전(ENTECH 2026)을 연다.",
+          "publishedAt": "2026-09-13T23:04:41.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/14/AKR20260914013800051_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 3.5
-        },
-        {
-          "title": "‘탄생 100주년’ 박경리의 대하소설 ‘토지’···그림 30점으로 읽어볼까",
-          "link": "https://www.khan.co.kr/article/202609111108001/",
-          "summary": "‘하늘의 빛, 땅의 빛’ 전시장 모습. 교보문고 제공올해는 박경리 작가(1926~2008)의 탄생 100주년이다. 그의 대표작 <토지>를 그림으로 만나는 문학그림전 ‘하늘의 빛, 땅의 빛’이 선보인다.서울 교보문고 광화문점 교보아트스페이스에서는 대하소설 <토지>를 그림으로 재해석한 전시가 다음 달 27일까지 열린다. 길현, 김선두, 박···",
-          "publishedAt": "2026-09-11T02:08:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.1
+          "score": 2.9
         }
       ]
     }
