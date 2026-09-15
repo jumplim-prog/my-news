@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-15T03:08:06.079Z",
+  "builtAt": "2026-09-15T09:08:51.727Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 312,
+      "poolSize": 221,
       "items": [
+        {
+          "title": "미국 10년물 국채금리 5% 돌파에도 코스피, 이 정도면 ‘선방’?",
+          "link": "https://www.khan.co.kr/article/202609151640001/",
+          "summary": "삼성전자 -0.2% 내려 24만8500원SK하이닉스, -0.41% 내린 169만원15일 서울 중구 하나은행 본점 딜링룸에서 직원들이 증시와 환율을 살피고 있다. 연합뉴스코스피 지수가 15일 약보합으로 마감했다. 글로벌 금리의 기준점으로 여겨지는 미국 10년 만기 국채 금리가 심리적 저항선인 ‘5%’를 넘어선 게 부담으로 작용했지만, 금리 상승 전망이 시장에…",
+          "publishedAt": "2026-09-15T07:40:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "[밤 사이 해외 뉴스 영상] AI 투자 열풍 멈추나…5% 넘은 美 국채금리에 빅테크 주가 흔들",
           "link": "https://www.hankyung.com/article/202609154575i",
@@ -25,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.3
         },
         {
           "title": "미 10년물 국채금리, 심리적 저항선 ‘5%’ 돌파…2023년 이후 처음",
@@ -38,20 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
-        },
-        {
-          "title": "‘7천피’에 갇힌 코스피···유가 100달러 돌파에 ‘AI 속도조절론’까지 가세",
-          "link": "https://www.khan.co.kr/article/202609141645001/",
-          "summary": "지난 10일 사우디아라비아 헤자즈주 메디나 남쪽 동서 송유관 일대에서 검은 연기가 피어오르는 모습을 담은 위성 사진. 로이터연합뉴스국제 유가 폭등·금리 인상 우려·AI 둔화 ‘삼중고’FOMC 점도표·국채 금리 5% 재돌파 여부가 관건중동 정세 불안으로 국제유가가 100달러를 넘나들고, 그 여파로 금리마저 치솟을 것이란 전망이 나오면서 코스피 지수가 된서리를…",
-          "publishedAt": "2026-09-14T07:45:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.1
+          "score": 7.3
         },
         {
           "title": "환율 하락에 8월 수출입물가 모두 내림세",
@@ -67,13 +67,13 @@
           "score": 6.5
         },
         {
-          "title": "[단독] 은행들 한은서 ‘싼 돈’ 받아놓고...中企 금리 혜택 갈수록 줄였다",
-          "link": "https://www.mk.co.kr/news/economy/12152942",
-          "summary": "금융중개지원 대출 금리 혜택 시중은행들 갈수록 줄여나가 신성장·일자리 지원 명목 금리 3년새 인하폭 절반 가량 줄어시중은행들이 중소기업에 저리 대출을 내주겠다며 한국은행으로부터 값..",
-          "publishedAt": "2026-09-15T02:05:16.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260914.d8b961f1291a441c967c36a10af3ef6d_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "title": "원유 이어 LNG 가격도 치솟는다…물가 상승 압박에 산업계 긴장",
+          "link": "https://www.khan.co.kr/article/202609151553001/",
+          "summary": "‘LNG 일본·한국 마커’ 25달러 돌파러시아·우크라이나 전쟁 이후 최고치전 세계 LNG 수급난에 값 더 오를 듯겨울 앞두고 전기·난방요금 부담 커져이란의 공격을 받은 카타르 라스라판 액화천연가스(LNG) 생산 시설. AFP연합뉴스중동 지역 긴장 고조로 액화천연가스(LNG) 가격이 러시아·우크라이나 전쟁 수준으로 치솟고 있다. 국제유가와 LNG 가격이 동시…",
+          "publishedAt": "2026-09-15T06:53:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
@@ -92,8 +92,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 156,
+      "poolSize": 190,
       "items": [
+        {
+          "title": "“선은 살아 있어야 한다”…수좌 스님에게 배우는 간화선",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505333",
+          "summary": "한국 선불교의 수행 전통을 이어온 수좌 스님들이 한자리에 모여 간화선의 핵심과 실참수행을 전했다.(사)한국참선지도자협회가 주최하고 (사)한국명상총협회가 주관한 ‘쟌 마스터의 길’ 제10기 참선아카데미가 9월3일부터 6일까지 3박 4일간 문경 봉암사 세계명상마을에서 열렸다. 전국에서 참가한 70여 명의 참가자들이 수좌 스님들의 법문을 듣고 좌선과 화두참구를…",
+          "publishedAt": "2026-09-15T17:04:51.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
+        },
         {
           "title": "창원 반야사, 추석 맞아 지역에 쌀 200포 자비나눔",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505308",
@@ -105,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "인도·중국·조선불교서 서양철학까지…신진학자 연구 한자리",
@@ -118,46 +131,33 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
-          "title": "공주 신원사, 제18기 불교대학 18기 입학식 개최",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337791",
-          "summary": "공주 계룡산 신원사가 불교의 기초교리와 경전 공부를 통해 신행의 깊이를 더할 제18기 불교대학 신입생을 맞았다.신원사(주지 성관 스님)는 9월 13일 경내 세심당에서 신입생 25명이 참석한 가운데 ‘제18기 신원사 불교대학 입학식’을 봉행하고 본격적인 학사 일정에 들어갔다. 입학식은 명종을 시작으로 개회사, 삼귀의, 우리말 반야심경, 청법가, 입정, 주지…",
-          "publishedAt": "2026-09-14T11:36:58.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.7
-        },
-        {
-          "title": "광주 보은사, 선명상위원장 금강스님 초청법회",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442252",
-          "summary": "일상에서 잠시 멈추어 본래의 고요한 마음으로 돌아가는 선명상 법석이 빛고을 광주에서 펼쳐졌다.조계총림 송광사 광산포교당 보은사(주지 도제스님)는 9월13일 경내 2층 법당에서 조계종 선명상위원장 금강스님(중앙승가대 교수)을 초청해 ‘제44회 고월(古月) 백고좌(百高座)법회’를 봉행했다.법문에 앞서 주지 도제스님은 “한국불교 선명상 대중화를 이끌고 있는 금강…",
-          "publishedAt": "2026-09-14T10:10:23.000Z",
+          "title": "문경세계명상마을 제10기 참선아카데미 성료",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442318",
+          "summary": "문경 봉암사 세계명상마을에서 3박4일간 이어진 수행의 자리. 동참자 70여 명은 법문을 듣는 데서 그치지 않고 좌선과 화두참구로 일관했다. 사단법인 한국참선지도자협회가 주최하고 사단법인 한국명상총협회가 9월 3일부터 6일까지 진행한 '쟌 마스터의 길' 이다.'쟌(Jhān)'이라는 이름부터 이번 아카데미의 문제의식을 담고 있다. 이 말은 고요와 집중, 깊은…",
+          "publishedAt": "2026-09-15T15:49:25.000Z",
           "image": "",
           "sourceName": "불교신문",
           "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.6
+          "score": 3.1
         },
         {
-          "title": "함양 벽송사, 500년 선맥 이을 무문관 낙성",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505289",
-          "summary": "조선 선불교의 수행가풍을 이어온 지리산 함양 벽송사가 수행자들이 오롯이 화두와 마주하며 정진할 수 있는 ‘벽송선원 무문관’을 새롭게 열었다.함양 벽송사(주지 만일 스님)는 9월 12일 ‘벽송선원 무문관 낙성법회’를 봉행하고, 500여 년간 이어온 선맥을 계승할 새로운 정진도량의 출발을 알렸다.벽송사는 1520년 벽송 지엄 선사가 중창한 이후 수많은 선지식이…",
-          "publishedAt": "2026-09-14T08:20:07.000Z",
+          "title": "한국불교연구원, 동서 종교 명상 비교하는 ‘원효학당’ 연다",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337809",
+          "summary": "남방불교와 대승불교, 간화선을 비롯해 그리스도교와 이슬람, 요가까지 동서 종교 전통의 명상을 비교해 살펴보는 강좌가 열린다.한국불교연구원(이사장 이주형)은 10월 7일부터 12월 2일까지 매주 수요일 오후 6시 30분 서울 종로구 소재 법당과 줌에서 2026년 원효학당 세 번째 강좌를 개최한다. 주제는 ‘동서 종교 전통과 불교의 명상’이다. 10월 21일과…",
+          "publishedAt": "2026-09-15T14:09:31.000Z",
           "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.6
+          "score": 3.1
         }
       ]
     },
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "Normativity from the Standpoint of Its Victims",
@@ -212,7 +212,7 @@
             "philosophy",
             "art"
           ],
-          "score": 3.8
+          "score": 3.7
         },
         {
           "title": "현실과 겹치는 테네시 윌리엄스 고전 연극 잇따라 무대에",
@@ -238,7 +238,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.4
+          "score": 3.3
         }
       ]
     },
@@ -253,28 +253,40 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 190,
+      "poolSize": 193,
       "items": [
         {
-          "title": "[게시판] 한국은행 2027년 미술 신진작가 공모…최대 7명 선정",
-          "link": "https://www.yna.co.kr/view/AKR20260915047800002",
-          "summary": "▲ 한국은행은 젊은 작가들의 창작활동을 지원하기 위해 2027년 신진작가를 공모한다고 15일 밝혔다. 한국화, 서양화, 사진, 판화 등 평면예술...",
-          "publishedAt": "2026-09-15T03:00:16.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2025/06/13/21/PCM20250613000021990_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "‘혼불문학상’ 수상 한의사 겸 작가 오수완 “진정한 내가 되기 위해 글을 쓴다”",
+          "link": "https://www.khan.co.kr/article/202609151627001/",
+          "summary": "<에케 호모>로 제16회 혼불문학상을 수상한 오수완 작가가 15일 서울 중구의 한 컨퍼런스룸에서 열린 수상작 출간 기념간담회에 참석해 발언하고 있다. 연합뉴스“낮에는 한의사로 일하고 밤에는 소설을 쓰는 생활을 하고 있습니다. 소설가로 활동한 지는 16년 됐지만 문단에 널리 알려지지 않았어요. 혼불문학상 수상은 포기하지 말라는 응원 같아요. 앞으로···",
+          "publishedAt": "2026-09-15T07:27:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
-            "econ",
             "art"
           ],
           "score": 4.5
         },
         {
-          "title": "경기권 통일플러스센터 1주년…'평화의 향·색' 전시",
-          "link": "https://www.yna.co.kr/view/AKR20260915025000060",
-          "summary": "(의정부=연합뉴스) 김도윤 기자 = 경기도는 15일부터 다음 달 말까지 경기권 통일플러스센터에서 개관 1주년을 기념한 특별 프로그램을 운영한다.",
-          "publishedAt": "2026-09-14T23:20:20.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/15/AKR20260915025000060_01_i_P2.jpg",
+          "title": "우즈베크 문화장관 만난 최휘영 \"중요한 동반자…문화분야 협력\"",
+          "link": "https://www.yna.co.kr/view/AKR20260915140800005",
+          "summary": "(서울=연합뉴스) 임순현 기자 = 최휘영 문화체육관광부 장관은 15일 서울 종로구 국립현대미술관 서울관에서 오즈드베크 아흐마도비치 나자르베코프 ...",
+          "publishedAt": "2026-09-15T07:07:35.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/15/AKR20260915140800005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "조선 분청사기의 멋…남원 향토박물관서 11월까지 순회 전시회",
+          "link": "https://www.yna.co.kr/view/AKR20260915125400055",
+          "summary": "(남원=연합뉴스) 백도인 기자 = 전북 남원시는 'K-컬쳐의 맥, 분청사기를 함께 걷다' 전시회를 오는 17일부터 11월 1일까지 연다고 15일...",
+          "publishedAt": "2026-09-15T06:27:33.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/15/AKR20260915125400055_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -283,43 +295,30 @@
           "score": 4.4
         },
         {
-          "title": "\"케냐 라무섬을 아세요\"…여수 섬박람회 국제교류섬 '눈길'",
-          "link": "https://www.yna.co.kr/view/AKR20260915057700054",
-          "summary": "(여수=연합뉴스) 손상원 기자 = 2026 여수 세계섬박람회 '국제교류섬'이 이름조차 생소한 해외 섬의 매력과 가치를 소개하는 전시관으로 눈길을...",
-          "publishedAt": "2026-09-15T01:13:06.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/15/AKR20260915057700054_01_i_P2.jpg",
+          "title": "[게시판] 한국은행 2027년 미술 신진작가 공모…최대 7명 선정",
+          "link": "https://www.yna.co.kr/view/AKR20260915047800002",
+          "summary": "▲ 한국은행은 젊은 작가들의 창작활동을 지원하기 위해 2027년 신진작가를 공모한다고 15일 밝혔다. 한국화, 서양화, 사진, 판화 등 평면예술...",
+          "publishedAt": "2026-09-15T03:00:16.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2025/06/13/21/PCM20250613000021990_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "한강 소설 낭독극 국내 첫선…이혜영 \"문장을 음성으로 운반\"",
+          "link": "https://www.yna.co.kr/view/AKR20260915136900005",
+          "summary": "(서울=연합뉴스) 임순현 기자 = 노벨문학상 수상 작가 한강의 소설을 원작으로 한 낭독극이 국내에서 초연된다.",
+          "publishedAt": "2026-09-15T07:43:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/15/AKR20260915136900005_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
           "score": 3
-        },
-        {
-          "title": "독립기념관, '강산의 상처를 넘어, 독립의 푸른 봄으로' 기획전",
-          "link": "https://www.yna.co.kr/view/AKR20260915049200063",
-          "summary": "(천안=연합뉴스) 유의주 기자 = 독립기념관은 15일부터 오는 11월 29일까지 제7관 내 특별기획전시실에서 2026년 특별기획전 '강산의 상처...",
-          "publishedAt": "2026-09-15T00:54:30.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/15/AKR20260915049200063_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3
-        },
-        {
-          "title": "대전문화재단 지은주·대전고암재단 손경숙 신임 대표 임명",
-          "link": "https://www.yna.co.kr/view/AKR20260915036400063",
-          "summary": "(대전=연합뉴스) 박주영 기자 = 대전시는 앞으로 2년간 대전문화재단과 대전고암미술문화재단을 이끌어갈 대표이사에 지은주(58) 대전오페라단장, ...",
-          "publishedAt": "2026-09-15T00:04:19.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/15/PYH2026091507020006300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 2.9
         }
       ]
     }
