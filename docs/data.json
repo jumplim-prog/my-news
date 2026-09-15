@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-14T21:07:05.074Z",
+  "builtAt": "2026-09-15T03:08:06.079Z",
   "cards": [
     {
       "id": "econ",
@@ -12,42 +12,29 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 340,
+      "poolSize": 312,
       "items": [
         {
-          "title": "환율 하락에 8월 수출물가 3.7%↓…3년 8개월 만에 최대폭",
-          "link": "https://www.yna.co.kr/view/AKR20260914158700002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 지난달 국제 유가 상승에도 원/달러 환율이 크게 내리며 수출물가지수가 3년 8개월 만에 최대 폭 하락했다.",
-          "publishedAt": "2026-09-14T21:00:02.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/14/AKR20260914158700002_04_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "美10년물 국채금리 '심리적 저항선' 5% 돌파…2023년 후 처음(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20260914175352072",
-          "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 14일(현지시간) 미국 국채 매도세가 이어지면서 10년 만기 국채 금리가 '심리적 저항선'인 5%를 넘어섰다...",
-          "publishedAt": "2026-09-14T15:46:08.000Z",
-          "image": "https://img.yna.co.kr/photo/reuters/2026/09/11/PRU20260911313801009_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "[밤 사이 해외 뉴스 영상] AI 투자 열풍 멈추나…5% 넘은 美 국채금리에 빅테크 주가 흔들",
+          "link": "https://www.hankyung.com/article/202609154575i",
+          "summary": "",
+          "publishedAt": "2026-09-14T23:15:06.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
           "score": 7.4
         },
         {
-          "title": "美 10년물 국채 금리 5.00% 돌파…2023년 이후 처음",
-          "link": "https://www.yna.co.kr/view/AKR20260914175351072",
-          "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 14일(현지시간) 미국 국채 매도세가 심화하면서 10년 만기 국채 금리가 심리적 저항선인 5.00%를 넘어섰...",
-          "publishedAt": "2026-09-14T14:40:48.000Z",
-          "image": "https://img.yna.co.kr/photo/reuters/2026/09/11/PRU20260911313801009_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "미 10년물 국채금리, 심리적 저항선 ‘5%’ 돌파…2023년 이후 처음",
+          "link": "https://www.khan.co.kr/article/202609150742001/",
+          "summary": "한국 국고채·주담대 등 금리 전반 상승 우려케빈 워시 미국 연방준비제도(Fed) 신임 의장이 지난 6월17일(현지시간) 연방공개시장위원회(FOMC) 회의에서 금리 동결을 결정한 이후 기자간담회를 하고 있다. AP연합뉴스14일(현지시간) 미국 국채 매도세가 커지면서 글로벌 금리 기준 지표인 10년 만기 국채 금리가 ‘심리적 저항선’인 5%를 넘어섰다.미국 1…",
+          "publishedAt": "2026-09-14T22:42:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
@@ -64,20 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.1
         },
         {
-          "title": "원/달러 환율 1,347.3원…美 FOMC 앞두고 박스권 등락",
-          "link": "https://www.yna.co.kr/view/AKR20260914133100002",
-          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 14일 미국 기준금리 결정을 앞두고 1,340원대 박스권에서 등락을 거듭했다.",
-          "publishedAt": "2026-09-14T07:13:57.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/14/PYH2026091402710001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "환율 하락에 8월 수출입물가 모두 내림세",
+          "link": "https://www.hani.co.kr/arti/economy/economy_general/1277840.html",
+          "summary": "",
+          "publishedAt": null,
+          "image": "",
+          "sourceName": "한겨레",
+          "sourceId": "hani-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 6.5
+        },
+        {
+          "title": "[단독] 은행들 한은서 ‘싼 돈’ 받아놓고...中企 금리 혜택 갈수록 줄였다",
+          "link": "https://www.mk.co.kr/news/economy/12152942",
+          "summary": "금융중개지원 대출 금리 혜택 시중은행들 갈수록 줄여나가 신성장·일자리 지원 명목 금리 3년새 인하폭 절반 가량 줄어시중은행들이 중소기업에 저리 대출을 내주겠다며 한국은행으로부터 값..",
+          "publishedAt": "2026-09-15T02:05:16.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260914.d8b961f1291a441c967c36a10af3ef6d_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6
         }
       ]
     },
@@ -92,21 +92,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 141,
+      "poolSize": 156,
       "items": [
-        {
-          "title": "전남광주 보은사, 제44회 고월백고좌법회 봉행…금강스님 초청 법문",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106487",
-          "summary": "전남광주 보은사는 지난 13일 경내 법당에서 제44회 고월백고좌법회를 봉행했습니다.이번 법회에는 조계종 선명상위원장이자 중앙승가대학교 교수인 금강스님이 ‘내 안의 평화가 피어나길 바라는 마음’을 주제로 법문을 전했습니다.금강스님은 “현대인들이 일상에서 좋아하고 싫어하는 마음, 내 것과 내 것 아닌 것, 내가 아는 것과 내가 모르는 것에 대한 분별이 끊임없이…",
-          "publishedAt": "2026-09-14T17:37:57.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.4
-        },
         {
           "title": "창원 반야사, 추석 맞아 지역에 쌀 200포 자비나눔",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505308",
@@ -118,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "인도·중국·조선불교서 서양철학까지…신진학자 연구 한자리",
@@ -131,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4.2
         },
         {
           "title": "공주 신원사, 제18기 불교대학 18기 입학식 개최",
@@ -144,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
+          "score": 2.7
         },
         {
           "title": "광주 보은사, 선명상위원장 금강스님 초청법회",
@@ -157,7 +144,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
+          "score": 2.6
+        },
+        {
+          "title": "함양 벽송사, 500년 선맥 이을 무문관 낙성",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505289",
+          "summary": "조선 선불교의 수행가풍을 이어온 지리산 함양 벽송사가 수행자들이 오롯이 화두와 마주하며 정진할 수 있는 ‘벽송선원 무문관’을 새롭게 열었다.함양 벽송사(주지 만일 스님)는 9월 12일 ‘벽송선원 무문관 낙성법회’를 봉행하고, 500여 년간 이어온 선맥을 계승할 새로운 정진도량의 출발을 알렸다.벽송사는 1520년 벽송 지엄 선사가 중창한 이후 수많은 선지식이…",
+          "publishedAt": "2026-09-14T08:20:07.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 2.6
         }
       ]
     },
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "Normativity from the Standpoint of Its Victims",
@@ -212,20 +212,7 @@
             "philosophy",
             "art"
           ],
-          "score": 3.9
-        },
-        {
-          "title": "Moral Learning",
-          "link": "https://plato.stanford.edu/entries/moral-learning/",
-          "summary": "[New Entry by Tamar Kushnir and Shaun Nichols on September 12, 2026.] In this piece moral learning is taken to comprise the acquisition of norms and values in the moral domain. The investigation of th…",
-          "publishedAt": "2026-09-13T00:16:47.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3.6
+          "score": 3.8
         },
         {
           "title": "현실과 겹치는 테네시 윌리엄스 고전 연극 잇따라 무대에",
@@ -239,6 +226,19 @@
             "philosophy"
           ],
           "score": 3.5
+        },
+        {
+          "title": "Moral Learning",
+          "link": "https://plato.stanford.edu/entries/moral-learning/",
+          "summary": "[New Entry by Tamar Kushnir and Shaun Nichols on September 12, 2026.] In this piece moral learning is taken to comprise the acquisition of norms and values in the moral domain. The investigation of th…",
+          "publishedAt": "2026-09-13T00:16:47.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 3.4
         }
       ]
     },
@@ -253,73 +253,73 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 193,
+      "poolSize": 190,
       "items": [
         {
-          "title": "완주서 만나는 미술 거장 '프리다 칼로' 전시회 개막",
-          "link": "https://www.yna.co.kr/view/AKR20260914126700055",
-          "summary": "(완주=연합뉴스) 최영수 기자 = 전북 완주군 삼례문화예술촌은 멕시코 출신의 세계적인 미술 거장 프리다 칼로(1907∼1954년) 특별기획전을 ...",
-          "publishedAt": "2026-09-14T06:41:22.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/14/AKR20260914126700055_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.2
-        },
-        {
-          "title": "[게시판] iM뱅크, 대구간송미술관과 문화예술 발전 업무협약",
-          "link": "https://www.yna.co.kr/view/AKR20260914121800053",
-          "summary": "▲ iM뱅크는 14일 대구 간송미술관과 '지역 사회공헌 및 문화예술 발전을 위한 업무협약'을 하고 후원금 1천500만원을 전달했다. 양측은 앞으...",
-          "publishedAt": "2026-09-14T06:21:46.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/14/AKR20260914121800053_01_i_P2.jpg",
+          "title": "[게시판] 한국은행 2027년 미술 신진작가 공모…최대 7명 선정",
+          "link": "https://www.yna.co.kr/view/AKR20260915047800002",
+          "summary": "▲ 한국은행은 젊은 작가들의 창작활동을 지원하기 위해 2027년 신진작가를 공모한다고 15일 밝혔다. 한국화, 서양화, 사진, 판화 등 평면예술...",
+          "publishedAt": "2026-09-15T03:00:16.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2025/06/13/21/PCM20250613000021990_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ",
             "art"
           ],
-          "score": 4.2
+          "score": 4.5
         },
         {
-          "title": "추석 연휴 청주서 전시·공연·체험 프로그램 풍성",
-          "link": "https://www.yna.co.kr/view/AKR20260914096900064",
-          "summary": "(청주=연합뉴스) 김형우 기자 = 추석 연휴 청주에서 가족과 함께 즐길 수 있는 전시·공연 행사가 풍성하게 열린다.",
-          "publishedAt": "2026-09-14T05:17:12.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/14/AKR20260914096900064_01_i_P2.jpg",
+          "title": "경기권 통일플러스센터 1주년…'평화의 향·색' 전시",
+          "link": "https://www.yna.co.kr/view/AKR20260915025000060",
+          "summary": "(의정부=연합뉴스) 김도윤 기자 = 경기도는 15일부터 다음 달 말까지 경기권 통일플러스센터에서 개관 1주년을 기념한 특별 프로그램을 운영한다.",
+          "publishedAt": "2026-09-14T23:20:20.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/15/AKR20260915025000060_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.2
+          "score": 4.4
         },
         {
-          "title": "구름·바람에서 마음의 풍경으로…강운의 36년 작업 한자리에",
-          "link": "https://www.yna.co.kr/view/AKR20260914088900005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 자연과 시간, 보이지 않는 현상을 화면에 담아온 작가 강운(60)의 36년 작업을 조명하는 전시가 서울 진관동...",
-          "publishedAt": "2026-09-14T04:11:35.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/14/AKR20260914088900005_01_i_P2.jpg",
+          "title": "\"케냐 라무섬을 아세요\"…여수 섬박람회 국제교류섬 '눈길'",
+          "link": "https://www.yna.co.kr/view/AKR20260915057700054",
+          "summary": "(여수=연합뉴스) 손상원 기자 = 2026 여수 세계섬박람회 '국제교류섬'이 이름조차 생소한 해외 섬의 매력과 가치를 소개하는 전시관으로 눈길을...",
+          "publishedAt": "2026-09-15T01:13:06.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/15/AKR20260915057700054_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 3
         },
         {
-          "title": "매물로 나온 문학동네, 출판계 지각변동 오나",
-          "link": "https://www.khan.co.kr/article/202609142041005/",
-          "summary": "창립자 강병선, 지분 41% 전량 매각 추진국내 단행본 출판사 1위인 문학동네의 최대주주가 지분 매각을 추진 중이다. 노벨 문학상 수상자인 한강을 비롯해 한국 대표 작가들의 작품을 펴내온 대표 문학 출판사의 변화에 관심이 쏠리고 있다.14일 출판업계에 따르면 문학동네 창립자인 강병선(필명 강태형) 전 대표는 자신이 보유한 지분 41.5%의 전량 매각을 추진…",
-          "publishedAt": "2026-09-14T11:41:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "독립기념관, '강산의 상처를 넘어, 독립의 푸른 봄으로' 기획전",
+          "link": "https://www.yna.co.kr/view/AKR20260915049200063",
+          "summary": "(천안=연합뉴스) 유의주 기자 = 독립기념관은 15일부터 오는 11월 29일까지 제7관 내 특별기획전시실에서 2026년 특별기획전 '강산의 상처...",
+          "publishedAt": "2026-09-15T00:54:30.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/15/AKR20260915049200063_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 2.8
+          "score": 3
+        },
+        {
+          "title": "대전문화재단 지은주·대전고암재단 손경숙 신임 대표 임명",
+          "link": "https://www.yna.co.kr/view/AKR20260915036400063",
+          "summary": "(대전=연합뉴스) 박주영 기자 = 대전시는 앞으로 2년간 대전문화재단과 대전고암미술문화재단을 이끌어갈 대표이사에 지은주(58) 대전오페라단장, ...",
+          "publishedAt": "2026-09-15T00:04:19.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/15/PYH2026091507020006300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 2.9
         }
       ]
     }
