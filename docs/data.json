@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-16T03:07:11.350Z",
+  "builtAt": "2026-09-16T09:07:04.322Z",
   "cards": [
     {
       "id": "econ",
@@ -12,65 +12,65 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 337,
+      "poolSize": 325,
       "items": [
         {
-          "title": "고유가·미 국채금리 급등에…환율 1,370원대로 상승",
-          "link": "https://www.yna.co.kr/view/AKR20260916074500002",
-          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율이 16일 고유가와 미국 국채금리 고공 행진 영향에 1,370원대로 올라섰다.",
-          "publishedAt": "2026-09-16T01:52:54.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/16/PYH2026091602470001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "\"글로벌 긴축 불확실성 속 10월 채권시장 보합 전망\"",
-          "link": "https://www.yna.co.kr/view/AKR20260916072900008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 10월 채권시장 심리는 글로벌 통화정책 이벤트와 지정학적 불확실성 속에 관망세를 나타냈다.",
-          "publishedAt": "2026-09-16T01:40:34.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/16/AKR20260916072900008_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "코스피, 보합권서 등락…FOMC 앞두고 눈치보기 장세",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008755457",
-          "summary": "▲ 16일 오전 중구 하나은행 본점 딜링룸 전광판에 실시간 원/달러 환율과 코스피가 표시돼 있다.코스피가 오늘 미국 기준금리 결정을 …",
-          "publishedAt": "2026-09-16T01:10:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260916/202222777_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "美 국채 5% 시대 열렸다.. 물가 발작에 전 세계 비상",
-          "link": "https://www.mk.co.kr/news/stock/12153917",
-          "summary": "오늘 글로벌 자본 시장을 강타한 가장 무서운 숫자는 바로 ‘5%’입니다. 전 세계 모든 대출과 투자의 기준점이 되는 미국 10년물 국채 금리가 5%를 돌파했습니다. 가장 안전해야 ..",
-          "publishedAt": "2026-09-16T00:24:24.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/16/news-m.v1.20260916.dc0941d02c86412395ba829a5a0b772e_R.jpg",
+          "title": "공장지으려 달러 빌렸는데… 美금리 고공행진에 '울상'",
+          "link": "https://www.mk.co.kr/news/economy/12154561",
+          "summary": "고유가 국면에 전 세계 금리의 잣대가 되는 미국 10년물 국채금리가 급등하며 외화부채가 많은 기업들의 재무 건전성에 비상이 걸렸다. 그동안 대미 투자를 확대하기 위해 달러 빚을 늘..",
+          "publishedAt": "2026-09-16T08:52:50.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/20260917_01110114000006_S00.jpg",
           "sourceName": "매일경제",
           "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "FOMC 관망 속 국고채 금리 하락…3년물 연 4.053%(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20260916157051008",
+          "summary": "(서울=연합뉴스) 고은지 기자 = 미국 연방공개시장위원회(FOMC)의 기준금리 결정을 앞두고 관망세가 짙어지며 국고채 금리가 일제히 하락했다.",
+          "publishedAt": "2026-09-16T07:59:17.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2024/03/04/45/PCM20240304000145990_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "고유가·미 국채금리 급등에…환율 1,370원대 터치(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20260916074551002",
+          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율이 16일 고유가와 미국 국채금리 고공 행진 영향에 1,370원 선을 터치했다.",
+          "publishedAt": "2026-09-16T07:04:03.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/16/PYH2026091621840001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "[외환] 원/달러 환율 9.2원 오른 1,368.6원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20260916138000002",
+          "summary": "(",
+          "publishedAt": "2026-09-16T06:31:52.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/16/AKR20260916138000002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
           "score": 7.4
         },
         {
-          "title": "[밤 사이 해외 뉴스 영상] \"19년 만에 최악\"…미 국채 금리 5% 뚫자 '패닉'",
-          "link": "https://www.hankyung.com/article/202609167147i",
+          "title": "9월 FOMC, 금리를 올리지 않을 것이라고 보는 이유 [조윤남의 사이클투자]",
+          "link": "https://www.hankyung.com/article/202609168687i",
           "summary": "",
-          "publishedAt": "2026-09-15T23:03:10.000Z",
+          "publishedAt": "2026-09-16T06:05:06.000Z",
           "image": "",
           "sourceName": "한국경제",
           "sourceId": "hankyung-economy",
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 194,
+      "poolSize": 202,
       "items": [
         {
           "title": "“선은 살아 있어야 한다”…수좌 스님에게 배우는 간화선",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4.2
         },
         {
           "title": "창원 반야사, 추석 맞아 지역에 쌀 200포 자비나눔",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.8
+          "score": 3.6
         },
         {
           "title": "인도·중국·조선불교서 서양철학까지…신진학자 연구 한자리",
@@ -131,7 +131,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.5
+        },
+        {
+          "title": "부산영산재보존회, 창립 33주년 기념 대법회 봉행",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337829",
+          "summary": "(사)부산영산재보존회(이사장 성림 스님)는 9월 15일 부산 사상구 모라동 부산영산재보존회 관음사에서 ‘부산영산재보존회 창립 33주년 기념 대법회’를 봉행했다.이날 법회는 영산재 시연에 이어 개회선언과 삼귀의례, 반야심경, 발원문, 경과보고, 회주 경호 스님 환영사, 이사장 성림 스님의 봉행사로 이어졌다. 이후 축하 케이크 커팅, 공지사항, 사홍서원, 기념…",
+          "publishedAt": "2026-09-16T12:10:18.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
         },
         {
           "title": "문경세계명상마을 제10기 참선아카데미 성료",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
-        },
-        {
-          "title": "한국불교연구원, 동서 종교 명상 비교하는 ‘원효학당’ 연다",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337809",
-          "summary": "남방불교와 대승불교, 간화선을 비롯해 그리스도교와 이슬람, 요가까지 동서 종교 전통의 명상을 비교해 살펴보는 강좌가 열린다.한국불교연구원(이사장 이주형)은 10월 7일부터 12월 2일까지 매주 수요일 오후 6시 30분 서울 종로구 소재 법당과 줌에서 2026년 원효학당 세 번째 강좌를 개최한다. 주제는 ‘동서 종교 전통과 불교의 명상’이다. 10월 21일과…",
-          "publishedAt": "2026-09-15T14:09:31.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.7
+          "score": 2.6
         }
       ]
     },
@@ -175,17 +175,17 @@
       "poolSize": 130,
       "items": [
         {
-          "title": "신진 연구자 ‘도전 의식과 현실’ 짚는다",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210188",
-          "summary": "[‘천하제일연구자대회’ 시즌3를 시작하며] ‘천하제일연구자대회’가 세 번째 판을 연다. 2022년 3월, 첫 연재를 시작해 지난해 2월 시즌2를 마칠 때까지 79명의 신진 연구자를 소개했다. 새로운 시야와 도전적인 문제의식으로 기성의 인문·사회과학 장을 바꾸고 있는 신진 세대 연구자들과 이전에 없던 문제와 소재로써 새 분야를 개척하는 이들을 만났다. 어느…",
-          "publishedAt": "2026-09-16T09:32:53.000Z",
+          "title": "원광대 한중관계연구원-중국 북화대, 동아시아 사상·역사 공동 학술대회 개최",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210396",
+          "summary": "동아시아 역사와 사상 연구의 국제적 협력을 강화하기 위한 기반이 마련됐다. 원광대 한중관계연구원과 중국 북화대학 동아시아 역사와 문헌 연구중심은 앞으로도 공동 학술대회 · 연구자 교류를 지속적으로 추진해 나갈 예정이다. 이번 공동 학술대회는 한중 양국 연구자들이 동아시아의 역사와 사상 연구 성과를 공유하고 상호 이해를 심화하는 데 의의를 두었다. 지난 9일…",
+          "publishedAt": "2026-09-16T13:00:32.000Z",
           "image": "",
           "sourceName": "교수신문",
           "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.6
+          "score": 7.6
         },
         {
           "title": "Sir Anthony Kenny obituary",
@@ -214,30 +214,30 @@
           "score": 3.5
         },
         {
-          "title": "초번영",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210342",
-          "summary": "미·중 ‘슈퍼 파워’에 이어 ‘미들 파워’를 이끌 세계 3위 AI 강국의 자리는 누가 차지할 것인가? 역사상 가장 치열한 글로벌 경쟁이 벌어지고 있는 현시점에, AI 강국으로 도약해 나가기 위한 조건과 전략을 분석한 『초번영』이 출간되었다. 아메리칸대학교 코고드 경영대학원 교수인 저자는 이 책에서 세계 최초로 공개하는 ‘T.H.R.I.V.I.N.G. 프레임…",
-          "publishedAt": "2026-09-16T11:54:12.000Z",
+          "title": "경기대·서울대 연구팀, 전자 소용돌이 위상정보 판독 기술 세계 첫 구현",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210392",
+          "summary": "경기대 창의공과대학 전자공학부 박상윤 교수와 민선홍 교수 연구팀이 전자에 내재된 미세한 '소용돌이 위상 정보'를 빛의 나선 구조와 편광 특성으로 변환해 읽어내는 기술을 세계 최초로 구현했다. 이 연구는 서울대, 차세대융합기술연구원, 기초과학연구원(IBS), 한국원자력의학원, 삼성전자, 한화에어로스페이스, 우즈베키스탄 사마르칸트국립대 등 다양한 기관이 공동으…",
+          "publishedAt": "2026-09-16T12:59:57.000Z",
           "image": "",
           "sourceName": "교수신문",
           "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 3.2
+          "score": 3.1
         },
         {
-          "title": "일상의 유토피아",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210344",
-          "summary": "“역사적으로 진보는 희망적인 태도, 극단적인 꿈, 정신 나간 아이디어와 함께 시작되었다.”미국의 저명한 민족지학자 크리스틴 R. 고드시의 최신작 『일상의 유토피아』는 고대부터 현대까지 역사를 가로지르면서 가정생활을 더 좋은 방식으로 꾸리고자 했던 사상가와 공동체들을 탐구하고 새로운 삶의 방식에 대한 영감을 얻는다. 저자는 역사 속에서 선구적인 공동체나 사회…",
-          "publishedAt": "2026-09-16T11:53:39.000Z",
+          "title": "Moral Learning",
+          "link": "https://plato.stanford.edu/entries/moral-learning/",
+          "summary": "[New Entry by Tamar Kushnir and Shaun Nichols on September 12, 2026.] In this piece moral learning is taken to comprise the acquisition of norms and values in the moral domain. The investigation of th…",
+          "publishedAt": "2026-09-13T00:16:47.000Z",
           "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
           "candidates": [
             "philosophy"
           ],
-          "score": 3.2
+          "score": 3
         }
       ]
     },
@@ -252,20 +252,46 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 200,
+      "poolSize": 199,
       "items": [
         {
-          "title": "울주세계산악영화제·울산대 맞손…통역·전시 등 프로그램 협력",
-          "link": "https://www.yna.co.kr/view/AKR20260916059300057",
-          "summary": "(울산=연합뉴스) 장영은 기자 = 제11회 울산울주세계산악영화제(집행위원장 엄홍길)가 울산대와 손잡고 해외 게스트 통역, 홍보 미디어 콘텐츠 제...",
-          "publishedAt": "2026-09-16T01:26:46.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/08/11/PYH2026081118300005700_P2.jpg",
+          "title": "\"잊히지 않는 마음\"…이산가족 생애기록물 전시",
+          "link": "https://www.yna.co.kr/view/AKR20260916151500504",
+          "summary": "(서울=연합뉴스) 하채림 기자 = 통일부는 '이산가족의 날'(23일)을 앞두고 종로구 경인미술관에서 이산가족 생애기록물 전시회 '가족, ＿＿＿'...",
+          "publishedAt": "2026-09-16T07:20:46.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/16/AKR20260916151500504_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 6
+        },
+        {
+          "title": "부산시립미술관, 2년 개보수 마치고 17일 재개관",
+          "link": "https://www.yna.co.kr/view/AKR20260916148100051",
+          "summary": "(부산=연합뉴스) 이영재 기자 = 부산을 대표하는 미술관인 부산시립미술관이 개보수 공사를 마치고 새로운 모습으로 문을 연다.",
+          "publishedAt": "2026-09-16T08:16:30.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/16/AKR20260916148100051_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
           "score": 4.5
+        },
+        {
+          "title": "\"업무 지친 교원, 예술로 휴식을\" 남원시미술관, 프로그램 운영",
+          "link": "https://www.yna.co.kr/view/AKR20260916141400055",
+          "summary": "(남원=연합뉴스) 백도인 기자 = 전북 남원시립김병종미술관은 업무와 일상에 지친 교원을 위한 연수 프로그램 '예술로, 숨 고르기'를 11월까지 ...",
+          "publishedAt": "2026-09-16T06:38:06.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/16/AKR20260916141400055_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "오수완 작가 “소설 쓴 지 16년…문학상은 포기하지 말라는 응원”",
@@ -278,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
           "title": "‘혼불문학상’ 수상 한의사 겸 작가 오수완 “진정한 내가 되기 위해 글을 쓴다”",
@@ -291,34 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.1
-        },
-        {
-          "title": "삼성물산 르베이지, 캐시미어·실크 기반 가을·겨울 제품 출시",
-          "link": "https://www.yna.co.kr/view/AKR20260916044400030",
-          "summary": "(서울=연합뉴스) 이상서 기자 = 삼성물산[028260] 패션부문의 르베이지는 '조용한 럭셔리' 유행이 반영된 가을·겨울 컬렉션을 출시하고 관련...",
-          "publishedAt": "2026-09-16T00:56:03.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/16/AKR20260916044400030_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ",
-            "art"
-          ],
-          "score": 3
-        },
-        {
-          "title": "하루키 소설로 만든 애니 '장님 버드나무와 잠자는 여자' 개봉",
-          "link": "https://www.yna.co.kr/view/AKR20260916051200005",
-          "summary": "(서울=연합뉴스) 박원희 기자 = 세계적인 작가 무라카미 하루키의 소설을 원작으로 한 최초의 장편 애니메이션 '장님 버드나무와 잠자는 여자'가 ...",
-          "publishedAt": "2026-09-16T00:43:19.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/16/AKR20260916051200005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3
+          "score": 4
         }
       ]
     }
