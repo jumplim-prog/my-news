@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-16T09:07:04.322Z",
+  "builtAt": "2026-09-16T21:07:21.769Z",
   "cards": [
     {
       "id": "econ",
@@ -12,14 +12,14 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 325,
+      "poolSize": 332,
       "items": [
         {
-          "title": "공장지으려 달러 빌렸는데… 美금리 고공행진에 '울상'",
-          "link": "https://www.mk.co.kr/news/economy/12154561",
-          "summary": "고유가 국면에 전 세계 금리의 잣대가 되는 미국 10년물 국채금리가 급등하며 외화부채가 많은 기업들의 재무 건전성에 비상이 걸렸다. 그동안 대미 투자를 확대하기 위해 달러 빚을 늘..",
-          "publishedAt": "2026-09-16T08:52:50.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/17/20260917_01110114000006_S00.jpg",
+          "title": "트럼프 “美 금리 1% 이하여야” 금리 올린 워시에 분노",
+          "link": "https://www.mk.co.kr/news/economy/12154948",
+          "summary": "연준, 기준금리 0.25%P 인상 트럼프 질문에 워시 “할말 없다”미 연방준비제도(Fed)가 16일(현지시간) 3년 2개월만에 기준금리를 인상하며 긴축으로 전환한 가운데 도널드 트..",
+          "publishedAt": "2026-09-16T21:02:01.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.1a7f56f5e43042c6a4437fabd6c8df02_R.jpg",
           "sourceName": "매일경제",
           "sourceId": "mk-economy",
           "candidates": [
@@ -28,11 +28,37 @@
           "score": 7.5
         },
         {
-          "title": "FOMC 관망 속 국고채 금리 하락…3년물 연 4.053%(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20260916157051008",
-          "summary": "(서울=연합뉴스) 고은지 기자 = 미국 연방공개시장위원회(FOMC)의 기준금리 결정을 앞두고 관망세가 짙어지며 국고채 금리가 일제히 하락했다.",
-          "publishedAt": "2026-09-16T07:59:17.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2024/03/04/45/PCM20240304000145990_P2.jpg",
+          "title": "워시 “인플레 너무 높아” 추가 인상 예고…美증시·채권 약세",
+          "link": "https://www.mk.co.kr/news/world/12154906",
+          "summary": "연준, 기준금리 0.25%P 인상 2023년 7월 이후 3년2개월만미국 연방준비제도(Fed)가 유가발 인플레이션 확산 속에 3년 2개월만에 전격적으로 기준금리를 인상했다. 지난해..",
+          "publishedAt": "2026-09-16T20:07:45.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-a.v1.20260917.8d6385b883474d77b8b04d5b8597a64b_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "“대미 투자하느라 달러빚 냈는데”…금리발작에 떨고있는 업종은",
+          "link": "https://www.mk.co.kr/news/economy/12154900",
+          "summary": "美금리 고공행진에 재계 비상 달러 빚내서 현지투자 확늘린 배터리업계, 이자비용 부담↑ 항공·석유화학도 예의주시고유가 국면에 전 세계 금리의 잣대가 되는 미국 10년물 국채금리가 급..",
+          "publishedAt": "2026-09-16T19:54:04.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260916.0612b0bcaaf346e68282b2ca88978f50_R.png",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "美기준금리 0.25%p 인상, 3년만에 긴축…연내 추가인상 시사(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20260917002452071",
+          "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 중앙은행인 연방준비제도(Fed·연준)가 기준금리를 연 3.75∼4.00%로 0.25%포인트(p) 인상...",
+          "publishedAt": "2026-09-16T19:10:53.000Z",
+          "image": "https://img.yna.co.kr/photo/reuters/2026/09/16/PRU20260916253701009_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
@@ -41,43 +67,17 @@
           "score": 7.5
         },
         {
-          "title": "고유가·미 국채금리 급등에…환율 1,370원대 터치(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20260916074551002",
-          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율이 16일 고유가와 미국 국채금리 고공 행진 영향에 1,370원 선을 터치했다.",
-          "publishedAt": "2026-09-16T07:04:03.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/16/PYH2026091621840001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "[외환] 원/달러 환율 9.2원 오른 1,368.6원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20260916138000002",
-          "summary": "(",
-          "publishedAt": "2026-09-16T06:31:52.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/16/AKR20260916138000002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "9월 FOMC, 금리를 올리지 않을 것이라고 보는 이유 [조윤남의 사이클투자]",
-          "link": "https://www.hankyung.com/article/202609168687i",
-          "summary": "",
-          "publishedAt": "2026-09-16T06:05:06.000Z",
+          "title": "연준, 3년여 만에 기준금리 0.25%P 인상…연내 추가인상 가능성",
+          "link": "https://www.khan.co.kr/article/202609170358001/",
+          "summary": "케빈 워시 연준 의장. AFP연합뉴스미국 중앙은행인 연방준비제도(Fed·연준)가 기준금리를 연 3.75∼4.00%로 0.25%포인트 인상했다. 연준이 금리를 올린 것은 3년 2개월 만이다.연준은 16일(현지시간) 연방공개시장위원회(FOMC) 회의 결과 이같이 결정했다고 발표했다. 표결권이 주어진 12명의 FOMC 위원(연준 이사 및 지역연방준비은···",
+          "publishedAt": "2026-09-16T18:58:00.000Z",
           "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.5
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 202,
+      "poolSize": 203,
       "items": [
         {
           "title": "“선은 살아 있어야 한다”…수좌 스님에게 배우는 간화선",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 3.9
         },
         {
           "title": "창원 반야사, 추석 맞아 지역에 쌀 200포 자비나눔",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.6
+          "score": 3.4
         },
         {
           "title": "인도·중국·조선불교서 서양철학까지…신진학자 연구 한자리",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
+          "score": 3.3
         },
         {
           "title": "부산영산재보존회, 창립 33주년 기념 대법회 봉행",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 2.8
         },
         {
           "title": "문경세계명상마을 제10기 참선아카데미 성료",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.6
+          "score": 2.4
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 130,
+      "poolSize": 131,
       "items": [
         {
           "title": "원광대 한중관계연구원-중국 북화대, 동아시아 사상·역사 공동 학술대회 개최",
@@ -185,7 +185,21 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.6
+          "score": 7.3
+        },
+        {
+          "title": "This Philosopher Thinks It’s Time We Call Out Evil in Our World",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/this-philosopher-thinks-its-time-we-call-out-evil-in-our-world.html",
+          "summary": "Jennifer Szalai in the New York Times: Susan Neiman has noticed a paradox. “As the world drifts toward disaster,” she writes in her new book, “our language has become more cautious.” Yet this tentativ…",
+          "publishedAt": "2026-09-16T18:45:31.000Z",
+          "image": "https://3quarksdaily.com/wp-content/uploads/2026/09/call-it-evil-understanding-the-trump-era-360x360.png",
+          "sourceName": "3 Quarks Daily",
+          "sourceId": "3quarks",
+          "candidates": [
+            "philosophy",
+            "art"
+          ],
+          "score": 4.5
         },
         {
           "title": "Sir Anthony Kenny obituary",
@@ -201,43 +215,31 @@
           "score": 4.5
         },
         {
-          "title": "현실과 겹치는 테네시 윌리엄스 고전 연극 잇따라 무대에",
-          "link": "https://www.hani.co.kr/arti/culture/music/1277724.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레 문화",
-          "sourceId": "hani-culture",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3.5
-        },
-        {
-          "title": "경기대·서울대 연구팀, 전자 소용돌이 위상정보 판독 기술 세계 첫 구현",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210392",
-          "summary": "경기대 창의공과대학 전자공학부 박상윤 교수와 민선홍 교수 연구팀이 전자에 내재된 미세한 '소용돌이 위상 정보'를 빛의 나선 구조와 편광 특성으로 변환해 읽어내는 기술을 세계 최초로 구현했다. 이 연구는 서울대, 차세대융합기술연구원, 기초과학연구원(IBS), 한국원자력의학원, 삼성전자, 한화에어로스페이스, 우즈베키스탄 사마르칸트국립대 등 다양한 기관이 공동으…",
-          "publishedAt": "2026-09-16T12:59:57.000Z",
+          "title": "정도전에서 김대중까지…59인의 '창비 한국사상선' 30권 완간",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210439",
+          "summary": "‘창비 한국사상선’이 전30권으로 완간됐다. 창비는 계간 창간 60주년을 맞아 조선 건국기의 정도전부터 20세기 정치사상가 김대중까지 한국을 대표하는 사상가 59명의 글과 생각을 한데 모은 시리즈를 완성했다. 2020년 기획을 시작한 뒤 2024년 1차분 10종, 2026년 2월 2차분 10종에 이어 9월 3차분 10종을 내놓으면서 3년간의 대장정을 마무리…",
+          "publishedAt": "2026-09-16T18:36:37.000Z",
           "image": "",
           "sourceName": "교수신문",
           "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 3.1
+          "score": 4.4
         },
         {
-          "title": "Moral Learning",
-          "link": "https://plato.stanford.edu/entries/moral-learning/",
-          "summary": "[New Entry by Tamar Kushnir and Shaun Nichols on September 12, 2026.] In this piece moral learning is taken to comprise the acquisition of norms and values in the moral domain. The investigation of th…",
-          "publishedAt": "2026-09-13T00:16:47.000Z",
+          "title": "Middlemarch: George Eliot’s Hegelian World",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/middlemarch-george-eliots-hegelian-world.html",
+          "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
+          "publishedAt": "2026-09-16T16:45:07.000Z",
           "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
+          "sourceName": "3 Quarks Daily",
+          "sourceId": "3quarks",
           "candidates": [
-            "philosophy"
+            "philosophy",
+            "art"
           ],
-          "score": 3
+          "score": 4.4
         }
       ]
     },
@@ -252,7 +254,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 199,
+      "poolSize": 198,
       "items": [
         {
           "title": "\"잊히지 않는 마음\"…이산가족 생애기록물 전시",
@@ -265,7 +267,34 @@
           "candidates": [
             "art"
           ],
-          "score": 6
+          "score": 5.7
+        },
+        {
+          "title": "'글·그림만으론 어려워'…작가·예술가 연평균 소득 920만원",
+          "link": "https://www.yna.co.kr/view/AKR20260916157600002",
+          "summary": "(세종=연합뉴스) 김수현 기자 = 글과 그림 등 전통적인 창작 영역에 종사하는 작가·화가 등의 연평균 소득이 1천만원에 미치지 못하는 것으로 나...",
+          "publishedAt": "2026-09-16T20:51:00.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2025/11/09/PYH2025110904600001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ",
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "속초 물결에 비친 현실과 추상…민준규 사진전 17∼22일",
+          "link": "https://www.yna.co.kr/view/AKR20260916176000062",
+          "summary": "(속초=연합뉴스) 류호준 기자 = 강원 속초지역에서 활동하는 민준규 작가가 오는 17일부터 22일까지 속초문화예술회관 전시실에서 사진전 '물결,...",
+          "publishedAt": "2026-09-16T09:36:26.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/16/AKR20260916176000062_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
         },
         {
           "title": "부산시립미술관, 2년 개보수 마치고 17일 재개관",
@@ -278,7 +307,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "\"업무 지친 교원, 예술로 휴식을\" 남원시미술관, 프로그램 운영",
@@ -291,33 +320,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
-        },
-        {
-          "title": "오수완 작가 “소설 쓴 지 16년…문학상은 포기하지 말라는 응원”",
-          "link": "https://www.khan.co.kr/article/202609152021015/",
-          "summary": "혼불문학상 수상작 ‘에케 호모’ 출간 간담회“낮에는 한의사로 일하고 밤에는 소설을 쓰는 생활을 하고 있습니다. 소설가로 활동한 지는 16년 됐지만 문단에 널리 알려지지 않았어요. 혼불문학상 수상은 포기하지 말라는 응원 같아요. 앞으로도 힘닿는 데까지 열심히 써보겠습니다.”한의사 겸 작가 오수완(사진)은 15일 서울 중구 달개비에서 열린 제16회 혼불문학상…",
-          "publishedAt": "2026-09-15T11:21:01.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4
-        },
-        {
-          "title": "‘혼불문학상’ 수상 한의사 겸 작가 오수완 “진정한 내가 되기 위해 글을 쓴다”",
-          "link": "https://www.khan.co.kr/article/202609151627001/",
-          "summary": "<에케 호모>로 제16회 혼불문학상을 수상한 오수완 작가가 15일 서울 중구의 한 컨퍼런스룸에서 열린 수상작 출간 기념간담회에 참석해 발언하고 있다. 연합뉴스“낮에는 한의사로 일하고 밤에는 소설을 쓰는 생활을 하고 있습니다. 소설가로 활동한 지는 16년 됐지만 문단에 널리 알려지지 않았어요. 혼불문학상 수상은 포기하지 말라는 응원 같아요. 앞으로···",
-          "publishedAt": "2026-09-15T07:27:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4
+          "score": 4.2
         }
       ]
     }
