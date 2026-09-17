@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-17T09:07:03.997Z",
+  "builtAt": "2026-09-17T21:07:01.078Z",
   "cards": [
     {
       "id": "econ",
@@ -12,20 +12,59 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 338,
+      "poolSize": 339,
       "items": [
         {
-          "title": "미 금리인상에 환율·국고채 금리 상승…가계·기업 대출 부담 커지나",
-          "link": "https://www.khan.co.kr/article/202609171746001/",
-          "summary": "케빈 워시 미국 연방준비제도(Fed) 의장이 16일(현지시간) 연방공개시장위원회(FOMC) 관련 언론 브리핑을 하고 있다. 로이터 연합뉴스미국 연방준비제도(Fed)가 16일(현지시간) 연방공개시장위원회(FOMC)에서 3년 2개월 만에 기준금리 인상을 단행하면서 국내 금융·자산시장에서도 긴장감이 커지고 있다. 금리 인상 자체는 이미 예상된 만큼 국내 증시에는…",
-          "publishedAt": "2026-09-17T08:46:00.000Z",
+          "title": "트럼프 반대에도 방향 튼 연준…우리 경제 '나비효과'는?",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008758986",
+          "summary": "트럼프의 반대에도 연준이 금리를 올리는 쪽으로 방향을 틀면서, 우리에게도 적잖은 영향이 예상됩니다. 환율과 국내 증시, 금리까지 '나비효과'가 있을 수 있는데요.어떤 부분을 눈여겨봐야 하는지, 김범주 기자가 정리했습니다.",
+          "publishedAt": "2026-09-17T13:23:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260917/202223459_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
+        {
+          "title": "다시 ‘긴축의 시대’…미 연준 3년 만에 기준금리 0.25%P ↑, 한은도 11월 추가 인상 전망",
+          "link": "https://www.khan.co.kr/article/202609172123005/",
+          "summary": "유럽·홍콩 이어 18일 일본 결정미 연준 연내 한번 더 인상할 듯지난해까지 금리를 내리거나 올해 동결해온 세계 각국 중앙은행이 다시 ‘긴축의 시대’로 돌아섰다. 미국 연방준비제도(연준)가 16일(현지시간) 3년2개월 만에 기준금리를 인상했다. 유럽중앙은행(ECB)이 지난주 금리를 올렸고, 일본도 18일 추가로 금리를 올릴 것으로 예상된다. 지난 7월과 8·…",
+          "publishedAt": "2026-09-17T12:23:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.3
+        },
+        {
+          "title": "환율 13.6원 뛰고, 국고채 금리 꿈틀…기업·가계 대출 ‘먹구름’",
+          "link": "https://www.khan.co.kr/article/202609172114005/",
+          "summary": "“인플레, 너무 높고 너무 오래 지속” 케빈 워시 미국 연방준비제도 의장이 16일(현지시간) 워싱턴 연준 청사에서 연방공개시장위원회(FOMC) 회의 후 기자회견을 하고 있다. AFP연합뉴스국내 금융시장도 긴장 확대시장 금리 상승 땐 부동산 영향 기업들 ‘자금 조달’ 부담 늘고 주담대 상단도 ‘8%대’ 가능성 증시는 전망 선반영 충격 덜해미국 연방준비제도(연…",
+          "publishedAt": "2026-09-17T12:14:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
+        {
+          "title": "예상된 인상에 미국채금리 내렸지만…\"긴축사이클 시작\"암운",
+          "link": "https://www.hankyung.com/article/202609172322i",
+          "summary": "",
+          "publishedAt": "2026-09-17T11:09:46.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
         },
         {
           "title": "매파 FOMC에도 국채 단기물 중심 제한적 약세…3년물 4.063%",
@@ -38,46 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
-        },
-        {
-          "title": "돌아온 긴축의 시대···미국 금리 인상, 일본도 인상 가능성, 한은도 연내 추가 인상하나",
-          "link": "https://www.khan.co.kr/article/202609171650011/",
-          "summary": "케빈 워시 연준 의장. AFP연합뉴스지난해까지 금리를 내리거나 올해 동결해온 세계 각국 중앙은행이 다시 ‘긴축의 시대’로 돌아섰다. 미국 연방준비제도(연준)가 16일(현지시간) 3년 2개월만에 기준금리를 인상했다. 유럽중앙은행(ECB)이 지난주 금리를 올렸고, 일본도 오는 18일 추가로 금리를 올릴 것으로 예상된다. 국제유가 상승과 인공지능(AI) 투자 확…",
-          "publishedAt": "2026-09-17T07:50:01.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "코스피, 미국 매파적 금리 인상에도 약보합 마감…코스닥은 상승",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008758674",
-          "summary": "코스피가 17일 간밤 미국 연방준비제도가 기준금리를 올리고 추가 인상을 시사한 가운데 등락을 거듭하다 약보합 마감했습니다.원·달러 환율 급등 속…",
-          "publishedAt": "2026-09-17T07:15:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260917/202223391_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "미 긴축 기조에…원/달러 환율 3주만에 1,380원대로(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20260917059451002",
-          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 17일 미 연방준비제도(Fed·연준)가 기준금리를 올리고 추가 인상을 시사하는 등 매파(통화긴...",
-          "publishedAt": "2026-09-17T07:08:46.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/17/PYH2026091703610001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
+          "score": 7.2
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 206,
+      "poolSize": 195,
       "items": [
         {
           "title": "[콘퍼런스 1섹션] AI시대, 정체성 위기…‘제법무아’서 길을 찾다",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.4
         },
         {
           "title": "“선은 살아 있어야 한다”…수좌 스님에게 배우는 간화선",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.4
         },
         {
           "title": "캠퍼스에 부는 '힙불교' 바람… 전남대 불교동아리 활기",
@@ -131,12 +131,12 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 2.9
         },
         {
           "title": "“훌륭한 사람 뽑는데 왜 불미스러운 일이 있어야 합니까”",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=337850",
-          "summary": "용인 반야선원으로 가는 길은 공장지대를 지난다. 스님이 이곳에 들어올 때는 소나무 동산이었다고 했다. 지금은 삼성 반도체 부지로 수용이 예정돼 있어 다시 옮겨야 한다.스님이 이 외진 곳에 자리 잡은 사연은 간단하다. 갈 곳이 없었다. 25년 군 생활을 마치고 승복을 다시 입었을 때, 예전에 살던 본사들도 받아주지 않았다. 돈은 필요 없다고, 청소하고 필요하…",
+          "summary": "용인 반야선원으로 가는 길은 공장지대를 지난다. 스님이 이곳에 들어올 때는 소나무 동산이었다고 했다. 지금은 삼성 반도체 부지로 수용이 예정돼 있어 다시 옮겨야 한다.스님이 이 외진 곳에 자리 잡은 사연은 간단하다. 갈 곳이 없었다. 25년 군 생활을 마치고 승복을 다시 입었을 때, 예전에 살던 큰절들도 받아주지 않았다. 돈은 필요 없다고, 청소하고 필요하…",
           "publishedAt": "2026-09-17T15:07:27.000Z",
           "image": "",
           "sourceName": "법보신문",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 2.9
         },
         {
           "title": "수불 스님 “AI, 활구 들 수 없어”…사사키 교수 “AI 이미 깨달아”",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 2.9
         }
       ]
     },
@@ -172,46 +172,47 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 131,
+      "poolSize": 133,
       "items": [
         {
-          "title": "광운대 이지훈 교수팀, 고온·고전류 녹색 수소 전기촉매 개발···장기 안정성 입증",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210485",
-          "summary": "고전류 · 고온 환경에서 녹색 수소를 효율적으로 생산할 수 있는 전기촉매가 국내 연구진에 의해 개발됐다. 이번 연구는 한국연구재단과 교육부의 Brain Korea 21 Plus(BK-21+), 중점연구소 사업 · 광운대의 지원을 받아 수행됐으며, 연구 결과는 Elsevier의 국제 저명학술지 Materials Reports: Energy(JCR IF: 16…",
-          "publishedAt": "2026-09-17T11:07:49.000Z",
+          "title": "Kantian Aesthetics: The Beautiful & the Sublime",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/kantian-aesthetics-the-beautiful-the-sublime.html",
+          "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
+          "publishedAt": "2026-09-17T16:48:02.000Z",
           "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
+          "sourceName": "3 Quarks Daily",
+          "sourceId": "3quarks",
           "candidates": [
-            "philosophy"
+            "philosophy",
+            "art"
           ],
-          "score": 4.5
+          "score": 7.4
         },
         {
-          "title": "Metaepistemology",
-          "link": "https://plato.stanford.edu/entries/metaepistemology/",
-          "summary": "[Revised entry by J. Adam Carter and Ernest Sosa on September 17, 2026. Changes to: Main text, Bibliography] Whereas epistemology is (broadly speaking) the philosophical theory of knowledge, its natur…",
-          "publishedAt": "2026-09-17T10:26:40.000Z",
+          "title": "Ludwig Wittgenstein",
+          "link": "https://plato.stanford.edu/entries/wittgenstein/",
+          "summary": "[Revised entry by Anat Biletzki and Anat Matar on September 17, 2026. Changes to: Main text, Bibliography] Considered by some to be the greatest philosopher of the 20th century, Ludwig Wittgenstein pl…",
+          "publishedAt": "2026-09-17T23:58:48.000Z",
           "image": "",
           "sourceName": "Stanford Encyclopedia",
           "sourceId": "stanford-sep",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.5
+          "score": 6.1
         },
         {
-          "title": "사회복지 전공자가 만든 사회복지 업무를 위한 찐 실전 ChatGPT",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210458",
-          "summary": "AI로 사회복지 업무, 어디까지 달라질까프로포절 작성부터 상담기록·회의 정리까지 생성형 AI 활용법 제시GPTs·제미나이·노트북LM 등 12개 AI 도구와 사회복지 챗봇 100종 소개‘AI를 활용하니 업무 시간이 줄었다’는 사회복지사가 있는 반면, 여전히 기록과 보고서 작성에 많은 시간을 쓰는 사회복지사도 있다. 『AI활용 사회복지 프로포절 작성 · GPT…",
-          "publishedAt": "2026-09-17T09:44:58.000Z",
+          "title": "Impartiality",
+          "link": "https://plato.stanford.edu/entries/impartiality/",
+          "summary": "[Revised entry by Troy Jollimore on September 17, 2026. Changes to: Main text, Bibliography] Impartiality is sometimes treated by philosophers as if it were equivalent to moral impartiality. Or, at th…",
+          "publishedAt": "2026-09-18T04:10:01.000Z",
           "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.5
+          "score": 4.6
         },
         {
           "title": "Sir Anthony Kenny obituary",
@@ -227,18 +228,17 @@
           "score": 4.5
         },
         {
-          "title": "This Philosopher Thinks It’s Time We Call Out Evil in Our World",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/this-philosopher-thinks-its-time-we-call-out-evil-in-our-world.html",
-          "summary": "Jennifer Szalai in the New York Times: Susan Neiman has noticed a paradox. “As the world drifts toward disaster,” she writes in her new book, “our language has become more cautious.” Yet this tentativ…",
-          "publishedAt": "2026-09-16T18:45:31.000Z",
-          "image": "https://3quarksdaily.com/wp-content/uploads/2026/09/call-it-evil-understanding-the-trump-era-360x360.png",
-          "sourceName": "3 Quarks Daily",
-          "sourceId": "3quarks",
+          "title": "광운대 이지훈 교수팀, 고온·고전류 녹색 수소 전기촉매 개발···장기 안정성 입증",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210485",
+          "summary": "고전류 · 고온 환경에서 녹색 수소를 효율적으로 생산할 수 있는 전기촉매가 국내 연구진에 의해 개발됐다. 이번 연구는 한국연구재단과 교육부의 Brain Korea 21 Plus(BK-21+), 중점연구소 사업 · 광운대의 지원을 받아 수행됐으며, 연구 결과는 Elsevier의 국제 저명학술지 Materials Reports: Energy(JCR IF: 16…",
+          "publishedAt": "2026-09-17T11:07:49.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
           "candidates": [
-            "philosophy",
-            "art"
+            "philosophy"
           ],
-          "score": 4.2
+          "score": 4.3
         }
       ]
     },
@@ -253,8 +253,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 204,
+      "poolSize": 212,
       "items": [
+        {
+          "title": "[새책]조각공원 外",
+          "link": "https://www.khan.co.kr/article/202609172039005/",
+          "summary": "조각공원“어리둥절해진 채 당신을 놓아두고서/ 저 앞을 향해 계속 걸어가본다/ 이대로 조금 더 걸어도 좋지만// 저만치 걷던 내가/ 언제나 다시 돌아오는 이유는// 당신이 나 없이/ 살지 않게 하려고”(‘조각 공원’ 중) 사랑과 상실을 정제된 언어로 벼려내는 시인의 세 번째 시집. 39편이 실렸다. 전욱진 지음. 현대문학. 1만2000원이럴 때 이런 그림책무…",
+          "publishedAt": "2026-09-17T11:39:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
+        },
+        {
+          "title": "어린이청소년극단 초대 단장 인선 논란에···최휘영 “무거운 책임” 철회엔 선 그어",
+          "link": "https://www.khan.co.kr/article/202609171830001/",
+          "summary": "최휘영 문화체육관광부 장관이 17일 서울 종로구 국립현대미술관 서울관에서 열린 문화예술정책자문위원회 연극 분과 제4차 회의에서 27년 정부 예산안 편성 결과와 지원 방향을 공유하고 사업 추진 방향과 협력 방안을 논의하고 있다. 문체부 제공최휘영 문화체육관광부 장관이 어연선 국립어린이청소년극단 초대 단장 겸 예술감독 임명 논란과 관련해 “무거운 책임감을 느낀…",
+          "publishedAt": "2026-09-17T09:30:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
+        },
         {
           "title": "6·25 참전 처삼촌 둔 작가 바스케스 “전쟁은 언어를 빈곤하게 한다”",
           "link": "https://www.khan.co.kr/article/202609171438001/",
@@ -266,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "서점인이 뽑은 올해의 작가에 은희경",
@@ -279,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "콜롬비아 작가 바스케스 \"소설로 평화의 가능성 탐구\"",
@@ -292,33 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
-        },
-        {
-          "title": "부안 상감 도자작품 공모전, 박지수 작가 '기억의 동산' 대상",
-          "link": "https://www.yna.co.kr/view/AKR20260917095000055",
-          "summary": "(부안=연합뉴스) 정경재 기자 = 전북 부안군은 제2회 상감 도자 작품 대학생 공모전 대상에 한국전통문화대학교에 재학 중인 박지수 작가의 '기억...",
-          "publishedAt": "2026-09-17T02:32:01.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/17/AKR20260917095000055_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
-        },
-        {
-          "title": "오수완 작가 “소설 쓴 지 16년…문학상은 포기하지 말라는 응원”",
-          "link": "https://www.khan.co.kr/article/202609152021015/",
-          "summary": "혼불문학상 수상작 ‘에케 호모’ 출간 간담회“낮에는 한의사로 일하고 밤에는 소설을 쓰는 생활을 하고 있습니다. 소설가로 활동한 지는 16년 됐지만 문단에 널리 알려지지 않았어요. 혼불문학상 수상은 포기하지 말라는 응원 같아요. 앞으로도 힘닿는 데까지 열심히 써보겠습니다.”한의사 겸 작가 오수완(사진)은 15일 서울 중구 달개비에서 열린 제16회 혼불문학상…",
-          "publishedAt": "2026-09-15T11:21:01.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.5
+          "score": 4.2
         }
       ]
     }
