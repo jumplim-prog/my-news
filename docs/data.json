@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-16T21:07:21.769Z",
+  "builtAt": "2026-09-17T03:07:00.220Z",
   "cards": [
     {
       "id": "econ",
@@ -12,53 +12,14 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 332,
+      "poolSize": 337,
       "items": [
         {
-          "title": "트럼프 “美 금리 1% 이하여야” 금리 올린 워시에 분노",
-          "link": "https://www.mk.co.kr/news/economy/12154948",
-          "summary": "연준, 기준금리 0.25%P 인상 트럼프 질문에 워시 “할말 없다”미 연방준비제도(Fed)가 16일(현지시간) 3년 2개월만에 기준금리를 인상하며 긴축으로 전환한 가운데 도널드 트..",
-          "publishedAt": "2026-09-16T21:02:01.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.1a7f56f5e43042c6a4437fabd6c8df02_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "워시 “인플레 너무 높아” 추가 인상 예고…美증시·채권 약세",
-          "link": "https://www.mk.co.kr/news/world/12154906",
-          "summary": "연준, 기준금리 0.25%P 인상 2023년 7월 이후 3년2개월만미국 연방준비제도(Fed)가 유가발 인플레이션 확산 속에 3년 2개월만에 전격적으로 기준금리를 인상했다. 지난해..",
-          "publishedAt": "2026-09-16T20:07:45.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-a.v1.20260917.8d6385b883474d77b8b04d5b8597a64b_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "“대미 투자하느라 달러빚 냈는데”…금리발작에 떨고있는 업종은",
-          "link": "https://www.mk.co.kr/news/economy/12154900",
-          "summary": "美금리 고공행진에 재계 비상 달러 빚내서 현지투자 확늘린 배터리업계, 이자비용 부담↑ 항공·석유화학도 예의주시고유가 국면에 전 세계 금리의 잣대가 되는 미국 10년물 국채금리가 급..",
-          "publishedAt": "2026-09-16T19:54:04.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260916.0612b0bcaaf346e68282b2ca88978f50_R.png",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "美기준금리 0.25%p 인상, 3년만에 긴축…연내 추가인상 시사(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20260917002452071",
-          "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 중앙은행인 연방준비제도(Fed·연준)가 기준금리를 연 3.75∼4.00%로 0.25%포인트(p) 인상...",
-          "publishedAt": "2026-09-16T19:10:53.000Z",
-          "image": "https://img.yna.co.kr/photo/reuters/2026/09/16/PRU20260916253701009_P2.jpg",
+          "title": "매파 FOMC에 국고채 금리, 단기물 위주 약세…3년물 연 4.090%",
+          "link": "https://www.yna.co.kr/view/AKR20260917104400008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 17일 국고채 금리가 단기물을 중심으로 약세를 나타내고 있다.",
+          "publishedAt": "2026-09-17T02:59:05.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/17/AKR20260917104400008_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
@@ -67,10 +28,49 @@
           "score": 7.5
         },
         {
-          "title": "연준, 3년여 만에 기준금리 0.25%P 인상…연내 추가인상 가능성",
-          "link": "https://www.khan.co.kr/article/202609170358001/",
-          "summary": "케빈 워시 연준 의장. AFP연합뉴스미국 중앙은행인 연방준비제도(Fed·연준)가 기준금리를 연 3.75∼4.00%로 0.25%포인트 인상했다. 연준이 금리를 올린 것은 3년 2개월 만이다.연준은 16일(현지시간) 연방공개시장위원회(FOMC) 회의 결과 이같이 결정했다고 발표했다. 표결권이 주어진 12명의 FOMC 위원(연준 이사 및 지역연방준비은···",
-          "publishedAt": "2026-09-16T18:58:00.000Z",
+          "title": "“美금리 인상, ‘영끌족’에 겨울이 온다”…이찬진 “변동성 대비·국내증시 점검”",
+          "link": "https://www.mk.co.kr/news/economy/12155194",
+          "summary": "미국채금리 상승, 국내 채권금리 전이 5대 시중은행 금리상단 연7% 넘어 미국, 연내 추가 금리 인상 가능성도 금융당국 “인상 광범위한 영향 대비”미국 연방준비제도(Fed·연준)가..",
+          "publishedAt": "2026-09-17T01:59:48.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.0f83544671574ebf919e98c84511d8c8_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "경제·금융 수장들 “미 금리 인상 영향 제한적…쏠림 땐 안정조치”",
+          "link": "https://www.khan.co.kr/article/202609171044001/",
+          "summary": "구윤철 부총리 겸 재정경제부 장관이 17일 서울 종로구 정부서울청사에서 열린 확대거시경제금융회의에 참석하고 있다. 왼쪽부터 신현송 한국은행 총재, 이억원 금융위원장, 이찬진 금융감독원장, 구윤철 부총리. 재경부 제공경제·금융 수장들이 3년 2개월 만에 단행된 미국의 기준금리 인상이 국내 금융시장에 미칠 영향은 제한적일 것으로 평가했다. 다만 최근 국채시장…",
+          "publishedAt": "2026-09-17T01:44:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "우려 선반영? 불확실성 완화?…'매파적' 연준에도 코스피 상승",
+          "link": "https://www.yna.co.kr/view/AKR20260917078900008",
+          "summary": "(서울=연합뉴스) 황철환 기자 = 미국이 3년 2개월만에 기준금리를 인상하며 통화 긴축에 나섰지만 한국 주식시장은 오히려 소폭 상승하며 견조한 ...",
+          "publishedAt": "2026-09-17T01:40:00.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/17/PYH2026091703480001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "미 금리인상에 원·달러 환율 1380원선 눈앞…증시는 강보합",
+          "link": "https://www.khan.co.kr/article/202609171021001/",
+          "summary": "케빈 워시 미국 연방준비제도(Fed) 의장이 16일(현지시간) 연방공개시장위원회(FOMC) 관련 언론 브리핑을 하고 있다. 로이터 연합뉴스미국이 3년 2개월 만에 기준금리를 인상하자 원·달러 환율이 17일 1370원대 후반까지 상승했다. 코스피 지수는 강보합권에 머무르고 있다.이날 오전 10시 10분 기준 서울 외환시장에서 원·달러 환율은 전거래일보다 약…",
+          "publishedAt": "2026-09-17T01:21:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 203,
+      "poolSize": 205,
       "items": [
         {
           "title": "“선은 살아 있어야 한다”…수좌 스님에게 배우는 간화선",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.9
+          "score": 3.8
         },
         {
           "title": "창원 반야사, 추석 맞아 지역에 쌀 200포 자비나눔",
@@ -115,19 +115,6 @@
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.4
-        },
-        {
-          "title": "인도·중국·조선불교서 서양철학까지…신진학자 연구 한자리",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337786",
-          "summary": "인도불교와 중국불교, 조선불교에서 서양철학의 불교 이해까지 신진연구자들의 관심 주제를 살펴볼 수 있는 논문발표회가 열린다.불교학연구회(회장 김원명)는 9월 19일 오후 1시 서울시립대 인문학관 5401호에서 ‘2026년 가을논문발표회’를 개최한다. 발표회에서는 대학원생과 신진연구자의 연구 가운데 엄선된 5편이 소개되며, ‘대승기신론’과 ‘기신론소’, ‘유가…",
-          "publishedAt": "2026-09-14T10:25:22.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
@@ -144,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
+          "score": 2.7
         },
         {
           "title": "문경세계명상마을 제10기 참선아카데미 성료",
@@ -157,7 +144,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.4
+          "score": 2.3
+        },
+        {
+          "title": "한국불교연구원, 동서 종교 명상 비교하는 ‘원효학당’ 연다",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337809",
+          "summary": "남방불교와 대승불교, 간화선을 비롯해 그리스도교와 이슬람, 요가까지 동서 종교 전통의 명상을 비교해 살펴보는 강좌가 열린다.한국불교연구원(이사장 이주형)은 10월 7일부터 12월 2일까지 매주 수요일 오후 6시 30분 서울 종로구 소재 법당과 줌에서 2026년 원효학당 세 번째 강좌를 개최한다. 주제는 ‘동서 종교 전통과 불교의 명상’이다. 10월 21일과…",
+          "publishedAt": "2026-09-15T14:09:31.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 2.2
         }
       ]
     },
@@ -185,21 +185,46 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
-          "title": "This Philosopher Thinks It’s Time We Call Out Evil in Our World",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/this-philosopher-thinks-its-time-we-call-out-evil-in-our-world.html",
-          "summary": "Jennifer Szalai in the New York Times: Susan Neiman has noticed a paradox. “As the world drifts toward disaster,” she writes in her new book, “our language has become more cautious.” Yet this tentativ…",
-          "publishedAt": "2026-09-16T18:45:31.000Z",
-          "image": "https://3quarksdaily.com/wp-content/uploads/2026/09/call-it-evil-understanding-the-trump-era-360x360.png",
-          "sourceName": "3 Quarks Daily",
-          "sourceId": "3quarks",
+          "title": "광운대 이지훈 교수팀, 고온·고전류 녹색 수소 전기촉매 개발···장기 안정성 입증",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210485",
+          "summary": "고전류 · 고온 환경에서 녹색 수소를 효율적으로 생산할 수 있는 전기촉매가 국내 연구진에 의해 개발됐다. 이번 연구는 한국연구재단과 교육부의 Brain Korea 21 Plus(BK-21+), 중점연구소 사업 · 광운대의 지원을 받아 수행됐으며, 연구 결과는 Elsevier의 국제 저명학술지 Materials Reports: Energy(JCR IF: 16…",
+          "publishedAt": "2026-09-17T11:07:49.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
           "candidates": [
-            "philosophy",
-            "art"
+            "philosophy"
           ],
-          "score": 4.5
+          "score": 4.7
+        },
+        {
+          "title": "Metaepistemology",
+          "link": "https://plato.stanford.edu/entries/metaepistemology/",
+          "summary": "[Revised entry by J. Adam Carter and Ernest Sosa on September 17, 2026. Changes to: Main text, Bibliography] Whereas epistemology is (broadly speaking) the philosophical theory of knowledge, its natur…",
+          "publishedAt": "2026-09-17T10:26:40.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.7
+        },
+        {
+          "title": "사회복지 전공자가 만든 사회복지 업무를 위한 찐 실전 ChatGPT",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210458",
+          "summary": "AI로 사회복지 업무, 어디까지 달라질까프로포절 작성부터 상담기록·회의 정리까지 생성형 AI 활용법 제시GPTs·제미나이·노트북LM 등 12개 AI 도구와 사회복지 챗봇 100종 소개‘AI를 활용하니 업무 시간이 줄었다’는 사회복지사가 있는 반면, 여전히 기록과 보고서 작성에 많은 시간을 쓰는 사회복지사도 있다. 『AI활용 사회복지 프로포절 작성 · GPT…",
+          "publishedAt": "2026-09-17T09:44:58.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.6
         },
         {
           "title": "Sir Anthony Kenny obituary",
@@ -213,33 +238,6 @@
             "philosophy"
           ],
           "score": 4.5
-        },
-        {
-          "title": "정도전에서 김대중까지…59인의 '창비 한국사상선' 30권 완간",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210439",
-          "summary": "‘창비 한국사상선’이 전30권으로 완간됐다. 창비는 계간 창간 60주년을 맞아 조선 건국기의 정도전부터 20세기 정치사상가 김대중까지 한국을 대표하는 사상가 59명의 글과 생각을 한데 모은 시리즈를 완성했다. 2020년 기획을 시작한 뒤 2024년 1차분 10종, 2026년 2월 2차분 10종에 이어 9월 3차분 10종을 내놓으면서 3년간의 대장정을 마무리…",
-          "publishedAt": "2026-09-16T18:36:37.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.4
-        },
-        {
-          "title": "Middlemarch: George Eliot’s Hegelian World",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/middlemarch-george-eliots-hegelian-world.html",
-          "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
-          "publishedAt": "2026-09-16T16:45:07.000Z",
-          "image": "",
-          "sourceName": "3 Quarks Daily",
-          "sourceId": "3quarks",
-          "candidates": [
-            "philosophy",
-            "art"
-          ],
-          "score": 4.4
         }
       ]
     },
@@ -254,20 +252,46 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 198,
+      "poolSize": 203,
       "items": [
         {
-          "title": "\"잊히지 않는 마음\"…이산가족 생애기록물 전시",
-          "link": "https://www.yna.co.kr/view/AKR20260916151500504",
-          "summary": "(서울=연합뉴스) 하채림 기자 = 통일부는 '이산가족의 날'(23일)을 앞두고 종로구 경인미술관에서 이산가족 생애기록물 전시회 '가족, ＿＿＿'...",
-          "publishedAt": "2026-09-16T07:20:46.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/16/AKR20260916151500504_01_i_P2.jpg",
+          "title": "부안 상감 도자작품 공모전, 박지수 작가 '기억의 동산' 대상",
+          "link": "https://www.yna.co.kr/view/AKR20260917095000055",
+          "summary": "(부안=연합뉴스) 정경재 기자 = 전북 부안군은 제2회 상감 도자 작품 대학생 공모전 대상에 한국전통문화대학교에 재학 중인 박지수 작가의 '기억...",
+          "publishedAt": "2026-09-17T02:32:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/17/AKR20260917095000055_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 5.7
+          "score": 4.5
+        },
+        {
+          "title": "밤이 되면 보이는 작품…설악동 폐리조트서 21일부터 이색 전시",
+          "link": "https://www.yna.co.kr/view/AKR20260917056300062",
+          "summary": "(속초=연합뉴스) 류호준 기자 = 강원 속초시 설악동의 폐리조트가 밤에만 모습을 드러내는 전시 공간으로 변신한다.",
+          "publishedAt": "2026-09-17T00:44:04.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/17/AKR20260917056300062_02_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "경기도자비엔날레 개막…이천·광주·여주서 45일간 대장정",
+          "link": "https://www.yna.co.kr/view/AKR20260917046400061",
+          "summary": "(수원=연합뉴스) 최찬흥 기자 = 국내 유일 도자예술 분야 격년제 국제미술행사인 '경기도자바엔날레'가 17일 개막식을 시작으로 11월 1일까지 ...",
+          "publishedAt": "2026-09-17T00:17:59.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/17/AKR20260917046400061_02_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "'글·그림만으론 어려워'…작가·예술가 연평균 소득 920만원",
@@ -276,12 +300,11 @@
           "publishedAt": "2026-09-16T20:51:00.000Z",
           "image": "https://img.yna.co.kr/photo/yna/YH/2025/11/09/PYH2025110904600001300_P2.jpg",
           "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "sourceId": "yna-culture",
           "candidates": [
-            "econ",
             "art"
           ],
-          "score": 4.5
+          "score": 4.4
         },
         {
           "title": "속초 물결에 비친 현실과 추상…민준규 사진전 17∼22일",
@@ -294,33 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
-        },
-        {
-          "title": "부산시립미술관, 2년 개보수 마치고 17일 재개관",
-          "link": "https://www.yna.co.kr/view/AKR20260916148100051",
-          "summary": "(부산=연합뉴스) 이영재 기자 = 부산을 대표하는 미술관인 부산시립미술관이 개보수 공사를 마치고 새로운 모습으로 문을 연다.",
-          "publishedAt": "2026-09-16T08:16:30.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/16/AKR20260916148100051_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.2
-        },
-        {
-          "title": "\"업무 지친 교원, 예술로 휴식을\" 남원시미술관, 프로그램 운영",
-          "link": "https://www.yna.co.kr/view/AKR20260916141400055",
-          "summary": "(남원=연합뉴스) 백도인 기자 = 전북 남원시립김병종미술관은 업무와 일상에 지친 교원을 위한 연수 프로그램 '예술로, 숨 고르기'를 11월까지 ...",
-          "publishedAt": "2026-09-16T06:38:06.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/16/AKR20260916141400055_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.2
+          "score": 4.1
         }
       ]
     }
