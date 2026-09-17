@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-17T03:07:00.220Z",
+  "builtAt": "2026-09-17T09:07:03.997Z",
   "cards": [
     {
       "id": "econ",
@@ -12,39 +12,13 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 337,
+      "poolSize": 338,
       "items": [
         {
-          "title": "매파 FOMC에 국고채 금리, 단기물 위주 약세…3년물 연 4.090%",
-          "link": "https://www.yna.co.kr/view/AKR20260917104400008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 17일 국고채 금리가 단기물을 중심으로 약세를 나타내고 있다.",
-          "publishedAt": "2026-09-17T02:59:05.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/17/AKR20260917104400008_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "“美금리 인상, ‘영끌족’에 겨울이 온다”…이찬진 “변동성 대비·국내증시 점검”",
-          "link": "https://www.mk.co.kr/news/economy/12155194",
-          "summary": "미국채금리 상승, 국내 채권금리 전이 5대 시중은행 금리상단 연7% 넘어 미국, 연내 추가 금리 인상 가능성도 금융당국 “인상 광범위한 영향 대비”미국 연방준비제도(Fed·연준)가..",
-          "publishedAt": "2026-09-17T01:59:48.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.0f83544671574ebf919e98c84511d8c8_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "경제·금융 수장들 “미 금리 인상 영향 제한적…쏠림 땐 안정조치”",
-          "link": "https://www.khan.co.kr/article/202609171044001/",
-          "summary": "구윤철 부총리 겸 재정경제부 장관이 17일 서울 종로구 정부서울청사에서 열린 확대거시경제금융회의에 참석하고 있다. 왼쪽부터 신현송 한국은행 총재, 이억원 금융위원장, 이찬진 금융감독원장, 구윤철 부총리. 재경부 제공경제·금융 수장들이 3년 2개월 만에 단행된 미국의 기준금리 인상이 국내 금융시장에 미칠 영향은 제한적일 것으로 평가했다. 다만 최근 국채시장…",
-          "publishedAt": "2026-09-17T01:44:00.000Z",
+          "title": "미 금리인상에 환율·국고채 금리 상승…가계·기업 대출 부담 커지나",
+          "link": "https://www.khan.co.kr/article/202609171746001/",
+          "summary": "케빈 워시 미국 연방준비제도(Fed) 의장이 16일(현지시간) 연방공개시장위원회(FOMC) 관련 언론 브리핑을 하고 있다. 로이터 연합뉴스미국 연방준비제도(Fed)가 16일(현지시간) 연방공개시장위원회(FOMC)에서 3년 2개월 만에 기준금리 인상을 단행하면서 국내 금융·자산시장에서도 긴장감이 커지고 있다. 금리 인상 자체는 이미 예상된 만큼 국내 증시에는…",
+          "publishedAt": "2026-09-17T08:46:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
@@ -54,26 +28,52 @@
           "score": 7.5
         },
         {
-          "title": "우려 선반영? 불확실성 완화?…'매파적' 연준에도 코스피 상승",
-          "link": "https://www.yna.co.kr/view/AKR20260917078900008",
-          "summary": "(서울=연합뉴스) 황철환 기자 = 미국이 3년 2개월만에 기준금리를 인상하며 통화 긴축에 나섰지만 한국 주식시장은 오히려 소폭 상승하며 견조한 ...",
-          "publishedAt": "2026-09-17T01:40:00.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/17/PYH2026091703480001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "매파 FOMC에도 국채 단기물 중심 제한적 약세…3년물 4.063%",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008758826",
+          "summary": "▲ 자료화면17일 국고채 금리는 단기물 금리가 소폭 상승하고, 장기물 금리는 하락하며 혼조세를 나타냈습니다.간밤 미국 연방공개시장위원…",
+          "publishedAt": "2026-09-17T08:21:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20240328/201912440_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
           "score": 7.5
         },
         {
-          "title": "미 금리인상에 원·달러 환율 1380원선 눈앞…증시는 강보합",
-          "link": "https://www.khan.co.kr/article/202609171021001/",
-          "summary": "케빈 워시 미국 연방준비제도(Fed) 의장이 16일(현지시간) 연방공개시장위원회(FOMC) 관련 언론 브리핑을 하고 있다. 로이터 연합뉴스미국이 3년 2개월 만에 기준금리를 인상하자 원·달러 환율이 17일 1370원대 후반까지 상승했다. 코스피 지수는 강보합권에 머무르고 있다.이날 오전 10시 10분 기준 서울 외환시장에서 원·달러 환율은 전거래일보다 약…",
-          "publishedAt": "2026-09-17T01:21:00.000Z",
+          "title": "돌아온 긴축의 시대···미국 금리 인상, 일본도 인상 가능성, 한은도 연내 추가 인상하나",
+          "link": "https://www.khan.co.kr/article/202609171650011/",
+          "summary": "케빈 워시 연준 의장. AFP연합뉴스지난해까지 금리를 내리거나 올해 동결해온 세계 각국 중앙은행이 다시 ‘긴축의 시대’로 돌아섰다. 미국 연방준비제도(연준)가 16일(현지시간) 3년 2개월만에 기준금리를 인상했다. 유럽중앙은행(ECB)이 지난주 금리를 올렸고, 일본도 오는 18일 추가로 금리를 올릴 것으로 예상된다. 국제유가 상승과 인공지능(AI) 투자 확…",
+          "publishedAt": "2026-09-17T07:50:01.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "코스피, 미국 매파적 금리 인상에도 약보합 마감…코스닥은 상승",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008758674",
+          "summary": "코스피가 17일 간밤 미국 연방준비제도가 기준금리를 올리고 추가 인상을 시사한 가운데 등락을 거듭하다 약보합 마감했습니다.원·달러 환율 급등 속…",
+          "publishedAt": "2026-09-17T07:15:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260917/202223391_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "미 긴축 기조에…원/달러 환율 3주만에 1,380원대로(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20260917059451002",
+          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 17일 미 연방준비제도(Fed·연준)가 기준금리를 올리고 추가 인상을 시사하는 등 매파(통화긴...",
+          "publishedAt": "2026-09-17T07:08:46.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/17/PYH2026091703610001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
@@ -92,8 +92,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 205,
+      "poolSize": 206,
       "items": [
+        {
+          "title": "[콘퍼런스 1섹션] AI시대, 정체성 위기…‘제법무아’서 길을 찾다",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505361",
+          "summary": "동국대 불교학술원 종학연구소(소장 정도 스님)가 주관하는 제7회 서울국제명상엑스포의 하이라이트 행사인 ‘명상 콘퍼런스’가 9월 17~18일 동국대 본관 남산홀에서 열렸다. 는 국내외 석학과 명상 전문가 8명이 기술과학시대에서 선명상의 위치와 역할, 선명상의 웰니스적 가치에 대한 연구 논문을 발표했다.콘퍼런스 주요 내용을 소개한다. [편집자 주]9월 17일…",
+          "publishedAt": "2026-09-17T16:26:21.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
+        },
         {
           "title": "“선은 살아 있어야 한다”…수좌 스님에게 배우는 간화선",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505333",
@@ -105,59 +118,46 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.8
+          "score": 3.7
         },
         {
-          "title": "창원 반야사, 추석 맞아 지역에 쌀 200포 자비나눔",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505308",
-          "summary": "창원 반야사(주지 혜명 스님)가 추석을 맞아 지역의 어려운 이웃들에게 쌀을 전달하며 부처님의 자비정신을 실천했다.반야사는 9월 11일 대웅전에서 ‘추석맞이 백미 나눔보시’ 행사를 열고 창원특례시 마산회원구에 740만원 상당의 쌀 200포를 기탁했다.이날 전달식에는 반야사 주지 혜명 스님을 비롯해 경문 스님, 자오 스님, 조정현 마산회원구청장과 반야사 임원진…",
-          "publishedAt": "2026-09-14T15:11:27.000Z",
+          "title": "캠퍼스에 부는 '힙불교' 바람… 전남대 불교동아리 활기",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4107305",
+          "summary": "대학에서 전법과 포교, 수행에 앞장서며 한국 불교의 미래를 이끌어온 대학생 불교동아리.최근 전국적으로 대학 불교동아리에 대한 관심이 높아지는 가운데, 전남대학교 불교동아리가 100명이 넘는 신입회원을 맞으며 활기를 띠고 있습니다.신입생 환영회 현장에 김우진 기자가 다녀왔습니다. < 리포터 전남대학교 캠퍼스에 반야심경이 울려 퍼집니다.강당에 모인 학생들은 두…",
+          "publishedAt": "2026-09-17T17:57:01.000Z",
           "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.3
+          "score": 3.2
         },
         {
-          "title": "부산영산재보존회, 창립 33주년 기념 대법회 봉행",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337829",
-          "summary": "(사)부산영산재보존회(이사장 성림 스님)는 9월 15일 부산 사상구 모라동 부산영산재보존회 관음사에서 ‘부산영산재보존회 창립 33주년 기념 대법회’를 봉행했다.이날 법회는 영산재 시연에 이어 개회선언과 삼귀의례, 반야심경, 발원문, 경과보고, 회주 경호 스님 환영사, 이사장 성림 스님의 봉행사로 이어졌다. 이후 축하 케이크 커팅, 공지사항, 사홍서원, 기념…",
-          "publishedAt": "2026-09-16T12:10:18.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.7
-        },
-        {
-          "title": "문경세계명상마을 제10기 참선아카데미 성료",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442318",
-          "summary": "문경 봉암사 세계명상마을에서 3박4일간 이어진 수행의 자리. 동참자 70여 명은 법문을 듣는 데서 그치지 않고 좌선과 화두참구로 일관했다. 사단법인 한국참선지도자협회가 주최하고 사단법인 한국명상총협회가 9월 3일부터 6일까지 진행한 '쟌 마스터의 길' 이다.'쟌(Jhān)'이라는 이름부터 이번 아카데미의 문제의식을 담고 있다. 이 말은 고요와 집중, 깊은…",
-          "publishedAt": "2026-09-15T15:49:25.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.3
-        },
-        {
-          "title": "한국불교연구원, 동서 종교 명상 비교하는 ‘원효학당’ 연다",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337809",
-          "summary": "남방불교와 대승불교, 간화선을 비롯해 그리스도교와 이슬람, 요가까지 동서 종교 전통의 명상을 비교해 살펴보는 강좌가 열린다.한국불교연구원(이사장 이주형)은 10월 7일부터 12월 2일까지 매주 수요일 오후 6시 30분 서울 종로구 소재 법당과 줌에서 2026년 원효학당 세 번째 강좌를 개최한다. 주제는 ‘동서 종교 전통과 불교의 명상’이다. 10월 21일과…",
-          "publishedAt": "2026-09-15T14:09:31.000Z",
+          "title": "“훌륭한 사람 뽑는데 왜 불미스러운 일이 있어야 합니까”",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337850",
+          "summary": "용인 반야선원으로 가는 길은 공장지대를 지난다. 스님이 이곳에 들어올 때는 소나무 동산이었다고 했다. 지금은 삼성 반도체 부지로 수용이 예정돼 있어 다시 옮겨야 한다.스님이 이 외진 곳에 자리 잡은 사연은 간단하다. 갈 곳이 없었다. 25년 군 생활을 마치고 승복을 다시 입었을 때, 예전에 살던 본사들도 받아주지 않았다. 돈은 필요 없다고, 청소하고 필요하…",
+          "publishedAt": "2026-09-17T15:07:27.000Z",
           "image": "",
           "sourceName": "법보신문",
           "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.2
+          "score": 3.1
+        },
+        {
+          "title": "수불 스님 “AI, 활구 들 수 없어”…사사키 교수 “AI 이미 깨달아”",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337849",
+          "summary": "인공지능(AI)이 아무리 발전해도 인간 각자가 스스로 마주해야 할 근원적 과제는 남는다. 제7회 서울국제명상엑스포 명상 콘퍼런스에서 수불 스님은 AI가 대신할 수 없는 깨달음을, 사사키 시즈카 교수는 인간의 우월성에 대한 집착을 내려놓는 ‘제법무아’를 강조했다. 미나스 카파토스 교수는 첨단 과학으로도 풀리지 않은 ‘마음’의 본질을 탐구해야 할 과제로 제시했…",
+          "publishedAt": "2026-09-17T14:23:12.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
         }
       ]
     },
@@ -175,19 +175,6 @@
       "poolSize": 131,
       "items": [
         {
-          "title": "원광대 한중관계연구원-중국 북화대, 동아시아 사상·역사 공동 학술대회 개최",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210396",
-          "summary": "동아시아 역사와 사상 연구의 국제적 협력을 강화하기 위한 기반이 마련됐다. 원광대 한중관계연구원과 중국 북화대학 동아시아 역사와 문헌 연구중심은 앞으로도 공동 학술대회 · 연구자 교류를 지속적으로 추진해 나갈 예정이다. 이번 공동 학술대회는 한중 양국 연구자들이 동아시아의 역사와 사상 연구 성과를 공유하고 상호 이해를 심화하는 데 의의를 두었다. 지난 9일…",
-          "publishedAt": "2026-09-16T13:00:32.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 7.2
-        },
-        {
           "title": "광운대 이지훈 교수팀, 고온·고전류 녹색 수소 전기촉매 개발···장기 안정성 입증",
           "link": "https://www.kyosu.net/news/articleView.html?idxno=210485",
           "summary": "고전류 · 고온 환경에서 녹색 수소를 효율적으로 생산할 수 있는 전기촉매가 국내 연구진에 의해 개발됐다. 이번 연구는 한국연구재단과 교육부의 Brain Korea 21 Plus(BK-21+), 중점연구소 사업 · 광운대의 지원을 받아 수행됐으며, 연구 결과는 Elsevier의 국제 저명학술지 Materials Reports: Energy(JCR IF: 16…",
@@ -198,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "Metaepistemology",
@@ -211,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "사회복지 전공자가 만든 사회복지 업무를 위한 찐 실전 ChatGPT",
@@ -224,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.6
+          "score": 4.5
         },
         {
           "title": "Sir Anthony Kenny obituary",
@@ -238,6 +225,20 @@
             "philosophy"
           ],
           "score": 4.5
+        },
+        {
+          "title": "This Philosopher Thinks It’s Time We Call Out Evil in Our World",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/this-philosopher-thinks-its-time-we-call-out-evil-in-our-world.html",
+          "summary": "Jennifer Szalai in the New York Times: Susan Neiman has noticed a paradox. “As the world drifts toward disaster,” she writes in her new book, “our language has become more cautious.” Yet this tentativ…",
+          "publishedAt": "2026-09-16T18:45:31.000Z",
+          "image": "https://3quarksdaily.com/wp-content/uploads/2026/09/call-it-evil-understanding-the-trump-era-360x360.png",
+          "sourceName": "3 Quarks Daily",
+          "sourceId": "3quarks",
+          "candidates": [
+            "philosophy",
+            "art"
+          ],
+          "score": 4.2
         }
       ]
     },
@@ -252,8 +253,47 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 203,
+      "poolSize": 204,
       "items": [
+        {
+          "title": "6·25 참전 처삼촌 둔 작가 바스케스 “전쟁은 언어를 빈곤하게 한다”",
+          "link": "https://www.khan.co.kr/article/202609171438001/",
+          "summary": "17일 서울 중구 프레스센터에서 열린 제10회 이호철통일로문학상 수상작가 기자회견에서 본상을 수상한 후안 가브리엘 바스케스 작가가 소감을 밝히고 있다. 연합뉴스“전쟁은 언어를 빈곤하게 만들고, 그것을 단순화와 선전으로 축소시켜 ‘우리 대 그들’이라는 파괴적 윤리로 물들입니다. 소설을 쓴다는 것은 세계를 축소시키는 전쟁의 논리에서 벗어날 수 있는 능력을 말에…",
+          "publishedAt": "2026-09-17T05:38:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "서점인이 뽑은 올해의 작가에 은희경",
+          "link": "https://www.yna.co.kr/view/AKR20260917127100005",
+          "summary": "(서울=연합뉴스) 강종훈 기자 = 소설가 은희경이 서점인이 뽑은 2026 올해의 작가에 선정됐다.",
+          "publishedAt": "2026-09-17T05:24:01.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2025/02/17/PYH2025021705970001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "콜롬비아 작가 바스케스 \"소설로 평화의 가능성 탐구\"",
+          "link": "https://www.yna.co.kr/view/AKR20260917110400005",
+          "summary": "(서울=연합뉴스) 김기훈 기자 = \"1951년 제 친척(아내의 삼촌)께서 콜롬비아 대대 병사로서 한국전쟁에 참여했습니다. 저는 오랫동안 그가 콜...",
+          "publishedAt": "2026-09-17T04:25:05.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/17/PYH2026091712650001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
         {
           "title": "부안 상감 도자작품 공모전, 박지수 작가 '기억의 동산' 대상",
           "link": "https://www.yna.co.kr/view/AKR20260917095000055",
@@ -265,59 +305,20 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
-        },
-        {
-          "title": "밤이 되면 보이는 작품…설악동 폐리조트서 21일부터 이색 전시",
-          "link": "https://www.yna.co.kr/view/AKR20260917056300062",
-          "summary": "(속초=연합뉴스) 류호준 기자 = 강원 속초시 설악동의 폐리조트가 밤에만 모습을 드러내는 전시 공간으로 변신한다.",
-          "publishedAt": "2026-09-17T00:44:04.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/17/AKR20260917056300062_02_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "경기도자비엔날레 개막…이천·광주·여주서 45일간 대장정",
-          "link": "https://www.yna.co.kr/view/AKR20260917046400061",
-          "summary": "(수원=연합뉴스) 최찬흥 기자 = 국내 유일 도자예술 분야 격년제 국제미술행사인 '경기도자바엔날레'가 17일 개막식을 시작으로 11월 1일까지 ...",
-          "publishedAt": "2026-09-17T00:17:59.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/17/AKR20260917046400061_02_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
           "score": 4.4
         },
         {
-          "title": "'글·그림만으론 어려워'…작가·예술가 연평균 소득 920만원",
-          "link": "https://www.yna.co.kr/view/AKR20260916157600002",
-          "summary": "(세종=연합뉴스) 김수현 기자 = 글과 그림 등 전통적인 창작 영역에 종사하는 작가·화가 등의 연평균 소득이 1천만원에 미치지 못하는 것으로 나...",
-          "publishedAt": "2026-09-16T20:51:00.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2025/11/09/PYH2025110904600001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "오수완 작가 “소설 쓴 지 16년…문학상은 포기하지 말라는 응원”",
+          "link": "https://www.khan.co.kr/article/202609152021015/",
+          "summary": "혼불문학상 수상작 ‘에케 호모’ 출간 간담회“낮에는 한의사로 일하고 밤에는 소설을 쓰는 생활을 하고 있습니다. 소설가로 활동한 지는 16년 됐지만 문단에 널리 알려지지 않았어요. 혼불문학상 수상은 포기하지 말라는 응원 같아요. 앞으로도 힘닿는 데까지 열심히 써보겠습니다.”한의사 겸 작가 오수완(사진)은 15일 서울 중구 달개비에서 열린 제16회 혼불문학상…",
+          "publishedAt": "2026-09-15T11:21:01.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.4
-        },
-        {
-          "title": "속초 물결에 비친 현실과 추상…민준규 사진전 17∼22일",
-          "link": "https://www.yna.co.kr/view/AKR20260916176000062",
-          "summary": "(속초=연합뉴스) 류호준 기자 = 강원 속초지역에서 활동하는 민준규 작가가 오는 17일부터 22일까지 속초문화예술회관 전시실에서 사진전 '물결,...",
-          "publishedAt": "2026-09-16T09:36:26.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/16/AKR20260916176000062_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.1
+          "score": 3.5
         }
       ]
     }
