@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-18T09:06:43.089Z",
+  "builtAt": "2026-09-18T21:06:32.626Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 338,
+      "poolSize": 336,
       "items": [
         {
           "title": "원/달러 환율, 1.1원 오른 1,383.3원…7거래일 연속 상승",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "“원화는 단기 약세, 엔화는 지속 강세”…환율 디커플링 전망 이유는",
@@ -38,20 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
-        },
-        {
-          "title": "물가 꺾여도 금리는 더 오른다?…Fed 점도표에 숨은 '내년 추가 인상' 신호 [김주완의 글로벌머니 X파일]",
-          "link": "https://www.hankyung.com/article/202609171629i",
-          "summary": "",
-          "publishedAt": "2026-09-17T22:00:04.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
+          "score": 7.1
         },
         {
           "title": "다시 ‘긴축의 시대’…미 연준 3년 만에 기준금리 0.25%P ↑, 한은도 11월 추가 인상 전망",
@@ -64,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.8
         },
         {
           "title": "환율 13.6원 뛰고, 국고채 금리 꿈틀…기업·가계 대출 ‘먹구름’",
@@ -77,7 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.8
+        },
+        {
+          "title": "돌아온 긴축의 시대···미국 금리 인상, 일본도 인상 가능성, 한은도 연내 추가 인상하나",
+          "link": "https://www.khan.co.kr/article/202609171650011/",
+          "summary": "케빈 워시 연준 의장. AFP연합뉴스지난해까지 금리를 내리거나 올해 동결해온 세계 각국 중앙은행이 다시 ‘긴축의 시대’로 돌아섰다. 미국 연방준비제도(연준)가 16일(현지시간) 3년 2개월만에 기준금리를 인상했다. 유럽중앙은행(ECB)이 지난주 금리를 올렸고, 일본도 오는 18일 추가로 금리를 올릴 것으로 예상된다. 국제유가 상승과 인공지능(AI) 투자 확…",
+          "publishedAt": "2026-09-17T07:50:01.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6.7
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 202,
+      "poolSize": 200,
       "items": [
         {
           "title": "“‘무아(無我)’와 ‘일심(一心)’은 하나로 회통”",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "7. ‘나무아미타불’의 인연 ⑦",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.3
         },
         {
           "title": "[법인 스님의 문자 반야] 57. 불구부정(不垢不淨)",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 18. 자신을 지키지 못함 참회 관련 경전 해석의 오류",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "[명상 콘퍼런스 1섹션] AI시대, 정체성 위기…‘제법무아’서 길을 찾다",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 3.9
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 133,
+      "poolSize": 134,
       "items": [
         {
           "title": "Kantian Aesthetics: The Beautiful & the Sublime",
@@ -186,7 +186,7 @@
             "philosophy",
             "art"
           ],
-          "score": 7.2
+          "score": 6.9
         },
         {
           "title": "소크라테스가 만난 신, 니체가 떠나보낸 신...삶의 의미를 잃다",
@@ -199,7 +199,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6
+          "score": 5.8
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -212,7 +212,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.8
+          "score": 5.6
         },
         {
           "title": "Sir Anthony Kenny obituary",
@@ -238,7 +238,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.4
+          "score": 4.1
         }
       ]
     },
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 212,
+      "poolSize": 208,
       "items": [
         {
           "title": "유배·돌·신화로 만나는 제주…제주비엔날레 '변용의 기술'",
@@ -266,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "국립현대미술관서 만나는 이대원·서도호, 이번엔 경매장서",
@@ -279,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
+          "score": 7.1
         },
         {
           "title": "제네시스, 뉴욕 메트로폴리탄 미술관서 리우 웨이 전시",
@@ -292,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
+          "score": 7.1
         },
         {
           "title": "[게시판] 푸르메재단 '나란히 보는 미술관' 국제미술관위원회 최우수실천상",
@@ -305,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "'등대 빛으로 전하는 한가위'…목포해수청, 진도항서 전시회",
@@ -318,7 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.1
         }
       ]
     }
