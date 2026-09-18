@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-17T21:07:01.078Z",
+  "builtAt": "2026-09-18T03:06:40.782Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,47 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 339,
+      "poolSize": 333,
       "items": [
+        {
+          "title": "“원화는 단기 약세, 엔화는 지속 강세”…환율 디커플링 전망 이유는",
+          "link": "https://www.mk.co.kr/news/economy/12156260",
+          "summary": "달러수급 변화에 단기적 원화 약세 중장기적으로 펀더멘털 기반 안정 한은, 11월 추가 금리 인상 가능성글로벌 투자은행(IB) 스테이트스트리트가 달러당 원화값이 단기적으로 1400원..",
+          "publishedAt": "2026-09-18T01:40:42.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/18/news-p.v1.20260918.0fb53ca8d72742a5935519cddab3f6d4_R.png",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "[마켓뷰] 美증시 긴축 소화하며 반등…코스피도 이어받을까",
+          "link": "https://www.yna.co.kr/view/AKR20260918018900008",
+          "summary": "(서울=연합뉴스) 김유아 기자 = 미국 뉴욕증시가 간밤 미 연준의 매파적 기준금리 인상 여파를 소화하며 반등한 가운데 코스피가 18일 미국발 훈...",
+          "publishedAt": "2026-09-17T23:06:33.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/17/PYH2026091722140001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "물가 꺾여도 금리는 더 오른다?…Fed 점도표에 숨은 '내년 추가 인상' 신호 [김주완의 글로벌머니 X파일]",
+          "link": "https://www.hankyung.com/article/202609171629i",
+          "summary": "",
+          "publishedAt": "2026-09-17T22:00:04.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "트럼프 반대에도 방향 튼 연준…우리 경제 '나비효과'는?",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008758986",
@@ -25,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "다시 ‘긴축의 시대’…미 연준 3년 만에 기준금리 0.25%P ↑, 한은도 11월 추가 인상 전망",
@@ -35,45 +74,6 @@
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
-        },
-        {
-          "title": "환율 13.6원 뛰고, 국고채 금리 꿈틀…기업·가계 대출 ‘먹구름’",
-          "link": "https://www.khan.co.kr/article/202609172114005/",
-          "summary": "“인플레, 너무 높고 너무 오래 지속” 케빈 워시 미국 연방준비제도 의장이 16일(현지시간) 워싱턴 연준 청사에서 연방공개시장위원회(FOMC) 회의 후 기자회견을 하고 있다. AFP연합뉴스국내 금융시장도 긴장 확대시장 금리 상승 땐 부동산 영향 기업들 ‘자금 조달’ 부담 늘고 주담대 상단도 ‘8%대’ 가능성 증시는 전망 선반영 충격 덜해미국 연방준비제도(연…",
-          "publishedAt": "2026-09-17T12:14:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
-        },
-        {
-          "title": "예상된 인상에 미국채금리 내렸지만…\"긴축사이클 시작\"암운",
-          "link": "https://www.hankyung.com/article/202609172322i",
-          "summary": "",
-          "publishedAt": "2026-09-17T11:09:46.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
-        },
-        {
-          "title": "매파 FOMC에도 국채 단기물 중심 제한적 약세…3년물 4.063%",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008758826",
-          "summary": "▲ 자료화면17일 국고채 금리는 단기물 금리가 소폭 상승하고, 장기물 금리는 하락하며 혼조세를 나타냈습니다.간밤 미국 연방공개시장위원…",
-          "publishedAt": "2026-09-17T08:21:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20240328/201912440_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
@@ -92,10 +92,49 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 195,
+      "poolSize": 201,
       "items": [
         {
-          "title": "[콘퍼런스 1섹션] AI시대, 정체성 위기…‘제법무아’서 길을 찾다",
+          "title": "“‘무아(無我)’와 ‘일심(一心)’은 하나로 회통”",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505393",
+          "summary": "몸, 감정, 생각은 인연 따라 모였다 흩어질 뿐 붙잡을 만한 ‘나’는 어디에도 없다. 그렇다면 자아가 없는데 죽음 이후 무엇이 다음 생으로 건너가며, 번뇌를 벗어나 해탈을 이루는 주체는 누구인가. 무아(無我)를 말하는 초기불교와 일심(一心)을 말하는 대승불교는 서로 어긋나는 가르침일까, 아니면 하나의 진실을 가르치는 두 개의 언어일까.불교를 접한 이들이라면…",
+          "publishedAt": "2026-09-18T10:43:59.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 7.7
+        },
+        {
+          "title": "[법인 스님의 문자 반야] 57. 불구부정(不垢不淨)",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505389",
+          "summary": "인간 세상을 가만히 들여다보면 의문이 든다. 한편에서는 잔혹한 전쟁이 벌어지고, 다른 한편에서는 재난 현장에서 타인을 구하기 위해 목숨까지 내놓는 이들이 있다. 이토록 상반된 모습이 모두 인간에게서 나온다. 그렇다면 인간은 본래 선한 존재인가, 악한 존재인가?인류의 역사에서 수많은 철학자와 종교가들은 이 질문에 답하기 위해 인간을 ‘죄인(원죄론)’, ‘운명…",
+          "publishedAt": "2026-09-18T10:28:59.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
+        },
+        {
+          "title": "[반야 참회로 여는 수행의 첫걸음] 18. 자신을 지키지 못함 참회 관련 경전 해석의 오류",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505388",
+          "summary": "흔히 보면 불자들이 경전의 가르침을 자기 임의대로 해석하거나 소극적으로 해석해 현실에서 자신을 지키지 못하고 피해를 보거나 고통을 겪는 경우가 종종 있다. 그래서 경전 해석과 관련해 보충 설명을 좀 하고자 한다. 자신을 지키는 일과 관련해서는 성냄의 문제가 우선적으로 중요하기 때문에 먼저 언급하겠다.화내지 말라는 데 대한 문제불교를 믿는 사람은 절대로 화를…",
+          "publishedAt": "2026-09-18T10:23:07.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
+        },
+        {
+          "title": "[명상 콘퍼런스 1섹션] AI시대, 정체성 위기…‘제법무아’서 길을 찾다",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505361",
           "summary": "동국대 불교학술원 종학연구소(소장 정도 스님)가 주관하는 제7회 서울국제명상엑스포의 하이라이트 행사인 ‘명상 콘퍼런스’가 9월 17~18일 동국대 본관 남산홀에서 열렸다. 는 국내외 석학과 명상 전문가 8명이 기술과학시대에서 선명상의 위치와 역할, 선명상의 웰니스적 가치에 대한 연구 논문을 발표했다.콘퍼런스 주요 내용을 소개한다. [편집자 주]9월 17일…",
           "publishedAt": "2026-09-17T16:26:21.000Z",
@@ -105,59 +144,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
-          "title": "“선은 살아 있어야 한다”…수좌 스님에게 배우는 간화선",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505333",
-          "summary": "한국 선불교의 수행 전통을 이어온 수좌 스님들이 한자리에 모여 간화선의 핵심과 실참수행을 전했다.(사)한국참선지도자협회가 주최하고 (사)한국명상총협회가 주관한 ‘쟌 마스터의 길’ 제10기 참선아카데미가 9월3일부터 6일까지 3박 4일간 문경 봉암사 세계명상마을에서 열렸다. 전국에서 참가한 70여 명의 참가자들이 수좌 스님들의 법문을 듣고 좌선과 화두참구를…",
-          "publishedAt": "2026-09-15T17:04:51.000Z",
+          "title": "일타 스님 번역으로 읽는 ‘선문촬요’",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505390",
+          "summary": "한국 선불교의 핵심 지침서인 〈선문촬요〉가 일타 스님(1929~1999)의 육성 번역을 바탕으로 새롭게 선보인다. 〈선문촬요〉는 1907년 청도 운문사와 1908년 범어사에서 경허 스님의 지시로 한문본 상·하 2책으로 처음 편찬됐다. 이후 1968년 설봉 학몽 스님이 한문 토를 붙이고, 내용을 보강해 1책으로 통합 발간했다. 하지만 한문본으로만 전해져 일반…",
+          "publishedAt": "2026-09-18T10:41:14.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.4
-        },
-        {
-          "title": "캠퍼스에 부는 '힙불교' 바람… 전남대 불교동아리 활기",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4107305",
-          "summary": "대학에서 전법과 포교, 수행에 앞장서며 한국 불교의 미래를 이끌어온 대학생 불교동아리.최근 전국적으로 대학 불교동아리에 대한 관심이 높아지는 가운데, 전남대학교 불교동아리가 100명이 넘는 신입회원을 맞으며 활기를 띠고 있습니다.신입생 환영회 현장에 김우진 기자가 다녀왔습니다. < 리포터 전남대학교 캠퍼스에 반야심경이 울려 퍼집니다.강당에 모인 학생들은 두…",
-          "publishedAt": "2026-09-17T17:57:01.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.9
-        },
-        {
-          "title": "“훌륭한 사람 뽑는데 왜 불미스러운 일이 있어야 합니까”",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337850",
-          "summary": "용인 반야선원으로 가는 길은 공장지대를 지난다. 스님이 이곳에 들어올 때는 소나무 동산이었다고 했다. 지금은 삼성 반도체 부지로 수용이 예정돼 있어 다시 옮겨야 한다.스님이 이 외진 곳에 자리 잡은 사연은 간단하다. 갈 곳이 없었다. 25년 군 생활을 마치고 승복을 다시 입었을 때, 예전에 살던 큰절들도 받아주지 않았다. 돈은 필요 없다고, 청소하고 필요하…",
-          "publishedAt": "2026-09-17T15:07:27.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.9
-        },
-        {
-          "title": "수불 스님 “AI, 활구 들 수 없어”…사사키 교수 “AI 이미 깨달아”",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337849",
-          "summary": "인공지능(AI)이 아무리 발전해도 인간 각자가 스스로 마주해야 할 근원적 과제는 남는다. 제7회 서울국제명상엑스포 명상 콘퍼런스에서 수불 스님은 AI가 대신할 수 없는 깨달음을, 사사키 시즈카 교수는 인간의 우월성에 대한 집착을 내려놓는 ‘제법무아’를 강조했다. 미나스 카파토스 교수는 첨단 과학으로도 풀리지 않은 ‘마음’의 본질을 탐구해야 할 과제로 제시했…",
-          "publishedAt": "2026-09-17T14:23:12.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.9
+          "score": 3.2
         }
       ]
     },
@@ -186,7 +186,20 @@
             "philosophy",
             "art"
           ],
-          "score": 7.4
+          "score": 7.3
+        },
+        {
+          "title": "소크라테스가 만난 신, 니체가 떠나보낸 신...삶의 의미를 잃다",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210548",
+          "summary": "[저자가 말하다_『철학자의 신』]",
+          "publishedAt": "2026-09-18T09:48:46.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 6.1
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -199,7 +212,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.1
+          "score": 5.9
         },
         {
           "title": "Impartiality",
@@ -212,7 +225,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.6
+          "score": 4.5
         },
         {
           "title": "Sir Anthony Kenny obituary",
@@ -226,19 +239,6 @@
             "philosophy"
           ],
           "score": 4.5
-        },
-        {
-          "title": "광운대 이지훈 교수팀, 고온·고전류 녹색 수소 전기촉매 개발···장기 안정성 입증",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210485",
-          "summary": "고전류 · 고온 환경에서 녹색 수소를 효율적으로 생산할 수 있는 전기촉매가 국내 연구진에 의해 개발됐다. 이번 연구는 한국연구재단과 교육부의 Brain Korea 21 Plus(BK-21+), 중점연구소 사업 · 광운대의 지원을 받아 수행됐으며, 연구 결과는 Elsevier의 국제 저명학술지 Materials Reports: Energy(JCR IF: 16…",
-          "publishedAt": "2026-09-17T11:07:49.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.3
         }
       ]
     },
@@ -253,72 +253,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 212,
+      "poolSize": 213,
       "items": [
         {
-          "title": "[새책]조각공원 外",
-          "link": "https://www.khan.co.kr/article/202609172039005/",
-          "summary": "조각공원“어리둥절해진 채 당신을 놓아두고서/ 저 앞을 향해 계속 걸어가본다/ 이대로 조금 더 걸어도 좋지만// 저만치 걷던 내가/ 언제나 다시 돌아오는 이유는// 당신이 나 없이/ 살지 않게 하려고”(‘조각 공원’ 중) 사랑과 상실을 정제된 언어로 벼려내는 시인의 세 번째 시집. 39편이 실렸다. 전욱진 지음. 현대문학. 1만2000원이럴 때 이런 그림책무…",
-          "publishedAt": "2026-09-17T11:39:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.3
-        },
-        {
-          "title": "어린이청소년극단 초대 단장 인선 논란에···최휘영 “무거운 책임” 철회엔 선 그어",
-          "link": "https://www.khan.co.kr/article/202609171830001/",
-          "summary": "최휘영 문화체육관광부 장관이 17일 서울 종로구 국립현대미술관 서울관에서 열린 문화예술정책자문위원회 연극 분과 제4차 회의에서 27년 정부 예산안 편성 결과와 지원 방향을 공유하고 사업 추진 방향과 협력 방안을 논의하고 있다. 문체부 제공최휘영 문화체육관광부 장관이 어연선 국립어린이청소년극단 초대 단장 겸 예술감독 임명 논란과 관련해 “무거운 책임감을 느낀…",
-          "publishedAt": "2026-09-17T09:30:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.3
-        },
-        {
-          "title": "6·25 참전 처삼촌 둔 작가 바스케스 “전쟁은 언어를 빈곤하게 한다”",
-          "link": "https://www.khan.co.kr/article/202609171438001/",
-          "summary": "17일 서울 중구 프레스센터에서 열린 제10회 이호철통일로문학상 수상작가 기자회견에서 본상을 수상한 후안 가브리엘 바스케스 작가가 소감을 밝히고 있다. 연합뉴스“전쟁은 언어를 빈곤하게 만들고, 그것을 단순화와 선전으로 축소시켜 ‘우리 대 그들’이라는 파괴적 윤리로 물들입니다. 소설을 쓴다는 것은 세계를 축소시키는 전쟁의 논리에서 벗어날 수 있는 능력을 말에…",
-          "publishedAt": "2026-09-17T05:38:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.2
-        },
-        {
-          "title": "서점인이 뽑은 올해의 작가에 은희경",
-          "link": "https://www.yna.co.kr/view/AKR20260917127100005",
-          "summary": "(서울=연합뉴스) 강종훈 기자 = 소설가 은희경이 서점인이 뽑은 2026 올해의 작가에 선정됐다.",
-          "publishedAt": "2026-09-17T05:24:01.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2025/02/17/PYH2025021705970001300_P2.jpg",
+          "title": "국립현대미술관서 만나는 이대원·서도호, 이번엔 경매장서",
+          "link": "https://www.yna.co.kr/view/AKR20260918053800005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관에서 각각 회고전과 개인전이 열리고 있는 이대원과 서도호의 작품이 경매에 나온다.",
+          "publishedAt": "2026-09-18T01:02:04.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/18/AKR20260918053800005_03_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.2
+          "score": 7.5
         },
         {
-          "title": "콜롬비아 작가 바스케스 \"소설로 평화의 가능성 탐구\"",
-          "link": "https://www.yna.co.kr/view/AKR20260917110400005",
-          "summary": "(서울=연합뉴스) 김기훈 기자 = \"1951년 제 친척(아내의 삼촌)께서 콜롬비아 대대 병사로서 한국전쟁에 참여했습니다. 저는 오랫동안 그가 콜...",
-          "publishedAt": "2026-09-17T04:25:05.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/17/PYH2026091712650001300_P2.jpg",
+          "title": "제네시스, 뉴욕 메트로폴리탄 미술관서 리우 웨이 전시",
+          "link": "https://www.yna.co.kr/view/AKR20260918030700003",
+          "summary": "(서울=연합뉴스) 김윤구 기자 = 제네시스는 미국 뉴욕 메트로폴리탄 미술관과의 파트너십 전시인 '더 제네시스 파사드 커미션: 리우 웨이, Spe...",
+          "publishedAt": "2026-09-18T00:06:23.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/18/AKR20260918030700003_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.2
+          "score": 7.4
+        },
+        {
+          "title": "'등대 빛으로 전하는 한가위'…목포해수청, 진도항서 전시회",
+          "link": "https://www.yna.co.kr/view/AKR20260918079300054",
+          "summary": "(목포=연합뉴스) 조근영 기자 = 목포지방해양수산청은 21∼27일 진도항 여객터미널에서 '등대 빛으로 전하는 한가위' 라는 주제로 등대 사진 전...",
+          "publishedAt": "2026-09-18T02:22:09.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/18/AKR20260918079300054_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "[신간] 한일 SF 작가들의 우정과 연대…'한일 SF 교환일기'",
+          "link": "https://www.yna.co.kr/view/AKR20260918056600005",
+          "summary": "(서울=연합뉴스) 김기훈 기자 = ▲ 한일 SF 교환일기 : 당신과 나의 인커리지(Encourage)! = 한국과학소설연대·일본SF작가클럽 엮음...",
+          "publishedAt": "2026-09-18T01:08:51.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/18/AKR20260918056600005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "진천 주철장전수교육관 다음달 6∼20일 청년 입주작가 모집",
+          "link": "https://www.yna.co.kr/view/AKR20260918044700064",
+          "summary": "(진천=연합뉴스) 천경환 기자 = 충북 진천군 주철장전수교육관은 다음 달 6∼20일 '금속공방 레지던시 2기'에 참여할 청년 입주작가를 공개 모...",
+          "publishedAt": "2026-09-18T00:33:45.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/18/AKR20260918044700064_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         }
       ]
     }
