@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-18T03:06:40.782Z",
+  "builtAt": "2026-09-18T09:06:43.089Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 333,
+      "poolSize": 338,
       "items": [
+        {
+          "title": "원/달러 환율, 1.1원 오른 1,383.3원…7거래일 연속 상승",
+          "link": "https://www.yna.co.kr/view/AKR20260918140100002",
+          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 일본은행(BOJ)이 기준금리를 인상한 18일 1,380원대에서 등락했다.",
+          "publishedAt": "2026-09-18T07:05:19.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/18/PYH2026091817690001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "“원화는 단기 약세, 엔화는 지속 강세”…환율 디커플링 전망 이유는",
           "link": "https://www.mk.co.kr/news/economy/12156260",
@@ -25,20 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
-        },
-        {
-          "title": "[마켓뷰] 美증시 긴축 소화하며 반등…코스피도 이어받을까",
-          "link": "https://www.yna.co.kr/view/AKR20260918018900008",
-          "summary": "(서울=연합뉴스) 김유아 기자 = 미국 뉴욕증시가 간밤 미 연준의 매파적 기준금리 인상 여파를 소화하며 반등한 가운데 코스피가 18일 미국발 훈...",
-          "publishedAt": "2026-09-17T23:06:33.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/17/PYH2026091722140001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
+          "score": 7.3
         },
         {
           "title": "물가 꺾여도 금리는 더 오른다?…Fed 점도표에 숨은 '내년 추가 인상' 신호 [김주완의 글로벌머니 X파일]",
@@ -51,20 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
-        },
-        {
-          "title": "트럼프 반대에도 방향 튼 연준…우리 경제 '나비효과'는?",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008758986",
-          "summary": "트럼프의 반대에도 연준이 금리를 올리는 쪽으로 방향을 틀면서, 우리에게도 적잖은 영향이 예상됩니다. 환율과 국내 증시, 금리까지 '나비효과'가 있을 수 있는데요.어떤 부분을 눈여겨봐야 하는지, 김범주 기자가 정리했습니다.",
-          "publishedAt": "2026-09-17T13:23:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260917/202223459_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.2
+          "score": 7.3
         },
         {
           "title": "다시 ‘긴축의 시대’…미 연준 3년 만에 기준금리 0.25%P ↑, 한은도 11월 추가 인상 전망",
@@ -77,7 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.1
+        },
+        {
+          "title": "환율 13.6원 뛰고, 국고채 금리 꿈틀…기업·가계 대출 ‘먹구름’",
+          "link": "https://www.khan.co.kr/article/202609172114005/",
+          "summary": "“인플레, 너무 높고 너무 오래 지속” 케빈 워시 미국 연방준비제도 의장이 16일(현지시간) 워싱턴 연준 청사에서 연방공개시장위원회(FOMC) 회의 후 기자회견을 하고 있다. AFP연합뉴스국내 금융시장도 긴장 확대시장 금리 상승 땐 부동산 영향 기업들 ‘자금 조달’ 부담 늘고 주담대 상단도 ‘8%대’ 가능성 증시는 전망 선반영 충격 덜해미국 연방준비제도(연…",
+          "publishedAt": "2026-09-17T12:14:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.1
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 201,
+      "poolSize": 202,
       "items": [
         {
           "title": "“‘무아(無我)’와 ‘일심(一心)’은 하나로 회통”",
@@ -105,7 +105,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 7.7
+          "score": 7.5
+        },
+        {
+          "title": "7. ‘나무아미타불’의 인연 ⑦",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337881",
+          "summary": "“사람마다 본성에 맞추어, 경계에 따라, 어느 길이든 선택하면 된다. 문제는, 자신이 선택한 그 길에 전념할 것인가 여부다. 어느 길이든 철저하면 자력과 타력의 구분이 사라질 것이다. 자력은 자력이면서 자력이 아니게 되고, 타력은 타력 그대로 타력이 아니게 된다.”(야나기 무네요시, ‘나무아미타불’)“교수님, ‘타력’이라는 책 읽어보셨습니까?”지난여름 ‘정…",
+          "publishedAt": "2026-09-18T12:25:12.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.6
         },
         {
           "title": "[법인 스님의 문자 반야] 57. 불구부정(不垢不淨)",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 18. 자신을 지키지 못함 참회 관련 경전 해석의 오류",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "[명상 콘퍼런스 1섹션] AI시대, 정체성 위기…‘제법무아’서 길을 찾다",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
-        },
-        {
-          "title": "일타 스님 번역으로 읽는 ‘선문촬요’",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505390",
-          "summary": "한국 선불교의 핵심 지침서인 〈선문촬요〉가 일타 스님(1929~1999)의 육성 번역을 바탕으로 새롭게 선보인다. 〈선문촬요〉는 1907년 청도 운문사와 1908년 범어사에서 경허 스님의 지시로 한문본 상·하 2책으로 처음 편찬됐다. 이후 1968년 설봉 학몽 스님이 한문 토를 붙이고, 내용을 보강해 1책으로 통합 발간했다. 하지만 한문본으로만 전해져 일반…",
-          "publishedAt": "2026-09-18T10:41:14.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.2
+          "score": 4.2
         }
       ]
     },
@@ -186,7 +186,7 @@
             "philosophy",
             "art"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "소크라테스가 만난 신, 니체가 떠나보낸 신...삶의 의미를 잃다",
@@ -199,7 +199,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.1
+          "score": 6
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -212,20 +212,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.9
-        },
-        {
-          "title": "Impartiality",
-          "link": "https://plato.stanford.edu/entries/impartiality/",
-          "summary": "[Revised entry by Troy Jollimore on September 17, 2026. Changes to: Main text, Bibliography] Impartiality is sometimes treated by philosophers as if it were equivalent to moral impartiality. Or, at th…",
-          "publishedAt": "2026-09-18T04:10:01.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.5
+          "score": 5.8
         },
         {
           "title": "Sir Anthony Kenny obituary",
@@ -239,6 +226,19 @@
             "philosophy"
           ],
           "score": 4.5
+        },
+        {
+          "title": "Impartiality",
+          "link": "https://plato.stanford.edu/entries/impartiality/",
+          "summary": "[Revised entry by Troy Jollimore on September 17, 2026. Changes to: Main text, Bibliography] Impartiality is sometimes treated by philosophers as if it were equivalent to moral impartiality. Or, at th…",
+          "publishedAt": "2026-09-18T04:10:01.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.4
         }
       ]
     },
@@ -253,8 +253,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 213,
+      "poolSize": 212,
       "items": [
+        {
+          "title": "유배·돌·신화로 만나는 제주…제주비엔날레 '변용의 기술'",
+          "link": "https://www.yna.co.kr/view/AKR20260918115500005",
+          "summary": "(제주=연합뉴스) 박의래 기자 = 제주도립미술관 앞. 형광색 붉은 리본들이 바람에 흔들린다. 프랑스 작가 피에르 파브르의 '제주 라바'(Jeju...",
+          "publishedAt": "2026-09-18T05:48:48.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/18/AKR20260918115500005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.4
+        },
         {
           "title": "국립현대미술관서 만나는 이대원·서도호, 이번엔 경매장서",
           "link": "https://www.yna.co.kr/view/AKR20260918053800005",
@@ -266,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "제네시스, 뉴욕 메트로폴리탄 미술관서 리우 웨이 전시",
@@ -279,7 +292,20 @@
           "candidates": [
             "art"
           ],
-          "score": 7.4
+          "score": 7.3
+        },
+        {
+          "title": "[게시판] 푸르메재단 '나란히 보는 미술관' 국제미술관위원회 최우수실천상",
+          "link": "https://www.yna.co.kr/view/AKR20260918109300004",
+          "summary": "▲ 푸르메재단과 서울시립 북서울미술관이 함께 운영하는 접근성 향상 프로그램 '나란히 보는 미술관'이 국내 미술관 중 최초로 국제미술관위원회(CI...",
+          "publishedAt": "2026-09-18T05:10:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/18/AKR20260918109300004_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "'등대 빛으로 전하는 한가위'…목포해수청, 진도항서 전시회",
@@ -287,32 +313,6 @@
           "summary": "(목포=연합뉴스) 조근영 기자 = 목포지방해양수산청은 21∼27일 진도항 여객터미널에서 '등대 빛으로 전하는 한가위' 라는 주제로 등대 사진 전...",
           "publishedAt": "2026-09-18T02:22:09.000Z",
           "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/18/AKR20260918079300054_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "[신간] 한일 SF 작가들의 우정과 연대…'한일 SF 교환일기'",
-          "link": "https://www.yna.co.kr/view/AKR20260918056600005",
-          "summary": "(서울=연합뉴스) 김기훈 기자 = ▲ 한일 SF 교환일기 : 당신과 나의 인커리지(Encourage)! = 한국과학소설연대·일본SF작가클럽 엮음...",
-          "publishedAt": "2026-09-18T01:08:51.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/18/AKR20260918056600005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "진천 주철장전수교육관 다음달 6∼20일 청년 입주작가 모집",
-          "link": "https://www.yna.co.kr/view/AKR20260918044700064",
-          "summary": "(진천=연합뉴스) 천경환 기자 = 충북 진천군 주철장전수교육관은 다음 달 6∼20일 '금속공방 레지던시 2기'에 참여할 청년 입주작가를 공개 모...",
-          "publishedAt": "2026-09-18T00:33:45.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/18/AKR20260918044700064_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
