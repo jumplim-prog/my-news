@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-19T09:06:43.387Z",
+  "builtAt": "2026-09-19T21:06:31.567Z",
   "cards": [
     {
       "id": "econ",
@@ -15,6 +15,32 @@
       "poolSize": 337,
       "items": [
         {
+          "title": "미국 국채금리 급등에 대미투자 '상업적 합리성' 막판 변수",
+          "link": "https://www.yna.co.kr/view/AKR20260919051000003",
+          "summary": "(서울=연합뉴스) 신창용 기자 = 한국과 미국이 이르면 다음 주 초 대미 투자 1호 사업을 발표하기 위해 막바지 조율을 이어가는 가운데 발표를 ...",
+          "publishedAt": "2026-09-19T20:57:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/19/AKR20260919051000003_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "일본 금리 올렸는데 엔화는 급락…당국 ‘레이트 체크’로 개입 경고",
+          "link": "https://www.khan.co.kr/article/202609192012001/",
+          "summary": "연합뉴스 제공일본은행의 기준금리 인상 직후 외환시장에서 엔화 가치가 하락하자 일본은행이 ‘레이트 체크’(rate check)가 있었던 것으로 관측된다고 니혼게이자이신문(닛케이) 등이 19일 보도했다.보도에 따르면 일본 시간으로 전날 밤부터 이날 새벽에 걸쳐 외환 시장에서 엔화 가치가 급등하면서 달러당 엔화 환율은 1엔 이상 하락했다.전날 일본은행이 금융정책…",
+          "publishedAt": "2026-09-19T11:12:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
+        {
           "title": "원/달러 환율, 1.1원 오른 1,383.3원…7거래일 연속 상승",
           "link": "https://www.yna.co.kr/view/AKR20260918140100002",
           "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 일본은행(BOJ)이 기준금리를 인상한 18일 1,380원대에서 등락했다.",
@@ -25,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7
+          "score": 6.7
         },
         {
           "title": "“원화는 단기 약세, 엔화는 지속 강세”…환율 디커플링 전망 이유는",
@@ -38,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.8
+          "score": 6.6
         },
         {
           "title": "다시 ‘긴축의 시대’…미 연준 3년 만에 기준금리 0.25%P ↑, 한은도 11월 추가 인상 전망",
@@ -51,33 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.6
-        },
-        {
-          "title": "환율 13.6원 뛰고, 국고채 금리 꿈틀…기업·가계 대출 ‘먹구름’",
-          "link": "https://www.khan.co.kr/article/202609172114005/",
-          "summary": "“인플레, 너무 높고 너무 오래 지속” 케빈 워시 미국 연방준비제도 의장이 16일(현지시간) 워싱턴 연준 청사에서 연방공개시장위원회(FOMC) 회의 후 기자회견을 하고 있다. AFP연합뉴스국내 금융시장도 긴장 확대시장 금리 상승 땐 부동산 영향 기업들 ‘자금 조달’ 부담 늘고 주담대 상단도 ‘8%대’ 가능성 증시는 전망 선반영 충격 덜해미국 연방준비제도(연…",
-          "publishedAt": "2026-09-17T12:14:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.6
-        },
-        {
-          "title": "달러 강세에 환율 1380원대로 급등…‘금리 선반영’ 주식·채권은 잠잠",
-          "link": "https://www.hani.co.kr/arti/economy/finance/1278377.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레",
-          "sourceId": "hani-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.5
+          "score": 6.3
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 200,
+      "poolSize": 188,
       "items": [
         {
           "title": "“‘무아(無我)’와 ‘일심(一心)’은 하나로 회통”",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 7
+          "score": 6.8
         },
         {
           "title": "7. ‘나무아미타불’의 인연 ⑦",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.1
+          "score": 3.8
         },
         {
           "title": "[법인 스님의 문자 반야] 57. 불구부정(不垢不淨)",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.8
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 18. 자신을 지키지 못함 참회 관련 경전 해석의 오류",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.8
         },
         {
           "title": "[명상 콘퍼런스 1섹션] AI시대, 정체성 위기…‘제법무아’서 길을 찾다",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.4
         }
       ]
     },
@@ -186,7 +186,7 @@
             "philosophy",
             "art"
           ],
-          "score": 6.7
+          "score": 6.4
         },
         {
           "title": "유영모·김재준·이이효재",
@@ -199,7 +199,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6
+          "score": 5.8
         },
         {
           "title": "소크라테스가 만난 신, 니체가 떠나보낸 신...삶의 의미를 잃다",
@@ -212,7 +212,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.5
+          "score": 5.3
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -225,16 +225,16 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.3
+          "score": 5.1
         },
         {
-          "title": "정약용",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210451",
-          "summary": "실학을 정치·행정·경제·과학기술의 현실 개혁으로 확장한 조선 후기 대표적 종합 실학자 정약용을 창비 한국사상선에서 만나본다. 정약용은 조선 후기의 대표적인 실학자·개혁사상가·정치가·철학자·공학자로, 이익의 학문에 영향을 받아 실학을 발전시켰다.특히 정조 때 관료로 활동하면서 수원 화성 축조에 서양식 축성법과 기중기 기술을 활용했다. 또한 암행어사로 지방 행…",
-          "publishedAt": "2026-09-19T10:06:10.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
+          "title": "Sir Anthony Kenny obituary",
+          "link": "https://www.theguardian.com/books/2026/aug/31/sir-anthony-kenny-obituary",
+          "summary": "<p>Historian of philosophy and former Roman Catholic priest who wrote and lectured on figures from Aristotle to Wittgenstein with verve and lucidity</p><p>The historian of philosophy Anthony Kenny, wh…",
+          "publishedAt": "2026-08-31T16:56:21.000Z",
+          "image": "https://i.guim.co.uk/img/media/21788e17835de4e2c1f188b9494d4ceae76c7a53/0_522_3109_2487/master/3109.jpg?width=140&quality=85&auto=format&fit=max&s=22a4d94bc0b157518e9637feb2272537",
+          "sourceName": "The Guardian",
+          "sourceId": "guardian-philosophy",
           "candidates": [
             "philosophy"
           ],
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 203,
+      "poolSize": 198,
       "items": [
         {
           "title": "유배·돌·신화로 만나는 제주…제주비엔날레 '변용의 기술'",
@@ -266,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.9
+          "score": 6.7
         },
         {
           "title": "전통 잇는 30명의 발걸음…내달 '길을 잇고, 길을 짓다' 전시",
@@ -279,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "샤갈의 꿈, 구사마의 점, 호크니의 풍경…현대 회화 흐름 한눈에",
@@ -292,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "[게시판] 푸르메재단 '나란히 보는 미술관' 국제미술관위원회 최우수실천상",
@@ -305,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 3.9
+          "score": 3.7
         },
         {
           "title": "'등대 빛으로 전하는 한가위'…목포해수청, 진도항서 전시회",
@@ -318,7 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 3.9
+          "score": 3.6
         }
       ]
     }
