@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-20T03:06:44.813Z",
+  "builtAt": "2026-09-20T09:06:46.652Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 340,
+      "poolSize": 339,
       "items": [
         {
           "title": "유가 완화돼도 채권시장 단기금리 상승 부담 여전",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.3
         },
         {
           "title": "미국 국채금리 급등에 대미투자 '상업적 합리성' 막판 변수",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "일본 금리 올렸는데 엔화는 급락…당국 ‘레이트 체크’로 개입 경고",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "원/달러 환율, 1.1원 오른 1,383.3원…7거래일 연속 상승",
@@ -64,16 +64,16 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.6
+          "score": 6.5
         },
         {
-          "title": "“원화는 단기 약세, 엔화는 지속 강세”…환율 디커플링 전망 이유는",
-          "link": "https://www.mk.co.kr/news/economy/12156260",
-          "summary": "달러수급 변화에 단기적 원화 약세 중장기적으로 펀더멘털 기반 안정 한은, 11월 추가 금리 인상 가능성글로벌 투자은행(IB) 스테이트스트리트가 달러당 원화값이 단기적으로 1400원..",
-          "publishedAt": "2026-09-18T01:40:42.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/18/news-p.v1.20260918.0fb53ca8d72742a5935519cddab3f6d4_R.png",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "title": "갈수록 커지는 한·미 금리 동조화…‘글로벌 물가 충격’이 주요인",
+          "link": "https://www.hani.co.kr/arti/economy/economy_general/1278651.html",
+          "summary": "",
+          "publishedAt": null,
+          "image": "",
+          "sourceName": "한겨레",
+          "sourceId": "hani-economy",
           "candidates": [
             "econ"
           ],
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 191,
+      "poolSize": 188,
       "items": [
         {
           "title": "“‘무아(無我)’와 ‘일심(一心)’은 하나로 회통”",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 6.7
+          "score": 6.5
         },
         {
           "title": "사사키 시즈카 교수 \"제법무아로 마주해야 할 AI 시대\"",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.5
         },
         {
           "title": "7. ‘나무아미타불’의 인연 ⑦",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.6
         },
         {
           "title": "[법인 스님의 문자 반야] 57. 불구부정(不垢不淨)",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.5
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 18. 자신을 지키지 못함 참회 관련 경전 해석의 오류",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.5
         }
       ]
     },
@@ -186,7 +186,7 @@
             "philosophy",
             "art"
           ],
-          "score": 6.3
+          "score": 6.2
         },
         {
           "title": "유영모·김재준·이이효재",
@@ -199,7 +199,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.7
+          "score": 5.5
         },
         {
           "title": "소크라테스가 만난 신, 니체가 떠나보낸 신...삶의 의미를 잃다",
@@ -212,7 +212,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.1
+          "score": 5
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -225,7 +225,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.9
+          "score": 4.8
         },
         {
           "title": "Sir Anthony Kenny obituary",
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 194,
+      "poolSize": 192,
       "items": [
         {
           "title": "창원 관광·전시시설, 추석 연휴 체험 프로그램 다채",
@@ -266,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "280억 들인 안동 임청각 복원…역사문화공유관 전시 곳곳 오류",
@@ -279,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "도자예술에 빠져보세요…'경기도자비엔날레' 45일간 대장정",
@@ -292,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "추석 연휴 제주 곳곳 즐길거리…빛 축제·민속놀이·미술관 행사",
@@ -305,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "추석연휴 놀러 갈 곳 어디…충북 전시·체험행사 풍성",
@@ -318,7 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         }
       ]
     }
