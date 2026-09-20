@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-20T09:06:46.652Z",
+  "builtAt": "2026-09-20T21:06:35.618Z",
   "cards": [
     {
       "id": "econ",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7
         },
         {
           "title": "미국 국채금리 급등에 대미투자 '상업적 합리성' 막판 변수",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "일본 금리 올렸는데 엔화는 급락…당국 ‘레이트 체크’로 개입 경고",
@@ -51,20 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7
-        },
-        {
-          "title": "원/달러 환율, 1.1원 오른 1,383.3원…7거래일 연속 상승",
-          "link": "https://www.yna.co.kr/view/AKR20260918140100002",
-          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 일본은행(BOJ)이 기준금리를 인상한 18일 1,380원대에서 등락했다.",
-          "publishedAt": "2026-09-18T07:05:19.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/18/PYH2026091817690001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.5
+          "score": 6.8
         },
         {
           "title": "갈수록 커지는 한·미 금리 동조화…‘글로벌 물가 충격’이 주요인",
@@ -78,6 +65,19 @@
             "econ"
           ],
           "score": 6.5
+        },
+        {
+          "title": "한은 \"한미 장기금리 동조화, 글로벌 인플레 충격 영향\"",
+          "link": "https://www.yna.co.kr/view/AKR20260919018900002",
+          "summary": "(서울=연합뉴스) 한지훈 기자 = 한국과 미국의 장기금리가 같은 방향으로 움직이는 동조화 현상은 양국이 세계적인 인플레이션 등 대외 충격을 함께...",
+          "publishedAt": "2026-09-20T03:00:07.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/18/PYH2026091817650001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.6
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 188,
+      "poolSize": 161,
       "items": [
         {
           "title": "“‘무아(無我)’와 ‘일심(一心)’은 하나로 회통”",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 6.5
+          "score": 6.3
         },
         {
           "title": "사사키 시즈카 교수 \"제법무아로 마주해야 할 AI 시대\"",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "7. ‘나무아미타불’의 인연 ⑦",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.6
+          "score": 3.3
         },
         {
           "title": "[법인 스님의 문자 반야] 57. 불구부정(不垢不淨)",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
+          "score": 3.3
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 18. 자신을 지키지 못함 참회 관련 경전 해석의 오류",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
+          "score": 3.3
         }
       ]
     },
@@ -175,20 +175,6 @@
       "poolSize": 134,
       "items": [
         {
-          "title": "Kantian Aesthetics: The Beautiful & the Sublime",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/kantian-aesthetics-the-beautiful-the-sublime.html",
-          "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
-          "publishedAt": "2026-09-17T16:48:02.000Z",
-          "image": "",
-          "sourceName": "3 Quarks Daily",
-          "sourceId": "3quarks",
-          "candidates": [
-            "philosophy",
-            "art"
-          ],
-          "score": 6.2
-        },
-        {
           "title": "유영모·김재준·이이효재",
           "link": "https://www.kyosu.net/news/articleView.html?idxno=210445",
           "summary": "창비 60주년을 앞두고 한국사상의 거목 59인의 사유와 철학에서 우리 앞에 닥친 거대한 질문의 답을 찾아보려는 특별기획 ‘창비 한국사상선’이 대장정을 마치고 드디어 완간된다. 민중과 해방의 현대사상가들인 유영모·김재준·이이효재의 정수가 이번 신간에 담겼다.한국의 독창적 기독교 사상가이자 종교철학자인 유영모는 기독교를 바탕으로 동양사상과 한국적 영성을 결합했…",
@@ -199,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.5
+          "score": 5.3
         },
         {
           "title": "소크라테스가 만난 신, 니체가 떠나보낸 신...삶의 의미를 잃다",
@@ -212,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5
+          "score": 4.8
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -225,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.8
+          "score": 4.6
         },
         {
           "title": "Sir Anthony Kenny obituary",
@@ -239,6 +225,19 @@
             "philosophy"
           ],
           "score": 4.5
+        },
+        {
+          "title": "정약용",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210451",
+          "summary": "실학을 정치·행정·경제·과학기술의 현실 개혁으로 확장한 조선 후기 대표적 종합 실학자 정약용을 창비 한국사상선에서 만나본다. 정약용은 조선 후기의 대표적인 실학자·개혁사상가·정치가·철학자·공학자로, 이익의 학문에 영향을 받아 실학을 발전시켰다.특히 정조 때 관료로 활동하면서 수원 화성 축조에 서양식 축성법과 기중기 기술을 활용했다. 또한 암행어사로 지방 행…",
+          "publishedAt": "2026-09-19T10:06:10.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 3.8
         }
       ]
     },
@@ -253,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 192,
+      "poolSize": 176,
       "items": [
         {
           "title": "창원 관광·전시시설, 추석 연휴 체험 프로그램 다채",
@@ -266,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "280억 들인 안동 임청각 복원…역사문화공유관 전시 곳곳 오류",
@@ -279,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "도자예술에 빠져보세요…'경기도자비엔날레' 45일간 대장정",
@@ -292,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "추석 연휴 제주 곳곳 즐길거리…빛 축제·민속놀이·미술관 행사",
@@ -305,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "추석연휴 놀러 갈 곳 어디…충북 전시·체험행사 풍성",
@@ -318,7 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4
         }
       ]
     }
