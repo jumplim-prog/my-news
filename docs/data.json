@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-21T09:07:21.241Z",
+  "builtAt": "2026-09-21T21:06:30.174Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 325,
+      "poolSize": 329,
       "items": [
+        {
+          "title": "“미·일 금리 더 간다 … 포트폴리오 재구성할 때”",
+          "link": "https://www.mk.co.kr/news/economy/12158584",
+          "summary": "‘환율 너머의 경제’ 저자 백석현 신한은행 S&T센터 이코노미스트최근 두 달 새 원화 가치가 급격한 강세를 보이고 있다. 지난 7월 한때 달러당 1550원까지 떨어졌던 원화값은 두..",
+          "publishedAt": "2026-09-21T19:30:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/21/news-p.v1.20260904.69fcfcf1ecf74db8b4951fe8dc7efcb7_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "브렌트유 100달러 아래로…美채권과 주식 일제 상승",
+          "link": "https://www.hankyung.com/article/202609229353i",
+          "summary": "",
+          "publishedAt": "2026-09-21T15:12:51.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "원/달러 환율, 8거래일 만에 하락…2.3원 내린 1,381.0원",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764235",
@@ -25,59 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12158535",
+          "title": "굴스비 \"AI 투자가 총생산 증가 시킬 경우 금리 인상 필요\"",
+          "link": "https://www.hankyung.com/article/202609219320i",
           "summary": "",
-          "publishedAt": "2026-09-21T08:48:32.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/22/20260922_01110113000007_L00.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "publishedAt": "2026-09-21T14:14:59.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.5
+          "score": 4.4
         },
         {
-          "title": "정기예금 금리 0.1%P 인상 … KB국민銀, 1주만에 또 올려",
-          "link": "https://www.mk.co.kr/news/economy/12158532",
-          "summary": "KB국민은행이 대표 정기예금 금리를 일주일 만에 다시 올렸다. 시장금리 상승에 맞춰 시중은행들이 예금 금리를 연 3%대 중반 수준으로 맞추며 수신 경쟁에 나서는 모습이다. 국민은행..",
-          "publishedAt": "2026-09-21T08:48:31.000Z",
+          "title": "암호화폐 겨울 끝났나…비트코인 美서 8만5000달러 회복",
+          "link": "https://www.hankyung.com/article/202609219260i",
+          "summary": "",
+          "publishedAt": "2026-09-21T11:57:02.000Z",
           "image": "",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.5
-        },
-        {
-          "title": "기업銀 가계대출 금리 인하 … 주담대·전세대출 0.5%P ↓",
-          "link": "https://www.mk.co.kr/news/economy/12158531",
-          "summary": "IBK기업은행이 금리 감면권을 확대해 가계대출 금리를 낮춘다. 21일 기업은행은 22일부터 신규 대면 주택담보대출과 전세자금대출에 대한 금리 감면권을 확대한다고 밝혔다. 대면 주담..",
-          "publishedAt": "2026-09-21T08:48:30.000Z",
-          "image": "",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "반도체가 수출 절반 … 무역흑자 230억달러 '역대 최대'",
-          "link": "https://www.mk.co.kr/news/economy/12158521",
-          "summary": "이달 들어 수출이 700억달러를 돌파하며 역대 최대치를 새로 썼다. 반도체 수출이 260% 가까이 증가하며 전체에서 차지하는 비중도 48%에 육박했다. 21일 관세청이 발표한 '9..",
-          "publishedAt": "2026-09-21T08:45:26.000Z",
-          "image": "",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.5
+          "score": 4.3
         }
       ]
     },
@@ -92,20 +92,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 202,
+      "poolSize": 151,
       "items": [
         {
-          "title": "“‘무아(無我)’와 ‘일심(一心)’은 하나로 회통”",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505393",
-          "summary": "몸, 감정, 생각은 인연 따라 모였다 흩어질 뿐 붙잡을 만한 ‘나’는 어디에도 없다. 그렇다면 자아가 없는데 죽음 이후 무엇이 다음 생으로 건너가며, 번뇌를 벗어나 해탈을 이루는 주체는 누구인가. 무아(無我)를 말하는 초기불교와 일심(一心)을 말하는 대승불교는 서로 어긋나는 가르침일까, 아니면 하나의 진실을 가르치는 두 개의 언어일까.불교를 접한 이들이라면…",
-          "publishedAt": "2026-09-18T10:43:59.000Z",
+          "title": "\"계곡 물소리가 곧 노스님 법문\" 고봉당 태수 대선사 열반 58주기 다례재 봉행",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4108021",
+          "summary": "근현대 한국불교를 대표하는 대강백인 고봉당 태수 대선사의 열반 58주기 추모 다례재가 오늘(21일) 경북 김천 청암사 경내 부도전에서 봉행됐습니다.이날 다례재에는 대강백 덕민 대종사를 비롯해 쌍계사 회주 영담 대종사, 쌍계사 승가대학장 대각스님, 관악산 관음사 주지 영송스님, 청암사 율학승가대학원장 지형스님, 청암사 주지 상덕스님 등 대덕 스님들이 참석해…",
+          "publishedAt": "2026-09-21T21:44:32.000Z",
           "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
           "candidates": [
             "buddhism"
           ],
-          "score": 6
+          "score": 4.5
         },
         {
           "title": "한국선학회 10월22일 ‘선불교와 윤리’ 추계학술대회",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "사사키 시즈카 교수 \"제법무아로 마주해야 할 AI 시대\"",
@@ -131,33 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
-        },
-        {
-          "title": "7. ‘나무아미타불’의 인연 ⑦",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337881",
-          "summary": "“사람마다 본성에 맞추어, 경계에 따라, 어느 길이든 선택하면 된다. 문제는, 자신이 선택한 그 길에 전념할 것인가 여부다. 어느 길이든 철저하면 자력과 타력의 구분이 사라질 것이다. 자력은 자력이면서 자력이 아니게 되고, 타력은 타력 그대로 타력이 아니게 된다.”(야나기 무네요시, ‘나무아미타불’)“교수님, ‘타력’이라는 책 읽어보셨습니까?”지난여름 ‘정…",
-          "publishedAt": "2026-09-18T12:25:12.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.1
-        },
-        {
-          "title": "[법인 스님의 문자 반야] 57. 불구부정(不垢不淨)",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505389",
-          "summary": "인간 세상을 가만히 들여다보면 의문이 든다. 한편에서는 잔혹한 전쟁이 벌어지고, 다른 한편에서는 재난 현장에서 타인을 구하기 위해 목숨까지 내놓는 이들이 있다. 이토록 상반된 모습이 모두 인간에게서 나온다. 그렇다면 인간은 본래 선한 존재인가, 악한 존재인가?인류의 역사에서 수많은 철학자와 종교가들은 이 질문에 답하기 위해 인간을 ‘죄인(원죄론)’, ‘운명…",
-          "publishedAt": "2026-09-18T10:28:59.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3
+          "score": 3.8
         }
       ]
     },
@@ -182,19 +156,6 @@
           "image": "",
           "sourceName": "Stanford Encyclopedia",
           "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "Sir Anthony Kenny obituary",
-          "link": "https://www.theguardian.com/books/2026/aug/31/sir-anthony-kenny-obituary",
-          "summary": "<p>Historian of philosophy and former Roman Catholic priest who wrote and lectured on figures from Aristotle to Wittgenstein with verve and lucidity</p><p>The historian of philosophy Anthony Kenny, wh…",
-          "publishedAt": "2026-08-31T16:56:21.000Z",
-          "image": "https://i.guim.co.uk/img/media/21788e17835de4e2c1f188b9494d4ceae76c7a53/0_522_3109_2487/master/3109.jpg?width=140&quality=85&auto=format&fit=max&s=22a4d94bc0b157518e9637feb2272537",
-          "sourceName": "The Guardian",
-          "sourceId": "guardian-philosophy",
           "candidates": [
             "philosophy"
           ],
@@ -227,17 +188,30 @@
           "score": 3.5
         },
         {
-          "title": "동국대, 홍영표 행정대학원 석좌교수 임용",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210624",
-          "summary": "동국대에서 철학과 학사와 행정대학원 석사 학위를 취득하고, 행정대학원 박사과정을 수료한 홍영표 석좌교수는 2004년 국무총리실 시민사회비서관을 시작으로 제18대부터 제21대까지 국회의원으로 활동했다. 더불어민주당 원내대표(2018년) 등 다양한 공직을 역임한 이력이 있다. 홍영표 석좌교수는 동국대 행정대학원에서 석좌교수로 임용되며, 2026년 9월 15일부…",
-          "publishedAt": "2026-09-21T15:10:06.000Z",
+          "title": "Impartiality",
+          "link": "https://plato.stanford.edu/entries/impartiality/",
+          "summary": "[Revised entry by Troy Jollimore on September 17, 2026. Changes to: Main text, Bibliography] Impartiality is sometimes treated by philosophers as if it were equivalent to moral impartiality. Or, at th…",
+          "publishedAt": "2026-09-18T04:10:01.000Z",
           "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
           "candidates": [
             "philosophy"
           ],
-          "score": 3.1
+          "score": 3
+        },
+        {
+          "title": "Metaepistemology",
+          "link": "https://plato.stanford.edu/entries/metaepistemology/",
+          "summary": "[Revised entry by J. Adam Carter and Ernest Sosa on September 17, 2026. Changes to: Main text, Bibliography] Whereas epistemology is (broadly speaking) the philosophical theory of knowledge, its natur…",
+          "publishedAt": "2026-09-17T10:26:40.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 3
         }
       ]
     },
@@ -252,7 +226,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 180,
+      "poolSize": 182,
       "items": [
         {
           "title": "‘인왕제색도’ 런던 간다…이건희 기증품 순회전 마지막 무대",
@@ -265,7 +239,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
+          "score": 5.6
         },
         {
           "title": "경기도, 안중근평화센터 개소…'매입 논란' 유묵 영인본 전시",
@@ -278,7 +252,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "\"드라마 속 장면이 눈앞에\"…관광공사, 체험 전시관 운영(종합)",
@@ -291,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "동해안 다섯 지역과 어우러진 울릉의 역사…'울릉도도' 첫 전시",
@@ -304,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.1
         },
         {
           "title": "호암미술관서 서로 다른 주파수로 공명하는 아시아 예술",
@@ -317,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.1
         }
       ]
     }
