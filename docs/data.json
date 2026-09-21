@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-21T03:06:47.739Z",
+  "builtAt": "2026-09-21T09:07:21.241Z",
   "cards": [
     {
       "id": "econ",
@@ -12,68 +12,68 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 340,
+      "poolSize": 325,
       "items": [
         {
-          "title": "\"연준 기준금리 5% 이상으로 올릴수 있어\"…BofA 경고",
-          "link": "https://www.yna.co.kr/view/AKR20260921053700009",
-          "summary": "(서울=연합뉴스) 주종국 기자 = 미국 연방준비제도(Fed·연준)가 기준금리를 5% 이상으로 올릴 위험에 대비해야 한다고 뱅크오브아메리카(Bof...",
-          "publishedAt": "2026-09-21T01:17:33.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/21/AKR20260921053700009_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "원/달러 환율, 8거래일 만에 하락…2.3원 내린 1,381.0원",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764235",
+          "summary": "▲ 달러오늘 원 달러 환율이 8거래일 만에 하락했습니다.미국의 통화 긴축 기조와 중동 리스크가 환율 상승 요인으로 작용했지만, 일본 …",
+          "publishedAt": "2026-09-21T07:59:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260912/202221667_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
           "score": 7.5
         },
         {
-          "title": "하나은행, '1억달러 규모' 당일결제 디지털채권 발행",
-          "link": "https://www.yna.co.kr/view/AKR20260921027800002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 하나은행은 유로클리어의 블록체인 기반 플랫폼 D-FMI를 활용해 1억달러 규모의 5년 만기 외화 디지털채권을 ...",
-          "publishedAt": "2026-09-21T00:11:04.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/21/AKR20260921027800002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "갈수록 커지는 한·미 금리 동조화…‘글로벌 물가 충격’이 주요인",
-          "link": "https://www.hani.co.kr/arti/economy/economy_general/1278651.html",
+          "title": "[표] 외국환율고시표",
+          "link": "https://www.mk.co.kr/news/economy/12158535",
           "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레",
-          "sourceId": "hani-economy",
+          "publishedAt": "2026-09-21T08:48:32.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/22/20260922_01110113000007_L00.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6.5
+          "score": 4.5
         },
         {
-          "title": "인플레 시대, 결국 돈은 어디로 갈까…이제부터 '돈의 이동'이 빨라지는 이유 [스프]",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008760720",
-          "summary": "성장에는 힘이 필요합니다. 흔들리지 않을 힘, 더 높이 뻗어나갈 힘. 들을수록 똑똑해지는 지식뉴스 \"교양이를 부탁해\"는 최고의 스프 컨트리뷰터들과 함께 성장하는 교양인이 되는 힘을 채워드립니다.신환종 컨트리뷰터한국투자증권 고문전 NH투자증권 FICC리서치센터장<인플레이션은 누구를 부자로 만드는가> 저자연준이 9월에 금리를 올렸잖아요.",
-          "publishedAt": "2026-09-21T00:00:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260918/202223822_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
+          "title": "정기예금 금리 0.1%P 인상 … KB국민銀, 1주만에 또 올려",
+          "link": "https://www.mk.co.kr/news/economy/12158532",
+          "summary": "KB국민은행이 대표 정기예금 금리를 일주일 만에 다시 올렸다. 시장금리 상승에 맞춰 시중은행들이 예금 금리를 연 3%대 중반 수준으로 맞추며 수신 경쟁에 나서는 모습이다. 국민은행..",
+          "publishedAt": "2026-09-21T08:48:31.000Z",
+          "image": "",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5.9
+          "score": 4.5
         },
         {
-          "title": "국고채 금리 대체로 상승…3년물 장중 연 4.048%",
-          "link": "https://www.yna.co.kr/view/AKR20260921088800008",
-          "summary": "(서울=연합뉴스) 21일 국고채 금리가 대체로 상승하고 있다.",
-          "publishedAt": "2026-09-21T02:52:02.000Z",
+          "title": "기업銀 가계대출 금리 인하 … 주담대·전세대출 0.5%P ↓",
+          "link": "https://www.mk.co.kr/news/economy/12158531",
+          "summary": "IBK기업은행이 금리 감면권을 확대해 가계대출 금리를 낮춘다. 21일 기업은행은 22일부터 신규 대면 주택담보대출과 전세자금대출에 대한 금리 감면권을 확대한다고 밝혔다. 대면 주담..",
+          "publishedAt": "2026-09-21T08:48:30.000Z",
           "image": "",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "반도체가 수출 절반 … 무역흑자 230억달러 '역대 최대'",
+          "link": "https://www.mk.co.kr/news/economy/12158521",
+          "summary": "이달 들어 수출이 700억달러를 돌파하며 역대 최대치를 새로 썼다. 반도체 수출이 260% 가까이 증가하며 전체에서 차지하는 비중도 48%에 육박했다. 21일 관세청이 발표한 '9..",
+          "publishedAt": "2026-09-21T08:45:26.000Z",
+          "image": "",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 187,
+      "poolSize": 202,
       "items": [
         {
           "title": "“‘무아(無我)’와 ‘일심(一心)’은 하나로 회통”",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 6.2
+          "score": 6
         },
         {
           "title": "한국선학회 10월22일 ‘선불교와 윤리’ 추계학술대회",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "사사키 시즈카 교수 \"제법무아로 마주해야 할 AI 시대\"",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.1
+          "score": 4
         },
         {
           "title": "7. ‘나무아미타불’의 인연 ⑦",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3.1
         },
         {
           "title": "[법인 스님의 문자 반야] 57. 불구부정(不垢不淨)",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3
         }
       ]
     },
@@ -174,19 +174,6 @@
       "scoredBy": "keyword",
       "poolSize": 134,
       "items": [
-        {
-          "title": "유영모·김재준·이이효재",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210445",
-          "summary": "창비 60주년을 앞두고 한국사상의 거목 59인의 사유와 철학에서 우리 앞에 닥친 거대한 질문의 답을 찾아보려는 특별기획 ‘창비 한국사상선’이 대장정을 마치고 드디어 완간된다. 민중과 해방의 현대사상가들인 유영모·김재준·이이효재의 정수가 이번 신간에 담겼다.한국의 독창적 기독교 사상가이자 종교철학자인 유영모는 기독교를 바탕으로 동양사상과 한국적 영성을 결합했…",
-          "publishedAt": "2026-09-19T10:39:18.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 5.2
-        },
         {
           "title": "Ludwig Wittgenstein",
           "link": "https://plato.stanford.edu/entries/wittgenstein/",
@@ -214,17 +201,17 @@
           "score": 4.5
         },
         {
-          "title": "정약용",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210451",
-          "summary": "실학을 정치·행정·경제·과학기술의 현실 개혁으로 확장한 조선 후기 대표적 종합 실학자 정약용을 창비 한국사상선에서 만나본다. 정약용은 조선 후기의 대표적인 실학자·개혁사상가·정치가·철학자·공학자로, 이익의 학문에 영향을 받아 실학을 발전시켰다.특히 정조 때 관료로 활동하면서 수원 화성 축조에 서양식 축성법과 기중기 기술을 활용했다. 또한 암행어사로 지방 행…",
-          "publishedAt": "2026-09-19T10:06:10.000Z",
+          "title": "박재순 전 씨알사상연구소장 별세…함석헌·류영모 사상 연구 매진",
+          "link": "https://www.hani.co.kr/arti/culture/religion/1278846.html",
+          "summary": "",
+          "publishedAt": null,
           "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
+          "sourceName": "한겨레 문화",
+          "sourceId": "hani-culture",
           "candidates": [
             "philosophy"
           ],
-          "score": 3.6
+          "score": 3.5
         },
         {
           "title": "창비 60년…지구적 위기의 시대, 한국서 발신된 사상의 등불 [.txt]",
@@ -238,6 +225,19 @@
             "philosophy"
           ],
           "score": 3.5
+        },
+        {
+          "title": "동국대, 홍영표 행정대학원 석좌교수 임용",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210624",
+          "summary": "동국대에서 철학과 학사와 행정대학원 석사 학위를 취득하고, 행정대학원 박사과정을 수료한 홍영표 석좌교수는 2004년 국무총리실 시민사회비서관을 시작으로 제18대부터 제21대까지 국회의원으로 활동했다. 더불어민주당 원내대표(2018년) 등 다양한 공직을 역임한 이력이 있다. 홍영표 석좌교수는 동국대 행정대학원에서 석좌교수로 임용되며, 2026년 9월 15일부…",
+          "publishedAt": "2026-09-21T15:10:06.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 3.1
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 177,
+      "poolSize": 180,
       "items": [
         {
           "title": "‘인왕제색도’ 런던 간다…이건희 기증품 순회전 마지막 무대",
@@ -265,7 +265,46 @@
           "candidates": [
             "art"
           ],
-          "score": 6
+          "score": 5.8
+        },
+        {
+          "title": "경기도, 안중근평화센터 개소…'매입 논란' 유묵 영인본 전시",
+          "link": "https://www.yna.co.kr/view/AKR20260921153200061",
+          "summary": "(수원=연합뉴스) 최찬흥 기자 = 경기도가 파주에 '안중근평화센터'를 개소한 가운데 일본인 소장자로부터의 매입 과정에 논란이 일었던 안중근 의사...",
+          "publishedAt": "2026-09-21T08:02:52.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/21/AKR20260921153200061_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "\"드라마 속 장면이 눈앞에\"…관광공사, 체험 전시관 운영(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20260921022851030",
+          "summary": "(서울=연합뉴스) 이상서 기자 = 한국관광공사는 스튜디오드래곤과 함께 오는 11월 19일까지 서울 중구 하이커그라운드에서 'K-드라마 체험 전시...",
+          "publishedAt": "2026-09-21T06:38:39.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/21/PYH2026092118130001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "동해안 다섯 지역과 어우러진 울릉의 역사…'울릉도도' 첫 전시",
+          "link": "https://www.yna.co.kr/view/AKR20260921025600005",
+          "summary": "(서울=연합뉴스) 김예나 기자 = 지도를 꽉 채운 섬 위로 '자영동망견삼봉'(自嶺東望見三峯)이라는 문구가 적혀 있다.",
+          "publishedAt": "2026-09-21T03:00:11.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/21/PYH2026092111850001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "호암미술관서 서로 다른 주파수로 공명하는 아시아 예술",
@@ -273,46 +312,6 @@
           "summary": "(서울=연합뉴스) 박의래 기자 = 서로 다른 주파수에 맞춰진 라디오들이 한 방에서 동시에 울린다면 어떤 풍경이 만들어질까.",
           "publishedAt": "2026-09-21T02:22:32.000Z",
           "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/21/AKR20260921052900005_05_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "부채로 만나는 한글의 아름다움…영인문학관 내달 기획전시",
-          "link": "https://www.yna.co.kr/view/AKR20260921065700005",
-          "summary": "(서울=연합뉴스) 김기훈 기자 = 서울 종로구 평창동에 있는 영인문학관은 한글날 제정 100돌을 맞아 10월 1일부터 31일까지 '한글서화 부채...",
-          "publishedAt": "2026-09-21T01:37:08.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/21/AKR20260921065700005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "[전남광주소식] 광주은행, 광주국제아트페어 1천만원 후원",
-          "link": "https://www.yna.co.kr/view/AKR20260921064500054",
-          "summary": "(전남광주=연합뉴스) 광주은행은 광주국제아트페어의 성공적인 개최를 위해 후원금 1천만원을 전달했다고 21일 밝혔다.",
-          "publishedAt": "2026-09-21T01:36:12.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/21/AKR20260921064500054_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ",
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "'영화·전시·체험 한자리'…울주세계산악영화제 감동 이어져",
-          "link": "https://www.yna.co.kr/view/AKR20260921033700057",
-          "summary": "(울산=연합뉴스) 장영은 기자 = 울산울주세계산악영화제는 올해 제11회 영화제 개막 이후 다채로운 시도와 풍부한 프로그램으로 관객들 발길을 끌어...",
-          "publishedAt": "2026-09-21T00:23:11.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/18/PYH2026091824350005700_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
