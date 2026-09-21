@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-20T21:06:35.618Z",
+  "builtAt": "2026-09-21T03:06:47.739Z",
   "cards": [
     {
       "id": "econ",
@@ -12,46 +12,33 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 339,
+      "poolSize": 340,
       "items": [
         {
-          "title": "유가 완화돼도 채권시장 단기금리 상승 부담 여전",
-          "link": "https://www.yna.co.kr/view/AKR20260919022200008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 국제유가가 공급 차질 우려 완화에 반락했지만, 국내 채권시장의 단기금리 상승 부담은 오히려 커지고 있다.",
-          "publishedAt": "2026-09-19T21:30:01.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/19/AKR20260919022200008_01_i_P2.jpg",
+          "title": "\"연준 기준금리 5% 이상으로 올릴수 있어\"…BofA 경고",
+          "link": "https://www.yna.co.kr/view/AKR20260921053700009",
+          "summary": "(서울=연합뉴스) 주종국 기자 = 미국 연방준비제도(Fed·연준)가 기준금리를 5% 이상으로 올릴 위험에 대비해야 한다고 뱅크오브아메리카(Bof...",
+          "publishedAt": "2026-09-21T01:17:33.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/21/AKR20260921053700009_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7
+          "score": 7.5
         },
         {
-          "title": "미국 국채금리 급등에 대미투자 '상업적 합리성' 막판 변수",
-          "link": "https://www.yna.co.kr/view/AKR20260919051000003",
-          "summary": "(서울=연합뉴스) 신창용 기자 = 한국과 미국이 이르면 다음 주 초 대미 투자 1호 사업을 발표하기 위해 막바지 조율을 이어가는 가운데 발표를 ...",
-          "publishedAt": "2026-09-19T20:57:01.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/19/AKR20260919051000003_01_i_P2.jpg",
+          "title": "하나은행, '1억달러 규모' 당일결제 디지털채권 발행",
+          "link": "https://www.yna.co.kr/view/AKR20260921027800002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 하나은행은 유로클리어의 블록체인 기반 플랫폼 D-FMI를 활용해 1억달러 규모의 5년 만기 외화 디지털채권을 ...",
+          "publishedAt": "2026-09-21T00:11:04.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/21/AKR20260921027800002_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7
-        },
-        {
-          "title": "일본 금리 올렸는데 엔화는 급락…당국 ‘레이트 체크’로 개입 경고",
-          "link": "https://www.khan.co.kr/article/202609192012001/",
-          "summary": "연합뉴스 제공일본은행의 기준금리 인상 직후 외환시장에서 엔화 가치가 하락하자 일본은행이 ‘레이트 체크’(rate check)가 있었던 것으로 관측된다고 니혼게이자이신문(닛케이) 등이 19일 보도했다.보도에 따르면 일본 시간으로 전날 밤부터 이날 새벽에 걸쳐 외환 시장에서 엔화 가치가 급등하면서 달러당 엔화 환율은 1엔 이상 하락했다.전날 일본은행이 금융정책…",
-          "publishedAt": "2026-09-19T11:12:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.8
+          "score": 7.4
         },
         {
           "title": "갈수록 커지는 한·미 금리 동조화…‘글로벌 물가 충격’이 주요인",
@@ -67,17 +54,30 @@
           "score": 6.5
         },
         {
-          "title": "한은 \"한미 장기금리 동조화, 글로벌 인플레 충격 영향\"",
-          "link": "https://www.yna.co.kr/view/AKR20260919018900002",
-          "summary": "(서울=연합뉴스) 한지훈 기자 = 한국과 미국의 장기금리가 같은 방향으로 움직이는 동조화 현상은 양국이 세계적인 인플레이션 등 대외 충격을 함께...",
-          "publishedAt": "2026-09-20T03:00:07.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/18/PYH2026091817650001300_P2.jpg",
+          "title": "인플레 시대, 결국 돈은 어디로 갈까…이제부터 '돈의 이동'이 빨라지는 이유 [스프]",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008760720",
+          "summary": "성장에는 힘이 필요합니다. 흔들리지 않을 힘, 더 높이 뻗어나갈 힘. 들을수록 똑똑해지는 지식뉴스 \"교양이를 부탁해\"는 최고의 스프 컨트리뷰터들과 함께 성장하는 교양인이 되는 힘을 채워드립니다.신환종 컨트리뷰터한국투자증권 고문전 NH투자증권 FICC리서치센터장<인플레이션은 누구를 부자로 만드는가> 저자연준이 9월에 금리를 올렸잖아요.",
+          "publishedAt": "2026-09-21T00:00:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260918/202223822_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.9
+        },
+        {
+          "title": "국고채 금리 대체로 상승…3년물 장중 연 4.048%",
+          "link": "https://www.yna.co.kr/view/AKR20260921088800008",
+          "summary": "(서울=연합뉴스) 21일 국고채 금리가 대체로 상승하고 있다.",
+          "publishedAt": "2026-09-21T02:52:02.000Z",
+          "image": "",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5.6
+          "score": 4.5
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 161,
+      "poolSize": 187,
       "items": [
         {
           "title": "“‘무아(無我)’와 ‘일심(一心)’은 하나로 회통”",
@@ -105,7 +105,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 6.3
+          "score": 6.2
+        },
+        {
+          "title": "한국선학회 10월22일 ‘선불교와 윤리’ 추계학술대회",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442492",
+          "summary": "한국선학회가 선불교의 수행과 깨달음이 현대사회에서 어떤 윤리적 의미를 갖는지 살펴본다.한국선학회(회장 향산스님, 중앙승가대 교수)는 10월 22일 오후 1시 한국불교역사문화기념관 2층 국제회의장에서 ‘선불교와 윤리-본각사상과 관련하여’라는 주제로 추계학술대회를 개최한다. 한국선학회가 주관하는 이번 학술대회의 주최는 남원 실상사와 고려대장경연구소이다.이번 학…",
+          "publishedAt": "2026-09-21T11:16:47.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
         },
         {
           "title": "사사키 시즈카 교수 \"제법무아로 마주해야 할 AI 시대\"",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "7. ‘나무아미타불’의 인연 ⑦",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.3
+          "score": 3.2
         },
         {
           "title": "[법인 스님의 문자 반야] 57. 불구부정(不垢不淨)",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.3
-        },
-        {
-          "title": "[반야 참회로 여는 수행의 첫걸음] 18. 자신을 지키지 못함 참회 관련 경전 해석의 오류",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505388",
-          "summary": "흔히 보면 불자들이 경전의 가르침을 자기 임의대로 해석하거나 소극적으로 해석해 현실에서 자신을 지키지 못하고 피해를 보거나 고통을 겪는 경우가 종종 있다. 그래서 경전 해석과 관련해 보충 설명을 좀 하고자 한다. 자신을 지키는 일과 관련해서는 성냄의 문제가 우선적으로 중요하기 때문에 먼저 언급하겠다.화내지 말라는 데 대한 문제불교를 믿는 사람은 절대로 화를…",
-          "publishedAt": "2026-09-18T10:23:07.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.3
+          "score": 3.2
         }
       ]
     },
@@ -185,20 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.3
-        },
-        {
-          "title": "소크라테스가 만난 신, 니체가 떠나보낸 신...삶의 의미를 잃다",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210548",
-          "summary": "[저자가 말하다_『철학자의 신』]",
-          "publishedAt": "2026-09-18T09:48:46.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.8
+          "score": 5.2
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -211,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.6
+          "score": 4.5
         },
         {
           "title": "Sir Anthony Kenny obituary",
@@ -237,7 +224,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.8
+          "score": 3.6
+        },
+        {
+          "title": "창비 60년…지구적 위기의 시대, 한국서 발신된 사상의 등불 [.txt]",
+          "link": "https://www.hani.co.kr/arti/culture/religion/1278419.html",
+          "summary": "",
+          "publishedAt": null,
+          "image": "",
+          "sourceName": "한겨레 문화",
+          "sourceId": "hani-culture",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 3.5
         }
       ]
     },
@@ -252,72 +252,73 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 176,
+      "poolSize": 177,
       "items": [
         {
-          "title": "창원 관광·전시시설, 추석 연휴 체험 프로그램 다채",
-          "link": "https://www.yna.co.kr/view/AKR20260917162300052",
-          "summary": "(창원=연합뉴스) 김선경 기자 = 경남 창원시내 주요 관광·전시시설들이 추석 연휴 귀성객들을 위한 다채로운 프로그램을 선보인다.",
-          "publishedAt": "2026-09-20T00:05:00.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2019/09/17/72/PCM20190917000072990_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "‘인왕제색도’ 런던 간다…이건희 기증품 순회전 마지막 무대",
+          "link": "https://www.khan.co.kr/article/202609211018001/",
+          "summary": "한국: 2000년 창의의 여정‘ 전시 포스터. 지난해 애니메이션 <케이팝 데몬 헌터스>에 등장한 ‘일월오악도’가 전시 포스터를 장식하고, ‘까치와 호랑이’도 출품된다. 국립중앙박물관 제공국립중앙박물관·국립현대미술관이 오는 10월1일부터 영국 런던 영국박물관에서 고 이건희 회장 기증품 국외순회전 ‘한국: 2000년 창의의 여정 Korea: 2,···",
+          "publishedAt": "2026-09-21T01:18:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 6
         },
         {
-          "title": "280억 들인 안동 임청각 복원…역사문화공유관 전시 곳곳 오류",
-          "link": "https://www.yna.co.kr/view/AKR20260918156000053",
-          "summary": "(안동=연합뉴스) 김선형 기자 = 대한민국 임시정부 초대 국무령 석주 이상룡 선생의 삶과 독립운동 정신을 기리기 위해 조성된 경북 안동 임청각 ...",
-          "publishedAt": "2026-09-19T23:01:01.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/18/AKR20260918156000053_02_i_P2.jpg",
+          "title": "호암미술관서 서로 다른 주파수로 공명하는 아시아 예술",
+          "link": "https://www.yna.co.kr/view/AKR20260921052900005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 서로 다른 주파수에 맞춰진 라디오들이 한 방에서 동시에 울린다면 어떤 풍경이 만들어질까.",
+          "publishedAt": "2026-09-21T02:22:32.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/21/AKR20260921052900005_05_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 4.5
         },
         {
-          "title": "도자예술에 빠져보세요…'경기도자비엔날레' 45일간 대장정",
-          "link": "https://www.yna.co.kr/view/AKR20260918160400061",
-          "summary": "(수원=연합뉴스) 최찬흥 기자 = 국내 유일의 도자예술 분야 격년제 국제미술행사인 '경기도자비엔날레'가 지난 18일 막을 올렸다.",
-          "publishedAt": "2026-09-19T22:01:03.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/18/AKR20260918160400061_01_i_P2.jpg",
+          "title": "부채로 만나는 한글의 아름다움…영인문학관 내달 기획전시",
+          "link": "https://www.yna.co.kr/view/AKR20260921065700005",
+          "summary": "(서울=연합뉴스) 김기훈 기자 = 서울 종로구 평창동에 있는 영인문학관은 한글날 제정 100돌을 맞아 10월 1일부터 31일까지 '한글서화 부채...",
+          "publishedAt": "2026-09-21T01:37:08.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/21/AKR20260921065700005_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 4.5
         },
         {
-          "title": "추석 연휴 제주 곳곳 즐길거리…빛 축제·민속놀이·미술관 행사",
-          "link": "https://www.yna.co.kr/view/AKR20260918072500056",
-          "summary": "(제주=연합뉴스) 변지철 기자 = 추석 연휴를 맞아 제주 곳곳에서 온 가족이 함께 즐길 수 있는 빛 축제와 민속놀이, 미술관 행사 등이 다채롭게...",
-          "publishedAt": "2026-09-19T22:00:08.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/18/AKR20260918072500056_01_i_P2.jpg",
+          "title": "[전남광주소식] 광주은행, 광주국제아트페어 1천만원 후원",
+          "link": "https://www.yna.co.kr/view/AKR20260921064500054",
+          "summary": "(전남광주=연합뉴스) 광주은행은 광주국제아트페어의 성공적인 개최를 위해 후원금 1천만원을 전달했다고 21일 밝혔다.",
+          "publishedAt": "2026-09-21T01:36:12.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/21/AKR20260921064500054_01_i_P2.jpg",
           "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "sourceId": "yna-economy",
           "candidates": [
+            "econ",
             "art"
           ],
-          "score": 4
+          "score": 4.5
         },
         {
-          "title": "추석연휴 놀러 갈 곳 어디…충북 전시·체험행사 풍성",
-          "link": "https://www.yna.co.kr/view/AKR20260918114600064",
-          "summary": "(청주=연합뉴스) 김형우 기자 = 추석 연휴 충북 곳곳에서 다채로운 전시·공연 행사가 열린다.",
-          "publishedAt": "2026-09-19T22:00:07.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/18/AKR20260918114600064_02_i_P2.jpg",
+          "title": "'영화·전시·체험 한자리'…울주세계산악영화제 감동 이어져",
+          "link": "https://www.yna.co.kr/view/AKR20260921033700057",
+          "summary": "(울산=연합뉴스) 장영은 기자 = 울산울주세계산악영화제는 올해 제11회 영화제 개막 이후 다채로운 시도와 풍부한 프로그램으로 관객들 발길을 끌어...",
+          "publishedAt": "2026-09-21T00:23:11.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/18/PYH2026091824350005700_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 4.4
         }
       ]
     }
