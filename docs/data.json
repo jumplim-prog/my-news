@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-22T09:06:52.142Z",
+  "builtAt": "2026-09-22T21:06:28.352Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 336,
+      "poolSize": 338,
       "items": [
         {
           "title": "환율 이틀 연속 급락해 1,350원대로…달러매도·중동대화 기대",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "[외환] 원/달러 환율 22.8원 내린 1,358.2원(15:30 기준가)",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "\"국내 증시 개인자금 이탈 빨라져…수급의 키는 외국인\"",
@@ -51,20 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
-        },
-        {
-          "title": "“미·일 금리 더 간다 … 포트폴리오 재구성할 때”",
-          "link": "https://www.mk.co.kr/news/economy/12158584",
-          "summary": "‘환율 너머의 경제’ 저자 백석현 신한은행 S&T센터 이코노미스트최근 두 달 새 원화 가치가 급격한 강세를 보이고 있다. 지난 7월 한때 달러당 1550원까지 떨어졌던 원화값은 두..",
-          "publishedAt": "2026-09-21T19:30:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/21/news-p.v1.20260904.69fcfcf1ecf74db8b4951fe8dc7efcb7_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.2
+          "score": 7.1
         },
         {
           "title": "미 국채 금리 5% 뒤편에 ‘헤지펀드’…미 국채 안정성 프리미엄 소멸",
@@ -78,6 +65,19 @@
             "econ"
           ],
           "score": 6.5
+        },
+        {
+          "title": "“미·일 금리 더 간다…포트폴리오 재구성할 때” [딥 머니 토크]",
+          "link": "https://www.mk.co.kr/news/world/12159721",
+          "summary": "백석현 신한은행 이코노미스트 인터뷰최근 두 달 새 원화 가치가 급격한 강세를 보이고 있다. 지난 7월 한때 달러당 1550원까지 떨어졌던 원화값은 두 달여 만에 15% 가까이 뛰며..",
+          "publishedAt": "2026-09-22T09:27:17.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260904.69fcfcf1ecf74db8b4951fe8dc7efcb7_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.8
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 168,
+      "poolSize": 163,
       "items": [
         {
           "title": "선불교의 깨달음, 윤리적 실천과 어떻게 만나는가",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "한국선학회 10월22일 ‘선불교와 윤리’ 추계학술대회",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.8
         }
       ]
     },
@@ -146,20 +146,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6
+          "score": 5.8
         },
         {
-          "title": "“K-문화 세계화하려면 전문성 키워야”…79개 학술단체, 교육부 3개 연구기관 ‘통폐합 철회’ 촉구",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210680",
-          "summary": "교육부 산하의 한국학중앙연구원·한국고전번역원·동북아역사재단을 하나로 묶는 통합안에 대해 학계가 “기관 고유의 정체성과 전문성을 말살하는 졸속 개혁”이라며 강력히 반발하고 나섰다.22일 학계에 따르면, 국내외 79개 주요 학술단체는 정부의 통합 계획을 즉각 철회할 것을 요구하는 ‘교육부 소관 연구기관 통합 반대 성명서’ 발표를 추진하고 있다. 반대 성명에는…",
-          "publishedAt": "2026-09-22T17:27:11.000Z",
+          "title": "Aesthetics and Race",
+          "link": "https://plato.stanford.edu/entries/aesthetics-race/",
+          "summary": "[New Entry by Monique Roelofs on September 22, 2026.] Aesthetics and race constitute areas of experience, evaluation, and historical practice that are vitally entangled with one another. This is to be…",
+          "publishedAt": "2026-09-22T23:00:03.000Z",
           "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -175,30 +175,31 @@
           "score": 4.5
         },
         {
-          "title": "황석영·데보라 스미스, 국립세계문자박물관서 ‘번역’을 말하다",
-          "link": "https://www.hani.co.kr/arti/culture/book/1279020.html",
-          "summary": "",
-          "publishedAt": null,
+          "title": "Rowan Williams On Empathy And Ethics",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/rowan-williams-on-empathy-and-ethics.html",
+          "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
+          "publishedAt": "2026-09-22T17:51:33.000Z",
           "image": "",
-          "sourceName": "한겨레 문화",
-          "sourceId": "hani-culture",
+          "sourceName": "3 Quarks Daily",
+          "sourceId": "3quarks",
           "candidates": [
-            "philosophy"
+            "philosophy",
+            "art"
           ],
-          "score": 3.5
+          "score": 4.4
         },
         {
-          "title": "박재순 전 씨알사상연구소장 별세…함석헌·류영모 사상 연구 매진",
-          "link": "https://www.hani.co.kr/arti/culture/religion/1278846.html",
-          "summary": "",
-          "publishedAt": null,
+          "title": "“K-문화 세계화하려면 전문성 키워야”…79개 학술단체, 교육부 3개 연구기관 ‘통폐합 철회’ 촉구",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210680",
+          "summary": "교육부 산하의 한국학중앙연구원·한국고전번역원·동북아역사재단을 하나로 묶는 통합안에 대해 학계가 “기관 고유의 정체성과 전문성을 말살하는 졸속 개혁”이라며 강력히 반발하고 나섰다.22일 학계에 따르면, 국내외 79개 주요 학술단체는 정부의 통합 계획을 즉각 철회할 것을 요구하는 ‘교육부 소관 연구기관 통합 반대 성명서’ 발표를 추진하고 있다. 반대 성명에는…",
+          "publishedAt": "2026-09-22T17:27:11.000Z",
           "image": "",
-          "sourceName": "한겨레 문화",
-          "sourceId": "hani-culture",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 3.5
+          "score": 4.4
         }
       ]
     },
@@ -213,7 +214,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 184,
+      "poolSize": 197,
       "items": [
         {
           "title": "‘인왕제색도’ 런던 간다…이건희 기증품 순회전 마지막 무대",
@@ -226,7 +227,33 @@
           "candidates": [
             "art"
           ],
-          "score": 5.3
+          "score": 5.1
+        },
+        {
+          "title": "여성혐오 웹툰 등 논란 빚던 기안84···한계 도전·친근함 무기 ‘예능 킥’ 됐다",
+          "link": "https://www.khan.co.kr/article/202609230600121/",
+          "summary": "10년 전 ‘독특한 웹툰 작가’ 캐릭터로 예능 입문콩트 도중 흡연 물의 빚기도민박 ‘대환장 기안장2’ 공개 앞둬‘기이한 연애’선 AI에 “하남자” 소리 날 것의 모습 보이며 예능 중심에 서넷플릭스 예능 <대환장 기안장 2> 예고편에서 기안84는 민박 주변에 내린 눈을 먹으라고 권한 뒤 직접 입에 넣는다. 유튜브 캡처“진짜 집을 하늘에 띄웠으면 좋···",
+          "publishedAt": "2026-09-22T21:00:12.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 3
+        },
+        {
+          "title": "[붓 끝의 美학]금박 종이 위 대칭과 조화…농익은 추사",
+          "link": "https://www.khan.co.kr/article/202609222039005/",
+          "summary": "⑭ 김정희 ‘산호가·비취병 행서대련’김정희 ‘산호가·비취병 행서대련’(1856), 종이에 먹, 개인소장. 국립중앙박물관 제공지금 국립중앙박물관 서화실에서는 주제전시 ‘추사 김정희와 그의 동반자’가 열리고 있다. 한국 서예사를 대표하는 명필 추사 김정희(1786~1856)의 작품을 한자리에서 감상할 수 있는 자리다. 전시장 한가운데 관람객의 눈길을 사로잡는·…",
+          "publishedAt": "2026-09-22T11:39:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 2.8
         },
         {
           "title": "울산옹기박물관, 오늘부터 특별기획전 2건 동시 개최",
@@ -239,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 2.9
+          "score": 2.7
         },
         {
           "title": "완도수목원 추석연휴 무료 개방…해양수산과학관 정상 운영",
@@ -252,20 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 2.8
-        },
-        {
-          "title": "[단독]130억 들인 출판유통전산망, 신간 4권 중 3권 외면·베스트셀러 절반 이상 미등록",
-          "link": "https://www.khan.co.kr/article/202609201552001/",
-          "summary": "도서 판매량 집계 위해 만든 출판유통통합전산망개통 5년째인 지난해 신간 등록률 22.85%로 저조지난 6월24일 서울 강남구 삼성동 코엑스에서 열린 2026 서울국제도서전에서 방문객들이 전시장을 둘러보고 있다. 권도현 기자130억원 대의 예산을 들인 출판유통통합전산망이 제 기능을 못하고 있는 것으로 나타났다.국회 문화체육관광위 소속 진선미 더불어민주당 의원…",
-          "publishedAt": "2026-09-20T06:52:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 2
+          "score": 2.6
         }
       ]
     }
