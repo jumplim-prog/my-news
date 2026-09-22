@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-21T21:06:30.174Z",
+  "builtAt": "2026-09-22T03:07:01.770Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 329,
+      "poolSize": 338,
       "items": [
+        {
+          "title": "\"국내 증시 개인자금 이탈 빨라져…수급의 키는 외국인\"",
+          "link": "https://www.yna.co.kr/view/AKR20260922097200008",
+          "summary": "(서울=연합뉴스) 이민영 기자 = 최근 미국 국채금리 상승세가 나타난 가운데 연방준비제도(연준·Fed)의 통화정책보다 미국 정부의 재정적자에 대...",
+          "publishedAt": "2026-09-22T02:58:34.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922097200008_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "“미·일 금리 더 간다 … 포트폴리오 재구성할 때”",
           "link": "https://www.mk.co.kr/news/economy/12158584",
@@ -25,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "브렌트유 100달러 아래로…美채권과 주식 일제 상승",
@@ -38,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.3
         },
         {
           "title": "원/달러 환율, 8거래일 만에 하락…2.3원 내린 1,381.0원",
@@ -51,33 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.1
         },
         {
-          "title": "굴스비 \"AI 투자가 총생산 증가 시킬 경우 금리 인상 필요\"",
-          "link": "https://www.hankyung.com/article/202609219320i",
-          "summary": "",
-          "publishedAt": "2026-09-21T14:14:59.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
+          "title": "한은 \"금리 0.25%p 오르면 가계 3.3조·기업 3.7조 이자부담↑\"",
+          "link": "https://www.yna.co.kr/view/AKR20260922056200002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 한국은행이 최근 기준금리 인상이 가계부채 누증과 수도권 주택가격 상승 등에 따른 금융취약성을 완화하는 데 기여...",
+          "publishedAt": "2026-09-22T02:00:46.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2024/11/19/82/PCM20241119000082990_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.4
-        },
-        {
-          "title": "암호화폐 겨울 끝났나…비트코인 美서 8만5000달러 회복",
-          "link": "https://www.hankyung.com/article/202609219260i",
-          "summary": "",
-          "publishedAt": "2026-09-21T11:57:02.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.3
+          "score": 6
         }
       ]
     },
@@ -92,20 +92,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 151,
+      "poolSize": 161,
       "items": [
         {
-          "title": "\"계곡 물소리가 곧 노스님 법문\" 고봉당 태수 대선사 열반 58주기 다례재 봉행",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4108021",
-          "summary": "근현대 한국불교를 대표하는 대강백인 고봉당 태수 대선사의 열반 58주기 추모 다례재가 오늘(21일) 경북 김천 청암사 경내 부도전에서 봉행됐습니다.이날 다례재에는 대강백 덕민 대종사를 비롯해 쌍계사 회주 영담 대종사, 쌍계사 승가대학장 대각스님, 관악산 관음사 주지 영송스님, 청암사 율학승가대학원장 지형스님, 청암사 주지 상덕스님 등 대덕 스님들이 참석해…",
-          "publishedAt": "2026-09-21T21:44:32.000Z",
+          "title": "선불교의 깨달음, 윤리적 실천과 어떻게 만나는가",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337934",
+          "summary": "한국 선불교의 수행 전통을 되짚고, 깨달음과 윤리적 실천의 관계를 모색하는 자리가 마련된다.한국선학회(회장 향산 스님)는 10월 22일 오후 1시 한국불교역사문화기념관 2층 국제회의장에서 ‘선불교와 윤리-본각사상과 관련하여’를 주제로 2026년 추계학술대회를 개최한다. 실상사와 고려대장경연구소가 주최한다.이번 학술대회는 간화선을 중심으로 이어져 온 한국 선…",
+          "publishedAt": "2026-09-22T10:52:38.000Z",
           "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.7
         },
         {
           "title": "한국선학회 10월22일 ‘선불교와 윤리’ 추계학술대회",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4.2
         },
         {
           "title": "사사키 시즈카 교수 \"제법무아로 마주해야 할 AI 시대\"",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.8
+          "score": 3.6
         }
       ]
     },
@@ -149,6 +149,19 @@
       "poolSize": 134,
       "items": [
         {
+          "title": "에고이스트의 탄생",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210654",
+          "summary": "니체의 초인 대신, 슈티르너의 유일자박홍규 교수가 되살린 ‘잊힌 아나키스트’ 슈티르너“유일자로 살 것인가, 유사자로 머물 것인가”19세기 독일에서 태어나 마르크스와 엥겔스에게 배척당한 뒤 오랫동안 서양 철학사의 그늘에 머물렀던 사상가가 있다. 막스 슈티르너(1806~1856)다. 영남대 박홍규 명예교수가 최근 펴낸 『에고이스트의 탄생』은 국내에 거의 소개되…",
+          "publishedAt": "2026-09-22T09:36:28.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 6.1
+        },
+        {
           "title": "Ludwig Wittgenstein",
           "link": "https://plato.stanford.edu/entries/wittgenstein/",
           "summary": "[Revised entry by Anat Biletzki and Anat Matar on September 17, 2026. Changes to: Main text, Bibliography] Considered by some to be the greatest philosopher of the 20th century, Ludwig Wittgenstein pl…",
@@ -160,6 +173,19 @@
             "philosophy"
           ],
           "score": 4.5
+        },
+        {
+          "title": "황석영·데보라 스미스, 국립세계문자박물관서 ‘번역’을 말하다",
+          "link": "https://www.hani.co.kr/arti/culture/book/1279020.html",
+          "summary": "",
+          "publishedAt": null,
+          "image": "",
+          "sourceName": "한겨레 문화",
+          "sourceId": "hani-culture",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 3.5
         },
         {
           "title": "박재순 전 씨알사상연구소장 별세…함석헌·류영모 사상 연구 매진",
@@ -186,32 +212,6 @@
             "philosophy"
           ],
           "score": 3.5
-        },
-        {
-          "title": "Impartiality",
-          "link": "https://plato.stanford.edu/entries/impartiality/",
-          "summary": "[Revised entry by Troy Jollimore on September 17, 2026. Changes to: Main text, Bibliography] Impartiality is sometimes treated by philosophers as if it were equivalent to moral impartiality. Or, at th…",
-          "publishedAt": "2026-09-18T04:10:01.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3
-        },
-        {
-          "title": "Metaepistemology",
-          "link": "https://plato.stanford.edu/entries/metaepistemology/",
-          "summary": "[Revised entry by J. Adam Carter and Ernest Sosa on September 17, 2026. Changes to: Main text, Bibliography] Whereas epistemology is (broadly speaking) the philosophical theory of knowledge, its natur…",
-          "publishedAt": "2026-09-17T10:26:40.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3
         }
       ]
     },
@@ -226,7 +226,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 182,
+      "poolSize": 181,
       "items": [
         {
           "title": "‘인왕제색도’ 런던 간다…이건희 기증품 순회전 마지막 무대",
@@ -239,59 +239,59 @@
           "candidates": [
             "art"
           ],
-          "score": 5.6
+          "score": 5.5
         },
         {
-          "title": "경기도, 안중근평화센터 개소…'매입 논란' 유묵 영인본 전시",
-          "link": "https://www.yna.co.kr/view/AKR20260921153200061",
-          "summary": "(수원=연합뉴스) 최찬흥 기자 = 경기도가 파주에 '안중근평화센터'를 개소한 가운데 일본인 소장자로부터의 매입 과정에 논란이 일었던 안중근 의사...",
-          "publishedAt": "2026-09-21T08:02:52.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/21/AKR20260921153200061_01_i_P2.jpg",
+          "title": "현대차, 뉴욕·울산서 '현대 트랜스로컬' 두번째 전시",
+          "link": "https://www.yna.co.kr/view/AKR20260922035500003",
+          "summary": "(서울=연합뉴스) 김윤구 기자 = 현대자동차는 '현대 트랜스로컬 시리즈'의 두 번째 전시인 '호 추 니엔'전을 미국 뉴욕 뉴 뮤지엄과 울산시립미...",
+          "publishedAt": "2026-09-21T23:59:23.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922035500003_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.2
+          "score": 4.4
         },
         {
-          "title": "\"드라마 속 장면이 눈앞에\"…관광공사, 체험 전시관 운영(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20260921022851030",
-          "summary": "(서울=연합뉴스) 이상서 기자 = 한국관광공사는 스튜디오드래곤과 함께 오는 11월 19일까지 서울 중구 하이커그라운드에서 'K-드라마 체험 전시...",
-          "publishedAt": "2026-09-21T06:38:39.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/21/PYH2026092118130001300_P2.jpg",
+          "title": "완도수목원 추석연휴 무료 개방…해양수산과학관 정상 운영",
+          "link": "https://www.yna.co.kr/view/AKR20260922076800054",
+          "summary": "(전남광주=연합뉴스) 형민우 기자 = 전남광주통합특별시는 추석 연휴를 맞아 귀성객과 관광객을 위해 지역 전시·관람시설을 정상 운영하거나 무료 개...",
+          "publishedAt": "2026-09-22T01:44:31.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922076800054_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.2
+          "score": 3
         },
         {
-          "title": "동해안 다섯 지역과 어우러진 울릉의 역사…'울릉도도' 첫 전시",
-          "link": "https://www.yna.co.kr/view/AKR20260921025600005",
-          "summary": "(서울=연합뉴스) 김예나 기자 = 지도를 꽉 채운 섬 위로 '자영동망견삼봉'(自嶺東望見三峯)이라는 문구가 적혀 있다.",
-          "publishedAt": "2026-09-21T03:00:11.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/21/PYH2026092111850001300_P2.jpg",
+          "title": "[게시판] 대홍기획, 티켓 할인 플랫폼 '엘티켓' 론칭",
+          "link": "https://www.yna.co.kr/view/AKR20260922032000003",
+          "summary": "▲ 대홍기획은 공연·전시 할인 예매 서비스 '엘티켓'(L.TICKET)을 출시했다고 22일 밝혔다. 엘티켓은 뮤지컬과 연극, 아동 공연, 레저·...",
+          "publishedAt": "2026-09-21T23:51:03.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922032000003_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 2.9
         },
         {
-          "title": "호암미술관서 서로 다른 주파수로 공명하는 아시아 예술",
-          "link": "https://www.yna.co.kr/view/AKR20260921052900005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 서로 다른 주파수에 맞춰진 라디오들이 한 방에서 동시에 울린다면 어떤 풍경이 만들어질까.",
-          "publishedAt": "2026-09-21T02:22:32.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/21/AKR20260921052900005_05_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "[단독]130억 들인 출판유통전산망, 신간 4권 중 3권 외면·베스트셀러 절반 이상 미등록",
+          "link": "https://www.khan.co.kr/article/202609201552001/",
+          "summary": "도서 판매량 집계 위해 만든 출판유통통합전산망개통 5년째인 지난해 신간 등록률 22.85%로 저조지난 6월24일 서울 강남구 삼성동 코엑스에서 열린 2026 서울국제도서전에서 방문객들이 전시장을 둘러보고 있다. 권도현 기자130억원 대의 예산을 들인 출판유통통합전산망이 제 기능을 못하고 있는 것으로 나타났다.국회 문화체육관광위 소속 진선미 더불어민주당 의원…",
+          "publishedAt": "2026-09-20T06:52:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 2.1
         }
       ]
     }
