@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-22T03:07:01.770Z",
+  "builtAt": "2026-09-22T09:06:52.142Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 338,
+      "poolSize": 336,
       "items": [
+        {
+          "title": "환율 이틀 연속 급락해 1,350원대로…달러매도·중동대화 기대",
+          "link": "https://www.yna.co.kr/view/AKR20260922149800002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율이 이틀 연속 큰 폭 하락하며 도로 1,350원대로 내려왔다.",
+          "publishedAt": "2026-09-22T07:23:26.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/22/PYH2026092203380001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "[외환] 원/달러 환율 22.8원 내린 1,358.2원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20260922143600002",
+          "summary": "(",
+          "publishedAt": "2026-09-22T06:30:46.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922143600002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "\"국내 증시 개인자금 이탈 빨라져…수급의 키는 외국인\"",
           "link": "https://www.yna.co.kr/view/AKR20260922097200008",
@@ -25,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
           "title": "“미·일 금리 더 간다 … 포트폴리오 재구성할 때”",
@@ -38,46 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
-          "title": "브렌트유 100달러 아래로…美채권과 주식 일제 상승",
-          "link": "https://www.hankyung.com/article/202609229353i",
+          "title": "미 국채 금리 5% 뒤편에 ‘헤지펀드’…미 국채 안정성 프리미엄 소멸",
+          "link": "https://www.hani.co.kr/arti/economy/global/1279112.html",
           "summary": "",
-          "publishedAt": "2026-09-21T15:12:51.000Z",
+          "publishedAt": null,
           "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
+          "sourceName": "한겨레",
+          "sourceId": "hani-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.3
-        },
-        {
-          "title": "원/달러 환율, 8거래일 만에 하락…2.3원 내린 1,381.0원",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764235",
-          "summary": "▲ 달러오늘 원 달러 환율이 8거래일 만에 하락했습니다.미국의 통화 긴축 기조와 중동 리스크가 환율 상승 요인으로 작용했지만, 일본 …",
-          "publishedAt": "2026-09-21T07:59:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260912/202221667_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.1
-        },
-        {
-          "title": "한은 \"금리 0.25%p 오르면 가계 3.3조·기업 3.7조 이자부담↑\"",
-          "link": "https://www.yna.co.kr/view/AKR20260922056200002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 한국은행이 최근 기준금리 인상이 가계부채 누증과 수도권 주택가격 상승 등에 따른 금융취약성을 완화하는 데 기여...",
-          "publishedAt": "2026-09-22T02:00:46.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2024/11/19/82/PCM20241119000082990_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6
+          "score": 6.5
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 161,
+      "poolSize": 168,
       "items": [
         {
           "title": "선불교의 깨달음, 윤리적 실천과 어떻게 만나는가",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "한국선학회 10월22일 ‘선불교와 윤리’ 추계학술대회",
@@ -118,20 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
-        },
-        {
-          "title": "사사키 시즈카 교수 \"제법무아로 마주해야 할 AI 시대\"",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442461",
-          "summary": "\"AI는 이미 깨달았습니다.\"일본 하나조노대학교 사사키 시즈카(佐々木閑) 특별교수가 9월17일 동국대에 열린 제7회 서울국제명상엑스포 명상콘퍼런스에서 이같이 밝혔다. 인류가 30만 년 만에 처음으로 자신을 뛰어넘는 존재와 마주한 AI 시대에 불교의 무아(無我) 사상이 인간에게 근본적인 답을 줄 수 있다는 설명이다.사사키 교수는 'AI 사회에서의 불교의 중요…",
-          "publishedAt": "2026-09-20T10:15:46.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.6
+          "score": 4
         }
       ]
     },
@@ -159,7 +146,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.1
+          "score": 6
+        },
+        {
+          "title": "“K-문화 세계화하려면 전문성 키워야”…79개 학술단체, 교육부 3개 연구기관 ‘통폐합 철회’ 촉구",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210680",
+          "summary": "교육부 산하의 한국학중앙연구원·한국고전번역원·동북아역사재단을 하나로 묶는 통합안에 대해 학계가 “기관 고유의 정체성과 전문성을 말살하는 졸속 개혁”이라며 강력히 반발하고 나섰다.22일 학계에 따르면, 국내외 79개 주요 학술단체는 정부의 통합 계획을 즉각 철회할 것을 요구하는 ‘교육부 소관 연구기관 통합 반대 성명서’ 발표를 추진하고 있다. 반대 성명에는…",
+          "publishedAt": "2026-09-22T17:27:11.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.7
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -199,19 +199,6 @@
             "philosophy"
           ],
           "score": 3.5
-        },
-        {
-          "title": "창비 60년…지구적 위기의 시대, 한국서 발신된 사상의 등불 [.txt]",
-          "link": "https://www.hani.co.kr/arti/culture/religion/1278419.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레 문화",
-          "sourceId": "hani-culture",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3.5
         }
       ]
     },
@@ -226,7 +213,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 181,
+      "poolSize": 184,
       "items": [
         {
           "title": "‘인왕제색도’ 런던 간다…이건희 기증품 순회전 마지막 무대",
@@ -239,20 +226,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5.5
+          "score": 5.3
         },
         {
-          "title": "현대차, 뉴욕·울산서 '현대 트랜스로컬' 두번째 전시",
-          "link": "https://www.yna.co.kr/view/AKR20260922035500003",
-          "summary": "(서울=연합뉴스) 김윤구 기자 = 현대자동차는 '현대 트랜스로컬 시리즈'의 두 번째 전시인 '호 추 니엔'전을 미국 뉴욕 뉴 뮤지엄과 울산시립미...",
-          "publishedAt": "2026-09-21T23:59:23.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922035500003_01_i_P2.jpg",
+          "title": "울산옹기박물관, 오늘부터 특별기획전 2건 동시 개최",
+          "link": "https://www.yna.co.kr/view/AKR20260922117200057",
+          "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 울산옹기박물관이 22일부터 2층 기획전시실Ⅰ·Ⅱ에서 '손끝 : 배영화 장인 개인전'과 '옹기, ...",
+          "publishedAt": "2026-09-22T05:30:17.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922117200057_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 2.9
         },
         {
           "title": "완도수목원 추석연휴 무료 개방…해양수산과학관 정상 운영",
@@ -265,20 +252,7 @@
           "candidates": [
             "art"
           ],
-          "score": 3
-        },
-        {
-          "title": "[게시판] 대홍기획, 티켓 할인 플랫폼 '엘티켓' 론칭",
-          "link": "https://www.yna.co.kr/view/AKR20260922032000003",
-          "summary": "▲ 대홍기획은 공연·전시 할인 예매 서비스 '엘티켓'(L.TICKET)을 출시했다고 22일 밝혔다. 엘티켓은 뮤지컬과 연극, 아동 공연, 레저·...",
-          "publishedAt": "2026-09-21T23:51:03.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922032000003_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 2.9
+          "score": 2.8
         },
         {
           "title": "[단독]130억 들인 출판유통전산망, 신간 4권 중 3권 외면·베스트셀러 절반 이상 미등록",
@@ -291,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 2.1
+          "score": 2
         }
       ]
     }
