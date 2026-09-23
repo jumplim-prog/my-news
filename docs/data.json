@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-22T21:06:28.352Z",
+  "builtAt": "2026-09-23T03:06:46.372Z",
   "cards": [
     {
       "id": "econ",
@@ -12,59 +12,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 338,
+      "poolSize": 334,
       "items": [
         {
-          "title": "환율 이틀 연속 급락해 1,350원대로…달러매도·중동대화 기대",
-          "link": "https://www.yna.co.kr/view/AKR20260922149800002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율이 이틀 연속 큰 폭 하락하며 도로 1,350원대로 내려왔다.",
-          "publishedAt": "2026-09-22T07:23:26.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/22/PYH2026092203380001300_P2.jpg",
+          "title": "환율, 미·이란 협상 소식에…6거래일만에 1,340원대로 하락",
+          "link": "https://www.yna.co.kr/view/AKR20260923047900002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 미국과 이란이 대면 협상을 했다는 소식이 전해지며 원/달러 환율은 23일 1,340원대로 내려왔다.",
+          "publishedAt": "2026-09-23T00:29:16.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/23/PYH2026092303400001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.2
-        },
-        {
-          "title": "[외환] 원/달러 환율 22.8원 내린 1,358.2원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20260922143600002",
-          "summary": "(",
-          "publishedAt": "2026-09-22T06:30:46.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922143600002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.2
-        },
-        {
-          "title": "\"국내 증시 개인자금 이탈 빨라져…수급의 키는 외국인\"",
-          "link": "https://www.yna.co.kr/view/AKR20260922097200008",
-          "summary": "(서울=연합뉴스) 이민영 기자 = 최근 미국 국채금리 상승세가 나타난 가운데 연방준비제도(연준·Fed)의 통화정책보다 미국 정부의 재정적자에 대...",
-          "publishedAt": "2026-09-22T02:58:34.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922097200008_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.1
-        },
-        {
-          "title": "미 국채 금리 5% 뒤편에 ‘헤지펀드’…미 국채 안정성 프리미엄 소멸",
-          "link": "https://www.hani.co.kr/arti/economy/global/1279112.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레",
-          "sourceId": "hani-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.5
+          "score": 5.9
         },
         {
           "title": "“미·일 금리 더 간다…포트폴리오 재구성할 때” [딥 머니 토크]",
@@ -77,7 +38,46 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.8
+          "score": 5.6
+        },
+        {
+          "title": "해외 카드결제 취소했는데 그새 환율 하락하면 손해 보상 강화한다",
+          "link": "https://www.khan.co.kr/article/202609221659001/",
+          "summary": "별도 신청 안해도 보상되도록 시스템 개선금융감독원 제공A씨는 친구들과 해외여행을 가기 위해 740만원을 들여 항공권을 결제하고, 한달 뒤 1명의 항공권을 취소했다. 185만원이 들어와야 했지만 환불된 금액은 175만원이었다. 한달 새 원·달러 환율이 1480원에서 1400원으로 80원 하락하면서다. A씨는 카드사에 직접 보상 신청을 한 뒤에야 10만원을 돌…",
+          "publishedAt": "2026-09-22T07:59:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.6
+        },
+        {
+          "title": "이자 못내는 한계기업 역대 최대, 자영업자 연체율도 상승세…한은 “금리상승에 빚 상환능력 떨어질 수”",
+          "link": "https://www.khan.co.kr/article/202609221653001/",
+          "summary": "한은 ‘금융안정 상황’ 보고서연합뉴스3년 연속 번 돈으로 이자조차 감당하지 못하는 한계기업이 역대 최대로 늘어나고 여러군데서 돈을 빌린 저소득·저신용 상태의 취약 자영업자의 연체율도 상승세를 이어가고 있는 것으로 나타났다. 금리 상승기를 맞아 이들의 빚 상환 능력이 떨어져 추가 연체로 이어지는 악순환이 나타날 수 있다는 한국은행의 경고음이 나왔다.한은이 2…",
+          "publishedAt": "2026-09-22T07:53:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.6
+        },
+        {
+          "title": "“집값 잡으려 어쩔수 없지만, 영끌족 어쩌나”…금리 0.25%P 오르면 가계이자 3.3조↑",
+          "link": "https://www.mk.co.kr/news/economy/12159314",
+          "summary": "한은 “금리 인상이 금융취약성 완화” 대출금리 5개월·연체율 15개월 뒤 상승한국은행이 최근 기준금리 인상이 가계부채 증가와 수도권 주택가격 상승 등에 따른 금융취약성을 완화하는 ..",
+          "publishedAt": "2026-09-22T05:37:38.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260922.2a0cf7eb37ea4a6b978692622aa5ce14_R.png",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.6
         }
       ]
     },
@@ -92,8 +92,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 163,
+      "poolSize": 173,
       "items": [
+        {
+          "title": "진흥원, 고은진 교수 초청 화요열린강좌",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=337946",
+          "summary": "인공지능(AI) 시대 인간의 마음이란 무엇이며 불교는 이에 어떤 답을 제시할 수 있는지 초기불교부터 선불교까지의 가르침을 통해 살펴보는 자리가 마련된다.대한불교진흥원(이사장 구상진)은 10월 6일 오후 7시 서울 마포 다보빌딩(BBS) 3층 다보원에서 ‘AI에게 마음을 묻다’를 주제로 10월 화요열린강좌를 개최한다. 이번 강좌에서는 ‘AI와 불교’ 저자인…",
+          "publishedAt": "2026-09-23T10:30:01.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
+        },
         {
           "title": "선불교의 깨달음, 윤리적 실천과 어떻게 만나는가",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=337934",
@@ -105,20 +118,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4.2
         },
         {
-          "title": "한국선학회 10월22일 ‘선불교와 윤리’ 추계학술대회",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442492",
-          "summary": "한국선학회가 선불교의 수행과 깨달음이 현대사회에서 어떤 윤리적 의미를 갖는지 살펴본다.한국선학회(회장 향산스님, 중앙승가대 교수)는 10월 22일 오후 1시 한국불교역사문화기념관 2층 국제회의장에서 ‘선불교와 윤리-본각사상과 관련하여’라는 주제로 추계학술대회를 개최한다. 한국선학회가 주관하는 이번 학술대회의 주최는 남원 실상사와 고려대장경연구소이다.이번 학…",
-          "publishedAt": "2026-09-21T11:16:47.000Z",
+          "title": "<16> 영화 ‘외계+인’ 속 화순 운주사",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442614",
+          "summary": "최동훈 감독 ‘SF판타지 활극’ 현대-고려시대 시공간 오가며 외계와 인간 연결과 한계 통해 행복 평화 찾아가는 여정 그려화순 운주사서 뽐낸 도술 ‘눈길’ ‘반야바라밀’ 외며 명연기 ‘호평’먼 우주의 외계 행성. 흉악한 죄수들을 지구인들의 몸속에 비밀리에 가두어 관리해 오고 있었다. 죄수 관리봇인 가드(배우 김우빈)와 썬더(배우 김대명)는 오랜 세월 지구에…",
+          "publishedAt": "2026-09-23T10:24:01.000Z",
           "image": "",
           "sourceName": "불교신문",
           "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.8
+          "score": 3.2
         }
       ]
     },
@@ -146,20 +159,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.8
-        },
-        {
-          "title": "Aesthetics and Race",
-          "link": "https://plato.stanford.edu/entries/aesthetics-race/",
-          "summary": "[New Entry by Monique Roelofs on September 22, 2026.] Aesthetics and race constitute areas of experience, evaluation, and historical practice that are vitally entangled with one another. This is to be…",
-          "publishedAt": "2026-09-22T23:00:03.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.5
+          "score": 5.6
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -175,6 +175,19 @@
           "score": 4.5
         },
         {
+          "title": "Aesthetics and Race",
+          "link": "https://plato.stanford.edu/entries/aesthetics-race/",
+          "summary": "[New Entry by Monique Roelofs on September 22, 2026.] Aesthetics and race constitute areas of experience, evaluation, and historical practice that are vitally entangled with one another. This is to be…",
+          "publishedAt": "2026-09-22T23:00:03.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.4
+        },
+        {
           "title": "Rowan Williams On Empathy And Ethics",
           "link": "https://3quarksdaily.com/3quarksdaily/2026/09/rowan-williams-on-empathy-and-ethics.html",
           "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
@@ -186,7 +199,7 @@
             "philosophy",
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "“K-문화 세계화하려면 전문성 키워야”…79개 학술단체, 교육부 3개 연구기관 ‘통폐합 철회’ 촉구",
@@ -199,7 +212,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.4
+          "score": 4.3
         }
       ]
     },
@@ -214,8 +227,47 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 197,
+      "poolSize": 200,
       "items": [
+        {
+          "title": "국립현대미술관 청주 수장고 개편…최욱경·양혜규 작품 등 전시",
+          "link": "https://www.yna.co.kr/view/AKR20260923057700005",
+          "summary": "(서울=연합뉴스) 김예나 기자 = 국내 최초 수장형 미술관인 국립현대미술관 청주가 새로운 모습으로 관람객과 만난다.",
+          "publishedAt": "2026-09-23T00:54:35.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923057700005_03_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "인천 박물관·미술관, 추석 연휴 무료전시·체험행사 '풍성'",
+          "link": "https://www.yna.co.kr/view/AKR20260923041900065",
+          "summary": "(인천=연합뉴스) 신민재 기자 = 인천시는 추석 연휴인 오는 24∼27일 인천시립박물관, 송암미술관, 검단선사박물관, 한국이민사박물관, 인천도시...",
+          "publishedAt": "2026-09-23T00:16:19.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2026/09/23/03/PCM20260923000003990_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "갤러리아百 서울명품관에 8ｍ 소녀 조형물…문형태 작가 전시",
+          "link": "https://www.yna.co.kr/view/AKR20260923029900030",
+          "summary": "(서울=연합뉴스) 조민정 기자 = 갤러리아백화점 서울 명품관에 높이 8ｍ의 대형 소녀 조형물이 등장했다.",
+          "publishedAt": "2026-09-22T23:39:32.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923029900030_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.4
+        },
         {
           "title": "‘인왕제색도’ 런던 간다…이건희 기증품 순회전 마지막 무대",
           "link": "https://www.khan.co.kr/article/202609211018001/",
@@ -227,59 +279,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5.1
+          "score": 5
         },
         {
-          "title": "여성혐오 웹툰 등 논란 빚던 기안84···한계 도전·친근함 무기 ‘예능 킥’ 됐다",
-          "link": "https://www.khan.co.kr/article/202609230600121/",
-          "summary": "10년 전 ‘독특한 웹툰 작가’ 캐릭터로 예능 입문콩트 도중 흡연 물의 빚기도민박 ‘대환장 기안장2’ 공개 앞둬‘기이한 연애’선 AI에 “하남자” 소리 날 것의 모습 보이며 예능 중심에 서넷플릭스 예능 <대환장 기안장 2> 예고편에서 기안84는 민박 주변에 내린 눈을 먹으라고 권한 뒤 직접 입에 넣는다. 유튜브 캡처“진짜 집을 하늘에 띄웠으면 좋···",
-          "publishedAt": "2026-09-22T21:00:12.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3
-        },
-        {
-          "title": "[붓 끝의 美학]금박 종이 위 대칭과 조화…농익은 추사",
-          "link": "https://www.khan.co.kr/article/202609222039005/",
-          "summary": "⑭ 김정희 ‘산호가·비취병 행서대련’김정희 ‘산호가·비취병 행서대련’(1856), 종이에 먹, 개인소장. 국립중앙박물관 제공지금 국립중앙박물관 서화실에서는 주제전시 ‘추사 김정희와 그의 동반자’가 열리고 있다. 한국 서예사를 대표하는 명필 추사 김정희(1786~1856)의 작품을 한자리에서 감상할 수 있는 자리다. 전시장 한가운데 관람객의 눈길을 사로잡는·…",
-          "publishedAt": "2026-09-22T11:39:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 2.8
-        },
-        {
-          "title": "울산옹기박물관, 오늘부터 특별기획전 2건 동시 개최",
-          "link": "https://www.yna.co.kr/view/AKR20260922117200057",
-          "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 울산옹기박물관이 22일부터 2층 기획전시실Ⅰ·Ⅱ에서 '손끝 : 배영화 장인 개인전'과 '옹기, ...",
-          "publishedAt": "2026-09-22T05:30:17.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922117200057_01_i_P2.jpg",
+          "title": "\"시각적으로 대단하고 독특\"…하종현의 첫 해외 미술관 회고전",
+          "link": "https://www.yna.co.kr/view/AKR20260923091900005",
+          "summary": "(샌프란시스코=연합뉴스) 박의래 기자 = \"물감이 캔버스 뒤에서 앞으로 밀려 나오는 방식이라는 점이 흥미롭네요.\"",
+          "publishedAt": "2026-09-23T02:47:55.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923091900005_04_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 2.7
-        },
-        {
-          "title": "완도수목원 추석연휴 무료 개방…해양수산과학관 정상 운영",
-          "link": "https://www.yna.co.kr/view/AKR20260922076800054",
-          "summary": "(전남광주=연합뉴스) 형민우 기자 = 전남광주통합특별시는 추석 연휴를 맞아 귀성객과 관광객을 위해 지역 전시·관람시설을 정상 운영하거나 무료 개...",
-          "publishedAt": "2026-09-22T01:44:31.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922076800054_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 2.6
+          "score": 4.5
         }
       ]
     }
