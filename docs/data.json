@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-23T09:06:45.637Z",
+  "builtAt": "2026-09-23T21:07:08.148Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 322,
+      "poolSize": 323,
       "items": [
+        {
+          "title": "美10년물 국채금리 5.079%로 폭등…PMI호조로 인플레압력 부각",
+          "link": "https://www.hankyung.com/article/202609244510i",
+          "summary": "",
+          "publishedAt": "2026-09-23T15:56:49.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "[외환] 원/달러 환율 0.2원 오른 1,358.4원(15:30 기준가)",
           "link": "https://www.yna.co.kr/view/AKR20260923142700002",
@@ -25,20 +38,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
-          "title": "환율, 1,340원대 찍고 반등해 1,360원선 접근",
-          "link": "https://www.yna.co.kr/view/AKR20260923151000002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율은 23일 미국과 이란의 협상 소식에 장중 1,340원대까지 떨어졌지만, 오후 들어선 저가매수세 ...",
-          "publishedAt": "2026-09-23T07:06:45.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/23/PYH2026092321730001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "삼전닉스 ‘몰빵’ 대신 ‘개인투자용 국채’ 사볼까",
+          "link": "https://www.khan.co.kr/article/202609240600021/",
+          "summary": "재정경제부 제공.최근 국내 증시가 박스권에 갇히고 주요국 기준금리와 국채 금리가 오르면서 주식과 예·적금 대신 국채로 눈을 돌리는 투자자들이 늘고 있다. 특히 이달부터 개인 퇴직연금계좌를 통한 투자가 가능해진 ‘개인투자용 국채’가 대안으로 주목받고 있다. 비교적 높은 수익률과 원금 안정성에 더해 복리와 절세 혜택까지 누릴 수 있다는 점이 장점으로 꼽힌다.…",
+          "publishedAt": "2026-09-23T21:00:02.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
           "score": 6
+        },
+        {
+          "title": "환율, 1,340원대 찍고 반등해 1,360원선 접근",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008768073",
+          "summary": "▲ 23일 서울 하나은행 딜링룸 현황판에 코스피, 원·달러 환율 등이 표시되고 있다. 이날 코스피는 전날보다 63.01포인트 오른 7…",
+          "publishedAt": "2026-09-23T07:13:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260923/202225349_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.7
         },
         {
           "title": "환율, 미·이란 협상 소식에…6거래일만에 1,340원대로 하락",
@@ -51,33 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.8
-        },
-        {
-          "title": "“미·일 금리 더 간다…포트폴리오 재구성할 때” [딥 머니 토크]",
-          "link": "https://www.mk.co.kr/news/world/12159721",
-          "summary": "백석현 신한은행 이코노미스트 인터뷰최근 두 달 새 원화 가치가 급격한 강세를 보이고 있다. 지난 7월 한때 달러당 1550원까지 떨어졌던 원화값은 두 달여 만에 15% 가까이 뛰며..",
-          "publishedAt": "2026-09-22T09:27:17.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260904.69fcfcf1ecf74db8b4951fe8dc7efcb7_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.5
-        },
-        {
-          "title": "'7천피' 재돌파에 투자자예탁금, 5거래일만 100조 원 회복",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008768214",
-          "summary": "▲ 23일 서울 하나은행 딜링룸 현황판에 코스피, 원/달러 환율 등이 표시되고 있다. 이날 코스피는 전날보다 63.01포인트 오른 7…",
-          "publishedAt": "2026-09-23T08:49:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260923/202225349_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.5
+          "score": 5.6
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 187,
+      "poolSize": 184,
       "items": [
         {
           "title": "진흥원, 고은진 교수 초청 화요열린강좌",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "선불교의 깨달음, 윤리적 실천과 어떻게 만나는가",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.8
         },
         {
           "title": "<16> 영화 ‘외계+인’ 속 화순 운주사",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.8
         }
       ]
     },
@@ -146,7 +146,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 135,
+      "poolSize": 136,
       "items": [
         {
           "title": "Ludwig Wittgenstein",
@@ -162,6 +162,19 @@
           "score": 4.5
         },
         {
+          "title": "Ethics and evil: the villagers reviving India’s debating traditions",
+          "link": "https://www.theguardian.com/global-development/2026/sep/23/india-lost-art-public-debate-uttar-pradesh",
+          "summary": "<p>In a country where politicians are increasingly polarised and angry, thousands of rural Indians have been gathering to enjoy debate tournaments where the discussions are respectful and no one gets…",
+          "publishedAt": "2026-09-23T09:00:07.000Z",
+          "image": "https://i.guim.co.uk/img/media/b9c0b0efe76d48f9b60fa43d9144ebca4467a143/189_124_1343_1075/master/1343.jpg?width=140&quality=85&auto=format&fit=max&s=6c14d64f43689faf93845d189a315d00",
+          "sourceName": "The Guardian",
+          "sourceId": "guardian-philosophy",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.2
+        },
+        {
           "title": "Aesthetics and Race",
           "link": "https://plato.stanford.edu/entries/aesthetics-race/",
           "summary": "[New Entry by Monique Roelofs on September 22, 2026.] Aesthetics and race constitute areas of experience, evaluation, and historical practice that are vitally entangled with one another. This is to be…",
@@ -172,7 +185,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.3
+          "score": 4
+        },
+        {
+          "title": "생생병원 조정기 병원장, 대한척추신경외과학회 ‘라미학술상’ 수상",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210713",
+          "summary": "생생병원(대표원장 오종양·박범용) 척추센터 조정기 병원장이 지난 9월 17일부터 19일까지 서울 용산 드래곤시티에서 열린 ‘제40회 대한척추신경외과학회 정기학술대회’에서 라미학술상을 수상했다고 전했다.라미학술상은 세계적으로 권위 있는 척추 분야 SCI(E)급 국제학술지 ‘Neurospine’에 지난 1년간 게재된 논문 가운데 우수 논문 3편을 선정해 수여하…",
+          "publishedAt": "2026-09-23T14:22:20.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 3.9
         },
         {
           "title": "Rowan Williams On Empathy And Ethics",
@@ -186,33 +212,7 @@
             "philosophy",
             "art"
           ],
-          "score": 4.2
-        },
-        {
-          "title": "“K-문화 세계화하려면 전문성 키워야”…79개 학술단체, 교육부 3개 연구기관 ‘통폐합 철회’ 촉구",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210680",
-          "summary": "교육부 산하의 한국학중앙연구원·한국고전번역원·동북아역사재단을 하나로 묶는 통합안에 대해 학계가 “기관 고유의 정체성과 전문성을 말살하는 졸속 개혁”이라며 강력히 반발하고 나섰다.22일 학계에 따르면, 국내외 79개 주요 학술단체는 정부의 통합 계획을 즉각 철회할 것을 요구하는 ‘교육부 소관 연구기관 통합 반대 성명서’ 발표를 추진하고 있다. 반대 성명에는…",
-          "publishedAt": "2026-09-22T17:27:11.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.2
-        },
-        {
-          "title": "생생병원 조정기 병원장, 대한척추신경외과학회 ‘라미학술상’ 수상",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210713",
-          "summary": "생생병원(대표원장 오종양·박범용) 척추센터 조정기 병원장이 지난 9월 17일부터 19일까지 서울 용산 드래곤시티에서 열린 ‘제40회 대한척추신경외과학회 정기학술대회’에서 라미학술상을 수상했다고 전했다.라미학술상은 세계적으로 권위 있는 척추 분야 SCI(E)급 국제학술지 ‘Neurospine’에 지난 1년간 게재된 논문 가운데 우수 논문 3편을 선정해 수여하…",
-          "publishedAt": "2026-09-23T14:22:20.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.1
+          "score": 3.9
         }
       ]
     },
@@ -227,8 +227,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 198,
+      "poolSize": 202,
       "items": [
+        {
+          "title": "한가위 달빛처럼 달뜬 감흥…잠시 가라앉히고, 시선 돌려볼까[추석 가볼 만한 전시]",
+          "link": "https://www.khan.co.kr/article/202609231923005/",
+          "summary": "(위 사진부터)세화미술관 ‘게오르그 바젤리츠’, 리움미술관 ‘구정아: 우스모스’, 2026 부산비엔날레, 서울시립미술관 ‘유영국: 산은 내 안에 있다’ 전시 전경. 세화미술관·리움미술관·부산비엔날레· 서울시립미술관 제공나흘을 쉬는 올해 추석은 멀리 떠나기에는 다소 빠듯하지만, 미뤄둔 전시를 몰아보기에는 적당한 시간이다. 예약이 일찌감치 차고 소셜미디어를 ·…",
+          "publishedAt": "2026-09-23T10:23:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.3
+        },
         {
           "title": "국립현대미술관 청주 수장고 개편…크레이트도 작품과 함께 보여준다",
           "link": "https://www.khan.co.kr/article/202609231252001/",
@@ -240,7 +253,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "국립현대미술관 청주 수장고 개편…최욱경·양혜규 작품 등 전시",
@@ -253,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
+          "score": 7.1
         },
         {
           "title": "‘인왕제색도’ 런던 간다…이건희 기증품 순회전 마지막 무대",
@@ -266,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.8
+          "score": 4.6
         },
         {
           "title": "이병헌이 런던서 전하는 우리 청동기·민화…전시 내레이션 참여",
@@ -279,20 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
-        },
-        {
-          "title": "임선옥 파츠파츠-전곡선사박물관, 협업 전시 29일 개막",
-          "link": "https://www.yna.co.kr/view/AKR20260923120700060",
-          "summary": "(연천=연합뉴스) 노승혁 기자 = 패션디자이너 임선옥 파츠파츠(PARTsPARTs) 크리에이티브 디렉터가 선사시대부터 현대에 이르는 인류의 시간...",
-          "publishedAt": "2026-09-23T05:41:02.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923120700060_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
+          "score": 4.2
         }
       ]
     }
