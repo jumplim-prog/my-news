@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-24T09:07:17.317Z",
+  "builtAt": "2026-09-24T21:06:45.143Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 325,
+      "poolSize": 326,
       "items": [
+        {
+          "title": "美 30년물 국채 수익률 5.44%…저금리시대 종말 신호",
+          "link": "https://www.hankyung.com/article/202609245261i",
+          "summary": "",
+          "publishedAt": "2026-09-24T11:53:40.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
         {
           "title": "[외환] 원/달러 환율 7.6원 오른 1,366.0원(15:30 기준가)",
           "link": "https://www.yna.co.kr/view/AKR20260924038600002",
@@ -25,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "美 10년물 국채금리 5.079%로 폭등…PMI호조로 인플레압력 부각",
@@ -38,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.9
         },
         {
           "title": "삼전닉스 ‘몰빵’ 대신 ‘개인투자용 국채’ 사볼까",
@@ -51,33 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.7
-        },
-        {
-          "title": "환율, 1,340원대 찍고 반등해 1,360원선 접근",
-          "link": "https://www.yna.co.kr/view/AKR20260923151000002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율은 23일 미국과 이란의 협상 소식에 장중 1,340원대까지 떨어졌지만, 오후 들어선 저가매수세 ...",
-          "publishedAt": "2026-09-23T07:06:45.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/23/PYH2026092321730001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
           "score": 5.5
         },
         {
-          "title": "“미·일 금리 더 간다…포트폴리오 재구성할 때” [딥 머니 토크]",
-          "link": "https://www.mk.co.kr/news/world/12159721",
-          "summary": "백석현 신한은행 이코노미스트 인터뷰최근 두 달 새 원화 가치가 급격한 강세를 보이고 있다. 지난 7월 한때 달러당 1550원까지 떨어졌던 원화값은 두 달여 만에 15% 가까이 뛰며..",
-          "publishedAt": "2026-09-22T09:27:17.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260904.69fcfcf1ecf74db8b4951fe8dc7efcb7_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "title": "환율, 1,340원대 찍고 반등해 1,360원선 접근",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008768073",
+          "summary": "▲ 23일 서울 하나은행 딜링룸 현황판에 코스피, 원·달러 환율 등이 표시되고 있다. 이날 코스피는 전날보다 63.01포인트 오른 7…",
+          "publishedAt": "2026-09-23T07:13:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260923/202225349_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5
+          "score": 5.2
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 187,
+      "poolSize": 155,
       "items": [
         {
           "title": "진흥원, 고은진 교수 초청 화요열린강좌",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.8
         },
         {
           "title": "선불교의 깨달음, 윤리적 실천과 어떻게 만나는가",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
+          "score": 3.3
         },
         {
           "title": "한전, 추석 연휴 안정적 전력공급에 총력...전기 사용 불편 123으로 연락",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.8
         },
         {
           "title": "<16> 영화 ‘외계+인’ 속 화순 운주사",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.5
+          "score": 2.3
         }
       ]
     },
@@ -159,8 +159,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 143,
+      "poolSize": 145,
       "items": [
+        {
+          "title": "Moral Phenomenology",
+          "link": "https://plato.stanford.edu/entries/moral-phenomenology/",
+          "summary": "[Revised entry by John Drummond and Mark Timmons on September 24, 2026. Changes to: Main text, Bibliography, notes.html] Sometimes the term \"phenomenology\" is used to refer to the subjective character…",
+          "publishedAt": "2026-09-25T01:26:58.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 7.6
+        },
         {
           "title": "Ludwig Wittgenstein",
           "link": "https://plato.stanford.edu/entries/wittgenstein/",
@@ -175,49 +188,23 @@
           "score": 4.5
         },
         {
-          "title": "Free to Be Experimental Philosophy",
-          "link": "https://dailynous.com/free-to-be-experimental-philosophy/",
-          "summary": "“But is this actually philosophy?” Ethan Landes (Eindhoven University of Technology) is tired of experimental philosophers being asked The Question. And he’s tired of experimental […] The post Free to…",
-          "publishedAt": "2026-09-04T14:06:21.000Z",
-          "image": "/wp-content/uploads/2026/09/free-to-be-cover-1024x606.png",
+          "title": "Philosophy Teaching Resource Updated",
+          "link": "https://dailynous.com/philosophy-teaching-resource-updated/",
+          "summary": "TeachPhilosophy101, a free and helpful collection of resources and ideas for teaching philosophy, has recently been updated. Its materials cover course planning, how to use […] The post Philosophy Tea…",
+          "publishedAt": "2026-09-24T18:03:50.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/09/Henri-Florence-Struttura.png",
           "sourceName": "Daily Nous",
           "sourceId": "dailynous",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.5
+          "score": 4.4
         },
         {
-          "title": "Ethics and evil: the villagers reviving India’s debating traditions",
-          "link": "https://www.theguardian.com/global-development/2026/sep/23/india-lost-art-public-debate-uttar-pradesh",
-          "summary": "<p>In a country where politicians are increasingly polarised and angry, thousands of rural Indians have been gathering to enjoy debate tournaments where the discussions are respectful and no one gets…",
-          "publishedAt": "2026-09-23T09:00:07.000Z",
-          "image": "https://i.guim.co.uk/img/media/b9c0b0efe76d48f9b60fa43d9144ebca4467a143/189_124_1343_1075/master/1343.jpg?width=140&quality=85&auto=format&fit=max&s=6c14d64f43689faf93845d189a315d00",
-          "sourceName": "The Guardian",
-          "sourceId": "guardian-philosophy",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4
-        },
-        {
-          "title": "Aesthetics and Race",
-          "link": "https://plato.stanford.edu/entries/aesthetics-race/",
-          "summary": "[New Entry by Monique Roelofs on September 22, 2026.] Aesthetics and race constitute areas of experience, evaluation, and historical practice that are vitally entangled with one another. This is to be…",
-          "publishedAt": "2026-09-22T23:00:03.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3.8
-        },
-        {
-          "title": "Rowan Williams On Empathy And Ethics",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/rowan-williams-on-empathy-and-ethics.html",
+          "title": "Heidegger on What is Worthy of Question (1957)",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/heidegger-on-what-is-worthy-of-question-1957.html",
           "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
-          "publishedAt": "2026-09-22T17:51:33.000Z",
+          "publishedAt": "2026-09-24T16:36:35.000Z",
           "image": "",
           "sourceName": "3 Quarks Daily",
           "sourceId": "3quarks",
@@ -225,7 +212,20 @@
             "philosophy",
             "art"
           ],
-          "score": 3.7
+          "score": 4.4
+        },
+        {
+          "title": "Online Philosophy Resources Weekly Update",
+          "link": "https://dailynous.com/online-philosophy-resources-weekly-update-440/",
+          "summary": "This is the report on new and revised entries at online philosophy resources, new reviews of philosophy books, new podcast episodes, recently published open access […] The post Online Philosophy Resou…",
+          "publishedAt": "2026-09-24T11:38:31.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/09/weekly-update-logo-2023.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.3
         }
       ]
     },
@@ -240,7 +240,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 194,
+      "poolSize": 190,
       "items": [
         {
           "title": "서도호·유영국부터 비엔날레까지…추석 미술관 나들이 가요",
@@ -253,7 +253,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "한가위 달빛처럼 달뜬 감흥…잠시 가라앉히고, 시선 돌려볼까[추석 가볼 만한 전시]",
@@ -266,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7
+          "score": 6.8
         },
         {
           "title": "국립현대미술관 청주 수장고 개편…크레이트도 작품과 함께 보여준다",
@@ -279,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.9
+          "score": 6.6
         },
         {
           "title": "한복 빌려 입고 '뚜비'와 사진도…대구간송미술관 추석 행사",
@@ -292,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
+          "score": 5.6
         },
         {
           "title": "박물관서 윷놀이, 미술관서 피카소…추석 연휴 전북 문화행사",
@@ -305,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
+          "score": 5.5
         }
       ]
     }
