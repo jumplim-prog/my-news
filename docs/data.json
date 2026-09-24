@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-23T21:07:08.148Z",
+  "builtAt": "2026-09-24T03:06:45.703Z",
   "cards": [
     {
       "id": "econ",
@@ -15,7 +15,7 @@
       "poolSize": 323,
       "items": [
         {
-          "title": "美10년물 국채금리 5.079%로 폭등…PMI호조로 인플레압력 부각",
+          "title": "美 10년물 국채금리 5.079%로 폭등…PMI호조로 인플레압력 부각",
           "link": "https://www.hankyung.com/article/202609244510i",
           "summary": "",
           "publishedAt": "2026-09-23T15:56:49.000Z",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.3
         },
         {
           "title": "[외환] 원/달러 환율 0.2원 오른 1,358.4원(15:30 기준가)",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.1
         },
         {
           "title": "삼전닉스 ‘몰빵’ 대신 ‘개인투자용 국채’ 사볼까",
@@ -51,33 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 6
+          "score": 5.9
         },
         {
           "title": "환율, 1,340원대 찍고 반등해 1,360원선 접근",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008768073",
-          "summary": "▲ 23일 서울 하나은행 딜링룸 현황판에 코스피, 원·달러 환율 등이 표시되고 있다. 이날 코스피는 전날보다 63.01포인트 오른 7…",
-          "publishedAt": "2026-09-23T07:13:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260923/202225349_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.7
-        },
-        {
-          "title": "환율, 미·이란 협상 소식에…6거래일만에 1,340원대로 하락",
-          "link": "https://www.yna.co.kr/view/AKR20260923047900002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 미국과 이란이 대면 협상을 했다는 소식이 전해지며 원/달러 환율은 23일 1,340원대로 내려왔다.",
-          "publishedAt": "2026-09-23T00:29:16.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/23/PYH2026092303400001300_P2.jpg",
+          "link": "https://www.yna.co.kr/view/AKR20260923151000002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율은 23일 미국과 이란의 협상 소식에 장중 1,340원대까지 떨어졌지만, 오후 들어선 저가매수세 ...",
+          "publishedAt": "2026-09-23T07:06:45.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/23/PYH2026092321730001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
           "score": 5.6
+        },
+        {
+          "title": "“미·일 금리 더 간다…포트폴리오 재구성할 때” [딥 머니 토크]",
+          "link": "https://www.mk.co.kr/news/world/12159721",
+          "summary": "백석현 신한은행 이코노미스트 인터뷰최근 두 달 새 원화 가치가 급격한 강세를 보이고 있다. 지난 7월 한때 달러당 1550원까지 떨어졌던 원화값은 두 달여 만에 15% 가까이 뛰며..",
+          "publishedAt": "2026-09-22T09:27:17.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260904.69fcfcf1ecf74db8b4951fe8dc7efcb7_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.1
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 184,
+      "poolSize": 190,
       "items": [
         {
           "title": "진흥원, 고은진 교수 초청 화요열린강좌",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4.2
         },
         {
           "title": "선불교의 깨달음, 윤리적 실천과 어떻게 만나는가",
@@ -118,7 +118,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.8
+          "score": 3.7
+        },
+        {
+          "title": "한전, 추석 연휴 안정적 전력공급에 총력...전기 사용 불편 123으로 연락",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4108546",
+          "summary": "한국전력(한전)이 추석 연휴 기간 국민 불편을 최소화하고 안정적인 전력을 공급하기 위해 전력설비 특별점검을 시행하고 비상근무 체계에 돌입했습니다.한전은 여름철 폭염에 따른 설비 부담에 대비해 지난 6월부터 전력설비 진단과 점검을 강화해 왔습니다. 특히 지난 10일부터 23일까지를 추석 연휴 대비 특별점검 기간으로 지정해 전국의 주요 설비를 집중관리 했습니다…",
+          "publishedAt": "2026-09-24T09:06:56.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
         },
         {
           "title": "<16> 영화 ‘외계+인’ 속 화순 운주사",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
+          "score": 2.7
         }
       ]
     },
@@ -172,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.2
+          "score": 4.1
         },
         {
           "title": "Aesthetics and Race",
@@ -182,19 +195,6 @@
           "image": "",
           "sourceName": "Stanford Encyclopedia",
           "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4
-        },
-        {
-          "title": "생생병원 조정기 병원장, 대한척추신경외과학회 ‘라미학술상’ 수상",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210713",
-          "summary": "생생병원(대표원장 오종양·박범용) 척추센터 조정기 병원장이 지난 9월 17일부터 19일까지 서울 용산 드래곤시티에서 열린 ‘제40회 대한척추신경외과학회 정기학술대회’에서 라미학술상을 수상했다고 전했다.라미학술상은 세계적으로 권위 있는 척추 분야 SCI(E)급 국제학술지 ‘Neurospine’에 지난 1년간 게재된 논문 가운데 우수 논문 3편을 선정해 수여하…",
-          "publishedAt": "2026-09-23T14:22:20.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
@@ -212,7 +212,20 @@
             "philosophy",
             "art"
           ],
-          "score": 3.9
+          "score": 3.8
+        },
+        {
+          "title": "“K-문화 세계화하려면 전문성 키워야”…79개 학술단체, 교육부 3개 연구기관 ‘통폐합 철회’ 촉구",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210680",
+          "summary": "교육부 산하의 한국학중앙연구원·한국고전번역원·동북아역사재단을 하나로 묶는 통합안에 대해 학계가 “기관 고유의 정체성과 전문성을 말살하는 졸속 개혁”이라며 강력히 반발하고 나섰다.22일 학계에 따르면, 국내외 79개 주요 학술단체는 정부의 통합 계획을 즉각 철회할 것을 요구하는 ‘교육부 소관 연구기관 통합 반대 성명서’ 발표를 추진하고 있다. 반대 성명에는…",
+          "publishedAt": "2026-09-22T17:27:11.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 3.8
         }
       ]
     },
@@ -227,8 +240,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 202,
+      "poolSize": 199,
       "items": [
+        {
+          "title": "서도호·유영국부터 비엔날레까지…추석 미술관 나들이 가요",
+          "link": "https://www.yna.co.kr/view/AKR20260920052300005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 가을을 맞아 서울은 물론 전국 주요 도시에서 놓치기 아까운 다양한 전시가 관람객을 맞고 있다.",
+          "publishedAt": "2026-09-23T21:01:01.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/01/PYH2026090110170001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.4
+        },
         {
           "title": "한가위 달빛처럼 달뜬 감흥…잠시 가라앉히고, 시선 돌려볼까[추석 가볼 만한 전시]",
           "link": "https://www.khan.co.kr/article/202609231923005/",
@@ -240,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "국립현대미술관 청주 수장고 개편…크레이트도 작품과 함께 보여준다",
@@ -253,46 +279,33 @@
           "candidates": [
             "art"
           ],
-          "score": 7.1
+          "score": 7
         },
         {
-          "title": "국립현대미술관 청주 수장고 개편…최욱경·양혜규 작품 등 전시",
-          "link": "https://www.yna.co.kr/view/AKR20260923057700005",
-          "summary": "(서울=연합뉴스) 김예나 기자 = 국내 최초 수장형 미술관인 국립현대미술관 청주가 새로운 모습으로 관람객과 만난다.",
-          "publishedAt": "2026-09-23T00:54:35.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923057700005_03_i_P2.jpg",
+          "title": "한복 빌려 입고 '뚜비'와 사진도…대구간송미술관 추석 행사",
+          "link": "https://www.yna.co.kr/view/AKR20260923070600053",
+          "summary": "(대구=연합뉴스) 윤관식 기자 = 대구간송미술관에서 한복을 무료로 빌려 입고 전시를 관람할 수 있는 특별행사가 열린다.",
+          "publishedAt": "2026-09-24T00:30:02.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923070600053_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 7.1
+          "score": 5.9
         },
         {
-          "title": "‘인왕제색도’ 런던 간다…이건희 기증품 순회전 마지막 무대",
-          "link": "https://www.khan.co.kr/article/202609211018001/",
-          "summary": "한국: 2000년 창의의 여정‘ 전시 포스터. 지난해 애니메이션 <케이팝 데몬 헌터스>에 등장한 ‘일월오악도’가 전시 포스터를 장식하고, ‘까치와 호랑이’도 출품된다. 국립중앙박물관 제공국립중앙박물관·국립현대미술관이 오는 10월1일부터 영국 런던 영국박물관에서 고 이건희 회장 기증품 국외순회전 ‘한국: 2000년 창의의 여정 Korea: 2,···",
-          "publishedAt": "2026-09-21T01:18:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.6
-        },
-        {
-          "title": "이병헌이 런던서 전하는 우리 청동기·민화…전시 내레이션 참여",
-          "link": "https://www.yna.co.kr/view/AKR20260923130600005",
-          "summary": "(서울=연합뉴스) 장진리 기자 = 배우 이병헌이 영국 대표 국립 박물관인 영국박물관에서 열리는 전시 '한국: 2000년 창의의 여정'의 내레이션...",
-          "publishedAt": "2026-09-23T06:10:12.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923130600005_01_i_P2.jpg",
+          "title": "박물관서 윷놀이, 미술관서 피카소…추석 연휴 전북 문화행사",
+          "link": "https://www.yna.co.kr/view/AKR20260923061600055",
+          "summary": "(전주=연합뉴스) 나보배 기자 = 추석 연휴 기간 전북자치도 곳곳의 박물관과 미술관이 문을 열고 전시와 체험 행사를 선보인다.",
+          "publishedAt": "2026-09-23T22:00:07.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/22/PYH2026092214100005400_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.2
+          "score": 5.9
         }
       ]
     }
