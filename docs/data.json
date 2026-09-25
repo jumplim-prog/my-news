@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-25T09:07:39.875Z",
+  "builtAt": "2026-09-25T21:06:50.444Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 330,
+      "poolSize": 325,
       "items": [
+        {
+          "title": "국채 고금리? \"정상화 과정\"…AI 채권은 \"비중 축소\" [박신영의 개장전 요것만]",
+          "link": "https://www.hankyung.com/article/202609266127i",
+          "summary": "",
+          "publishedAt": "2026-09-25T15:48:29.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "미 장기금리 상승의 국내 영향은?…\"환율↑·외인 자본 유출\"",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769822",
@@ -25,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.1
         },
         {
           "title": "“시장 익숙하지 않은 영역 진입”…美 30년물 금리 2004년 이래 최고치",
@@ -38,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7
         },
         {
           "title": "美 30년물 국채 수익률 5.44%…저금리시대 종말 신호",
@@ -51,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.8
         },
         {
           "title": "[외환] 원/달러 환율 7.6원 오른 1,366.0원(15:30 기준가)",
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.9
-        },
-        {
-          "title": "美 10년물 국채금리 5.079%로 폭등…PMI호조로 인플레압력 부각",
-          "link": "https://www.hankyung.com/article/202609244510i",
-          "summary": "",
-          "publishedAt": "2026-09-23T15:56:49.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.6
+          "score": 6.7
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 156,
+      "poolSize": 125,
       "items": [
         {
           "title": "진흥원, 고은진 교수 초청 화요열린강좌",
@@ -105,33 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
-        },
-        {
-          "title": "선불교의 깨달음, 윤리적 실천과 어떻게 만나는가",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=337934",
-          "summary": "한국 선불교의 수행 전통을 되짚고, 깨달음과 윤리적 실천의 관계를 모색하는 자리가 마련된다.한국선학회(회장 향산 스님)는 10월 22일 오후 1시 한국불교역사문화기념관 2층 국제회의장에서 ‘선불교와 윤리-본각사상과 관련하여’를 주제로 2026년 추계학술대회를 개최한다. 실상사와 고려대장경연구소가 주최한다.이번 학술대회는 간화선을 중심으로 이어져 온 한국 선…",
-          "publishedAt": "2026-09-22T10:52:38.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3
-        },
-        {
-          "title": "<16> 영화 ‘외계+인’ 속 화순 운주사",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442614",
-          "summary": "최동훈 감독 ‘SF판타지 활극’ 현대-고려시대 시공간 오가며 외계와 인간 연결과 한계 통해 행복 평화 찾아가는 여정 그려화순 운주사서 뽐낸 도술 ‘눈길’ ‘반야바라밀’ 외며 명연기 ‘호평’먼 우주의 외계 행성. 흉악한 죄수들을 지구인들의 몸속에 비밀리에 가두어 관리해 오고 있었다. 죄수 관리봇인 가드(배우 김우빈)와 썬더(배우 김대명)는 오랜 세월 지구에…",
-          "publishedAt": "2026-09-23T10:24:01.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2
+          "score": 3.3
         }
       ]
     },
@@ -159,7 +133,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.3
+          "score": 7.1
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -185,7 +159,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.2
+          "score": 3.9
         },
         {
           "title": "Heidegger on What is Worthy of Question (1957)",
@@ -199,7 +173,7 @@
             "philosophy",
             "art"
           ],
-          "score": 4.2
+          "score": 3.9
         },
         {
           "title": "Online Philosophy Resources Weekly Update",
@@ -212,7 +186,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.1
+          "score": 3.8
         }
       ]
     },
@@ -227,7 +201,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 191,
+      "poolSize": 185,
       "items": [
         {
           "title": "한가위 달빛처럼 달뜬 감흥…잠시 가라앉히고, 시선 돌려볼까[추석 가볼 만한 전시]",
@@ -240,7 +214,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.5
+          "score": 6.3
         },
         {
           "title": "국립현대미술관 청주 수장고 개편…크레이트도 작품과 함께 보여준다",
@@ -253,7 +227,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.4
+          "score": 6.1
         },
         {
           "title": "“너대로 살아라, 너로서 살아라”···칼로 시대를 새긴 오윤이 두 아들에게 남긴 말",
@@ -266,7 +240,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6
+          "score": 5.7
         },
         {
           "title": "한복 빌려 입고 '뚜비'와 사진도…대구간송미술관 추석 행사",
@@ -279,7 +253,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.3
+          "score": 5.1
         },
         {
           "title": "AI의 빠른 ‘정답’ vs 인간의 ‘망설임’···작가들이 말하는 ‘AI가 대체 못 할 문학’",
@@ -292,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.2
         }
       ]
     }
