@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-25T03:06:37.208Z",
+  "builtAt": "2026-09-25T09:07:39.875Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 331,
+      "poolSize": 330,
       "items": [
         {
           "title": "미 장기금리 상승의 국내 영향은?…\"환율↑·외인 자본 유출\"",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "“시장 익숙하지 않은 영역 진입”…美 30년물 금리 2004년 이래 최고치",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.3
         },
         {
           "title": "美 30년물 국채 수익률 5.44%…저금리시대 종말 신호",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.1
         },
         {
           "title": "[외환] 원/달러 환율 7.6원 오른 1,366.0원(15:30 기준가)",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.9
         },
         {
           "title": "美 10년물 국채금리 5.079%로 폭등…PMI호조로 인플레압력 부각",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.8
+          "score": 6.6
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 154,
+      "poolSize": 156,
       "items": [
         {
           "title": "진흥원, 고은진 교수 초청 화요열린강좌",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.5
         },
         {
           "title": "선불교의 깨달음, 윤리적 실천과 어떻게 만나는가",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3
         },
         {
           "title": "<16> 영화 ‘외계+인’ 속 화순 운주사",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.2
+          "score": 2
         }
       ]
     },
@@ -159,7 +159,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.3
+          "score": 4.2
         },
         {
           "title": "Heidegger on What is Worthy of Question (1957)",
@@ -199,7 +199,7 @@
             "philosophy",
             "art"
           ],
-          "score": 4.3
+          "score": 4.2
         },
         {
           "title": "Online Philosophy Resources Weekly Update",
@@ -212,7 +212,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.2
+          "score": 4.1
         }
       ]
     },
@@ -227,7 +227,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 190,
+      "poolSize": 191,
       "items": [
         {
           "title": "한가위 달빛처럼 달뜬 감흥…잠시 가라앉히고, 시선 돌려볼까[추석 가볼 만한 전시]",
@@ -240,7 +240,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.7
+          "score": 6.5
         },
         {
           "title": "국립현대미술관 청주 수장고 개편…크레이트도 작품과 함께 보여준다",
@@ -253,7 +253,20 @@
           "candidates": [
             "art"
           ],
-          "score": 6.5
+          "score": 6.4
+        },
+        {
+          "title": "“너대로 살아라, 너로서 살아라”···칼로 시대를 새긴 오윤이 두 아들에게 남긴 말",
+          "link": "https://www.khan.co.kr/article/202609251712001/",
+          "summary": "오윤 ‘도깨비’(1985 ), 87.5×207cm. 국립현대미술관 소장1985년 ‘도깨비’ 고무판화 원판. 서울시립 미술아카이브 소장.도깨비들이 판을 벌였다. 춤을 추고, 북을 두드리며, 씨름을 벌이고, 술을 마시고 노래한다. 도깨비의 머리와 몸 주변으로 뻗어나가는 검은 곡선은 기가 뻗어나가는 듯하다. 1980년대 민중미술을 대표하는 작가 오윤(1946··…",
+          "publishedAt": "2026-09-25T08:12:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 6
         },
         {
           "title": "한복 빌려 입고 '뚜비'와 사진도…대구간송미술관 추석 행사",
@@ -266,33 +279,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5.4
+          "score": 5.3
         },
         {
-          "title": "추석 연휴 어디 갈까…전국 국립과학관 무료 개방·체험행사",
-          "link": "https://www.yna.co.kr/view/AKR20260923074700017",
-          "summary": "(서울=연합뉴스) 조승한 기자 = 추석을 맞아 전국 주요 과학관이 상설전시관을 무료 개방하고 다양한 행사를 연다.",
-          "publishedAt": "2026-09-24T01:30:00.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923074700017_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "AI의 빠른 ‘정답’ vs 인간의 ‘망설임’···작가들이 말하는 ‘AI가 대체 못 할 문학’",
+          "link": "https://www.khan.co.kr/article/202609251550001/",
+          "summary": "올해 출판계는 생성형 인공지능(AI)과 인간의 관계를 질문하는 여러 행사를 마련했다. 지난 6월 열린 서울국제도서전의 주제는 ‘인간선언 Homo duduri(호모 두두리)’로 인간이 AI를 다룰 슬기가 있는지 물었다. 이달 초 진행된 서울국제작가축제도 ‘누구세요?’라는 주제를 통해 AI 시대 인간 존재란 무엇인지 고민했다. ‘AI 시대의 미래를 어떻게 예측…",
+          "publishedAt": "2026-09-25T06:50:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 2.5
-        },
-        {
-          "title": "여수세계섬박람회, 추석 연휴 K팝 공연·볼거리 '풍성'",
-          "link": "https://www.yna.co.kr/view/AKR20260923046600054",
-          "summary": "(전남광주=연합뉴스) 형민우 기자 = 2026여수세계섬박람회에서 추석 연휴 온 가족이 즐길 수 있는 전시·체험 프로그램과 특별공연을 선보인다.",
-          "publishedAt": "2026-09-24T01:00:04.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923046600054_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 2.5
+          "score": 4.5
         }
       ]
     }
