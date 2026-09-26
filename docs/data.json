@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-25T21:06:50.444Z",
+  "builtAt": "2026-09-26T03:06:31.211Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,47 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 325,
+      "poolSize": 311,
       "items": [
+        {
+          "title": "[다음주 경제] 반도체 생산 얼마나 늘었나…물가·금리 지표도 발표",
+          "link": "https://www.yna.co.kr/view/AKR20260926014400002",
+          "summary": "(세종·서울=연합뉴스) 이세원 배영경 한지훈 기자 = 다음 주(9월 28일∼10월 2일)에는 국내 산업·경제 동향을 보여주는 통계와 물가·금리 ...",
+          "publishedAt": "2026-09-25T23:23:49.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073016370001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "美 PCE 물가 0.2%P 낮아진다…통화정책 경로에 미칠 영향은 [심성미의 중앙은행 워치]",
+          "link": "https://www.hankyung.com/article/202609256104i",
+          "summary": "",
+          "publishedAt": "2026-09-25T22:00:07.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "금리 올려도 안 풀리는 엔캐리…최대 2조달러 '청산 시한폭탄' 커지나 [김주완의 글로벌머니 X파일]",
+          "link": "https://www.hankyung.com/article/202609232798i",
+          "summary": "",
+          "publishedAt": "2026-09-25T22:00:04.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "국채 고금리? \"정상화 과정\"…AI 채권은 \"비중 축소\" [박신영의 개장전 요것만]",
           "link": "https://www.hankyung.com/article/202609266127i",
@@ -25,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.3
         },
         {
           "title": "미 장기금리 상승의 국내 영향은?…\"환율↑·외인 자본 유출\"",
@@ -38,46 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
-        },
-        {
-          "title": "“시장 익숙하지 않은 영역 진입”…美 30년물 금리 2004년 이래 최고치",
-          "link": "https://www.mk.co.kr/news/economy/12161243",
-          "summary": "30년물 5.5%·10년물 5.2% 돌파 日 30년·獨 17년 만에 최고 수준 고유가·지정학적 긴장·재정 우려 겹쳐 연준 추가 긴축 전망 내달 금리 인상 전망 70%대미국 연방준..",
-          "publishedAt": "2026-09-24T22:55:16.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/25/news-p.v1.20260925.053920040ef449cc8240a7cbe04de4b4_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
           "score": 7
-        },
-        {
-          "title": "美 30년물 국채 수익률 5.44%…저금리시대 종말 신호",
-          "link": "https://www.hankyung.com/article/202609245261i",
-          "summary": "",
-          "publishedAt": "2026-09-24T11:53:40.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.8
-        },
-        {
-          "title": "[외환] 원/달러 환율 7.6원 오른 1,366.0원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20260924038600002",
-          "summary": "(",
-          "publishedAt": "2026-09-24T06:32:38.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/24/AKR20260924038600002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.7
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 125,
+      "poolSize": 124,
       "items": [
         {
           "title": "진흥원, 고은진 교수 초청 화요열린강좌",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.3
+          "score": 3.2
         }
       ]
     },
@@ -133,7 +133,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.1
+          "score": 7
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -159,7 +159,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.9
+          "score": 3.8
         },
         {
           "title": "Heidegger on What is Worthy of Question (1957)",
@@ -173,7 +173,7 @@
             "philosophy",
             "art"
           ],
-          "score": 3.9
+          "score": 3.8
         },
         {
           "title": "Online Philosophy Resources Weekly Update",
@@ -186,7 +186,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.8
+          "score": 3.7
         }
       ]
     },
@@ -201,7 +201,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 185,
+      "poolSize": 183,
       "items": [
         {
           "title": "한가위 달빛처럼 달뜬 감흥…잠시 가라앉히고, 시선 돌려볼까[추석 가볼 만한 전시]",
@@ -214,7 +214,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.3
+          "score": 6.2
         },
         {
           "title": "국립현대미술관 청주 수장고 개편…크레이트도 작품과 함께 보여준다",
@@ -227,7 +227,20 @@
           "candidates": [
             "art"
           ],
-          "score": 6.1
+          "score": 6
+        },
+        {
+          "title": "스페인 조각가, 양구 백토 활용 테니스 우승 트로피 디자인 참여",
+          "link": "https://www.yna.co.kr/view/AKR20260923047700062",
+          "summary": "(양구=연합뉴스) 양지웅 기자 = 강원 양구군은 양구백자박물관 백토마을 입주 작가인 스페인 현대 조각가 다비드 로드리게스 카바예로가 양구에서 열...",
+          "publishedAt": "2026-09-25T23:00:11.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923047700062_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 5.9
         },
         {
           "title": "“너대로 살아라, 너로서 살아라”···칼로 시대를 새긴 오윤이 두 아들에게 남긴 말",
@@ -240,33 +253,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5.7
+          "score": 5.6
         },
         {
-          "title": "한복 빌려 입고 '뚜비'와 사진도…대구간송미술관 추석 행사",
-          "link": "https://www.yna.co.kr/view/AKR20260923070600053",
-          "summary": "(대구=연합뉴스) 윤관식 기자 = 대구간송미술관에서 한복을 무료로 빌려 입고 전시를 관람할 수 있는 특별행사가 열린다.",
-          "publishedAt": "2026-09-24T00:30:02.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923070600053_01_i_P2.jpg",
+          "title": "제29회 원주민족예술제 29일 개막…전시·공연 다채",
+          "link": "https://www.yna.co.kr/view/AKR20260923042700062",
+          "summary": "(원주=연합뉴스) 임보연 기자 = 전통과 현대 예술을 한자리에서 만나는 제29회 원주민족예술제가 오는 29일부터 10월 4일까지 원주 치악예술관...",
+          "publishedAt": "2026-09-25T23:00:08.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923042700062_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 5.1
-        },
-        {
-          "title": "AI의 빠른 ‘정답’ vs 인간의 ‘망설임’···작가들이 말하는 ‘AI가 대체 못 할 문학’",
-          "link": "https://www.khan.co.kr/article/202609251550001/",
-          "summary": "올해 출판계는 생성형 인공지능(AI)과 인간의 관계를 질문하는 여러 행사를 마련했다. 지난 6월 열린 서울국제도서전의 주제는 ‘인간선언 Homo duduri(호모 두두리)’로 인간이 AI를 다룰 슬기가 있는지 물었다. 이달 초 진행된 서울국제작가축제도 ‘누구세요?’라는 주제를 통해 AI 시대 인간 존재란 무엇인지 고민했다. ‘AI 시대의 미래를 어떻게 예측…",
-          "publishedAt": "2026-09-25T06:50:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.2
+          "score": 4.4
         }
       ]
     }
