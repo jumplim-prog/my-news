@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-26T03:06:31.211Z",
+  "builtAt": "2026-09-26T09:06:23.920Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 311,
+      "poolSize": 270,
       "items": [
         {
           "title": "[다음주 경제] 반도체 생산 얼마나 늘었나…물가·금리 지표도 발표",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.3
         },
         {
           "title": "美 PCE 물가 0.2%P 낮아진다…통화정책 경로에 미칠 영향은 [심성미의 중앙은행 워치]",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.3
         },
         {
           "title": "금리 올려도 안 풀리는 엔캐리…최대 2조달러 '청산 시한폭탄' 커지나 [김주완의 글로벌머니 X파일]",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.3
         },
         {
           "title": "국채 고금리? \"정상화 과정\"…AI 채권은 \"비중 축소\" [박신영의 개장전 요것만]",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.1
         },
         {
           "title": "미 장기금리 상승의 국내 영향은?…\"환율↑·외인 자본 유출\"",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7
+          "score": 6.8
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 124,
+      "poolSize": 123,
       "items": [
         {
           "title": "진흥원, 고은진 교수 초청 화요열린강좌",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3
         }
       ]
     },
@@ -133,7 +133,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7
+          "score": 6.8
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -159,7 +159,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.8
+          "score": 3.7
         },
         {
           "title": "Heidegger on What is Worthy of Question (1957)",
@@ -173,7 +173,7 @@
             "philosophy",
             "art"
           ],
-          "score": 3.8
+          "score": 3.7
         },
         {
           "title": "Online Philosophy Resources Weekly Update",
@@ -186,7 +186,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.7
+          "score": 3.6
         }
       ]
     },
@@ -201,26 +201,13 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 183,
+      "poolSize": 184,
       "items": [
         {
           "title": "한가위 달빛처럼 달뜬 감흥…잠시 가라앉히고, 시선 돌려볼까[추석 가볼 만한 전시]",
           "link": "https://www.khan.co.kr/article/202609231923005/",
           "summary": "(위 사진부터)세화미술관 ‘게오르그 바젤리츠’, 리움미술관 ‘구정아: 우스모스’, 2026 부산비엔날레, 서울시립미술관 ‘유영국: 산은 내 안에 있다’ 전시 전경. 세화미술관·리움미술관·부산비엔날레· 서울시립미술관 제공나흘을 쉬는 올해 추석은 멀리 떠나기에는 다소 빠듯하지만, 미뤄둔 전시를 몰아보기에는 적당한 시간이다. 예약이 일찌감치 차고 소셜미디어를 ·…",
           "publishedAt": "2026-09-23T10:23:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 6.2
-        },
-        {
-          "title": "국립현대미술관 청주 수장고 개편…크레이트도 작품과 함께 보여준다",
-          "link": "https://www.khan.co.kr/article/202609231252001/",
-          "summary": "국립현대미술관 청주관 개방 수장고의 모습. 국립현대미술관 제공국립현대미술관은 청주관 1층 개방 수장고를 개편해 소장품 32점을 새롭게 선보인다고 23일 밝혔다.한국 현대조각 1세대를 대표하는 김세중의 ‘김 골룸바와 아녜스 자매’(1954, 1974년경 주조), 추상회화로 잘 알려진 최욱경의 드문 조각 작품 ‘호기심’(1972), 추상조각가 전국광의 국전··…",
-          "publishedAt": "2026-09-23T03:52:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-culture",
@@ -240,7 +227,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.9
+          "score": 5.8
         },
         {
           "title": "“너대로 살아라, 너로서 살아라”···칼로 시대를 새긴 오윤이 두 아들에게 남긴 말",
@@ -253,7 +240,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5.6
+          "score": 5.5
+        },
+        {
+          "title": "겉은 ‘신의 발냄새’ 속은 ‘비단 같은 크림’···치즈 한 조각에 남은 수도자의 삶",
+          "link": "https://www.khan.co.kr/article/202609261400001/",
+          "summary": "지독한 냄새의 세척치즈부터 오래 숙성한 경성치즈까지에푸아스 치즈. 위키피디아믿음이 없어도 이상하게 마음이 고요해지는 순간들. 먹고 마시며 다니다가 마주치는 뜻밖의 성스러움. 거창하지 않아도 일상에 숨어 있는 작고 거룩한 순간들을 만나봅니다.얼마 전 서울 코엑스에서 열린 치즈 팝업매장을 방문한 적이 있습니다. 프랑스 국립낙농협의회가 프랑스의 다양한 치즈를··…",
+          "publishedAt": "2026-09-26T05:00:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "제29회 원주민족예술제 29일 개막…전시·공연 다채",
@@ -266,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         }
       ]
     }
