@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-27T03:06:37.748Z",
+  "builtAt": "2026-09-27T09:06:31.331Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 275,
+      "poolSize": 302,
       "items": [
+        {
+          "title": "AI 열기가 ‘돈의 공식’도 바꿨다···미 국채금리 치솟아도 국내 주가는 버텨",
+          "link": "https://www.khan.co.kr/article/202609271700001/",
+          "summary": "지난 16일 미국 뉴욕증권거래소(NYSE)에서 트레이더들이 일하고 있는 가운데 미 국채 30년물 금리가 5.319%를 기록했다는 뉴스가 방영되고 있다. AFP연합뉴스미국 장기국채 금리가 20여년만에 최고치로 치솟았지만 국내외 증시는 좀처럼 흔들리지 않고 있다. 금리가 오르면 주가가 떨어진다는 오랜 공식이 힘을 잃고 있는 모습이다. 미국 경기 호조와 인공지능…",
+          "publishedAt": "2026-09-27T08:00:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "[다음주 경제] 반도체 생산 얼마나 늘었나…물가·금리 지표도 발표",
           "link": "https://www.yna.co.kr/view/AKR20260926014400002",
@@ -22,45 +35,6 @@
           "image": "https://img.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073016370001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.9
-        },
-        {
-          "title": "美 PCE 물가 0.2%P 낮아진다…통화정책 경로에 미칠 영향은 [심성미의 중앙은행 워치]",
-          "link": "https://www.hankyung.com/article/202609256104i",
-          "summary": "",
-          "publishedAt": "2026-09-25T22:00:07.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.9
-        },
-        {
-          "title": "금리 올려도 안 풀리는 엔캐리…최대 2조달러 '청산 시한폭탄' 커지나 [김주완의 글로벌머니 X파일]",
-          "link": "https://www.hankyung.com/article/202609232798i",
-          "summary": "",
-          "publishedAt": "2026-09-25T22:00:04.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.9
-        },
-        {
-          "title": "국채 고금리? \"정상화 과정\"…AI 채권은 \"비중 축소\" [박신영의 개장전 요것만]",
-          "link": "https://www.hankyung.com/article/202609266127i",
-          "summary": "",
-          "publishedAt": "2026-09-25T15:48:29.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
@@ -77,7 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.5
+          "score": 6.3
+        },
+        {
+          "title": "“시장 익숙하지 않은 영역 진입”…美 30년물 금리 2004년 이래 최고치",
+          "link": "https://www.mk.co.kr/news/economy/12161243",
+          "summary": "30년물 5.5%·10년물 5.2% 돌파 日 30년·獨 17년 만에 최고 수준 고유가·지정학적 긴장·재정 우려 겹쳐 연준 추가 긴축 전망 내달 금리 인상 전망 70%대미국 연방준..",
+          "publishedAt": "2026-09-24T22:55:16.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/25/news-p.v1.20260925.053920040ef449cc8240a7cbe04de4b4_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6.3
+        },
+        {
+          "title": "‘예테크’ 시대 돌아왔다···연 8% 파킹통장까지 등장",
+          "link": "https://www.khan.co.kr/article/202609261937001/",
+          "summary": "5대 시중은행, 연 3.4~3.6%은행권 정기예금 최고 연 3.92%연 10% 금리 주는 한달짜리 적금도금리인상기엔 만기 짧게연합뉴스한국은행이 기준금리를 올리며 통화정책 전환에 나서자 주요 시중은행들도 예적금 금리를 속속 인상하고 있다. 저축은행은 연 7%대 금리를 제공하는 상품을 선보이는 등 ‘예테크(예금+재테크)’ 족의 관심을 끌고 있다.23일 은행권에…",
+          "publishedAt": "2026-09-26T10:37:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.5
         }
       ]
     },
@@ -92,8 +92,22 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 79,
-      "items": []
+      "poolSize": 80,
+      "items": [
+        {
+          "title": "‘산 자와 죽은 자’ 함께 제도하는 ‘진관사 국행수륙재’",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442629",
+          "summary": "올해 설행하고 있는 국가무형유산인 진관사 국행수륙재가 일반적으로 인식하고 있는 영가를 천도하는 의식만 아니라 산 자와 죽은 자를 함께 제도하는 대승불교의 실천이라는 의미를 담아 진관사 어린이, 청소년, 청년들이 ‘어청청 부스’를 운영하고 있어 의미를 더하고 있다.서울 진관사(주지 법해스님)는 9월27일 함월당에서 ‘2026 국가무형유산 진관사 국행수륙재 삼…",
+          "publishedAt": "2026-09-27T16:28:20.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
+        }
+      ]
     },
     {
       "id": "philosophy",
@@ -119,7 +133,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.5
+          "score": 6.3
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -171,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.3
+          "score": 3.2
         }
       ]
     },
@@ -186,7 +200,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 178,
+      "poolSize": 179,
       "items": [
         {
           "title": "스페인 조각가, 양구 백토 활용 테니스 우승 트로피 디자인 참여",
@@ -199,7 +213,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.4
+          "score": 5.3
         },
         {
           "title": "“너대로 살아라, 너로서 살아라”···칼로 시대를 새긴 오윤이 두 아들에게 남긴 말",
@@ -212,7 +226,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.1
+          "score": 5
         },
         {
           "title": "뮤지컬 작가·작곡가도 모인다…한국뮤지컬창작자협회 창립 준비",
@@ -225,10 +239,10 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
-          "title": "겉은 ‘신의 발냄새’ 속은 ‘비단 같은 크림’···치즈 한 조각에 남은 수도자의 삶",
+          "title": "[홀리한 구석]겉은 ‘신의 발냄새’ 속은 ‘비단 같은 크림’···치즈 한 조각에 남은 수도자의 삶",
           "link": "https://www.khan.co.kr/article/202609261400001/",
           "summary": "지독한 냄새의 세척치즈부터 오래 숙성한 경성치즈까지에푸아스 치즈. 위키피디아믿음이 없어도 이상하게 마음이 고요해지는 순간들. 먹고 마시며 다니다가 마주치는 뜻밖의 성스러움. 거창하지 않아도 일상에 숨어 있는 작고 거룩한 순간들을 만나봅니다.얼마 전 서울 코엑스에서 열린 치즈 팝업매장을 방문한 적이 있습니다. 프랑스 국립낙농협의회가 프랑스의 다양한 치즈를··…",
           "publishedAt": "2026-09-26T05:00:00.000Z",
@@ -238,20 +252,20 @@
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 3.9
         },
         {
-          "title": "제29회 원주민족예술제 29일 개막…전시·공연 다채",
-          "link": "https://www.yna.co.kr/view/AKR20260923042700062",
-          "summary": "(원주=연합뉴스) 임보연 기자 = 전통과 현대 예술을 한자리에서 만나는 제29회 원주민족예술제가 오는 29일부터 10월 4일까지 원주 치악예술관...",
-          "publishedAt": "2026-09-25T23:00:08.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923042700062_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "AI의 빠른 ‘정답’ vs 인간의 ‘망설임’···작가들이 말하는 ‘AI가 대체 못 할 문학’",
+          "link": "https://www.khan.co.kr/article/202609251550001/",
+          "summary": "올해 출판계는 생성형 인공지능(AI)과 인간의 관계를 질문하는 여러 행사를 마련했다. 지난 6월 열린 서울국제도서전의 주제는 ‘인간선언 Homo duduri(호모 두두리)’로 인간이 AI를 다룰 슬기가 있는지 물었다. 이달 초 진행된 서울국제작가축제도 ‘누구세요?’라는 주제를 통해 AI 시대 인간 존재란 무엇인지 고민했다. ‘AI 시대의 미래를 어떻게 예측…",
+          "publishedAt": "2026-09-25T06:50:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 3.9
+          "score": 3.5
         }
       ]
     }
