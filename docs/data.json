@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-27T09:06:31.331Z",
+  "builtAt": "2026-09-27T21:06:38.579Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 302,
+      "poolSize": 312,
       "items": [
         {
           "title": "AI 열기가 ‘돈의 공식’도 바꿨다···미 국채금리 치솟아도 국내 주가는 버텨",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "[다음주 경제] 반도체 생산 얼마나 늘었나…물가·금리 지표도 발표",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.8
+          "score": 6.5
         },
         {
           "title": "미 장기금리 상승의 국내 영향은?…\"환율↑·외인 자본 유출\"",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.3
+          "score": 6.1
         },
         {
           "title": "“시장 익숙하지 않은 영역 진입”…美 30년물 금리 2004년 이래 최고치",
@@ -64,20 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.3
+          "score": 6
         },
         {
-          "title": "‘예테크’ 시대 돌아왔다···연 8% 파킹통장까지 등장",
-          "link": "https://www.khan.co.kr/article/202609261937001/",
-          "summary": "5대 시중은행, 연 3.4~3.6%은행권 정기예금 최고 연 3.92%연 10% 금리 주는 한달짜리 적금도금리인상기엔 만기 짧게연합뉴스한국은행이 기준금리를 올리며 통화정책 전환에 나서자 주요 시중은행들도 예적금 금리를 속속 인상하고 있다. 저축은행은 연 7%대 금리를 제공하는 상품을 선보이는 등 ‘예테크(예금+재테크)’ 족의 관심을 끌고 있다.23일 은행권에…",
-          "publishedAt": "2026-09-26T10:37:00.000Z",
+          "title": "금리 치솟아도, 주가 안 떨어졌다…‘돈의 공식’ 바뀌나",
+          "link": "https://www.khan.co.kr/article/202609272101005/",
+          "summary": "고금리 시대 버티는 증시…왜?미 국채 10년물 ‘5.22%’ 최고치 주가, 예전처럼 급락 않고 ‘선방’ AI 투자 호황…한·미 성장 견인 투자 꺾이면 주가 떨어질 수도미국 장기국채 금리가 20여년 만에 최고치로 치솟았지만 국내외 증시는 좀처럼 흔들리지 않고 있다. 미국 경기 호조와 인공지능(AI) 투자를 중심으로 한 대규모 설비투자가 금리 상승에 따른 금융…",
+          "publishedAt": "2026-09-27T12:01:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5.5
+          "score": 5.8
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 80,
+      "poolSize": 72,
       "items": [
         {
           "title": "‘산 자와 죽은 자’ 함께 제도하는 ‘진관사 국행수륙재’",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 2.9
         }
       ]
     },
@@ -133,7 +133,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.3
+          "score": 6.1
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -147,6 +147,20 @@
             "philosophy"
           ],
           "score": 4.5
+        },
+        {
+          "title": "American Neoliberalism: Michel Foucault’s Birth of Biopolitics Lectures",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/american-neoliberalism-michel-foucaults-birth-of-biopolitics-lectures.html",
+          "summary": "Gary Becker, François Ewald, and Bernard Harcourt discuss Foucault on neoliberalism and Gary Becker (via Scott Ashworth):",
+          "publishedAt": "2026-09-27T14:21:55.000Z",
+          "image": "",
+          "sourceName": "3 Quarks Daily",
+          "sourceId": "3quarks",
+          "candidates": [
+            "philosophy",
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "황석영·데보라 스미스, 국립세계문자박물관서 ‘번역’을 말하다",
@@ -173,19 +187,6 @@
             "philosophy"
           ],
           "score": 3.5
-        },
-        {
-          "title": "Philosophy Teaching Resource Updated",
-          "link": "https://dailynous.com/philosophy-teaching-resource-updated/",
-          "summary": "TeachPhilosophy101, a free and helpful collection of resources and ideas for teaching philosophy, has recently been updated. Its materials cover course planning, how to use […] The post Philosophy Tea…",
-          "publishedAt": "2026-09-24T18:03:50.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/09/Henri-Florence-Struttura.png",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3.2
         }
       ]
     },
@@ -200,21 +201,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 179,
+      "poolSize": 177,
       "items": [
-        {
-          "title": "스페인 조각가, 양구 백토 활용 테니스 우승 트로피 디자인 참여",
-          "link": "https://www.yna.co.kr/view/AKR20260923047700062",
-          "summary": "(양구=연합뉴스) 양지웅 기자 = 강원 양구군은 양구백자박물관 백토마을 입주 작가인 스페인 현대 조각가 다비드 로드리게스 카바예로가 양구에서 열...",
-          "publishedAt": "2026-09-25T23:00:11.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923047700062_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 5.3
-        },
         {
           "title": "“너대로 살아라, 너로서 살아라”···칼로 시대를 새긴 오윤이 두 아들에게 남긴 말",
           "link": "https://www.khan.co.kr/article/202609251712001/",
@@ -226,7 +214,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5
+          "score": 4.7
+        },
+        {
+          "title": "선비이자 예술가, 누군가의 벗이자 제자…‘인간 정선’을 만나다",
+          "link": "https://www.khan.co.kr/article/202609271953005/",
+          "summary": "대구간송미술관 ‘겸재 정선’전대구간송미술관 ‘겸재 정선’ 특별전에 전시 중인 <경교명승첩> 중 ‘독서여가’. 툇마루에 걸터앉은 이가 정선이다. 간송미술문화재단 제공국보·보물 등 216점 ‘역대 최대’ 50대의 자화상 담긴 ‘독서여가’ 스승 향한 존경 ‘미호-석실서원’ 시인 이병연과 나눈 시·그림 등 정선의 삶·교유 관계 초점 맞춰반듯한 기둥과 가···",
+          "publishedAt": "2026-09-27T10:53:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
         },
         {
           "title": "뮤지컬 작가·작곡가도 모인다…한국뮤지컬창작자협회 창립 준비",
@@ -239,7 +240,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "[홀리한 구석]겉은 ‘신의 발냄새’ 속은 ‘비단 같은 크림’···치즈 한 조각에 남은 수도자의 삶",
@@ -252,7 +253,7 @@
           "candidates": [
             "art"
           ],
-          "score": 3.9
+          "score": 3.7
         },
         {
           "title": "AI의 빠른 ‘정답’ vs 인간의 ‘망설임’···작가들이 말하는 ‘AI가 대체 못 할 문학’",
@@ -265,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 3.5
+          "score": 3.2
         }
       ]
     }
