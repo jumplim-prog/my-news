@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-28T03:07:49.463Z",
+  "builtAt": "2026-09-28T09:08:59.050Z",
   "cards": [
     {
       "id": "econ",
@@ -12,14 +12,53 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 330,
+      "poolSize": 328,
       "items": [
         {
-          "title": "美 국채금리 2007년 이후 최고…\"물가 우려에 10년물 5.6%까지 열려\"",
-          "link": "https://www.yna.co.kr/view/AKR20260928024500008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 미국 10년물 국채금리가 2007년 이후 최고치로 치솟으면서 글로벌 금융시장에 긴장감을 불어넣고 있다. 추석 ...",
-          "publishedAt": "2026-09-27T23:56:40.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928024500008_01_i_P2.jpg",
+          "title": "美국채 금리 5.2% 뚫리자…덩달아 치솟는 韓국고채",
+          "link": "https://www.hankyung.com/article/2026092801901",
+          "summary": "",
+          "publishedAt": "2026-09-28T08:56:56.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "연휴 끝낸 코스피, 또 7000선 반납…삼전·닉스 5% 급락",
+          "link": "https://www.khan.co.kr/article/202609281613001/",
+          "summary": "28일 서울 중구 하나은행 본점 딜링룸 전광판에 실시간 원·달러 환율과 코스피, 코스닥지수가 표시돼 있다. 연합뉴스추석 연휴를 마치고 돌아온 코스피 지수가 28일 2% 넘게 하락하며 7000선을 반납했다. 추석 연휴 이후 반등해온 과거 흐름과는 다른 양상이다. 미국 국채 금리가 급등한 가운데 SK하이닉스의 중복 상장 논란까지 재점화하면서 투자심리가 위축된…",
+          "publishedAt": "2026-09-28T07:13:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "추석 연휴 미 국채 금리 급등에…환율 1,360원대 중반으로",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008773205",
+          "summary": "▲ 28일 서울 중구 하나은행 본점 딜링룸에 주가지수가 표시되고 있다. 이날 코스피는 191.18p 내린 6,889.74로 장을 마쳤…",
+          "publishedAt": "2026-09-28T07:12:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260928/202226510_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "[외환] 원/달러 환율 7.6원 오른 1,365.1원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20260928117100002",
+          "summary": "(",
+          "publishedAt": "2026-09-28T06:38:10.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928117100002_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
@@ -28,56 +67,17 @@
           "score": 7.4
         },
         {
-          "title": "AI 열기가 ‘돈의 공식’도 바꿨다···미 국채금리 치솟아도 국내 주가는 버텨",
-          "link": "https://www.khan.co.kr/article/202609271700001/",
-          "summary": "지난 16일 미국 뉴욕증권거래소(NYSE)에서 트레이더들이 일하고 있는 가운데 미 국채 30년물 금리가 5.319%를 기록했다는 뉴스가 방영되고 있다. AFP연합뉴스미국 장기국채 금리가 20여년만에 최고치로 치솟았지만 국내외 증시는 좀처럼 흔들리지 않고 있다. 금리가 오르면 주가가 떨어진다는 오랜 공식이 힘을 잃고 있는 모습이다. 미국 경기 호조와 인공지능…",
-          "publishedAt": "2026-09-27T08:00:00.000Z",
+          "title": "이형일·신현송 “물가 성장, 금융 안정 위한 협력 강화”",
+          "link": "https://www.khan.co.kr/article/202609281513021/",
+          "summary": "이형일 부총리 겸 재정경제부 장관이 28일 서울 중구 한국은행을 방문, 신현송 총재와 기념촬영을 하고 있다. 사진공동취재단이형일 부총리 겸 재정경제부 장관이 취임 엿새 만인 28일 신현송 한국은행 총재와 처음 만났다. 두 기관장은 글로벌 국채금리 급등세 등 금융시장의 변동성을 경계하면서도 거시경제 안정을 위한 재정·통화정책의 공조 체계를 강화해나가기로 했다…",
+          "publishedAt": "2026-09-28T06:13:02.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.1
-        },
-        {
-          "title": "한은 “글로벌 국채금리 상승, 불확실성 높아져” 경계감",
-          "link": "https://www.hani.co.kr/arti/economy/economy_general/1279698.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레",
-          "sourceId": "hani-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.5
-        },
-        {
-          "title": "美 금리 급등에 국고채 3년물 4.1% 돌파…10년물 15bp 급등",
-          "link": "https://www.yna.co.kr/view/AKR20260928077900008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 28일 오전 국고채 금리는 미국 국채금리가 급등한 영향을 받아 일제히 상승했다.",
-          "publishedAt": "2026-09-28T02:53:06.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928077900008_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6
-        },
-        {
-          "title": "“집값 빨리 잡는 건 결국 금리?”…0.25%p 올리면 반년 뒤 매매가 1.2% 하락",
-          "link": "https://www.mk.co.kr/news/economy/12162464",
-          "summary": "국토연구원 국토이슈리포트 분석 금리 인상 충격, 단기에 더 크게 반영 12개월 뒤 하락폭 1.1%로 다소 완화 주택시장 유동성 흐름 함께 점검 필요기준금리가 0.25% 포인트씩 상..",
-          "publishedAt": "2026-09-28T01:43:03.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/28/news-p.v1.20260928.99a1883aded54517bfc203676a570b0f_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6
+          "score": 7.4
         }
       ]
     },
@@ -92,8 +92,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 86,
+      "poolSize": 112,
       "items": [
+        {
+          "title": "'본각사상'으로 한국 선불교 윤리 재조명",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505480",
+          "summary": "오늘날 다양한 수행·명상 문화 확산 속에 불교 수행의 의미와 정체성을 돌아보고, 선불교의 윤리적 가치를 재조명하는 자리가 마련됐다.한국선학회(회장 향산 스님)는 10월 22일 오후 1시 한국불교역사문화기념관 2층 국제회의장에서 ‘선불교와 윤리-본각사상과 관련하여’를 주제로 2026년 추계학술대회를 개최한다. 남원 실상사·고려대장경연구소 주최, 한국선학회 주…",
+          "publishedAt": "2026-09-28T15:43:00.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.6
+        },
+        {
+          "title": "진흥원, 10월 화요강좌에 고은진 교수 ‘AI와 불교’",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505476",
+          "summary": "대한불교진흥원(이사장 구상진, 이하 진흥원)이 초기불교부터 선불교까지의 가르침을 바탕으로 인공지능(AI)과 인간의 마음은 무엇이 다른지를 탐구하는 자리를 마련한다.진흥원은 10월 6일 오후 7시 서울 마포 다보원에서 의 저자 고은진 박사(제주대 학술연구교수)를 초청해 10월 화요 열린 강좌 ‘AI에게 마음을 묻다’를 개최한다.‘초기불교부터 선(禪)까지, 명…",
+          "publishedAt": "2026-09-28T14:35:54.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.6
+        },
         {
           "title": "80권 방대한 화엄의 세계를 한 권에 담다",
           "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442647",
@@ -105,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3
         },
         {
           "title": "[부고]이민성 한국학중앙연구원 박사 별세…향년 44세",
@@ -118,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 3
         },
         {
           "title": "공주 구룡사, 10월 한달간 '구절산 구절초 꽃축제'",
@@ -131,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
-        },
-        {
-          "title": "‘산 자와 죽은 자’ 함께 제도하는 ‘진관사 국행수륙재’",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442629",
-          "summary": "올해 설행하고 있는 국가무형유산인 진관사 국행수륙재가 일반적으로 인식하고 있는 영가를 천도하는 의식만 아니라 산 자와 죽은 자를 함께 제도하는 대승불교의 실천이라는 의미를 담아 진관사 어린이, 청소년, 청년들이 ‘어청청 부스’를 운영하고 있어 의미를 더하고 있다.서울 진관사(주지 법해스님)는 9월27일 함월당에서 ‘2026 국가무형유산 진관사 국행수륙재 삼…",
-          "publishedAt": "2026-09-27T16:28:20.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.8
+          "score": 3
         }
       ]
     },
@@ -161,6 +174,19 @@
       "scoredBy": "keyword",
       "poolSize": 145,
       "items": [
+        {
+          "title": "\"기관 전문성·정체성 말살 졸속 개혁\"… 학계, 한중연·고전번역원·동북아재단 통합 철회 촉구",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210744",
+          "summary": "[28일, 85개 학술단체 고려대서 기자회견] 정부의 교육부 소관 연구기관 통폐합 방안에 맞서 국내외 학술단체들이 기자회견을 열고 집단 반발에 나섰다.한국고대사학회, 역사학회, 한국고전번역학회, 한국서지학회 등 국내외 85개 학회 및 연구소는 28일 서울 성북구 고려대 문과대학에서 기자회견을 열고 동북아역사재단, 한국학중앙연구원, 한국고전번역원을 통합하려는…",
+          "publishedAt": "2026-09-28T17:18:49.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 7.7
+        },
         {
           "title": "Moral Phenomenology",
           "link": "https://plato.stanford.edu/entries/moral-phenomenology/",
@@ -199,33 +225,20 @@
             "philosophy",
             "art"
           ],
-          "score": 4.2
+          "score": 4.1
         },
         {
-          "title": "황석영·데보라 스미스, 국립세계문자박물관서 ‘번역’을 말하다",
-          "link": "https://www.hani.co.kr/arti/culture/book/1279020.html",
-          "summary": "",
-          "publishedAt": null,
+          "title": "81.8% \"남한과 북한은 별개 국가\"…20·30대 통일 인식 더 낮아져",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210725",
+          "summary": "2026년을 살아가는 국민들은 통일을 어떻게 인식하고 있을까. 통일 필요성에 대한 긍정적 인식은 39.0%로 2025년 대비 약간 낮아졌고, 반대로 통일이 필요하지 않다는 응답은 32.2%로 상승했다. 특히 20~30대에서 통일 필요성 인식이 낮고, 분단 상태 유지 선호와 통일 불가능 인식이 높게 나타났다.2007년부터 지난 20년간 「통일의식조사」를 수행…",
+          "publishedAt": "2026-09-28T15:02:48.000Z",
           "image": "",
-          "sourceName": "한겨레 문화",
-          "sourceId": "hani-culture",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 3.5
-        },
-        {
-          "title": "박재순 전 씨알사상연구소장 별세…함석헌·류영모 사상 연구 매진",
-          "link": "https://www.hani.co.kr/arti/culture/religion/1278846.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레 문화",
-          "sourceId": "hani-culture",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3.5
+          "score": 3.1
         }
       ]
     },
@@ -240,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 175,
+      "poolSize": 179,
       "items": [
         {
           "title": "안산산업역사박물관, 기획전시 부문 '올해의 박물관·미술관상'",
@@ -253,53 +266,53 @@
           "candidates": [
             "art"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
-          "title": "고미술부터 K푸드까지…내달 1∼4일 '인사동 엔틱&아트페어'",
-          "link": "https://www.yna.co.kr/view/AKR20260928016200004",
-          "summary": "(서울=연합뉴스) 정준영 기자 = 서울 종로구(구청장 유찬종)는 오는 10월 1∼4일 인사아트프라자 등 인사동 일대에서 제39회 인사전통문화축제...",
-          "publishedAt": "2026-09-27T22:58:56.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928016200004_03_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "가을밤 미술관에 울리는 루시드폴·셋셋셋의 음악",
-          "link": "https://www.yna.co.kr/view/AKR20260928031800005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관(MMCA)은 다음 달 7일 오후 6시 서울관 1층 로비에서 야간 문화행사 '2026 MMCA 나...",
-          "publishedAt": "2026-09-28T00:12:46.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928031800005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 5.9
-        },
-        {
-          "title": "“너대로 살아라, 너로서 살아라”···칼로 시대를 새긴 오윤이 두 아들에게 남긴 말",
-          "link": "https://www.khan.co.kr/article/202609251712001/",
-          "summary": "오윤 ‘도깨비’(1985 ), 87.5×207cm. 국립현대미술관 소장1985년 ‘도깨비’ 고무판화 원판. 서울시립 미술아카이브 소장.도깨비들이 판을 벌였다. 춤을 추고, 북을 두드리며, 씨름을 벌이고, 술을 마시고 노래한다. 도깨비의 머리와 몸 주변으로 뻗어나가는 검은 곡선은 기가 뻗어나가는 듯하다. 1980년대 민중미술을 대표하는 작가 오윤(1946··…",
-          "publishedAt": "2026-09-25T08:12:00.000Z",
+          "title": "‘게이 한국인 남성 예술가’라고 쓴 순간, 작품이 시작됐다···오인환이 30년간 비춰온 ‘사각지대’",
+          "link": "https://www.khan.co.kr/article/202609281801001/",
+          "summary": "1996년 뉴욕서 공개 커밍아웃, 삶을 작업으로향·언어·참여로 퀴어의 삶과 장소 드러내‘칼군무’·‘애교’ 신작으로 규범과 집단주의 질문“퀴어미술은 모든 세대·젠더에 열린 미술”오인환 작가가 지난 11일 서울 노원구 서울시립 북서울미술관에서 열리는 ‘오인환 vs. 장서영: 휴먼 에러’에 전시된 ‘무지개처럼, 우리는 하나가 아니기에 아름답지 않은가’ 작업 앞에…",
+          "publishedAt": "2026-09-28T09:01:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.6
+          "score": 6
         },
         {
-          "title": "12가지 색으로 들여다본 김해 봉황동 유적…'채색, 봉황' 전시",
-          "link": "https://www.yna.co.kr/view/AKR20260927026800005",
-          "summary": "(서울=연합뉴스) 김예나 기자 = 금관가야의 왕성 터로 지목돼 온 '김해 봉황동 유적'의 발굴 조사 성과를 조명한 전시가 열린다.",
-          "publishedAt": "2026-09-28T00:00:03.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/27/AKR20260927026800005_01_i_P2.jpg",
+          "title": "[청송소식] 주왕산 대전사, 이혜현 작가 초대전",
+          "link": "https://www.yna.co.kr/view/AKR20260928134000053",
+          "summary": "(청송=연합뉴스) 경북 청송군 주왕산에 위치한 대한불교조계종 대전사는 내달 1일부터 오는 12월 31일까지 경내 갤러리 회연당에서 이혜현 작가의...",
+          "publishedAt": "2026-09-28T07:50:13.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928134000053_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "생태 미술의 장…하동서 '지리산국제환경비엔날레' 10월 개막",
+          "link": "https://www.yna.co.kr/view/AKR20260928120400052",
+          "summary": "(하동=연합뉴스) 박정헌 기자 = 기후위기와 기술가속 시대에 예술의 방향을 모색하는 국제 생태 미술 축제 '2026 지리산국제환경비엔날레'가 내...",
+          "publishedAt": "2026-09-28T06:54:55.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928120400052_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "\"뮤지컬 작가·작곡가 처우 개선…저작권도 보다 두텁게 보호\"",
+          "link": "https://www.yna.co.kr/view/AKR20260928101500005",
+          "summary": "(서울=연합뉴스) 임순현 기자 = \"예술인복지재단이 마련한 표준계약서는 엉성한 구석이 많아요. 그래서 협회 차원의 재정비가 필요합니다.\"(다미로...",
+          "publishedAt": "2026-09-28T05:48:37.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/28/PYH2026092806690001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
