@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-27T21:06:38.579Z",
+  "builtAt": "2026-09-28T03:07:49.463Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 312,
+      "poolSize": 330,
       "items": [
+        {
+          "title": "美 국채금리 2007년 이후 최고…\"물가 우려에 10년물 5.6%까지 열려\"",
+          "link": "https://www.yna.co.kr/view/AKR20260928024500008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 미국 10년물 국채금리가 2007년 이후 최고치로 치솟으면서 글로벌 금융시장에 긴장감을 불어넣고 있다. 추석 ...",
+          "publishedAt": "2026-09-27T23:56:40.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928024500008_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "AI 열기가 ‘돈의 공식’도 바꿨다···미 국채금리 치솟아도 국내 주가는 버텨",
           "link": "https://www.khan.co.kr/article/202609271700001/",
@@ -25,59 +38,46 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.1
         },
         {
-          "title": "[다음주 경제] 반도체 생산 얼마나 늘었나…물가·금리 지표도 발표",
-          "link": "https://www.yna.co.kr/view/AKR20260926014400002",
-          "summary": "(세종·서울=연합뉴스) 이세원 배영경 한지훈 기자 = 다음 주(9월 28일∼10월 2일)에는 국내 산업·경제 동향을 보여주는 통계와 물가·금리 ...",
-          "publishedAt": "2026-09-25T23:23:49.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073016370001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "한은 “글로벌 국채금리 상승, 불확실성 높아져” 경계감",
+          "link": "https://www.hani.co.kr/arti/economy/economy_general/1279698.html",
+          "summary": "",
+          "publishedAt": null,
+          "image": "",
+          "sourceName": "한겨레",
+          "sourceId": "hani-economy",
           "candidates": [
             "econ"
           ],
           "score": 6.5
         },
         {
-          "title": "미 장기금리 상승의 국내 영향은?…\"환율↑·외인 자본 유출\"",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769822",
-          "summary": "▲ 뉴욕 증권거래소미국의 장기 국채 수익률 상승이 국내 금리 상승뿐 아니라 원화 가치 및 외국인 자본 유출에 따른 증시 약세로 전이될…",
-          "publishedAt": "2026-09-25T01:23:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260812/202211514_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.1
-        },
-        {
-          "title": "“시장 익숙하지 않은 영역 진입”…美 30년물 금리 2004년 이래 최고치",
-          "link": "https://www.mk.co.kr/news/economy/12161243",
-          "summary": "30년물 5.5%·10년물 5.2% 돌파 日 30년·獨 17년 만에 최고 수준 고유가·지정학적 긴장·재정 우려 겹쳐 연준 추가 긴축 전망 내달 금리 인상 전망 70%대미국 연방준..",
-          "publishedAt": "2026-09-24T22:55:16.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/25/news-p.v1.20260925.053920040ef449cc8240a7cbe04de4b4_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "title": "美 금리 급등에 국고채 3년물 4.1% 돌파…10년물 15bp 급등",
+          "link": "https://www.yna.co.kr/view/AKR20260928077900008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 28일 오전 국고채 금리는 미국 국채금리가 급등한 영향을 받아 일제히 상승했다.",
+          "publishedAt": "2026-09-28T02:53:06.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928077900008_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
           "score": 6
         },
         {
-          "title": "금리 치솟아도, 주가 안 떨어졌다…‘돈의 공식’ 바뀌나",
-          "link": "https://www.khan.co.kr/article/202609272101005/",
-          "summary": "고금리 시대 버티는 증시…왜?미 국채 10년물 ‘5.22%’ 최고치 주가, 예전처럼 급락 않고 ‘선방’ AI 투자 호황…한·미 성장 견인 투자 꺾이면 주가 떨어질 수도미국 장기국채 금리가 20여년 만에 최고치로 치솟았지만 국내외 증시는 좀처럼 흔들리지 않고 있다. 미국 경기 호조와 인공지능(AI) 투자를 중심으로 한 대규모 설비투자가 금리 상승에 따른 금융…",
-          "publishedAt": "2026-09-27T12:01:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
+          "title": "“집값 빨리 잡는 건 결국 금리?”…0.25%p 올리면 반년 뒤 매매가 1.2% 하락",
+          "link": "https://www.mk.co.kr/news/economy/12162464",
+          "summary": "국토연구원 국토이슈리포트 분석 금리 인상 충격, 단기에 더 크게 반영 12개월 뒤 하락폭 1.1%로 다소 완화 주택시장 유동성 흐름 함께 점검 필요기준금리가 0.25% 포인트씩 상..",
+          "publishedAt": "2026-09-28T01:43:03.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/28/news-p.v1.20260928.99a1883aded54517bfc203676a570b0f_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5.8
+          "score": 6
         }
       ]
     },
@@ -92,8 +92,47 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 72,
+      "poolSize": 86,
       "items": [
+        {
+          "title": "80권 방대한 화엄의 세계를 한 권에 담다",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442647",
+          "summary": "은 동아시아 불교사상의 꽃이라 불릴 만큼 깊은 사상적 세계를 펼쳐 보이지만, 그 방대한 분량과 복잡한 구성 때문에 처음부터 직접 읽기는 쉽지 않은 경전이다. 일체유심조·법계연기·상즉상입 같은 핵심 사상에서 십주·십행·십회향·십지로 이어지는 보살 수행까지, 그 안에는 대승불교의 거대한 세계가 펼쳐져 있다.정병삼 숙명여대 명예교수와 옥나영 중앙대 강사가 펴낸…",
+          "publishedAt": "2026-09-28T10:52:44.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
+        },
+        {
+          "title": "[부고]이민성 한국학중앙연구원 박사 별세…향년 44세",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442638",
+          "summary": "원효와 규기, 유식학과 화엄사상 등을 연구해 온 불교학자 이민성 박사가 9월 27일 향년 44세로 별세했다.이민성 박사는 동국대 대학원에서 불교학 석사학위를 취득한 뒤 독일 보훔루르대학교(Ruhr-Universität Bochum)에서 원효스님의 를 중심으로 연구해 박사학위를 받았다.귀국 후에는 원효와 규기를 비롯해 유식학, 화엄사상 등 동아시아 불교사상에…",
+          "publishedAt": "2026-09-28T09:28:32.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
+        },
+        {
+          "title": "공주 구룡사, 10월 한달간 '구절산 구절초 꽃축제'",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505469",
+          "summary": "공주 구절산 자락이 올가을 다시 하얀 구절초 물결로 뒤덮인다.공주 구룡사(주지 진명 스님)는 10월 1일부터 31일까지 경내와 구절산 구절초 군락지 일원에서 ‘2026 구절산 구룡사 구절초 꽃축제’를 개최한다. 올해 구절초 꽃축제는 산림청이 발표한 ‘2026년 하반기 산림테마 지역축제 전국지도’에 충남지역 가을 축제로 소개되기도 했다.구룡사는 한국 선불교…",
+          "publishedAt": "2026-09-28T09:23:22.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
+        },
         {
           "title": "‘산 자와 죽은 자’ 함께 제도하는 ‘진관사 국행수륙재’",
           "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442629",
@@ -105,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.9
+          "score": 2.8
         }
       ]
     },
@@ -133,7 +172,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.1
+          "score": 6
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -160,7 +199,7 @@
             "philosophy",
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "황석영·데보라 스미스, 국립세계문자박물관서 ‘번역’을 말하다",
@@ -201,8 +240,47 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 177,
+      "poolSize": 175,
       "items": [
+        {
+          "title": "안산산업역사박물관, 기획전시 부문 '올해의 박물관·미술관상'",
+          "link": "https://www.yna.co.kr/view/AKR20260928057200061",
+          "summary": "(안산=연합뉴스) 최해민 기자 = 경기 안산시는 산업역사박물관이 문화체육관광부와 한국박물관협회가 수여하는 '올해의 박물관·미술관상'을 받았다고 ...",
+          "publishedAt": "2026-09-28T01:26:19.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928057200061_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "고미술부터 K푸드까지…내달 1∼4일 '인사동 엔틱&아트페어'",
+          "link": "https://www.yna.co.kr/view/AKR20260928016200004",
+          "summary": "(서울=연합뉴스) 정준영 기자 = 서울 종로구(구청장 유찬종)는 오는 10월 1∼4일 인사아트프라자 등 인사동 일대에서 제39회 인사전통문화축제...",
+          "publishedAt": "2026-09-27T22:58:56.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928016200004_03_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "가을밤 미술관에 울리는 루시드폴·셋셋셋의 음악",
+          "link": "https://www.yna.co.kr/view/AKR20260928031800005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관(MMCA)은 다음 달 7일 오후 6시 서울관 1층 로비에서 야간 문화행사 '2026 MMCA 나...",
+          "publishedAt": "2026-09-28T00:12:46.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928031800005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 5.9
+        },
         {
           "title": "“너대로 살아라, 너로서 살아라”···칼로 시대를 새긴 오윤이 두 아들에게 남긴 말",
           "link": "https://www.khan.co.kr/article/202609251712001/",
@@ -214,59 +292,20 @@
           "candidates": [
             "art"
           ],
-          "score": 4.7
+          "score": 4.6
         },
         {
-          "title": "선비이자 예술가, 누군가의 벗이자 제자…‘인간 정선’을 만나다",
-          "link": "https://www.khan.co.kr/article/202609271953005/",
-          "summary": "대구간송미술관 ‘겸재 정선’전대구간송미술관 ‘겸재 정선’ 특별전에 전시 중인 <경교명승첩> 중 ‘독서여가’. 툇마루에 걸터앉은 이가 정선이다. 간송미술문화재단 제공국보·보물 등 216점 ‘역대 최대’ 50대의 자화상 담긴 ‘독서여가’ 스승 향한 존경 ‘미호-석실서원’ 시인 이병연과 나눈 시·그림 등 정선의 삶·교유 관계 초점 맞춰반듯한 기둥과 가···",
-          "publishedAt": "2026-09-27T10:53:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.3
-        },
-        {
-          "title": "뮤지컬 작가·작곡가도 모인다…한국뮤지컬창작자협회 창립 준비",
-          "link": "https://www.yna.co.kr/view/AKR20260926045100005",
-          "summary": "(서울=연합뉴스) 임순현 기자 = 뮤지컬 배우에 이어 작가·작곡가 등 창작자들도 협회 설립에 나섰다.",
-          "publishedAt": "2026-09-27T00:00:03.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/01/20/PYH2026012006220000500_P2.jpg",
+          "title": "12가지 색으로 들여다본 김해 봉황동 유적…'채색, 봉황' 전시",
+          "link": "https://www.yna.co.kr/view/AKR20260927026800005",
+          "summary": "(서울=연합뉴스) 김예나 기자 = 금관가야의 왕성 터로 지목돼 온 '김해 봉황동 유적'의 발굴 조사 성과를 조명한 전시가 열린다.",
+          "publishedAt": "2026-09-28T00:00:03.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/27/AKR20260927026800005_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.1
-        },
-        {
-          "title": "[홀리한 구석]겉은 ‘신의 발냄새’ 속은 ‘비단 같은 크림’···치즈 한 조각에 남은 수도자의 삶",
-          "link": "https://www.khan.co.kr/article/202609261400001/",
-          "summary": "지독한 냄새의 세척치즈부터 오래 숙성한 경성치즈까지에푸아스 치즈. 위키피디아믿음이 없어도 이상하게 마음이 고요해지는 순간들. 먹고 마시며 다니다가 마주치는 뜻밖의 성스러움. 거창하지 않아도 일상에 숨어 있는 작고 거룩한 순간들을 만나봅니다.얼마 전 서울 코엑스에서 열린 치즈 팝업매장을 방문한 적이 있습니다. 프랑스 국립낙농협의회가 프랑스의 다양한 치즈를··…",
-          "publishedAt": "2026-09-26T05:00:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.7
-        },
-        {
-          "title": "AI의 빠른 ‘정답’ vs 인간의 ‘망설임’···작가들이 말하는 ‘AI가 대체 못 할 문학’",
-          "link": "https://www.khan.co.kr/article/202609251550001/",
-          "summary": "올해 출판계는 생성형 인공지능(AI)과 인간의 관계를 질문하는 여러 행사를 마련했다. 지난 6월 열린 서울국제도서전의 주제는 ‘인간선언 Homo duduri(호모 두두리)’로 인간이 AI를 다룰 슬기가 있는지 물었다. 이달 초 진행된 서울국제작가축제도 ‘누구세요?’라는 주제를 통해 AI 시대 인간 존재란 무엇인지 고민했다. ‘AI 시대의 미래를 어떻게 예측…",
-          "publishedAt": "2026-09-25T06:50:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.2
+          "score": 4.4
         }
       ]
     }
