@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-29T09:08:38.523Z",
+  "builtAt": "2026-09-29T21:06:45.190Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 337,
+      "poolSize": 340,
       "items": [
+        {
+          "title": "“미국이 예전 같지 않다”…美 국채금리 5% 돌파가 보내는 섬뜩한 신호 [BOK WATCHER]",
+          "link": "https://www.mk.co.kr/news/economy/12164121",
+          "summary": "미국 고금리 시대 개막의 의미미국 국채금리가 잇달아 연 5%를 넘고 있다. 미국채 30년물은 지난 7월 5%를 넘어 현재 5.5%까지 올랐다. 장기 기준금리 역할을 하는 10년물 ..",
+          "publishedAt": "2026-09-29T10:08:34.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/29/rcv.YNA.20260924.PAP20260924317601009_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
+        {
+          "title": "은행들 \"금리 오르기전에 빨리 채권 찍자\"",
+          "link": "https://www.hankyung.com/article/2026092928151",
+          "summary": "",
+          "publishedAt": "2026-09-29T09:11:09.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
         {
           "title": "금리 인상 결정에 영향 주는 사안은 …결정권 있는 금통위원 발언 보니",
           "link": "https://www.mk.co.kr/news/economy/12163966",
@@ -25,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "엔화 개입 경계에 수출업체 달러화 매도…환율 다시 1,350원대로",
@@ -38,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "'美 국채 금리 악재' 코스피, 0.27%↓…이틀 연속 하락(종합)",
@@ -51,33 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
-        },
-        {
-          "title": "[외환] 원/달러 환율 8.4원 내린 1,356.7원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20260929130800002",
-          "summary": "(",
-          "publishedAt": "2026-09-29T06:35:27.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/29/AKR20260929130800002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "코스피, 美국채금리 부담에 보합세 지속…장중 반짝 상승도",
-          "link": "https://www.yna.co.kr/view/AKR20260929042551008",
-          "summary": "(서울=연합뉴스) 김유아 기자 = 29일 코스피가 '미국 국채금리 급등' 악재 등의 영향으로 약보합권에서 등락하고 있다.",
-          "publishedAt": "2026-09-29T02:18:51.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/29/PYH2026092902630001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
+          "score": 7.2
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 157,
+      "poolSize": 168,
       "items": [
         {
           "title": "'본각사상'으로 한국 선불교 윤리 재조명",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.1
+          "score": 3.9
         },
         {
           "title": "진흥원, 10월 화요강좌에 고은진 교수 ‘AI와 불교’",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.1
+          "score": 3.9
         },
         {
           "title": "80권 방대한 화엄의 세계를 한 권에 담다",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.5
+          "score": 2.3
         },
         {
           "title": "[부고]이민성 한국학중앙연구원 박사 별세…향년 44세",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.5
+          "score": 2.3
         },
         {
           "title": "공주 구룡사, 10월 한달간 '구절산 구절초 꽃축제'",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.5
+          "score": 2.3
         }
       ]
     },
@@ -185,7 +185,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.2
+          "score": 6.9
+        },
+        {
+          "title": "A Philosopher Among the MacArthur Fellows",
+          "link": "https://dailynous.com/2026/09/29/a-philosopher-among-the-macarthur-fellows/",
+          "summary": "Felipe De Brigard, professor of philosophy, psychology, and neuroscience at Duke University, principal investigator at the Imagination and Modal Cognition Lab, and core faculty of […] The post A Philo…",
+          "publishedAt": "2026-09-29T18:58:48.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/09/de_brigard-2026-1024x660.jpg",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 6
         },
         {
           "title": "Moral Phenomenology",
@@ -214,31 +227,18 @@
           "score": 4.5
         },
         {
-          "title": "By any working definition that draws on biology rather than philosophy or religion, AI is alive",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/by-any-working-definition-that-draws-on-biology-rather-than-philosophy-or-religion-ai-is-alive.html",
-          "summary": "William Haseltine at Noema: We are in the process of creating a second form of life. The emergence of this new form of life is an inevitable result of the fundamental laws of the universe — forces sim…",
-          "publishedAt": "2026-09-28T17:45:01.000Z",
-          "image": "https://3quarksdaily.com/wp-content/uploads/2026/09/FINAL2-287x360.png",
+          "title": "Carlo Rovelli: Free Will Is Real and Physics Can Prove It",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/carlo-rovelli-free-will-is-real-and-physics-can-prove-it.html",
+          "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
+          "publishedAt": "2026-09-29T16:45:56.000Z",
+          "image": "",
           "sourceName": "3 Quarks Daily",
           "sourceId": "3quarks",
           "candidates": [
             "philosophy",
             "art"
           ],
-          "score": 4.2
-        },
-        {
-          "title": "Online Philosophy Resources Weekly Update",
-          "link": "https://dailynous.com/2026/09/28/online-philosophy-resources-weekly-update-441/",
-          "summary": "This is the report on new and revised entries at online philosophy resources, new reviews of philosophy books, new podcast episodes, recently published open access […] The post Online Philosophy Resou…",
-          "publishedAt": "2026-09-28T09:30:00.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/09/weekly-update-logo-2023.png",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4
+          "score": 4.4
         }
       ]
     },
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 192,
+      "poolSize": 197,
       "items": [
         {
           "title": "‘게이 한국인 남성 예술가’라고 쓴 순간, 작품이 시작됐다···오인환이 30년간 비춰온 ‘사각지대’",
@@ -266,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.5
+          "score": 5.2
         },
         {
           "title": "'현대미술 잔치' 광주비엔날레, 개막 3주만에 12만명 방문",
@@ -279,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "국외재단, 대구간송미술관과 K-문화유산 보존·복원 '맞손'",
@@ -292,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "제15회 박경리문학상에 남아공 작가 데이먼 갤것",
@@ -305,20 +305,20 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
-          "title": "서울드라마어워즈 골든버드賞에 김은숙…작가 첫 수상",
-          "link": "https://www.yna.co.kr/view/AKR20260929072400005",
-          "summary": "(서울=연합뉴스) 고가혜 기자 = 드라마 '태양의 후예', '도깨비', '더 글로리' 등을 집필한 김은숙 작가가 올해 서울드라마어워즈에서 최고상...",
-          "publishedAt": "2026-09-29T01:46:40.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/29/AKR20260929072400005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "이영도 작가 ‘눈물을 마시는 새’, 프랑스 ‘컬티심 소설상’",
+          "link": "https://www.khan.co.kr/article/202609282045005/",
+          "summary": "이영도 작가의 <눈물을 마시는 새> 프랑스어판과 작가 사진. 황금가지 제공국내 판타지 문학의 대가로 불리는 이영도 작가(54·왼쪽 사진)의 장편 판타지 소설 <눈물을 마시는 새>(프랑스어판 1권·오른쪽)가 프랑스의 2026년도 ‘컬티심 소설상’(Prix du livre Cultissime)을 받았다고 출판사 황금가지가 28일 밝혔다.이···",
+          "publishedAt": "2026-09-28T11:45:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 3.8
         }
       ]
     }
