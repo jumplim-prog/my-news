@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-28T21:07:18.323Z",
+  "builtAt": "2026-09-29T03:07:36.523Z",
   "cards": [
     {
       "id": "econ",
@@ -12,14 +12,27 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 329,
+      "poolSize": 337,
       "items": [
         {
-          "title": "또 국채금리 쇼크...힘못쓴 기술주, 美 증시 급락 [월가월부]",
-          "link": "https://www.mk.co.kr/news/economy/12163292",
-          "summary": "10년물 5.2%, 30년물 5.5% 상회 국채 투매에 20여년만에 최고치 엔비디아 자사주 매입에 반등국제유가 변동성에 따른 인플레이션 우려 확산으로 미 국채금리가 연일 급등하..",
-          "publishedAt": "2026-09-28T20:36:03.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/29/news-p.v1.20260929.00d2b92f31dd40b4bd6813a2c948cff8_R.jpg",
+          "title": "코스피, 美국채금리 부담에 보합세 지속…장중 반짝 상승도",
+          "link": "https://www.yna.co.kr/view/AKR20260929042551008",
+          "summary": "(서울=연합뉴스) 김유아 기자 = 29일 코스피가 '미국 국채금리 급등' 악재 등의 영향으로 약보합권에서 등락하고 있다.",
+          "publishedAt": "2026-09-29T02:18:51.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/29/PYH2026092902630001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "미국채 금리 5.2% 뚫렸는데, 원화값 왜 괜찮죠?…1360원대 방어",
+          "link": "https://www.mk.co.kr/news/economy/12163479",
+          "summary": "반도체 호황에 원화값 견조해 최대변수 고금리 해소는 난망추석 연휴 이후 달러당 원화값이 1360원을 중심으로 등락하고 있다. 시장에서는 미국 국채 금리 상승세가 멈추지 않는 가운데..",
+          "publishedAt": "2026-09-29T01:54:01.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/29/rcv.NEWS1.NEWS1.20260922.2026-09-22T123606_1008120330_FINANCE-STOCK_I_R.jpg",
           "sourceName": "매일경제",
           "sourceId": "mk-economy",
           "candidates": [
@@ -28,56 +41,43 @@
           "score": 7.5
         },
         {
-          "title": "미국채 금리발작은 인과응보 … 그래도 증시 낙관론 외치는 이유",
-          "link": "https://www.mk.co.kr/news/society/12162878",
-          "summary": "스티브 잉글랜더 스탠다드차타드 북미 거시전략 헤드 인터뷰전 세계적인 인플레이션 확산 속에 미 연방준비제도(Fed)가 3년 2개월 만에 기준금리를 인상했다. 트럼프 대통령이 발탁한 ..",
-          "publishedAt": "2026-09-28T20:00:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/28/news-p.v1.20260927.f96084d3595741f3b946129b92b4b319_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "title": "코스피, 美국채금리 부담 속 하락출발해 보합권(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20260929042500008",
+          "summary": "(서울=연합뉴스) 김유아 기자 = 29일 오전 코스피가 약보합권에서 오르내리고 있다.",
+          "publishedAt": "2026-09-29T00:32:14.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/29/PYH2026092902400001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
-          "title": "“미국이 예전 같지 않다” … 美 국채금리 5% 돌파가 보내는 섬뜩한 신호",
-          "link": "https://www.mk.co.kr/news/economy/12162927",
-          "summary": "미국 고금리 시대 개막의 의미미국 국채금리가 잇달아 연 5%를 넘고 있다. 미국채 30년물은 지난 7월 5%를 넘어 현재 5.5%까지 올랐다. 장기 기준금리 역할을 하는 10년물 ..",
-          "publishedAt": "2026-09-28T20:00:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/28/rcv.YNA.20260924.PAP20260924317601009_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "title": "급등한 美 금리, 9월 고용보고서가 방향 가를까",
+          "link": "https://www.yna.co.kr/view/AKR20260929028500008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 미국 10년물 국채 금리가 2007년 이후 가장 높은 수준인 5.2%를 넘어서면서 채권시장의 관심은 금리가 얼...",
+          "publishedAt": "2026-09-28T23:52:10.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/29/AKR20260929028500008_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
-          "title": "이형일 부총리 “물가·성장·금융 안정…협력 강화” 취임 엿새 만에 한은 방문",
-          "link": "https://www.khan.co.kr/article/202609282131045/",
-          "summary": "글로벌 국채 등 시장 변동성 경계재정·통화정책 공조 강조 한뜻한은이 만든 ‘서예 넥타이’ 맨 부총리 이형일 부총리 겸 재정경제부 장관(왼쪽)이 28일 서울 중구 한국은행을 방문해 신현송 한은 총재와 악수하며 기념촬영을 하고 있다. 사진공동취재이형일 부총리 겸 재정경제부 장관이 취임 엿새 만인 28일 신현송 한국은행 총재와 처음 만났다. 두 기관장은 글로벌…",
-          "publishedAt": "2026-09-28T12:31:04.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
-        },
-        {
-          "title": "美국채 금리 5.2% 뚫리자…덩달아 치솟는 韓국고채",
-          "link": "https://www.hankyung.com/article/2026092801901",
+          "title": "[밤 사이 해외뉴스] 국채금리 20년 만에 최고인데 증시는 왜 버틸까?",
+          "link": "https://www.hankyung.com/article/202609290735i",
           "summary": "",
-          "publishedAt": "2026-09-28T08:56:56.000Z",
+          "publishedAt": "2026-09-28T23:07:02.000Z",
           "image": "",
           "sourceName": "한국경제",
           "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.4
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 110,
+      "poolSize": 131,
       "items": [
         {
           "title": "'본각사상'으로 한국 선불교 윤리 재조명",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "진흥원, 10월 화요강좌에 고은진 교수 ‘AI와 불교’",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "80권 방대한 화엄의 세계를 한 권에 담다",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
+          "score": 2.7
         },
         {
           "title": "[부고]이민성 한국학중앙연구원 박사 별세…향년 44세",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
+          "score": 2.6
         },
         {
           "title": "공주 구룡사, 10월 한달간 '구절산 구절초 꽃축제'",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
+          "score": 2.6
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.4
+          "score": 7.3
         },
         {
           "title": "Moral Phenomenology",
@@ -225,11 +225,11 @@
             "philosophy",
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "Online Philosophy Resources Weekly Update",
-          "link": "https://dailynous.com/online-philosophy-resources-weekly-update-441/",
+          "link": "https://dailynous.com/2026/09/28/online-philosophy-resources-weekly-update-441/",
           "summary": "This is the report on new and revised entries at online philosophy resources, new reviews of philosophy books, new podcast episodes, recently published open access […] The post Online Philosophy Resou…",
           "publishedAt": "2026-09-28T09:30:00.000Z",
           "image": "https://dailynous.com/wp-content/uploads/2026/09/weekly-update-logo-2023.png",
@@ -238,7 +238,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.3
+          "score": 4.1
         }
       ]
     },
@@ -253,20 +253,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 190,
+      "poolSize": 191,
       "items": [
         {
-          "title": "안산산업역사박물관, 기획전시 부문 '올해의 박물관·미술관상'",
-          "link": "https://www.yna.co.kr/view/AKR20260928057200061",
-          "summary": "(안산=연합뉴스) 최해민 기자 = 경기 안산시는 산업역사박물관이 문화체육관광부와 한국박물관협회가 수여하는 '올해의 박물관·미술관상'을 받았다고 ...",
-          "publishedAt": "2026-09-28T01:26:19.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928057200061_01_i_P2.jpg",
+          "title": "폐교가 전시장으로…삼척 '전환'전, 석탄 이후를 묻다",
+          "link": "https://www.yna.co.kr/view/AKR20260929062900062",
+          "summary": "회화·조각·도예·미디어아트 등 150점 전시…예술로 지역 활력",
+          "publishedAt": "2026-09-29T01:21:52.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/29/AKR20260929062900062_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 7.1
+          "score": 7.5
         },
         {
           "title": "‘게이 한국인 남성 예술가’라고 쓴 순간, 작품이 시작됐다···오인환이 30년간 비춰온 ‘사각지대’",
@@ -279,14 +279,14 @@
           "candidates": [
             "art"
           ],
-          "score": 5.7
+          "score": 5.6
         },
         {
-          "title": "서울역사박물관, 인사도시유적전시관 개관기념 학술대회",
-          "link": "https://www.yna.co.kr/view/AKR20260928131000004",
-          "summary": "(서울=연합뉴스) 김준태 기자 = 서울역사박물관은 오는 30일 박물관 시청각실에서 인사도시유적전시관 개관기념 학술대회를 연다고 29일 밝혔다.",
-          "publishedAt": "2026-09-28T21:00:11.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928131000004_01_i_P2.jpg",
+          "title": "서울드라마어워즈 골든버드賞에 김은숙…작가 첫 수상",
+          "link": "https://www.yna.co.kr/view/AKR20260929072400005",
+          "summary": "(서울=연합뉴스) 고가혜 기자 = 드라마 '태양의 후예', '도깨비', '더 글로리' 등을 집필한 김은숙 작가가 올해 서울드라마어워즈에서 최고상...",
+          "publishedAt": "2026-09-29T01:46:40.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/29/AKR20260929072400005_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -295,30 +295,31 @@
           "score": 4.5
         },
         {
-          "title": "서울대공원 식물원, 제20회 식충식물 특별전시회",
-          "link": "https://www.yna.co.kr/view/AKR20260928127000004",
-          "summary": "(서울=연합뉴스) 유한주 기자 = 서울대공원 식물원은 내달 2∼11일 제20회 식충식물 특별전시 '자바쓰(JBS)와 함께 떠나는 북아메리카 식충...",
-          "publishedAt": "2026-09-28T21:00:09.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928127000004_03_i_P2.jpg",
+          "title": "LS전선, 데이터센터 전시회서 서버랙용 신제품 공개",
+          "link": "https://www.yna.co.kr/view/AKR20260929061000003",
+          "summary": "(서울=연합뉴스) 강태우 기자 = LS전선은 LS머트리얼즈와 29일 싱가포르에서 열리는 '데이터센터 월드 아시아(DCWA) 2026'에 참가해 ...",
+          "publishedAt": "2026-09-29T01:33:19.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/29/AKR20260929061000003_01_i_P2.jpg",
           "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "sourceId": "yna-economy",
           "candidates": [
+            "econ",
             "art"
           ],
           "score": 4.5
         },
         {
-          "title": "이영도 작가 ‘눈물을 마시는 새’, 프랑스 ‘컬티심 소설상’",
-          "link": "https://www.khan.co.kr/article/202609282045005/",
-          "summary": "이영도 작가의 <눈물을 마시는 새> 프랑스어판과 작가 사진. 황금가지 제공국내 판타지 문학의 대가로 불리는 이영도 작가(54·왼쪽 사진)의 장편 판타지 소설 <눈물을 마시는 새>(프랑스어판 1권·오른쪽)가 프랑스의 2026년도 ‘컬티심 소설상’(Prix du livre Cultissime)을 받았다고 출판사 황금가지가 28일 밝혔다.이···",
-          "publishedAt": "2026-09-28T11:45:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "여성사전시관, '목소리들' 개막…한국여성인권운동 역사 조명",
+          "link": "https://www.yna.co.kr/view/AKR20260929046600530",
+          "summary": "(서울=연합뉴스) 차민지 기자 = 성평등가족부 산하 한국양성평등교육진흥원 국립여성사전시관은 30일부터 내년 5월 31일까지 한국여성인권운동의 역...",
+          "publishedAt": "2026-09-29T00:42:18.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/29/AKR20260929046600530_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.4
         }
       ]
     }
