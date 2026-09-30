@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-30T03:07:41.784Z",
+  "builtAt": "2026-09-30T09:07:51.559Z",
   "cards": [
     {
       "id": "econ",
@@ -15,69 +15,69 @@
       "poolSize": 340,
       "items": [
         {
-          "title": "달러화 강세 지속…유로화 대비 16개월 만에 최고",
-          "link": "https://www.yna.co.kr/view/AKR20260930070000009",
-          "summary": "(서울=연합뉴스) 정주호 기자 = 미국 10년물 국채 금리가 5%를 웃도는 가운데 달러화가 29일(현지시간) 유로화와 스위스프랑화에 대해 16개...",
-          "publishedAt": "2026-09-30T01:50:44.000Z",
-          "image": "https://img.yna.co.kr/photo/etc/epa/2022/09/28/PEP20220928061401009_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "초과세수 일부로 국채발행 줄인다",
+          "link": "https://www.mk.co.kr/news/economy/12165216",
+          "summary": "정부가 63조원에 달하는 초과세수 일부를 활용해 올해 국채 발행량을 줄이기로 했다. 중동 전쟁 장기화에 따른 고유가와 글로벌 긴축 기조가 국고채 금리를 끌어올리자, 성장 투자에 무..",
+          "publishedAt": "2026-09-30T08:43:16.000Z",
+          "image": "",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
           "score": 7.5
         },
         {
-          "title": "뉴욕증시, 미국 국채 금리 고공행진에 약보합 마감…다우 0.26%↓",
-          "link": "https://www.khan.co.kr/article/202609300744001/",
-          "summary": "S&P 500 0.17%…나스닥 0.09%↓뉴욕증권거래소(NYSE) 전경미국 국채 금리의 상승세 속에 29일(현지시간) 미국 뉴욕증시 3대 지수가 약보합으로 마감했다.다우존스30 산업평균지수는 전장보다 131.59포인트(0.26%) 하락한 51,349.92에 마감했다. 스탠더드앤드푸어스(S&P) 500지수는 전장보다 12.85포인트(0.17%···",
-          "publishedAt": "2026-09-29T22:44:00.000Z",
+          "title": "외환당국, 2분기 환율 방어에 96억 달러 순매도…7분기 연속",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008777372",
+          "summary": "▲ 한국은행 본부외환당국이 올해 2분기 외환시장 안정을 위해 약 96억 달러를 순매도했습니다.한국은행이 오늘 공개한 '2026…",
+          "publishedAt": "2026-09-30T08:37:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260930/202227309_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "세수 63조 더 걷혀…채권시장 안정 등에 투입",
+          "link": "https://www.mk.co.kr/news/economy/12165137",
+          "summary": "정부가 반도체 호황으로 발생한 63조원 규모 '초과 세수'를 국채 시장 안정과 민생 지원에 투입할 방침이다. 국채 발행 물량을 축소해 금리 상승에 따른 금융 시장 불안을 선제적으로..",
+          "publishedAt": "2026-09-30T08:32:13.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/01/20261001_01110112000002_L00.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "미국 장기금리 압박에 국고채도 ‘레고랜드 고점’ 바짝…“초과세수로 빚 갚아야”",
+          "link": "https://www.khan.co.kr/article/202609301644021/",
+          "summary": "이형일 부총리 겸 재정경제부 장관이 30일 서울 종로구 정부서울청사에서 열린 ‘확대 거시재정금융간담회’를 주재하고 있다. 재정경제부 제공글로벌 금융시장의 핵심 지표인 미국 장기국채 금리가 치솟으면서 한국 정부가 빚을 낼 때 발행하는 국고채 금리도 2022년 ‘레고랜드 사태’ 당시 수준에 바짝 다가섰다. 국내 채권시장의 기준점 역할을 하는 국고채 금리는 기업…",
+          "publishedAt": "2026-09-30T07:44:02.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.5
         },
         {
-          "title": "[뉴욕증시] '최고치' 국채금리…경제지표도 '일제히 부진'",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008775723",
-          "summary": "미증시 3대 지수가 약보합권에서 장을 마쳤습니다.나스닥은 0.09% 빠졌고 S&P500은 2거래일 연속 7천6백 선에서 마감했습니다.업종별로는 …",
-          "publishedAt": "2026-09-29T22:38:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260930/202227108_1280.jpg",
+          "title": "미 금리 상승도 누른 수출업체 달러 매도…환율 3.9원 내려 1,350원대 초반",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008777235",
+          "summary": "▲ 30일 서울 중구 하나은행 본점 딜링룸에 주가가 표시되고 있다. 이날 코스피는 32.77p 내린 6,838.04로 장을 마쳤다.미…",
+          "publishedAt": "2026-09-30T07:43:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20260930/202227284_1280.jpg",
           "sourceName": "SBS",
           "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.4
-        },
-        {
-          "title": "“미국이 예전 같지 않다”…美 국채금리 5% 돌파가 보내는 섬뜩한 신호 [BOK WATCHER]",
-          "link": "https://www.mk.co.kr/news/economy/12164121",
-          "summary": "미국 고금리 시대 개막의 의미미국 국채금리가 잇달아 연 5%를 넘고 있다. 미국채 30년물은 지난 7월 5%를 넘어 현재 5.5%까지 올랐다. 장기 기준금리 역할을 하는 10년물 ..",
-          "publishedAt": "2026-09-29T10:08:34.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/29/rcv.YNA.20260924.PAP20260924317601009_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.1
-        },
-        {
-          "title": "금리 인상 결정에 영향 주는 사안은 …결정권 있는 금통위원 발언 보니",
-          "link": "https://www.mk.co.kr/news/economy/12163966",
-          "summary": "한국은행, 지난달 두달 연속 금리 인상 최근 주요국 국채금리 상승 영향도 주시 시장에선 다음달 ‘동결’ 가능성도 전망한국은행 금융통화위원회가 지난달 기준금리를 3.00%로 두 달 ..",
-          "publishedAt": "2026-09-29T08:30:55.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/29/news-p.v1.20260929.3c2df7f47df84105a38be9fff7cffae2_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.1
+          "score": 7.5
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 184,
+      "poolSize": 193,
       "items": [
         {
           "title": "'본각사상'으로 한국 선불교 윤리 재조명",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.8
+          "score": 3.6
         },
         {
           "title": "진흥원, 10월 화요강좌에 고은진 교수 ‘AI와 불교’",
@@ -118,33 +118,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.6
         },
         {
-          "title": "80권 방대한 화엄의 세계를 한 권에 담다",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442647",
-          "summary": "은 동아시아 불교사상의 꽃이라 불릴 만큼 깊은 사상적 세계를 펼쳐 보이지만, 그 방대한 분량과 복잡한 구성 때문에 처음부터 직접 읽기는 쉽지 않은 경전이다. 일체유심조·법계연기·상즉상입 같은 핵심 사상에서 십주·십행·십회향·십지로 이어지는 보살 수행까지, 그 안에는 대승불교의 거대한 세계가 펼쳐져 있다.정병삼 숙명여대 명예교수와 옥나영 중앙대 강사가 펴낸…",
-          "publishedAt": "2026-09-28T10:52:44.000Z",
+          "title": "광주영산재, 전쟁의 상처 보듬고 평화 발원",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338045",
+          "summary": "일제강점기 전쟁과 강제동원으로 고통받은 영령들을 위로하고 같은 비극이 되풀이되지 않기를 발원하는 영산재가 광주에서 봉행됐다.사단법인 광주전통불교영산재보존회(회장 호산 스님)는 9월 30일 광주 법륜사(주지 지운 스님) 설법전에서 ‘제8회 일본군 위안부 및 일제강점기 강제노역 피해자 위령 영산재’를 봉행했다. 영산재는 삼귀의례와 반야심경 봉독을 시작으로 회장…",
+          "publishedAt": "2026-09-30T17:07:48.000Z",
           "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.2
-        },
-        {
-          "title": "[부고]이민성 한국학중앙연구원 박사 별세…향년 44세",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442638",
-          "summary": "원효와 규기, 유식학과 화엄사상 등을 연구해 온 불교학자 이민성 박사가 9월 27일 향년 44세로 별세했다.이민성 박사는 동국대 대학원에서 불교학 석사학위를 취득한 뒤 독일 보훔루르대학교(Ruhr-Universität Bochum)에서 원효스님의 를 중심으로 연구해 박사학위를 받았다.귀국 후에는 원효와 규기를 비롯해 유식학, 화엄사상 등 동아시아 불교사상에…",
-          "publishedAt": "2026-09-28T09:28:32.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.1
+          "score": 3.2
         },
         {
           "title": "공주 구룡사, 10월 한달간 '구절산 구절초 꽃축제'",
@@ -157,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.1
+          "score": 2
         }
       ]
     },
@@ -172,7 +159,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 136,
+      "poolSize": 145,
       "items": [
         {
           "title": "\"기관 전문성·정체성 말살 졸속 개혁\"… 학계, 한중연·고전번역원·동북아재단 통합 철회 촉구",
@@ -185,7 +172,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.8
+          "score": 6.7
         },
         {
           "title": "Moral Phenomenology",
@@ -199,6 +186,19 @@
             "philosophy"
           ],
           "score": 6
+        },
+        {
+          "title": "A Philosopher Among the MacArthur Fellows",
+          "link": "https://dailynous.com/2026/09/29/a-philosopher-among-the-macarthur-fellows/",
+          "summary": "Felipe De Brigard, professor of philosophy, psychology, and neuroscience at Duke University, principal investigator at the Imagination and Modal Cognition Lab, and core faculty of […] The post A Philo…",
+          "publishedAt": "2026-09-29T18:58:48.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/09/de_brigard-2026-1024x660.jpg",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 5.7
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -225,21 +225,7 @@
             "philosophy",
             "art"
           ],
-          "score": 4.3
-        },
-        {
-          "title": "By any working definition that draws on biology rather than philosophy or religion, AI is alive",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/by-any-working-definition-that-draws-on-biology-rather-than-philosophy-or-religion-ai-is-alive.html",
-          "summary": "William Haseltine at Noema: We are in the process of creating a second form of life. The emergence of this new form of life is an inevitable result of the fundamental laws of the universe — forces sim…",
-          "publishedAt": "2026-09-28T17:45:01.000Z",
-          "image": "https://3quarksdaily.com/wp-content/uploads/2026/09/FINAL2-287x360.png",
-          "sourceName": "3 Quarks Daily",
-          "sourceId": "3quarks",
-          "candidates": [
-            "philosophy",
-            "art"
-          ],
-          "score": 3.8
+          "score": 4.2
         }
       ]
     },
@@ -254,7 +240,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 200,
+      "poolSize": 203,
       "items": [
         {
           "title": "美미술관 큐레이터 변신한 RM \"외부인 시선이 새바람 일으킬 것\"",
@@ -267,12 +253,12 @@
           "candidates": [
             "art"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
           "title": "BTS 리더 RM이 좋아하는 그림은···컬렉션 140점 미국 미술관서 첫 공개 “꽤 긴 자기소개”",
           "link": "https://www.khan.co.kr/article/202609301016011/",
-          "summary": "방탄소년단(BTS) RM. 빅히트뮤직 제공미술 애호가로 널리 알려진 방탄소년단(BTS) 리더 RM의 소장품을 한자리에서 볼 수 있는 전시가 미국 주요 미술관에서 열린다. RM이 지난 10년 가까이 모은 한국 근현대미술 중심의 개인 컬렉션을 미술관에서 본격적으로 공개하는 첫 전시다.샌프란시스코현대미술관(SFMOMA)는 오는 10월3일부터 내년 2월7일까···",
+          "summary": "방탄소년단(BTS) 리더 RM이 29일(현지시간) 미국 샌프란시스코현대미술관(SFMOMA)에서 자신의 개인 컬렉션을 선보이는 특별전 ‘RM x SFMOMA: 비트윈 유 앤드 미(Between You and Me)’를 소개하고 있다. AP연합뉴스미술 애호가로 널리 알려진 방탄소년단(BTS) 리더 RM의 소장품 140점을 한자리에서 볼 수 있는 전시가 미국 주…",
           "publishedAt": "2026-09-30T01:16:01.000Z",
           "image": "",
           "sourceName": "경향신문",
@@ -280,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "‘게이 한국인 남성 예술가’라고 쓴 순간, 작품이 시작됐다···오인환이 30년간 비춰온 ‘사각지대’",
@@ -293,34 +279,33 @@
           "candidates": [
             "art"
           ],
-          "score": 5.1
+          "score": 5
         },
         {
-          "title": "박물관·전시관 성별영향평가 자가진단…이동약자 배려 등 점검",
-          "link": "https://www.yna.co.kr/view/AKR20260930035400530",
-          "summary": "(서울=연합뉴스) 홍준석 기자 = 성평등가족부는 다음 달부터 지방정부가 추진하는 박물관·전시관 관련 사업에 '자가진단형 성별영향평가'를 적용한다...",
-          "publishedAt": "2026-09-30T03:00:31.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/22/PYH2026092208210001300_P2.jpg",
+          "title": "'디지털 콘텐츠로 만나는 우리 유산'…10월 남원에서 기획전시회",
+          "link": "https://www.yna.co.kr/view/AKR20260930125600055",
+          "summary": "(남원=연합뉴스) 백도인 기자 = 전북 남원시는 우리 유산의 다양한 모습을 디지털 콘텐츠로 만나보는 기획전시회 '빛으로 만나는 우리 유산'을 다...",
+          "publishedAt": "2026-09-30T05:54:44.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/30/AKR20260930125600055_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.4
         },
         {
-          "title": "서울을 K뷰티로 표현한다…내달 31일 '인터내셔널 뷰티아트페어'",
-          "link": "https://www.yna.co.kr/view/AKR20260930049600030",
-          "summary": "(서울=연합뉴스) 구정모 기자 = 한국분장예술인협회는 다음 달 31일 강서구 코엑스 마곡 4층 르웨스트홀에서 '2026 인터내셔널 뷰티아트페어'...",
-          "publishedAt": "2026-09-30T00:47:00.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/30/AKR20260930049600030_01_i_P2.jpg",
+          "title": "국립수목원, 체험형 전시 '작지만 위대한 존재, 잡초' 개최",
+          "link": "https://www.yna.co.kr/view/AKR20260930127100060",
+          "summary": "(포천=연합뉴스) 임병식 기자 = 산림청 국립수목원은 11월 29일까지 수목원 내 어린이정원에서 체험형 전시 '작지만 위대한 존재, 잡초'를 개...",
+          "publishedAt": "2026-09-30T05:50:16.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/30/AKR20260930127100060_01_i_P2.jpg",
           "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "sourceId": "yna-culture",
           "candidates": [
-            "econ",
             "art"
           ],
-          "score": 4.5
+          "score": 4.4
         }
       ]
     }
