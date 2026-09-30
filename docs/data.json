@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-30T09:07:51.559Z",
+  "builtAt": "2026-09-30T21:07:07.585Z",
   "cards": [
     {
       "id": "econ",
@@ -12,72 +12,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 340,
+      "poolSize": 342,
       "items": [
         {
-          "title": "초과세수 일부로 국채발행 줄인다",
-          "link": "https://www.mk.co.kr/news/economy/12165216",
-          "summary": "정부가 63조원에 달하는 초과세수 일부를 활용해 올해 국채 발행량을 줄이기로 했다. 중동 전쟁 장기화에 따른 고유가와 글로벌 긴축 기조가 국고채 금리를 끌어올리자, 성장 투자에 무..",
-          "publishedAt": "2026-09-30T08:43:16.000Z",
+          "title": "“이란전쟁 소풍 끝나면 유가 정상화”…금리발작 못본체하는 트럼프",
+          "link": "https://www.mk.co.kr/news/economy/12165415",
+          "summary": "10년물도 2007년 이후 최고 전쟁 장기화 우려 국채 투매 트럼프 “곧 종전해 유가 급락”국제유가 변동성에 따른 물가 상승 압력에 미국 국채 금리가 연일 급등하고 있다. 연방준..",
+          "publishedAt": "2026-09-30T14:35:54.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/30/news-p.v1.20260707.df63685435ff40fab52d91b08ac59968_R.png",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "독일 9월 소비자물가 3.3％↑…ECB 금리인상 압박",
+          "link": "https://www.yna.co.kr/view/AKR20260930196400082",
+          "summary": "(베를린=연합뉴스) 김계연 특파원 = 이달 독일 소비자물가가 작년 9월보다 3.3％, 지난달에 비해 0.6％ 오른 것으로 독일 연방통계청이 30...",
+          "publishedAt": "2026-09-30T13:43:10.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/30/AKR20260930196400082_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
+        {
+          "title": "美 8월 PCE 예상보다 완화…연준 추가금리인상 부담 덜었다",
+          "link": "https://www.hankyung.com/article/202609305956i",
+          "summary": "",
+          "publishedAt": "2026-09-30T13:37:07.000Z",
           "image": "",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
-          "title": "외환당국, 2분기 환율 방어에 96억 달러 순매도…7분기 연속",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008777372",
-          "summary": "▲ 한국은행 본부외환당국이 올해 2분기 외환시장 안정을 위해 약 96억 달러를 순매도했습니다.한국은행이 오늘 공개한 '2026…",
-          "publishedAt": "2026-09-30T08:37:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260930/202227309_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "세수 63조 더 걷혀…채권시장 안정 등에 투입",
-          "link": "https://www.mk.co.kr/news/economy/12165137",
-          "summary": "정부가 반도체 호황으로 발생한 63조원 규모 '초과 세수'를 국채 시장 안정과 민생 지원에 투입할 방침이다. 국채 발행 물량을 축소해 금리 상승에 따른 금융 시장 불안을 선제적으로..",
-          "publishedAt": "2026-09-30T08:32:13.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/01/20261001_01110112000002_L00.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "미국 장기금리 압박에 국고채도 ‘레고랜드 고점’ 바짝…“초과세수로 빚 갚아야”",
-          "link": "https://www.khan.co.kr/article/202609301644021/",
-          "summary": "이형일 부총리 겸 재정경제부 장관이 30일 서울 종로구 정부서울청사에서 열린 ‘확대 거시재정금융간담회’를 주재하고 있다. 재정경제부 제공글로벌 금융시장의 핵심 지표인 미국 장기국채 금리가 치솟으면서 한국 정부가 빚을 낼 때 발행하는 국고채 금리도 2022년 ‘레고랜드 사태’ 당시 수준에 바짝 다가섰다. 국내 채권시장의 기준점 역할을 하는 국고채 금리는 기업…",
-          "publishedAt": "2026-09-30T07:44:02.000Z",
+          "title": "‘레고랜드 사태’ 뺨치는 국고채 금리…치솟는 미 장기국채 금리, 국내 파장은",
+          "link": "https://www.khan.co.kr/article/202609302049005/",
+          "summary": "2022년 10월 10년물 4.632% 기록…지난달 15일 4.6%까지 치솟아기업·가계 자금 조달 ‘부담’…정부 “초과세수로 물량 축소 검토”글로벌 금융시장의 핵심 지표인 미국 장기국채 금리가 치솟으면서 한국 정부가 빚을 낼 때 발행하는 국고채 금리도 2022년 ‘레고랜드 사태’ 당시 수준까지 바짝 올라섰다. 국내 채권시장의 기준점 역할을 하는 국고채 금리…",
+          "publishedAt": "2026-09-30T11:49:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
-          "title": "미 금리 상승도 누른 수출업체 달러 매도…환율 3.9원 내려 1,350원대 초반",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008777235",
-          "summary": "▲ 30일 서울 중구 하나은행 본점 딜링룸에 주가가 표시되고 있다. 이날 코스피는 32.77p 내린 6,838.04로 장을 마쳤다.미…",
-          "publishedAt": "2026-09-30T07:43:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260930/202227284_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
+          "title": "'코로나 후 긴축' 닮아가는 글로벌 금리…韓도 3.5% 갈까",
+          "link": "https://www.hankyung.com/article/2026093056651",
+          "summary": "",
+          "publishedAt": "2026-09-30T09:11:13.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.3
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 193,
+      "poolSize": 194,
       "items": [
         {
           "title": "'본각사상'으로 한국 선불교 윤리 재조명",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.6
+          "score": 3.4
         },
         {
           "title": "진흥원, 10월 화요강좌에 고은진 교수 ‘AI와 불교’",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.6
+          "score": 3.4
         },
         {
           "title": "광주영산재, 전쟁의 상처 보듬고 평화 발원",
@@ -131,20 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
-        },
-        {
-          "title": "공주 구룡사, 10월 한달간 '구절산 구절초 꽃축제'",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505469",
-          "summary": "공주 구절산 자락이 올가을 다시 하얀 구절초 물결로 뒤덮인다.공주 구룡사(주지 진명 스님)는 10월 1일부터 31일까지 경내와 구절산 구절초 군락지 일원에서 ‘2026 구절산 구룡사 구절초 꽃축제’를 개최한다. 올해 구절초 꽃축제는 산림청이 발표한 ‘2026년 하반기 산림테마 지역축제 전국지도’에 충남지역 가을 축제로 소개되기도 했다.구룡사는 한국 선불교…",
-          "publishedAt": "2026-09-28T09:23:22.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2
+          "score": 2.9
         }
       ]
     },
@@ -172,7 +159,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.7
+          "score": 6.4
         },
         {
           "title": "Moral Phenomenology",
@@ -198,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.7
+          "score": 5.5
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -214,18 +201,18 @@
           "score": 4.5
         },
         {
-          "title": "Carlo Rovelli: Free Will Is Real and Physics Can Prove It",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/carlo-rovelli-free-will-is-real-and-physics-can-prove-it.html",
-          "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
-          "publishedAt": "2026-09-29T16:45:56.000Z",
-          "image": "",
+          "title": "A Contrarian View of How Consciousness Evolved",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/a-contrarian-view-of-how-consciousness-evolved.html",
+          "summary": "Emily Cataneo in Undark Magazine: The human body is a master at regulating itself. For example, if your blood pressure rises precipitously, it will cause your arterial wall to stretch. Receptors in yo…",
+          "publishedAt": "2026-09-30T12:54:27.000Z",
+          "image": "https://3quarksdaily.com/wp-content/uploads/2026/09/GettyImages-2264977458_lede-360x203.jpg",
           "sourceName": "3 Quarks Daily",
           "sourceId": "3quarks",
           "candidates": [
             "philosophy",
             "art"
           ],
-          "score": 4.2
+          "score": 4.3
         }
       ]
     },
@@ -240,7 +227,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 203,
+      "poolSize": 210,
       "items": [
         {
           "title": "美미술관 큐레이터 변신한 RM \"외부인 시선이 새바람 일으킬 것\"",
@@ -253,7 +240,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "BTS 리더 RM이 좋아하는 그림은···컬렉션 140점 미국 미술관서 첫 공개 “꽤 긴 자기소개”",
@@ -266,7 +253,20 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
+          "score": 7.1
+        },
+        {
+          "title": "BTS의 RM 사로잡은 한국 근현대미술, 미 샌프란시스코 물들인다",
+          "link": "https://www.khan.co.kr/article/202609302043005/",
+          "summary": "윤형근·유영국 작품 등 소장품 140점SFMOMA 소장품 40점과 짝지어 전시“컬렉션이 그 사람 보여줘…긴 자기소개”직접 전시장 글·설명 쓰고 가이드 녹음미술 애호가로 널리 알려진 방탄소년단(BTS) 리더 RM의 소장품 140점을 한자리에서 볼 수 있는 전시가 미국 주요 미술관에서 열린다. RM이 지난 10년 가까이 모은 한국 근현대미술 중심의 개인 컬렉션…",
+          "publishedAt": "2026-09-30T11:43:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 5.8
         },
         {
           "title": "‘게이 한국인 남성 예술가’라고 쓴 순간, 작품이 시작됐다···오인환이 30년간 비춰온 ‘사각지대’",
@@ -279,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5
+          "score": 4.7
         },
         {
           "title": "'디지털 콘텐츠로 만나는 우리 유산'…10월 남원에서 기획전시회",
@@ -292,20 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
-        },
-        {
-          "title": "국립수목원, 체험형 전시 '작지만 위대한 존재, 잡초' 개최",
-          "link": "https://www.yna.co.kr/view/AKR20260930127100060",
-          "summary": "(포천=연합뉴스) 임병식 기자 = 산림청 국립수목원은 11월 29일까지 수목원 내 어린이정원에서 체험형 전시 '작지만 위대한 존재, 잡초'를 개...",
-          "publishedAt": "2026-09-30T05:50:16.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/30/AKR20260930127100060_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
+          "score": 4.2
         }
       ]
     }
