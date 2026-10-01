@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-01T03:07:42.970Z",
+  "builtAt": "2026-10-01T09:09:08.230Z",
   "cards": [
     {
       "id": "econ",
@@ -12,14 +12,14 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 334,
+      "poolSize": 337,
       "items": [
         {
-          "title": "일본은행 9월 금리회의서 물가 경계감…\"10월도 인상 가능성\"",
-          "link": "https://www.yna.co.kr/view/AKR20261001084600073",
-          "summary": "(도쿄=연합뉴스) 조성미 특파원 = 일본은행이 지난달 열린 금융정책결정회의에서 기준금리를 올릴 당시 물가 상승을 경계하는 의견들이 다수 제시되며...",
-          "publishedAt": "2026-10-01T02:11:13.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2026/09/30/98/PCM20260930000098073_P2.jpg",
+          "title": "미국 고금리 장기화 우려에…환율 1,350원대 후반으로 상승",
+          "link": "https://www.yna.co.kr/view/AKR20261001150700002",
+          "summary": "(세종=연합뉴스) 김수현 기자 = 미국 고금리가 장기화할 것이라는 우려에 달러가 강세를 보이면서 원/달러 환율은 1일 1,350원대 후반으로 상...",
+          "publishedAt": "2026-10-01T07:05:49.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/01/PYH2026100103180001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
@@ -28,56 +28,56 @@
           "score": 7.5
         },
         {
-          "title": "美금리 고공행진에…서학개미, 美국채 매수세 강화",
-          "link": "https://www.yna.co.kr/view/AKR20261001055500008",
-          "summary": "(서울=연합뉴스) 고은지 기자 = 미국 국채 금리가 가파르게 오르면서 미국 시장에 투자하는 개인 투자자(서학개미)들의 이달 미 채권 매수액이 매...",
-          "publishedAt": "2026-10-01T00:56:43.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2024/03/04/44/PCM20240304000144990_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "미국 10년물 국채 금리 5.3% 돌파···24년 만에 최고",
-          "link": "https://www.khan.co.kr/article/202610010747001/",
-          "summary": "지난달 29일(현지시간) 미국 뉴욕증권거래소(NYSE) 현장에서 트레이더들이 일하고 있다. 로이터연합뉴스미국의 10년 만기 국채 금리가 30일(현지시간) 5.3%를 돌파하며 24년 만에 최고 수준으로 올라섰다.트레이드웹에 따르면 이날 미 10년물 국채 금리는 장 중 한때 5.304%까지 올라 2007년 기록한 장중 고점 5.303%를 넘어섰다. 이는 200…",
-          "publishedAt": "2026-09-30T22:47:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "[뉴욕증시] 물가 안정 호재에도…금리 상승 압력 '여전'",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008777704",
-          "summary": "미증시 삼대지수가 엇갈린 흐름으로 마감했습니다.나스닥이 강보합 마감한 반면 S&P 500은 0.25% 하락했습니다.업종별로는 필수소비재, 부동산…",
-          "publishedAt": "2026-09-30T22:37:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261001/202227484_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "“이란전쟁 소풍 끝나면 유가 정상화”…금리발작 못본체하는 트럼프",
-          "link": "https://www.mk.co.kr/news/economy/12165415",
-          "summary": "10년물도 2007년 이후 최고 전쟁 장기화 우려 국채 투매 트럼프 “곧 종전해 유가 급락”국제유가 변동성에 따른 물가 상승 압력에 미국 국채 금리가 연일 급등하고 있다. 연방준..",
-          "publishedAt": "2026-09-30T14:35:54.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/30/news-p.v1.20260707.df63685435ff40fab52d91b08ac59968_R.png",
+          "title": "물가에 녹는 예금이자…머니쇼에서 해법 찾는다",
+          "link": "https://www.mk.co.kr/news/economy/12166125",
+          "summary": "“시중은행 예금금리가 3%대인데 인플레이션(물가상승)이 다 갉아먹으니 도대체 어디에 투자해야 할까요.” 은행 예금 이자로 간신히 물가 상승률을 방어하는 시대다. 미국이 기준금리를 ..",
+          "publishedAt": "2026-10-01T06:32:40.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/01/news-p.v1.20261001.d59936db728b4a63a17b285fa55d9902_R.png",
           "sourceName": "매일경제",
           "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.4
+        },
+        {
+          "title": "[외환] 원/달러 환율 5.6원 오른 1,358.4원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261001141600002",
+          "summary": "(",
+          "publishedAt": "2026-10-01T06:31:34.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001141600002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "\"환율 공식 깨졌다\"…美금리 치솟는데 원화가 강해진 이유는",
+          "link": "https://www.hankyung.com/article/202610017917i",
+          "summary": "",
+          "publishedAt": "2026-10-01T06:16:27.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "“환율 급등, 예전만큼 안 무섭다”…반복 충격에 가계도 ‘소비 내성’",
+          "link": "https://www.mk.co.kr/news/economy/12165948",
+          "summary": "한국은행 경제연구원, 보고서 발표 환율 급등 충격 누적된 경험 영향 “저축 늘리거나 지출 줄이는 변화”원/달러 환율이 급등하더라도 가계소비에 미치는 부정적 영향은 제한적이라는 한국..",
+          "publishedAt": "2026-10-01T04:29:38.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/01/news-p.v1.20261001.aeb67bf1aa514e3f908a56463d10e25a_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
         }
       ]
     },
@@ -92,20 +92,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 198,
+      "poolSize": 201,
       "items": [
         {
-          "title": "김정은, 시진핑에 축전…\"조중관계 새로운 전략적 높이로\"",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109711",
-          "summary": "김정은 북한 국무위원장이 중국 국경절 77주년인 오늘 시진핑 중국 국가주석에게 축전을 보내 북중 관계를 새로운 전략적 높이로 인도해 나가자는 의지를 강조했습니다. 김 위원장은 축전에서 \"피로써 맺어지고 진실한 동지적 우의로 계승해 온 조중 친선의 역사는 국제 정세가 어떻게 변하든 절대로 달리 흐를 수 없다\"며 이같이 밝혔습니다. 김 위원장은 특히, \"조중관…",
-          "publishedAt": "2026-10-01T10:45:30.000Z",
+          "title": "<38>대승불교는 부처님의 원음일까 아닐까",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442784",
+          "summary": "역사는 언제나 시간의 순서대로 나열된다. 그래서일까? 부처님의 탄생부터 열반까지, 그 이후에는 시간의 순서로 불교를 가늠하곤 한다. 어쩌면 당연한 이야기겠지만, 그 순서를 적용시키면서 부처님 열반 시기보다 한참 뒤에 등장한 ‘대승불교’가 과연 부처님의 원음이겠는가 라는 의문을 가진 사람들도 있었다. 아마 이 글을 읽고 있는 여러분 가운데서도 이 문제에 대한…",
+          "publishedAt": "2026-10-01T15:14:34.000Z",
           "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.6
         },
         {
           "title": "'본각사상'으로 한국 선불교 윤리 재조명",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.3
+          "score": 3.1
         },
         {
           "title": "진흥원, 10월 화요강좌에 고은진 교수 ‘AI와 불교’",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3.1
         },
         {
           "title": "한국명상심리상담학회 12번째 공개사례 발표회",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 3
         },
         {
           "title": "광주영산재, 전쟁의 상처 보듬고 평화 발원",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
+          "score": 2.7
         }
       ]
     },
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.3
+          "score": 5.2
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -225,7 +225,7 @@
             "philosophy",
             "art"
           ],
-          "score": 4.2
+          "score": 4.1
         },
         {
           "title": "Carlo Rovelli: Free Will Is Real and Physics Can Prove It",
@@ -239,7 +239,7 @@
             "philosophy",
             "art"
           ],
-          "score": 3.8
+          "score": 3.7
         }
       ]
     },
@@ -254,7 +254,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 210,
+      "poolSize": 206,
       "items": [
         {
           "title": "BTS 리더 RM이 좋아하는 그림은···컬렉션 140점 미국 미술관서 첫 공개 “꽤 긴 자기소개”",
@@ -267,7 +267,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7
+          "score": 6.8
         },
         {
           "title": "'흙이 빚어낸 일상의 온기'…박영란 작가, 테라코타 작품전",
@@ -280,7 +280,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6
+          "score": 5.8
         },
         {
           "title": "미술과 문학의 만남…한화문화재단, 뉴욕서 신진작가 그룹전",
@@ -293,7 +293,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6
+          "score": 5.8
         },
         {
           "title": "국중박 ‘반가사유상 미니어처’ RM 전시하는 SFMOMA에서 선보인다",
@@ -306,7 +306,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6
+          "score": 5.8
         },
         {
           "title": "BTS의 RM 사로잡은 한국 근현대미술, 미 샌프란시스코 물들인다",
@@ -319,7 +319,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.7
+          "score": 5.6
         }
       ]
     }
