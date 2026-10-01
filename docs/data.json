@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-30T21:07:07.585Z",
+  "builtAt": "2026-10-01T03:07:42.970Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,60 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 342,
+      "poolSize": 334,
       "items": [
+        {
+          "title": "일본은행 9월 금리회의서 물가 경계감…\"10월도 인상 가능성\"",
+          "link": "https://www.yna.co.kr/view/AKR20261001084600073",
+          "summary": "(도쿄=연합뉴스) 조성미 특파원 = 일본은행이 지난달 열린 금융정책결정회의에서 기준금리를 올릴 당시 물가 상승을 경계하는 의견들이 다수 제시되며...",
+          "publishedAt": "2026-10-01T02:11:13.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2026/09/30/98/PCM20260930000098073_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "美금리 고공행진에…서학개미, 美국채 매수세 강화",
+          "link": "https://www.yna.co.kr/view/AKR20261001055500008",
+          "summary": "(서울=연합뉴스) 고은지 기자 = 미국 국채 금리가 가파르게 오르면서 미국 시장에 투자하는 개인 투자자(서학개미)들의 이달 미 채권 매수액이 매...",
+          "publishedAt": "2026-10-01T00:56:43.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2024/03/04/44/PCM20240304000144990_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "미국 10년물 국채 금리 5.3% 돌파···24년 만에 최고",
+          "link": "https://www.khan.co.kr/article/202610010747001/",
+          "summary": "지난달 29일(현지시간) 미국 뉴욕증권거래소(NYSE) 현장에서 트레이더들이 일하고 있다. 로이터연합뉴스미국의 10년 만기 국채 금리가 30일(현지시간) 5.3%를 돌파하며 24년 만에 최고 수준으로 올라섰다.트레이드웹에 따르면 이날 미 10년물 국채 금리는 장 중 한때 5.304%까지 올라 2007년 기록한 장중 고점 5.303%를 넘어섰다. 이는 200…",
+          "publishedAt": "2026-09-30T22:47:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "[뉴욕증시] 물가 안정 호재에도…금리 상승 압력 '여전'",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008777704",
+          "summary": "미증시 삼대지수가 엇갈린 흐름으로 마감했습니다.나스닥이 강보합 마감한 반면 S&P 500은 0.25% 하락했습니다.업종별로는 필수소비재, 부동산…",
+          "publishedAt": "2026-09-30T22:37:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261001/202227484_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "“이란전쟁 소풍 끝나면 유가 정상화”…금리발작 못본체하는 트럼프",
           "link": "https://www.mk.co.kr/news/economy/12165415",
@@ -25,59 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
-        },
-        {
-          "title": "독일 9월 소비자물가 3.3％↑…ECB 금리인상 압박",
-          "link": "https://www.yna.co.kr/view/AKR20260930196400082",
-          "summary": "(베를린=연합뉴스) 김계연 특파원 = 이달 독일 소비자물가가 작년 9월보다 3.3％, 지난달에 비해 0.6％ 오른 것으로 독일 연방통계청이 30...",
-          "publishedAt": "2026-09-30T13:43:10.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/30/AKR20260930196400082_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
-        },
-        {
-          "title": "美 8월 PCE 예상보다 완화…연준 추가금리인상 부담 덜었다",
-          "link": "https://www.hankyung.com/article/202609305956i",
-          "summary": "",
-          "publishedAt": "2026-09-30T13:37:07.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
-        },
-        {
-          "title": "‘레고랜드 사태’ 뺨치는 국고채 금리…치솟는 미 장기국채 금리, 국내 파장은",
-          "link": "https://www.khan.co.kr/article/202609302049005/",
-          "summary": "2022년 10월 10년물 4.632% 기록…지난달 15일 4.6%까지 치솟아기업·가계 자금 조달 ‘부담’…정부 “초과세수로 물량 축소 검토”글로벌 금융시장의 핵심 지표인 미국 장기국채 금리가 치솟으면서 한국 정부가 빚을 낼 때 발행하는 국고채 금리도 2022년 ‘레고랜드 사태’ 당시 수준까지 바짝 올라섰다. 국내 채권시장의 기준점 역할을 하는 국고채 금리…",
-          "publishedAt": "2026-09-30T11:49:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
-        },
-        {
-          "title": "'코로나 후 긴축' 닮아가는 글로벌 금리…韓도 3.5% 갈까",
-          "link": "https://www.hankyung.com/article/2026093056651",
-          "summary": "",
-          "publishedAt": "2026-09-30T09:11:13.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
+          "score": 7.2
         }
       ]
     },
@@ -92,8 +92,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 194,
+      "poolSize": 198,
       "items": [
+        {
+          "title": "김정은, 시진핑에 축전…\"조중관계 새로운 전략적 높이로\"",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109711",
+          "summary": "김정은 북한 국무위원장이 중국 국경절 77주년인 오늘 시진핑 중국 국가주석에게 축전을 보내 북중 관계를 새로운 전략적 높이로 인도해 나가자는 의지를 강조했습니다. 김 위원장은 축전에서 \"피로써 맺어지고 진실한 동지적 우의로 계승해 온 조중 친선의 역사는 국제 정세가 어떻게 변하든 절대로 달리 흐를 수 없다\"며 이같이 밝혔습니다. 김 위원장은 특히, \"조중관…",
+          "publishedAt": "2026-10-01T10:45:30.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
+        },
         {
           "title": "'본각사상'으로 한국 선불교 윤리 재조명",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505480",
@@ -105,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.4
+          "score": 3.3
         },
         {
           "title": "진흥원, 10월 화요강좌에 고은진 교수 ‘AI와 불교’",
@@ -118,7 +131,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.4
+          "score": 3.2
+        },
+        {
+          "title": "한국명상심리상담학회 12번째 공개사례 발표회",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442761",
+          "summary": "상담 현장에서 실제로 다뤄진 사례를 함께 살펴보고, 전문가의 수퍼비전을 통해 상담 과정과 접근 방법을 점검하는 자리가 마련된다.사단법인 한국명상심리상담학회(회장 손강숙, 중앙승가대 교수)는 10월 24일 오후 1시부터 3시 30분까지 전북특별자치도 김제시 문수사에서 ‘제12회 공개사례 발표회 및 수퍼비전’을 개최한다.이번 행사는 삼귀의와 반야심경 독송을 시…",
+          "publishedAt": "2026-10-01T08:49:24.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
         },
         {
           "title": "광주영산재, 전쟁의 상처 보듬고 평화 발원",
@@ -131,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.9
+          "score": 2.8
         }
       ]
     },
@@ -148,19 +174,6 @@
       "scoredBy": "keyword",
       "poolSize": 145,
       "items": [
-        {
-          "title": "\"기관 전문성·정체성 말살 졸속 개혁\"… 학계, 한중연·고전번역원·동북아재단 통합 철회 촉구",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210744",
-          "summary": "[28일, 85개 학술단체 고려대서 기자회견] 정부의 교육부 소관 연구기관 통폐합 방안에 맞서 국내외 학술단체들이 기자회견을 열고 집단 반발에 나섰다.한국고대사학회, 역사학회, 한국고전번역학회, 한국서지학회 등 국내외 85개 학회 및 연구소는 28일 서울 성북구 고려대 문과대학에서 기자회견을 열고 동북아역사재단, 한국학중앙연구원, 한국고전번역원을 통합하려는…",
-          "publishedAt": "2026-09-28T17:18:49.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 6.4
-        },
         {
           "title": "Moral Phenomenology",
           "link": "https://plato.stanford.edu/entries/moral-phenomenology/",
@@ -185,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.5
+          "score": 5.3
         },
         {
           "title": "Ludwig Wittgenstein",
@@ -212,7 +225,21 @@
             "philosophy",
             "art"
           ],
-          "score": 4.3
+          "score": 4.2
+        },
+        {
+          "title": "Carlo Rovelli: Free Will Is Real and Physics Can Prove It",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/carlo-rovelli-free-will-is-real-and-physics-can-prove-it.html",
+          "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
+          "publishedAt": "2026-09-29T16:45:56.000Z",
+          "image": "",
+          "sourceName": "3 Quarks Daily",
+          "sourceId": "3quarks",
+          "candidates": [
+            "philosophy",
+            "art"
+          ],
+          "score": 3.8
         }
       ]
     },
@@ -230,19 +257,6 @@
       "poolSize": 210,
       "items": [
         {
-          "title": "美미술관 큐레이터 변신한 RM \"외부인 시선이 새바람 일으킬 것\"",
-          "link": "https://www.yna.co.kr/view/AKR20260930072500091",
-          "summary": "(샌프란시스코=연합뉴스) 권영전 특파원 = 그룹 방탄소년단(BTS)의 리더 RM(본명 김남준)이 미국 샌프란시스코 현대미술관(SFMOMA)의 공...",
-          "publishedAt": "2026-09-30T02:40:28.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/30/AKR20260930072500091_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 7.1
-        },
-        {
           "title": "BTS 리더 RM이 좋아하는 그림은···컬렉션 140점 미국 미술관서 첫 공개 “꽤 긴 자기소개”",
           "link": "https://www.khan.co.kr/article/202609301016011/",
           "summary": "방탄소년단(BTS) 리더 RM이 29일(현지시간) 미국 샌프란시스코현대미술관(SFMOMA)에서 자신의 개인 컬렉션을 선보이는 특별전 ‘RM x SFMOMA: 비트윈 유 앤드 미(Between You and Me)’를 소개하고 있다. AP연합뉴스미술 애호가로 널리 알려진 방탄소년단(BTS) 리더 RM의 소장품 140점을 한자리에서 볼 수 있는 전시가 미국 주…",
@@ -253,7 +267,46 @@
           "candidates": [
             "art"
           ],
-          "score": 7.1
+          "score": 7
+        },
+        {
+          "title": "'흙이 빚어낸 일상의 온기'…박영란 작가, 테라코타 작품전",
+          "link": "https://www.yna.co.kr/view/AKR20261001075000054",
+          "summary": "(해남=연합뉴스) 조근영 기자 = 흙이 가진 따뜻한 질감과 일상의 이야기를 담아낸 박영란 작가의 테라코타 전시회가 오는 11일까지 전남광주 해남...",
+          "publishedAt": "2026-10-01T01:36:26.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001075000054_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 6
+        },
+        {
+          "title": "미술과 문학의 만남…한화문화재단, 뉴욕서 신진작가 그룹전",
+          "link": "https://www.yna.co.kr/view/AKR20261001065900005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 한국의 신진 미술작가와 세계 각국의 문학가가 뉴욕에서 만나 시각예술과 문학을 결합한 전시를 선보인다.",
+          "publishedAt": "2026-10-01T01:25:40.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001065900005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 6
+        },
+        {
+          "title": "국중박 ‘반가사유상 미니어처’ RM 전시하는 SFMOMA에서 선보인다",
+          "link": "https://www.khan.co.kr/article/202610011012021/",
+          "summary": "반가사유상 미니어처(사랑 가득) 국립박물관문화재단 제공국립중앙박물관의 대표 박물관상품 ‘반가사유상 미니어처’가 미국 샌프란시스코 현대미술관(SFMOMA)에서 열리는 방탄소년단(BTS) 리더 RM 소장품 전시에서 함께 선보인다.국립박물관문화재단은 이번 전시와 연계해 SFMOMA 뮤지엄숍에 뮷즈(MU:DS) 39종을 공급한다고 1일 밝혔다. 첫 주문액은 ···",
+          "publishedAt": "2026-10-01T01:12:02.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 6
         },
         {
           "title": "BTS의 RM 사로잡은 한국 근현대미술, 미 샌프란시스코 물들인다",
@@ -266,33 +319,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
-        },
-        {
-          "title": "‘게이 한국인 남성 예술가’라고 쓴 순간, 작품이 시작됐다···오인환이 30년간 비춰온 ‘사각지대’",
-          "link": "https://www.khan.co.kr/article/202609281801001/",
-          "summary": "1996년 뉴욕서 공개 커밍아웃, 삶을 작업으로향·언어·참여로 퀴어의 삶과 장소 드러내‘칼군무’·‘애교’ 신작으로 규범과 집단주의 질문“퀴어미술은 모든 세대·젠더에 열린 미술”오인환 작가가 지난 11일 서울 노원구 서울시립 북서울미술관에서 열리는 ‘오인환 vs. 장서영: 휴먼 에러’에 전시된 ‘무지개처럼, 우리는 하나가 아니기에 아름답지 않은가’ 작업 앞에…",
-          "publishedAt": "2026-09-28T09:01:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.7
-        },
-        {
-          "title": "'디지털 콘텐츠로 만나는 우리 유산'…10월 남원에서 기획전시회",
-          "link": "https://www.yna.co.kr/view/AKR20260930125600055",
-          "summary": "(남원=연합뉴스) 백도인 기자 = 전북 남원시는 우리 유산의 다양한 모습을 디지털 콘텐츠로 만나보는 기획전시회 '빛으로 만나는 우리 유산'을 다...",
-          "publishedAt": "2026-09-30T05:54:44.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/30/AKR20260930125600055_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.2
+          "score": 5.7
         }
       ]
     }
