@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-01T09:09:08.230Z",
+  "builtAt": "2026-10-01T21:06:40.037Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,47 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 337,
+      "poolSize": 338,
       "items": [
+        {
+          "title": "“긴축의 시대 투자로 정면돌파” … 서울머니쇼+에 초대합니다",
+          "link": "https://www.mk.co.kr/news/economy/12166434",
+          "summary": "코엑스 마곡서 29~31일 개최 ‘2026 서울머니쇼+’불확실성이 일상이 된 시대다. 금리는 오르고 집값은 흔들리며 인공지능(AI)은 투자 지형을 바꾸고 있다. 미국 10년물 국채..",
+          "publishedAt": "2026-10-01T20:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/01/news-a.v1.20261001.5e53fe35de1d41779338448b26095706_R.png",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "美 10년물 국채금리 5.34% \"24년만에 최고\"…전세계 채권 수익률 일제 급등 왜?",
+          "link": "https://www.hankyung.com/article/202610018739i",
+          "summary": "",
+          "publishedAt": "2026-10-01T10:33:29.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
+        {
+          "title": "이상한 환율…'美금리↑=원화 가치↓' 공식 깨졌다",
+          "link": "https://www.hankyung.com/article/2026100185081",
+          "summary": "",
+          "publishedAt": "2026-10-01T09:08:57.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
         {
           "title": "미국 고금리 장기화 우려에…환율 1,350원대 후반으로 상승",
           "link": "https://www.yna.co.kr/view/AKR20261001150700002",
@@ -25,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "물가에 녹는 예금이자…머니쇼에서 해법 찾는다",
@@ -38,46 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
-        },
-        {
-          "title": "[외환] 원/달러 환율 5.6원 오른 1,358.4원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261001141600002",
-          "summary": "(",
-          "publishedAt": "2026-10-01T06:31:34.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001141600002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "\"환율 공식 깨졌다\"…美금리 치솟는데 원화가 강해진 이유는",
-          "link": "https://www.hankyung.com/article/202610017917i",
-          "summary": "",
-          "publishedAt": "2026-10-01T06:16:27.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "“환율 급등, 예전만큼 안 무섭다”…반복 충격에 가계도 ‘소비 내성’",
-          "link": "https://www.mk.co.kr/news/economy/12165948",
-          "summary": "한국은행 경제연구원, 보고서 발표 환율 급등 충격 누적된 경험 영향 “저축 늘리거나 지출 줄이는 변화”원/달러 환율이 급등하더라도 가계소비에 미치는 부정적 영향은 제한적이라는 한국..",
-          "publishedAt": "2026-10-01T04:29:38.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/01/news-p.v1.20261001.aeb67bf1aa514e3f908a56463d10e25a_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
+          "score": 7.2
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 201,
+      "poolSize": 185,
       "items": [
         {
           "title": "<38>대승불교는 부처님의 원음일까 아닐까",
@@ -105,33 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
-        },
-        {
-          "title": "'본각사상'으로 한국 선불교 윤리 재조명",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505480",
-          "summary": "오늘날 다양한 수행·명상 문화 확산 속에 불교 수행의 의미와 정체성을 돌아보고, 선불교의 윤리적 가치를 재조명하는 자리가 마련됐다.한국선학회(회장 향산 스님)는 10월 22일 오후 1시 한국불교역사문화기념관 2층 국제회의장에서 ‘선불교와 윤리-본각사상과 관련하여’를 주제로 2026년 추계학술대회를 개최한다. 남원 실상사·고려대장경연구소 주최, 한국선학회 주…",
-          "publishedAt": "2026-09-28T15:43:00.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.1
-        },
-        {
-          "title": "진흥원, 10월 화요강좌에 고은진 교수 ‘AI와 불교’",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505476",
-          "summary": "대한불교진흥원(이사장 구상진, 이하 진흥원)이 초기불교부터 선불교까지의 가르침을 바탕으로 인공지능(AI)과 인간의 마음은 무엇이 다른지를 탐구하는 자리를 마련한다.진흥원은 10월 6일 오후 7시 서울 마포 다보원에서 의 저자 고은진 박사(제주대 학술연구교수)를 초청해 10월 화요 열린 강좌 ‘AI에게 마음을 묻다’를 개최한다.‘초기불교부터 선(禪)까지, 명…",
-          "publishedAt": "2026-09-28T14:35:54.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.1
+          "score": 4.4
         },
         {
           "title": "한국명상심리상담학회 12번째 공개사례 발표회",
@@ -144,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.7
         },
         {
           "title": "광주영산재, 전쟁의 상처 보듬고 평화 발원",
@@ -157,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.7
+          "score": 2.4
         }
       ]
     },
@@ -172,7 +146,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 145,
+      "poolSize": 146,
       "items": [
         {
           "title": "Moral Phenomenology",
@@ -198,40 +172,26 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.2
+          "score": 5
         },
         {
-          "title": "Ludwig Wittgenstein",
-          "link": "https://plato.stanford.edu/entries/wittgenstein/",
-          "summary": "[Revised entry by Anat Biletzki and Anat Matar on September 17, 2026. Changes to: Main text, Bibliography] Considered by some to be the greatest philosopher of the 20th century, Ludwig Wittgenstein pl…",
-          "publishedAt": "2026-09-17T23:58:48.000Z",
+          "title": "이화여대 ‘해저드 리터러시 국제학술대회’ 개최…주제는 AI·데이터·위험 소통",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210836",
+          "summary": "재난·안전, 기후위기, 과학·환경 등 다양한 분야에서 해저드 리터러시 연구와 교육을 펼치고 있는 이화여대 해저드리터러시융합교육연구소가 한국연구재단의 지원 아래 관련 프로그램을 개발해 오고 있다. 이 연구소는 데이터 기반 문제 해결을 포함해 여러 영역을 아우르는 활동을 이어가고 있다. '해저드 리터러시'란 개인이나 공동체가 재난, 위험, 재해에 관한 정보를…",
+          "publishedAt": "2026-10-01T18:33:08.000Z",
           "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.5
+          "score": 4.4
         },
         {
-          "title": "A Contrarian View of How Consciousness Evolved",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/a-contrarian-view-of-how-consciousness-evolved.html",
-          "summary": "Emily Cataneo in Undark Magazine: The human body is a master at regulating itself. For example, if your blood pressure rises precipitously, it will cause your arterial wall to stretch. Receptors in yo…",
-          "publishedAt": "2026-09-30T12:54:27.000Z",
-          "image": "https://3quarksdaily.com/wp-content/uploads/2026/09/GettyImages-2264977458_lede-360x203.jpg",
-          "sourceName": "3 Quarks Daily",
-          "sourceId": "3quarks",
-          "candidates": [
-            "philosophy",
-            "art"
-          ],
-          "score": 4.1
-        },
-        {
-          "title": "Carlo Rovelli: Free Will Is Real and Physics Can Prove It",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/09/carlo-rovelli-free-will-is-real-and-physics-can-prove-it.html",
+          "title": "Robert Wright: AI Alignment Is a Moral Problem, Not a Technical One",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/10/robert-wright-ai-alignment-is-a-moral-problem-not-a-technical-one.html",
           "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
-          "publishedAt": "2026-09-29T16:45:56.000Z",
+          "publishedAt": "2026-10-01T16:45:28.000Z",
           "image": "",
           "sourceName": "3 Quarks Daily",
           "sourceId": "3quarks",
@@ -239,7 +199,20 @@
             "philosophy",
             "art"
           ],
-          "score": 3.7
+          "score": 4.4
+        },
+        {
+          "title": "Analytic Philosophy and McCarthyism: A New Look (guest post)",
+          "link": "https://dailynous.com/2026/09/29/analytic-philosophy-and-mccarthyism-a-new-look-guest-post/",
+          "summary": "To what extent is the “the story about the analytic turn” in philosophy a story about politics? There’s been an increased discussion in recent years […] The post Analytic Philosophy and McCarthyism: A…",
+          "publishedAt": "2026-09-29T11:30:00.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/09/Bourke-White-support-struts-1024x770.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 3.3
         }
       ]
     },
@@ -254,7 +227,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 206,
+      "poolSize": 210,
       "items": [
         {
           "title": "BTS 리더 RM이 좋아하는 그림은···컬렉션 140점 미국 미술관서 첫 공개 “꽤 긴 자기소개”",
@@ -267,7 +240,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.8
+          "score": 6.6
         },
         {
           "title": "'흙이 빚어낸 일상의 온기'…박영란 작가, 테라코타 작품전",
@@ -280,20 +253,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
-        },
-        {
-          "title": "미술과 문학의 만남…한화문화재단, 뉴욕서 신진작가 그룹전",
-          "link": "https://www.yna.co.kr/view/AKR20261001065900005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 한국의 신진 미술작가와 세계 각국의 문학가가 뉴욕에서 만나 시각예술과 문학을 결합한 전시를 선보인다.",
-          "publishedAt": "2026-10-01T01:25:40.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001065900005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 5.8
+          "score": 5.6
         },
         {
           "title": "국중박 ‘반가사유상 미니어처’ RM 전시하는 SFMOMA에서 선보인다",
@@ -306,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
+          "score": 5.6
         },
         {
           "title": "BTS의 RM 사로잡은 한국 근현대미술, 미 샌프란시스코 물들인다",
@@ -319,7 +279,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5.6
+          "score": 5.3
+        },
+        {
+          "title": "런던에 한국문화의 진수 수놓다···영국박물관서 ‘이건희 컬렉션’",
+          "link": "https://www.khan.co.kr/article/202610012043015/",
+          "summary": "미국 이어 세 번째 해외 순회전앤 공주 등 왕실·주요 인사 참여이재용 회장 등 삼성가 총출동이재용 삼성전자 회장과 영국 왕실 앤 공주, 공주의 남편 티머시 로런스 경 등이 지난달 30일(현지시간) 영국 런던 영국박물관에서 개막한 KH컬렉션 순회전을 둘러보며 함께 웃고 있다. 삼성전자 제공이건희 삼성 선대회장의 기증품으로 구성된 ‘이건희(KH) 컬렉션’의 ·…",
+          "publishedAt": "2026-10-01T11:43:01.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
         }
       ]
     }
