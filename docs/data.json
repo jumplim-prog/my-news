@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-02T09:08:36.204Z",
+  "builtAt": "2026-10-02T21:07:14.506Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 329,
+      "poolSize": 333,
       "items": [
+        {
+          "title": "국채 금리 수십 년 만에 최고…버티는 증시",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781284",
+          "summary": "미국과 영국, 프랑스 등 주요 선진국들의 국채 금리가 수십 년 만의 최고 수준으로 뛰고 있습니다. 증시에 일반적으로 악재로 작용하지만, 최근 주식시장은 꼭 그렇지만은 않습니다.증시가 버티고 있는 배경은 뭔지, 민경호 기자가 전하겠습니다.",
+          "publishedAt": "2026-10-02T14:55:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261002/202228123_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "'상대적 안전자산' 인식에…치솟던 美국채금리 주춤",
+          "link": "https://www.hankyung.com/article/2026100209821",
+          "summary": "",
+          "publishedAt": "2026-10-02T08:33:25.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.2
+        },
         {
           "title": "환율, 강달러에 1,366원 찍은 뒤 수출업체 매도에 1,340원대로",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781009",
@@ -25,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "[외환] 원/달러 환율 7.8원 내린 1,350.6원(15:30 기준가)",
@@ -38,20 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
-        },
-        {
-          "title": "미 국채 덮친 '매도 악순환'…10년물 금리 5.3%",
-          "link": "https://www.hankyung.com/article/202610029156i",
-          "summary": "",
-          "publishedAt": "2026-10-01T23:15:08.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "“긴축의 시대 투자로 정면돌파” … 서울머니쇼+에 초대합니다",
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
-        },
-        {
-          "title": "원화 강세에 … 달러 대출 상환 나선 기업들",
-          "link": "https://www.mk.co.kr/news/economy/12167368",
-          "summary": "원화 가치가 빠르게 오르면서 기업들이 달러 대출 상환에 나서고 있다. 고환율 국면에서 달러 대출 상환에 부담을 느껴 만기 연장 등을 택했던 기업들이 최근 원화 강세를 계기로 외화부..",
-          "publishedAt": "2026-10-02T08:18:43.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/03/20261003_01110109000005_L00.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6
+          "score": 7
         }
       ]
     },
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 6
+          "score": 5.8
         },
         {
           "title": "[법인 스님의 문자 반야] 58. 여구두연(如求頭燃)",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "36. 앙굴리마라의 살인과 업보",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "<38>대승불교는 부처님의 원음일까 아닐까",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.1
+          "score": 3.9
         },
         {
           "title": "이정희(정법화·60) 조사선 수행 - 하",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.8
         }
       ]
     },
@@ -175,19 +175,6 @@
       "poolSize": 146,
       "items": [
         {
-          "title": "마르크스의 신유물론",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210879",
-          "summary": "토머스 네일 덴버대 철학과 교수, 마르크스를 신유물론으로 재해석결정론·인간중심주의 벗겨내고 ‘운동’의 철학자로 다시 읽어생태·성평등·식민주의 문제까지 잇는 새로운 마르크스주의 제시마르크스를 다시 읽는 방법이 달라지고 있다. 토머스 네일 미국 덴버대 철학과 교수는 신간 『마르크스의 신유물론』에서 마르크스를 단순히 자본주의를 분석한 사상가로 보지 않는다. 그는…",
-          "publishedAt": "2026-10-02T11:58:05.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 6.1
-        },
-        {
           "title": "Moral Phenomenology",
           "link": "https://plato.stanford.edu/entries/moral-phenomenology/",
           "summary": "[Revised entry by John Drummond and Mark Timmons on September 24, 2026. Changes to: Main text, Bibliography, notes.html] Sometimes the term \"phenomenology\" is used to refer to the subjective character…",
@@ -201,6 +188,19 @@
           "score": 6
         },
         {
+          "title": "마르크스의 신유물론",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210879",
+          "summary": "토머스 네일 덴버대 철학과 교수, 마르크스를 신유물론으로 재해석결정론·인간중심주의 벗겨내고 ‘운동’의 철학자로 다시 읽어생태·성평등·식민주의 문제까지 잇는 새로운 마르크스주의 제시마르크스를 다시 읽는 방법이 달라지고 있다. 토머스 네일 미국 덴버대 철학과 교수는 신간 『마르크스의 신유물론』에서 마르크스를 단순히 자본주의를 분석한 사상가로 보지 않는다. 그는…",
+          "publishedAt": "2026-10-02T11:58:05.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 5.8
+        },
+        {
           "title": "A Philosopher Among the MacArthur Fellows",
           "link": "https://dailynous.com/2026/09/29/a-philosopher-among-the-macarthur-fellows/",
           "summary": "Felipe De Brigard, professor of philosophy, psychology, and neuroscience at Duke University, principal investigator at the Imagination and Modal Cognition Lab, and core faculty of […] The post A Philo…",
@@ -211,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "이화여대 ‘해저드 리터러시 국제학술대회’ 개최…주제는 AI·데이터·위험 소통",
@@ -224,7 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.2
+          "score": 3.9
         },
         {
           "title": "Robert Wright: AI Alignment Is a Moral Problem, Not a Technical One",
@@ -238,7 +238,7 @@
             "philosophy",
             "art"
           ],
-          "score": 4.2
+          "score": 3.9
         }
       ]
     },
@@ -266,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "BTS 리더 RM이 좋아하는 그림은···컬렉션 140점 미국 미술관서 첫 공개 “꽤 긴 자기소개”",
@@ -279,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.3
+          "score": 6.1
         },
         {
           "title": "국중박 ‘반가사유상 미니어처’ RM 전시하는 SFMOMA에서 선보인다",
@@ -292,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.3
+          "score": 5.1
         },
         {
           "title": "BTS의 RM 사로잡은 한국 근현대미술, 미 샌프란시스코 물들인다",
@@ -305,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.1
+          "score": 4.8
         },
         {
           "title": "한국 미술의 '백색 담론' 되짚는다…기획전 7일 개막",
@@ -318,7 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         }
       ]
     }
