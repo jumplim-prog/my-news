@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-02T03:08:17.306Z",
+  "builtAt": "2026-10-02T09:08:36.204Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 332,
+      "poolSize": 329,
       "items": [
+        {
+          "title": "환율, 강달러에 1,366원 찍은 뒤 수출업체 매도에 1,340원대로",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781009",
+          "summary": "▲ 코스피가 상승하며 5거래일 만에 7,000선에서 마감한 2일 서울 중구 하나은행 딜링룸에서 직원들이 업무를 보고 있다.오늘 원/달…",
+          "publishedAt": "2026-10-02T07:31:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261002/202228029_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "[외환] 원/달러 환율 7.8원 내린 1,350.6원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261002125000002",
+          "summary": "(",
+          "publishedAt": "2026-10-02T06:30:43.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002125000002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "미 국채 덮친 '매도 악순환'…10년물 금리 5.3%",
           "link": "https://www.hankyung.com/article/202610029156i",
@@ -25,59 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.3
         },
         {
           "title": "“긴축의 시대 투자로 정면돌파” … 서울머니쇼+에 초대합니다",
           "link": "https://www.mk.co.kr/news/economy/12166434",
           "summary": "코엑스 마곡서 29~31일 개최 ‘2026 서울머니쇼+’불확실성이 일상이 된 시대다. 금리는 오르고 집값은 흔들리며 인공지능(AI)은 투자 지형을 바꾸고 있다. 미국 10년물 국채..",
           "publishedAt": "2026-10-01T20:00:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/01/news-a.v1.20261001.5e53fe35de1d41779338448b26095706_R.png",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/02/news-a.v1.20261002.5b6fc1ba3db04bb9aa3dadaed518a896_R.png",
           "sourceName": "매일경제",
           "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "美 10년물 국채금리 5.34% \"24년만에 최고\"…전세계 채권 수익률 일제 급등 왜?",
-          "link": "https://www.hankyung.com/article/202610018739i",
-          "summary": "",
-          "publishedAt": "2026-10-01T10:33:29.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
           "score": 7.2
         },
         {
-          "title": "물가에 녹는 예금이자…머니쇼에서 해법 찾는다",
-          "link": "https://www.mk.co.kr/news/economy/12166125",
-          "summary": "“시중은행 예금금리가 3%대인데 인플레이션(물가상승)이 다 갉아먹으니 도대체 어디에 투자해야 할까요.” 은행 예금 이자로 간신히 물가 상승률을 방어하는 시대다. 미국이 기준금리를 ..",
-          "publishedAt": "2026-10-01T06:32:40.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/01/news-p.v1.20261001.d59936db728b4a63a17b285fa55d9902_R.png",
+          "title": "원화 강세에 … 달러 대출 상환 나선 기업들",
+          "link": "https://www.mk.co.kr/news/economy/12167368",
+          "summary": "원화 가치가 빠르게 오르면서 기업들이 달러 대출 상환에 나서고 있다. 고환율 국면에서 달러 대출 상환에 부담을 느껴 만기 연장 등을 택했던 기업들이 최근 원화 강세를 계기로 외화부..",
+          "publishedAt": "2026-10-02T08:18:43.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/03/20261003_01110109000005_L00.jpg",
           "sourceName": "매일경제",
           "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.1
-        },
-        {
-          "title": "“환율 급등, 예전만큼 안 무섭다”…반복 충격에 가계도 ‘소비 내성’",
-          "link": "https://www.mk.co.kr/news/economy/12165948",
-          "summary": "한국은행 경제연구원, 보고서 발표 환율 급등 충격 누적된 경험 영향 “저축 늘리거나 지출 줄이는 변화”원/달러 환율이 급등하더라도 가계소비에 미치는 부정적 영향은 제한적이라는 한국..",
-          "publishedAt": "2026-10-01T04:29:38.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/01/news-p.v1.20261001.aeb67bf1aa514e3f908a56463d10e25a_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7
+          "score": 6
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 202,
+      "poolSize": 203,
       "items": [
         {
           "title": "‘나’가 없는데 무엇이 윤회하고 깨닫는 것일까",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 6.2
+          "score": 6
         },
         {
           "title": "[법인 스님의 문자 반야] 58. 여구두연(如求頭燃)",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "36. 앙굴리마라의 살인과 업보",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.5
         },
         {
           "title": "<38>대승불교는 부처님의 원음일까 아닐까",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "이정희(정법화·60) 조사선 수행 - 하",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.2
+          "score": 6.1
         },
         {
           "title": "Moral Phenomenology",
@@ -211,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.8
+          "score": 4.7
         },
         {
           "title": "이화여대 ‘해저드 리터러시 국제학술대회’ 개최…주제는 AI·데이터·위험 소통",
@@ -224,7 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.3
+          "score": 4.2
         },
         {
           "title": "Robert Wright: AI Alignment Is a Moral Problem, Not a Technical One",
@@ -238,7 +238,7 @@
             "philosophy",
             "art"
           ],
-          "score": 4.3
+          "score": 4.2
         }
       ]
     },
@@ -256,6 +256,19 @@
       "poolSize": 215,
       "items": [
         {
+          "title": "한국국제교류재단, BTS RM의 샌프란시스코 현대미술관 전시 지원",
+          "link": "https://www.yna.co.kr/view/AKR20261002130300371",
+          "summary": "(서울=연합뉴스) 강성철 기자 = 한국국제교류재단(KF·이사장 송기도)은 오는 3일부터 내년 2월 7일까지 미국 샌프란시스코 현대미술관(SFMO...",
+          "publishedAt": "2026-10-02T07:10:30.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002130300371_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.5
+        },
+        {
           "title": "BTS 리더 RM이 좋아하는 그림은···컬렉션 140점 미국 미술관서 첫 공개 “꽤 긴 자기소개”",
           "link": "https://www.khan.co.kr/article/202609301016011/",
           "summary": "방탄소년단(BTS) 리더 RM이 29일(현지시간) 미국 샌프란시스코현대미술관(SFMOMA)에서 자신의 개인 컬렉션을 선보이는 특별전 ‘RM x SFMOMA: 비트윈 유 앤드 미(Between You and Me)’를 소개하고 있다. AP연합뉴스미술 애호가로 널리 알려진 방탄소년단(BTS) 리더 RM의 소장품 140점을 한자리에서 볼 수 있는 전시가 미국 주…",
@@ -266,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.5
+          "score": 6.3
         },
         {
           "title": "국중박 ‘반가사유상 미니어처’ RM 전시하는 SFMOMA에서 선보인다",
@@ -279,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.5
+          "score": 5.3
         },
         {
           "title": "BTS의 RM 사로잡은 한국 근현대미술, 미 샌프란시스코 물들인다",
@@ -292,27 +305,14 @@
           "candidates": [
             "art"
           ],
-          "score": 5.2
+          "score": 5.1
         },
         {
-          "title": "대전시, 식품가공·도자공예·제과제빵 명장 3인 선정",
-          "link": "https://www.yna.co.kr/view/AKR20261002056900063",
-          "summary": "(대전=연합뉴스) 박주영 기자 = 대전시는 지역의 우수 숙련 기술자 3명을 '2026 대전시 명장'으로 선정했다고 2일 밝혔다.",
-          "publishedAt": "2026-10-02T01:11:12.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002056900063_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "예술로 물든 원주의 가을…6∼18일 원주예술제 공연·전시 풍성",
-          "link": "https://www.yna.co.kr/view/AKR20261002037800062",
-          "summary": "(원주=연합뉴스) 임보연 기자 = 원주지역 예술인들의 창작 성과를 한자리에서 만나는 '제62회 원주예술제'가 오는 6∼18일 원주시 일원에서 열...",
-          "publishedAt": "2026-10-02T00:42:07.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002037800062_01_i_P2.jpg",
+          "title": "한국 미술의 '백색 담론' 되짚는다…기획전 7일 개막",
+          "link": "https://www.yna.co.kr/view/AKR20261002125500005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 1975년 일본 도쿄화랑에서 '한국 5인의 작가, 다섯 가지 흰색' 전시가 열렸다.",
+          "publishedAt": "2026-10-02T06:42:33.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002125500005_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
