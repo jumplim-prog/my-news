@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-03T03:16:27.513Z",
+  "builtAt": "2026-10-03T09:09:06.548Z",
   "cards": [
     {
       "id": "econ",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.3
         },
         {
           "title": "국채 금리 수십 년 만에 최고…버티는 증시",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.1
         },
         {
           "title": "'상대적 안전자산' 인식에…치솟던 美국채금리 주춤",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 7
         },
         {
           "title": "환율, 강달러에 1,366원 찍은 뒤 수출업체 매도에 1,340원대로",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 7
         },
         {
           "title": "[외환] 원/달러 환율 7.8원 내린 1,350.6원(15:30 기준가)",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.9
         }
       ]
     },
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 5.7
+          "score": 5.5
         },
         {
           "title": "[법인 스님의 문자 반야] 58. 여구두연(如求頭燃)",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
           "title": "36. 앙굴리마라의 살인과 업보",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.1
+          "score": 4
         },
         {
           "title": "<38>대승불교는 부처님의 원음일까 아닐까",
@@ -144,20 +144,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.6
         },
         {
-          "title": "이정희(정법화·60) 조사선 수행 - 하",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338085",
-          "summary": "그날도 아무 생각 없이 이어폰을 끼고 탄천을 힘없이 걷고 있었다. 그러다 무심히 들린 법문 한마디, 무심히 던진 시선 끝에 눈앞을 가득 채운 법륜 같은 형상이 보였다. 그것이 하늘을 가득 채운 듯 보인 순간, 나도 모르게 말이 터져 나왔다. “어! 내가 부처네. 부처 맞네. 나뿐이네. 온통 나네. 나 아닌 것이 하나도 없구나. 천상천하 유아독존이구나.”주위…",
-          "publishedAt": "2026-10-02T11:04:27.000Z",
+          "title": "계룡산 신원사, ‘초부당 적음대선사 열반 65주기' 추모 다례재 봉행",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4110206",
+          "summary": "일제강점기 조선불교 수호에 앞장섰던 초부당 적음대선사의 열반 65주기 추모 다례재가 공주 계룡산 신원사에서 봉행됐습니다.신원사 부도탑과 대웅전 등에서 열린 이날 다례재는 헌다와 행장 소개, 인사말씀 등의 순으로 진행됐으며, 조계종 제6교구 본사 마곡사 주지 원경스님과 신원사 주지 성관스님을 비롯한 동참 대중은 대선사의 가르침을 되새겼습니다.원경스님은 \"후학…",
+          "publishedAt": "2026-10-03T17:08:17.000Z",
           "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.7
+          "score": 3.2
         }
       ]
     },
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.7
+          "score": 5.6
         },
         {
           "title": "A Philosopher Among the MacArthur Fellows",
@@ -224,7 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.8
+          "score": 3.7
         },
         {
           "title": "Robert Wright: AI Alignment Is a Moral Problem, Not a Technical One",
@@ -238,7 +238,7 @@
             "philosophy",
             "art"
           ],
-          "score": 3.8
+          "score": 3.7
         }
       ]
     },
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 214,
+      "poolSize": 210,
       "items": [
         {
           "title": "한국국제교류재단, BTS RM의 샌프란시스코 현대미술관 전시 지원",
@@ -266,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.1
+          "score": 7
         },
         {
           "title": "[주말의 취향]조각 보러 창원 가요···철길·한옥·시장 따라 걷는 가을 미술 산책",
@@ -279,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6
+          "score": 5.9
         },
         {
           "title": "국중박 ‘반가사유상 미니어처’ RM 전시하는 SFMOMA에서 선보인다",
@@ -292,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5
+          "score": 4.8
         },
         {
           "title": "BTS의 RM 사로잡은 한국 근현대미술, 미 샌프란시스코 물들인다",
@@ -305,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.7
+          "score": 4.6
         },
         {
           "title": "영화 '암살자(들)' 논란에 촬영 장소 빌려준 대전시도 '유탄'",
@@ -318,7 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         }
       ]
     }
