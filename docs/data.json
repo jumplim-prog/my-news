@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-03T09:09:06.548Z",
+  "builtAt": "2026-10-04T02:45:58.324Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 334,
+      "poolSize": 331,
       "items": [
         {
           "title": "[머니플로우] 금리 고공행진에 CD·채권 관련 ETF 인기 '쑥'",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 6.9
         },
         {
           "title": "국채 금리 수십 년 만에 최고…버티는 증시",
@@ -38,20 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
-        },
-        {
-          "title": "'상대적 안전자산' 인식에…치솟던 美국채금리 주춤",
-          "link": "https://www.hankyung.com/article/2026100209821",
-          "summary": "",
-          "publishedAt": "2026-10-02T08:33:25.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7
+          "score": 6.8
         },
         {
           "title": "환율, 강달러에 1,366원 찍은 뒤 수출업체 매도에 1,340원대로",
@@ -64,20 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 7
+          "score": 6.6
         },
         {
-          "title": "[외환] 원/달러 환율 7.8원 내린 1,350.6원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261002125000002",
-          "summary": "(",
-          "publishedAt": "2026-10-02T06:30:43.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002125000002_01_i_P2.jpg",
+          "title": "막바지 편입 앞둔 WGBI…외국인 공백 이후 연말 채권수급 촉각",
+          "link": "https://www.yna.co.kr/view/AKR20261003023200008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 한국 국채의 세계국채지수(WGBI) 편입이 11월로 마무리된다. 통상 지수 편입에 따른 패시브 자금이 직전 월...",
+          "publishedAt": "2026-10-03T21:10:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/03/AKR20261003023200008_02_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6.9
+          "score": 5.9
+        },
+        {
+          "title": "한은 “10월 소비자물가 3% 안팎 전망…상승 압력 여전”",
+          "link": "https://www.mk.co.kr/news/economy/12167722",
+          "summary": "통신요금 기저효과 사라져 상승률 둔화 항공료·여행비 상승 지속 전자제품 등 내구재 4.9% 올라 중동전쟁·비용 부담 변수한국은행이 10월에도 소비자물가 상승률이 3% 안팎에 이를 ..",
+          "publishedAt": "2026-10-03T00:41:46.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261003.cddf8f823be7483083139994297140a8_R.jpeg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.5
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 203,
+      "poolSize": 192,
       "items": [
         {
           "title": "‘나’가 없는데 무엇이 윤회하고 깨닫는 것일까",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 5.5
+          "score": 5.2
         },
         {
           "title": "[법인 스님의 문자 반야] 58. 여구두연(如求頭燃)",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.7
         },
         {
           "title": "36. 앙굴리마라의 살인과 업보",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.7
         },
         {
           "title": "<38>대승불교는 부처님의 원음일까 아닐까",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.6
+          "score": 3.3
         },
         {
           "title": "계룡산 신원사, ‘초부당 적음대선사 열반 65주기' 추모 다례재 봉행",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 2.8
         }
       ]
     },
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.6
+          "score": 5.2
         },
         {
           "title": "A Philosopher Among the MacArthur Fellows",
@@ -224,7 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.7
+          "score": 3.3
         },
         {
           "title": "Robert Wright: AI Alignment Is a Moral Problem, Not a Technical One",
@@ -238,7 +238,7 @@
             "philosophy",
             "art"
           ],
-          "score": 3.7
+          "score": 3.3
         }
       ]
     },
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 210,
+      "poolSize": 200,
       "items": [
         {
           "title": "한국국제교류재단, BTS RM의 샌프란시스코 현대미술관 전시 지원",
@@ -266,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7
+          "score": 6.6
         },
         {
           "title": "[주말의 취향]조각 보러 창원 가요···철길·한옥·시장 따라 걷는 가을 미술 산책",
@@ -279,33 +279,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5.9
+          "score": 5.5
         },
         {
-          "title": "국중박 ‘반가사유상 미니어처’ RM 전시하는 SFMOMA에서 선보인다",
-          "link": "https://www.khan.co.kr/article/202610011012021/",
-          "summary": "반가사유상 미니어처(사랑 가득) 국립박물관문화재단 제공국립중앙박물관의 대표 박물관상품 ‘반가사유상 미니어처’가 미국 샌프란시스코 현대미술관(SFMOMA)에서 열리는 방탄소년단(BTS) 리더 RM 소장품 전시에서 함께 선보인다.국립박물관문화재단은 이번 전시와 연계해 SFMOMA 뮤지엄숍에 뮷즈(MU:DS) 39종을 공급한다고 1일 밝혔다. 첫 주문액은 ···",
-          "publishedAt": "2026-10-01T01:12:02.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "87년 전 만든 '청송 주왕산 기록물' 연말까지 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261002068600053",
+          "summary": "(청송=연합뉴스) 김용민 기자 = 주왕산국립공원사무소는 87년 전에 제작된 주왕산 관련 기록물인 '주왕산 안내기'를 연말까지 상의 탐방안내소에 ...",
+          "publishedAt": "2026-10-03T22:11:21.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2015/05/15/PYH2015051503280001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.8
-        },
-        {
-          "title": "BTS의 RM 사로잡은 한국 근현대미술, 미 샌프란시스코 물들인다",
-          "link": "https://www.khan.co.kr/article/202609302043005/",
-          "summary": "윤형근·유영국 작품 등 소장품 140점SFMOMA 소장품 40점과 짝지어 전시“컬렉션이 그 사람 보여줘…긴 자기소개”직접 전시장 글·설명 쓰고 가이드 녹음미술 애호가로 널리 알려진 방탄소년단(BTS) 리더 RM의 소장품 140점을 한자리에서 볼 수 있는 전시가 미국 주요 미술관에서 열린다. RM이 지난 10년 가까이 모은 한국 근현대미술 중심의 개인 컬렉션…",
-          "publishedAt": "2026-09-30T11:43:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.6
+          "score": 4.4
         },
         {
           "title": "영화 '암살자(들)' 논란에 촬영 장소 빌려준 대전시도 '유탄'",
@@ -318,7 +305,20 @@
           "candidates": [
             "art"
           ],
-          "score": 4.2
+          "score": 3.9
+        },
+        {
+          "title": "한국 미술의 '백색 담론' 되짚는다…기획전 7일 개막",
+          "link": "https://www.yna.co.kr/view/AKR20261002125500005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 1975년 일본 도쿄화랑에서 '한국 5인의 작가, 다섯 가지 흰색' 전시가 열렸다.",
+          "publishedAt": "2026-10-02T06:42:33.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002125500005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 3.6
         }
       ]
     }
