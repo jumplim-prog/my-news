@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-04T15:53:15.858Z",
+  "builtAt": "2026-10-04T21:32:21.208Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 327,
+      "poolSize": 329,
       "items": [
         {
           "title": "[머니플로우] 금리 고공행진에 CD·채권 관련 ETF 인기 '쑥'",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.6
+          "score": 6.5
         },
         {
           "title": "국채 금리 수십 년 만에 최고…버티는 증시",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.5
+          "score": 6.4
         },
         {
           "title": "막바지 편입 앞둔 WGBI…외국인 공백 이후 연말 채권수급 촉각",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.6
+          "score": 5.5
         },
         {
           "title": "한은 “10월 소비자물가 3% 안팎 전망…상승 압력 여전”",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.2
+          "score": 5.1
         },
         {
           "title": "“1550원일땐 차마 못 갚았습니다”…1350원에 달러빚 정리나선 기업들",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.1
+          "score": 5
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 179,
+      "poolSize": 172,
       "items": [
         {
           "title": "‘나’가 없는데 무엇이 윤회하고 깨닫는 것일까",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.9
+          "score": 4.8
         },
         {
           "title": "[법인 스님의 문자 반야] 58. 여구두연(如求頭燃)",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.4
+          "score": 3.3
         },
         {
           "title": "36. 앙굴리마라의 살인과 업보",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.4
+          "score": 3.3
         },
         {
           "title": "한전, 외부 웹페이지에 직원 개인정보 노출...2만 4천명 정보",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3
         },
         {
           "title": "덕숭총림 수덕사 경허당 성우 대선사 탄신 177주기 다례재 봉행",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.9
         }
       ]
     },
@@ -188,6 +188,19 @@
           "score": 6
         },
         {
+          "title": "Mill’s Moral and Political Philosophy",
+          "link": "https://plato.stanford.edu/entries/mill-moral-political/",
+          "summary": "[Revised entry by David Brink on October 4, 2026. Changes to: Main text, notes.html] John Stuart Mill (1806 - 1873) was the most famous and influential British philosopher of the nineteenth century. H…",
+          "publishedAt": "2026-10-05T05:12:18.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 5.7
+        },
+        {
           "title": "마르크스의 신유물론",
           "link": "https://www.kyosu.net/news/articleView.html?idxno=210879",
           "summary": "토머스 네일 덴버대 철학과 교수, 마르크스를 신유물론으로 재해석결정론·인간중심주의 벗겨내고 ‘운동’의 철학자로 다시 읽어생태·성평등·식민주의 문제까지 잇는 새로운 마르크스주의 제시마르크스를 다시 읽는 방법이 달라지고 있다. 토머스 네일 미국 덴버대 철학과 교수는 신간 『마르크스의 신유물론』에서 마르크스를 단순히 자본주의를 분석한 사상가로 보지 않는다. 그는…",
@@ -198,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.9
+          "score": 4.8
         },
         {
           "title": "A Philosopher Among the MacArthur Fellows",
@@ -224,19 +237,6 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.1
-        },
-        {
-          "title": "Analytic Philosophy and McCarthyism: A New Look (guest post)",
-          "link": "https://dailynous.com/2026/09/29/analytic-philosophy-and-mccarthyism-a-new-look-guest-post/",
-          "summary": "To what extent is the “the story about the analytic turn” in philosophy a story about politics? There’s been an increased discussion in recent years […] The post Analytic Philosophy and McCarthyism: A…",
-          "publishedAt": "2026-09-29T11:30:00.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/09/Bourke-White-support-struts-1024x770.png",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
           "score": 3
         }
       ]
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 186,
+      "poolSize": 180,
       "items": [
         {
           "title": "한국국제교류재단, BTS RM의 샌프란시스코 현대미술관 전시 지원",
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.3
+          "score": 6.2
         },
         {
           "title": "[주말의 취향]조각 보러 창원 가요···철길·한옥·시장 따라 걷는 가을 미술 산책",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.2
+          "score": 5.1
         },
         {
           "title": "50개국서 110만부…1인 출판사와 무명작가 첫 소설, ‘해외 흥행 공식’ 다시 쓰다",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "1인 출판사가 낸 무명작가의 첫 소설…‘휴남동 서점’은 어떻게 전 세계 베스트셀러가 됐나",
@@ -304,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.2
         },
         {
           "title": "[imazine] 도쿄 시공간 투어 ① 오쿠아사쿠사와 네즈미술관",
@@ -317,7 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.2
+          "score": 4.1
         }
       ]
     }
