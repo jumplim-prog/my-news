@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-04T04:35:10.421Z",
+  "builtAt": "2026-10-04T15:53:15.858Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 331,
+      "poolSize": 327,
       "items": [
         {
           "title": "[머니플로우] 금리 고공행진에 CD·채권 관련 ETF 인기 '쑥'",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.9
+          "score": 6.6
         },
         {
           "title": "국채 금리 수십 년 만에 최고…버티는 증시",
@@ -38,20 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.7
-        },
-        {
-          "title": "환율, 강달러에 1,366원 찍은 뒤 수출업체 매도에 1,340원대로",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781009",
-          "summary": "▲ 코스피가 상승하며 5거래일 만에 7,000선에서 마감한 2일 서울 중구 하나은행 딜링룸에서 직원들이 업무를 보고 있다.오늘 원/달…",
-          "publishedAt": "2026-10-02T07:31:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261002/202228029_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.6
+          "score": 6.5
         },
         {
           "title": "막바지 편입 앞둔 WGBI…외국인 공백 이후 연말 채권수급 촉각",
@@ -64,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.8
+          "score": 5.6
         },
         {
           "title": "한은 “10월 소비자물가 3% 안팎 전망…상승 압력 여전”",
@@ -77,7 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.4
+          "score": 5.2
+        },
+        {
+          "title": "“1550원일땐 차마 못 갚았습니다”…1350원에 달러빚 정리나선 기업들",
+          "link": "https://www.mk.co.kr/news/economy/12167675",
+          "summary": "5대 은행 달러 대출 분석 고환율에 불어났던 달러 빚 원화 강세로 두달새 13%↓ 원화 매출비중 높은 기업 대출상환에 따른 효과 커원화 가치가 빠르게 오르면서 기업들이 달러 대출 ..",
+          "publishedAt": "2026-10-02T21:30:49.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-g.v1.20261002.7ee9273328f94b829903e6a92a738d11_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.1
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 192,
+      "poolSize": 179,
       "items": [
         {
           "title": "‘나’가 없는데 무엇이 윤회하고 깨닫는 것일까",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 5.1
+          "score": 4.9
         },
         {
           "title": "[법인 스님의 문자 반야] 58. 여구두연(如求頭燃)",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.6
+          "score": 3.4
         },
         {
           "title": "36. 앙굴리마라의 살인과 업보",
@@ -131,33 +131,33 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.6
+          "score": 3.4
         },
         {
-          "title": "<38>대승불교는 부처님의 원음일까 아닐까",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442784",
-          "summary": "역사는 언제나 시간의 순서대로 나열된다. 그래서일까? 부처님의 탄생부터 열반까지, 그 이후에는 시간의 순서로 불교를 가늠하곤 한다. 어쩌면 당연한 이야기겠지만, 그 순서를 적용시키면서 부처님 열반 시기보다 한참 뒤에 등장한 ‘대승불교’가 과연 부처님의 원음이겠는가 라는 의문을 가진 사람들도 있었다. 아마 이 글을 읽고 있는 여러분 가운데서도 이 문제에 대한…",
-          "publishedAt": "2026-10-01T15:14:34.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.2
-        },
-        {
-          "title": "계룡산 신원사, ‘초부당 적음대선사 열반 65주기' 추모 다례재 봉행",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4110206",
-          "summary": "일제강점기 조선불교 수호에 앞장섰던 초부당 적음대선사의 열반 65주기 추모 다례재가 공주 계룡산 신원사에서 봉행됐습니다.신원사 부도탑과 대웅전 등에서 열린 이날 다례재는 헌다와 행장 소개, 인사말씀 등의 순으로 진행됐으며, 조계종 제6교구 본사 마곡사 주지 원경스님과 신원사 주지 성관스님을 비롯한 동참 대중은 대선사의 가르침을 되새겼습니다.원경스님은 \"후학…",
-          "publishedAt": "2026-10-03T17:08:17.000Z",
+          "title": "한전, 외부 웹페이지에 직원 개인정보 노출...2만 4천명 정보",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4110276",
+          "summary": "한국전력(한전)은 지난 1일 오후 3시 59분쯤 외부 웹페이지에 직원 개인정보가 노출된 상황을 인지했다고 4일 밝혔습니다.노출된 정보는 한전 직원 2만 4천여 명의 이름, 소속, 전화번호 등으로 주민등록번호와 같은 고유식별번호와 민감정보는 노출되지 않았다고 한전은 설명했습니다.한전은 국가정보원이 한전 직원의 개인정보가 외부 웹페이지에 게시된 사실을 최초 발…",
+          "publishedAt": "2026-10-04T23:21:09.000Z",
           "image": "",
           "sourceName": "BBS 불교방송",
           "sourceId": "bbs-news",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
+          "score": 3.2
+        },
+        {
+          "title": "덕숭총림 수덕사 경허당 성우 대선사 탄신 177주기 다례재 봉행",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4110250",
+          "summary": "덕숭총림 수덕사가 근대 한국 선불교 중흥조인 경허당 성우 대선사 177주년 탄신 다례와 산중 대덕 스님들의 합동 다례를 봉행했습니다.다례재는 오늘 오전 수덕사 대웅전에서 전 총무원장 설정 대종사를 비롯해 덕숭총림 방장 달하 우송 대종사와 마곡사 전 주지 법용스님, 수덕사 주지 도신스님 등이 참석한 가운데 헌다 의식 등으로 진행됐습니다.헌다 의례 후 설정 대…",
+          "publishedAt": "2026-10-04T14:29:29.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 146,
+      "poolSize": 147,
       "items": [
         {
           "title": "Moral Phenomenology",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.2
+          "score": 4.9
         },
         {
           "title": "A Philosopher Among the MacArthur Fellows",
@@ -224,21 +224,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.3
+          "score": 3.1
         },
         {
-          "title": "Robert Wright: AI Alignment Is a Moral Problem, Not a Technical One",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/10/robert-wright-ai-alignment-is-a-moral-problem-not-a-technical-one.html",
-          "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
-          "publishedAt": "2026-10-01T16:45:28.000Z",
-          "image": "",
-          "sourceName": "3 Quarks Daily",
-          "sourceId": "3quarks",
+          "title": "Analytic Philosophy and McCarthyism: A New Look (guest post)",
+          "link": "https://dailynous.com/2026/09/29/analytic-philosophy-and-mccarthyism-a-new-look-guest-post/",
+          "summary": "To what extent is the “the story about the analytic turn” in philosophy a story about politics? There’s been an increased discussion in recent years […] The post Analytic Philosophy and McCarthyism: A…",
+          "publishedAt": "2026-09-29T11:30:00.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/09/Bourke-White-support-struts-1024x770.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
           "candidates": [
-            "philosophy",
-            "art"
+            "philosophy"
           ],
-          "score": 3.3
+          "score": 3
         }
       ]
     },
@@ -253,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 199,
+      "poolSize": 186,
       "items": [
         {
           "title": "한국국제교류재단, BTS RM의 샌프란시스코 현대미술관 전시 지원",
@@ -266,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.6
+          "score": 6.3
         },
         {
           "title": "[주말의 취향]조각 보러 창원 가요···철길·한옥·시장 따라 걷는 가을 미술 산책",
@@ -279,7 +278,33 @@
           "candidates": [
             "art"
           ],
-          "score": 5.4
+          "score": 5.2
+        },
+        {
+          "title": "50개국서 110만부…1인 출판사와 무명작가 첫 소설, ‘해외 흥행 공식’ 다시 쓰다",
+          "link": "https://www.khan.co.kr/article/202610042023005/",
+          "summary": "35개 언어권에 읽힌 ‘휴남동 서점’지친 삶 보듬는 작은 서점 속 얘기트렌드 타고 ‘한국형 힐링 소설’로‘문학상 수상·유명 작가’ 공식 깨<어서 오세요. 휴남동 서점입니다> 누적 100만부 판매 기념 표지 클레이하우스 제공세계 35개 언어권, 50개국에 번역돼 110만부 이상 판매된 한국 소설이 있다. 유명 작가의 책도 아니었고, 문학 출판은 처···",
+          "publishedAt": "2026-10-04T11:23:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "1인 출판사가 낸 무명작가의 첫 소설…‘휴남동 서점’은 어떻게 전 세계 베스트셀러가 됐나",
+          "link": "https://www.khan.co.kr/article/202610041422001/",
+          "summary": "35개 언어권·50개국서 110만부 팔려세계 독자 사로잡은 한국형 ‘힐링 소설’1인 출판사도 해외로…달라진 ‘K출판’ 흥행 공식지난 10월 2일 서울 중구 컨퍼런스하우스 달개비에서 열린 <어서 오세요. 휴남동 서점입니다> 100만부 판매 기념 기자간담회에 참석한 황보름 작가(오른쪽)와 윤성훈 클레이하우스 대표. 클레이하우스 제공세계 35개 언어권···",
+          "publishedAt": "2026-10-04T05:22:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
         },
         {
           "title": "[imazine] 도쿄 시공간 투어 ① 오쿠아사쿠사와 네즈미술관",
@@ -292,33 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
-        },
-        {
-          "title": "87년 전 만든 '청송 주왕산 기록물' 연말까지 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261002068600053",
-          "summary": "(청송=연합뉴스) 김용민 기자 = 주왕산국립공원사무소는 87년 전에 제작된 주왕산 관련 기록물인 '주왕산 안내기'를 연말까지 상의 탐방안내소에 ...",
-          "publishedAt": "2026-10-03T22:11:21.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2015/05/15/PYH2015051503280001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
-        },
-        {
-          "title": "영화 '암살자(들)' 논란에 촬영 장소 빌려준 대전시도 '유탄'",
-          "link": "https://www.yna.co.kr/view/AKR20261002121000063",
-          "summary": "(대전=연합뉴스) 박주영 기자 = 영화 '암살자(들)'을 둘러싸고 역사 왜곡 논란이 확산하면서 촬영 장소를 빌려준 대전시도 '유탄'을 맞고 있다...",
-          "publishedAt": "2026-10-02T21:00:01.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/28/PYH2026092816270001301_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.8
+          "score": 4.2
         }
       ]
     }
