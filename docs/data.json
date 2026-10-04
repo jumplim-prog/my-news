@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-04T02:45:58.324Z",
+  "builtAt": "2026-10-04T04:35:10.421Z",
   "cards": [
     {
       "id": "econ",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.8
+          "score": 6.7
         },
         {
           "title": "환율, 강달러에 1,366원 찍은 뒤 수출업체 매도에 1,340원대로",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.9
+          "score": 5.8
         },
         {
           "title": "한은 “10월 소비자물가 3% 안팎 전망…상승 압력 여전”",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.5
+          "score": 5.4
         }
       ]
     },
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 5.2
+          "score": 5.1
         },
         {
           "title": "[법인 스님의 문자 반야] 58. 여구두연(如求頭燃)",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.6
         },
         {
           "title": "36. 앙굴리마라의 살인과 업보",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.6
         },
         {
           "title": "<38>대승불교는 부처님의 원음일까 아닐까",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.3
+          "score": 3.2
         },
         {
           "title": "계룡산 신원사, ‘초부당 적음대선사 열반 65주기' 추모 다례재 봉행",
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 200,
+      "poolSize": 199,
       "items": [
         {
           "title": "한국국제교류재단, BTS RM의 샌프란시스코 현대미술관 전시 지원",
@@ -279,7 +279,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5.5
+          "score": 5.4
+        },
+        {
+          "title": "[imazine] 도쿄 시공간 투어 ① 오쿠아사쿠사와 네즈미술관",
+          "link": "https://www.yna.co.kr/view/AKR20260911112800542",
+          "summary": "(도쿄=연합뉴스) 성연재 기자 = 도쿄를 걷다 보면 이 도시가 단순히 더 높이, 더 크게 짓는 데만 관심을 두고 있는 것은 아니라는 사실을 알게...",
+          "publishedAt": "2026-10-04T03:00:12.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911112800542_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
         },
         {
           "title": "87년 전 만든 '청송 주왕산 기록물' 연말까지 전시",
@@ -305,20 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 3.9
-        },
-        {
-          "title": "한국 미술의 '백색 담론' 되짚는다…기획전 7일 개막",
-          "link": "https://www.yna.co.kr/view/AKR20261002125500005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 1975년 일본 도쿄화랑에서 '한국 5인의 작가, 다섯 가지 흰색' 전시가 열렸다.",
-          "publishedAt": "2026-10-02T06:42:33.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002125500005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.6
+          "score": 3.8
         }
       ]
     }
