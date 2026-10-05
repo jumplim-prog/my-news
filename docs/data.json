@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-05T09:10:08.111Z",
+  "builtAt": "2026-10-05T21:13:09.429Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 329,
+      "poolSize": 333,
       "items": [
+        {
+          "title": "美증시,국채금리 올라도 나스닥 사상최고…엔비디아도 최고치 돌파",
+          "link": "https://www.hankyung.com/article/202610064008i",
+          "summary": "",
+          "publishedAt": "2026-10-05T15:55:37.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "유로화, 17개월 만에 최저…프랑스 등 재정 불안에 채권시장 흔들",
           "link": "https://www.yna.co.kr/view/AKR20261005046100085",
@@ -25,55 +38,42 @@
           "candidates": [
             "econ"
           ],
-          "score": 6
+          "score": 5.7
         },
         {
-          "title": "막바지 편입 앞둔 WGBI…외국인 공백 이후 연말 채권수급 촉각",
-          "link": "https://www.yna.co.kr/view/AKR20261003023200008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 한국 국채의 세계국채지수(WGBI) 편입이 11월로 마무리된다. 통상 지수 편입에 따른 패시브 자금이 직전 월...",
-          "publishedAt": "2026-10-03T21:10:01.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/03/AKR20261003023200008_02_i_P2.jpg",
+          "title": "9월 외환보유액 4천405억6천만달러…넉 달 만에 감소",
+          "link": "https://www.yna.co.kr/view/AKR20261003017600002",
+          "summary": "(서울=연합뉴스) 한지훈 기자 = 지난달 한미전략투자공사 자산 위탁 등의 영향으로 우리나라 외환보유액이 넉 달 만에 감소했다.",
+          "publishedAt": "2026-10-05T21:00:10.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/04/03/PYH2026040306570001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.2
-        },
-        {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12168520",
-          "summary": "",
-          "publishedAt": "2026-10-05T07:57:44.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/06/20261006_01110110000007_L00.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
           "score": 4.5
         },
         {
-          "title": "[단독] “美, 20억달러만 보증해주고...韓에 알래스카 LNG 500억달러 압박”",
-          "link": "https://www.mk.co.kr/news/economy/12168425",
-          "summary": "최수진 의원실 미국 의회 보고서 분석 LNG부문 美대출보증 20억弗불과 최수진 의원 “불공정·독소 계약” 트럼프 “합의 안하면 두 배” 재압박도널드 트럼프 미국 대통령이 한국에 ..",
-          "publishedAt": "2026-10-05T06:26:12.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/05/news-p.v1.20260922.80a109fda19d45b1a11685d61b4aac70_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "title": "롯데마트, 고물가 겨냥 언더웨어 7종 균일가 판매",
+          "link": "https://www.yna.co.kr/view/AKR20261005044500030",
+          "summary": "(서울=연합뉴스) 한주홍 기자 = 롯데마트는 고물가에 가성비를 중시하는 소비자를 겨냥해 언더웨어 7종을 균일가로 선보인다고 6일 밝혔다.",
+          "publishedAt": "2026-10-05T21:00:04.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/05/AKR20261005044500030_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.4
+          "score": 4.5
         },
         {
-          "title": "중기부, ‘특별재난지역’ 거제·통영 소상공인에 정책자금 금리 인하·상환 연장",
-          "link": "https://www.khan.co.kr/article/202610051226001/",
-          "summary": "거제?통영 지역 소상공인과 중소기업을 위한 ‘재해자금지원방안’ 의결. 중소벤처기업부 제공폭우로 큰 피해를 입은 경남 거제·통영 지역의 소상공인과 중소기업을 위해 정책자금 금리를 인하하고 대출한도와 상환기간을 늘린다.중소벤처기업부는 지난달 28일 ‘2026년 제1차 재난대책심의위원회’를 열고 특별재난지역으로 선포된 거제·통영 지역 소상공인과 중소기업을 위한…",
-          "publishedAt": "2026-10-05T03:26:00.000Z",
+          "title": "美 서비스 물가 4년 만에 최고치…고용도 다시 확장세",
+          "link": "https://www.hankyung.com/article/202610053994i",
+          "summary": "",
+          "publishedAt": "2026-10-05T14:40:10.000Z",
           "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
@@ -92,21 +92,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 172,
+      "poolSize": 103,
       "items": [
-        {
-          "title": "‘나’가 없는데 무엇이 윤회하고 깨닫는 것일까",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338076",
-          "summary": "불교는 ‘무아(無我)’를 말한다. 몸도 감정도 생각도 끊임없이 변하기에 영원불변하는 ‘나’라는 실체는 없다는 가르침이다. 그렇다면 자아가 없는데 누가 윤회하고, 누가 해탈하는가. 또 초기불교의 무아와 모든 것의 바탕에 하나의 마음이 있다고 보는 대승불교의 ‘일심(一心)’은 어떻게 양립할 수 있을까.40여 년간 마음의 근원을 탐구해 온 한자경 이화여대 철학과…",
-          "publishedAt": "2026-10-02T10:35:05.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.5
-        },
         {
           "title": "불교 수행의 핵심 ‘지관’의 본질을 탐구하다",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505596",
@@ -118,33 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
-        },
-        {
-          "title": "[법인 스님의 문자 반야] 58. 여구두연(如求頭燃)",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505564",
-          "summary": "선종의 대표적인 핵심 전적인 〈경덕전등록(景德傳燈錄)〉에는 당나라의 대시인 백낙천(772~846)이 나무 위에 둥지를 틀고 살던 조과 도림 선사(741~824)를 찾아간 일화가 나온다.항주 자사로 부임한 백낙천이 불법의 대의를 묻자, 선사는 〈법구경〉의 ‘칠불통게(七佛通偈)’를 인용해 “나쁜 짓을 짓지 말고 온갖 선을 행하라”고 답했다. 백낙천이 “세 살…",
-          "publishedAt": "2026-10-02T10:42:45.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3
-        },
-        {
-          "title": "36. 앙굴리마라의 살인과 업보",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338066",
-          "summary": "업(業)이란 범어 카르마(Karma)의 번역으로 행위를 뜻하고, 업보란 ‘행위의 결과’를 뜻한다. 업은 모든 행위가 아니라 의도적인 행위만을 가리킨다. ‘중아함경’에 “만약 어떤 사람이 의도적으로 업을 지으면 현세에서 받거나 후세에 과보를 받을 것이고, 의도적으로 업을 짓지 않으면 반드시 과보를 받는다고 말하지 않는다”고 하였고, ‘앙굿따라 니까야’에서는…",
-          "publishedAt": "2026-10-02T10:18:03.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3
+          "score": 2.9
         }
       ]
     },
@@ -175,6 +136,20 @@
           "score": 6
         },
         {
+          "title": "When you feel moral disgust, what’s the emotion telling you?",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/10/when-you-feel-moral-disgust-whats-the-emotion-telling-you.html",
+          "summary": "Brandon Yip at Psyche: Rather than see expressions like these as merely rhetorical, many philosophers and psychologists argue that moral disgust is a distinct and significant kind of moral response. T…",
+          "publishedAt": "2026-10-05T15:45:09.000Z",
+          "image": "https://3quarksdaily.com/wp-content/uploads/2026/10/sz-panos_00374310-360x203.png",
+          "sourceName": "3 Quarks Daily",
+          "sourceId": "3quarks",
+          "candidates": [
+            "philosophy",
+            "art"
+          ],
+          "score": 5.9
+        },
+        {
           "title": "Mill’s Moral and Political Philosophy",
           "link": "https://plato.stanford.edu/entries/mill-moral-political/",
           "summary": "[Revised entry by David Brink on October 4, 2026. Changes to: Main text, notes.html] John Stuart Mill (1806 - 1873) was the most famous and influential British philosopher of the nineteenth century. H…",
@@ -185,7 +160,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.4
+          "score": 5.2
         },
         {
           "title": "마르크스의 신유물론",
@@ -198,7 +173,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.6
+          "score": 4.5
         },
         {
           "title": "A Philosopher Among the MacArthur Fellows",
@@ -212,19 +187,6 @@
             "philosophy"
           ],
           "score": 4.5
-        },
-        {
-          "title": "이화여대 ‘해저드 리터러시 국제학술대회’ 개최…주제는 AI·데이터·위험 소통",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210836",
-          "summary": "재난·안전, 기후위기, 과학·환경 등 다양한 분야에서 해저드 리터러시 연구와 교육을 펼치고 있는 이화여대 해저드리터러시융합교육연구소가 한국연구재단의 지원 아래 관련 프로그램을 개발해 오고 있다. 이 연구소는 데이터 기반 문제 해결을 포함해 여러 영역을 아우르는 활동을 이어가고 있다. '해저드 리터러시'란 개인이나 공동체가 재난, 위험, 재해에 관한 정보를…",
-          "publishedAt": "2026-10-01T18:33:08.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3
         }
       ]
     },
@@ -239,7 +201,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 176,
+      "poolSize": 180,
       "items": [
         {
           "title": "설치·조각 등에 담아낸 칠곡…예태미술관서 작가 14인 전시회",
@@ -252,7 +214,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "“작가는 손도 안 댔습니다”···대리인이 그린 그림이 ‘진품’? 개념미술 선구자 솔 르윗이 던진 질문",
@@ -265,7 +227,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6
+          "score": 5.7
         },
         {
           "title": "뉴욕 메트로폴리탄 미술관 정면 외벽 채운 제네시스",
@@ -278,7 +240,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
+          "score": 5.6
         },
         {
           "title": "[주말의 취향]조각 보러 창원 가요···철길·한옥·시장 따라 걷는 가을 미술 산책",
@@ -291,16 +253,16 @@
           "candidates": [
             "art"
           ],
-          "score": 4.9
+          "score": 4.6
         },
         {
-          "title": "춘천 국립정원소재센터서 9∼18일 '우리 꽃 전시회' 개최",
-          "link": "https://www.yna.co.kr/view/AKR20261002158100062",
-          "summary": "(춘천=연합뉴스) 이상학 기자 = 강원 춘천시는 9일부터 18일까지 국립정원소재센터에서 '제32회 우리 꽃 전시회'가 열린다고 5일 밝혔다.",
-          "publishedAt": "2026-10-05T00:10:01.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2023/02/24/99/PCM20230224000099062_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "작가는 규칙을 만들고, 구현은 실행자가 한다…‘건축 같은 미술’",
+          "link": "https://www.khan.co.kr/article/202610052230005/",
+          "summary": "개념미술 선구자 솔 르윗 서울서 ‘오픈 스트럭처’전하나의 구상을 기하학적 요소로 변주…대표작 ‘월 드로잉’ 시리즈후반기엔 색채 작업도…“개념미술은 아이디어가 좋을 때만 좋다”‘월 드로잉 #786A: 꼭짓점과 변에서 시작되는 두 가지 원호의 조합들’의 구성도(아래)와 구현된 그림의 모습.‘월 드로잉 #396 A-D: 인디아 잉크와 컬러 잉크 워시로 그린 검정…",
+          "publishedAt": "2026-10-05T13:30:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
