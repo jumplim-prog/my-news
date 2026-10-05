@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-04T21:32:21.208Z",
+  "builtAt": "2026-10-05T03:08:43.760Z",
   "cards": [
     {
       "id": "econ",
@@ -15,32 +15,6 @@
       "poolSize": 329,
       "items": [
         {
-          "title": "[머니플로우] 금리 고공행진에 CD·채권 관련 ETF 인기 '쑥'",
-          "link": "https://www.yna.co.kr/view/AKR20261002136000008",
-          "summary": "(서울=연합뉴스) 고은지 기자 = 최근 미국 등 주요국 국채금리 급등세가 이어지면서 금리나 채권 수익률을 따르는 금융상품이 인기를 끌고 있다.",
-          "publishedAt": "2026-10-02T23:00:06.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2024/02/28/32/PCM20240228000132990_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.5
-        },
-        {
-          "title": "국채 금리 수십 년 만에 최고…버티는 증시",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781284",
-          "summary": "미국과 영국, 프랑스 등 주요 선진국들의 국채 금리가 수십 년 만의 최고 수준으로 뛰고 있습니다. 증시에 일반적으로 악재로 작용하지만, 최근 주식시장은 꼭 그렇지만은 않습니다.증시가 버티고 있는 배경은 뭔지, 민경호 기자가 전하겠습니다.",
-          "publishedAt": "2026-10-02T14:55:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261002/202228123_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.4
-        },
-        {
           "title": "막바지 편입 앞둔 WGBI…외국인 공백 이후 연말 채권수급 촉각",
           "link": "https://www.yna.co.kr/view/AKR20261003023200008",
           "summary": "(서울=연합뉴스) 강수지 기자 = 한국 국채의 세계국채지수(WGBI) 편입이 11월로 마무리된다. 통상 지수 편입에 따른 패시브 자금이 직전 월...",
@@ -51,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.5
+          "score": 5.4
         },
         {
           "title": "한은 “10월 소비자물가 3% 안팎 전망…상승 압력 여전”",
@@ -64,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.1
+          "score": 4.9
         },
         {
           "title": "“1550원일땐 차마 못 갚았습니다”…1350원에 달러빚 정리나선 기업들",
@@ -77,7 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 5
+          "score": 4.9
+        },
+        {
+          "title": "우리금융 다함께 적금2 출시…최고 연 9.0% 금리",
+          "link": "https://www.mk.co.kr/news/economy/12168307",
+          "summary": "거래·신규 우대 추가 월 최대 30만원 납입우리은행이 ‘2026 우리금융 다함께 페스타’ 개막에 맞춰 최고 연 9.0% 금리를 제공하는 ‘우리금융 다함께 적금2’를 출시했다고 5일..",
+          "publishedAt": "2026-10-05T01:17:48.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/05/news-p.v1.20261002.4c89bfd167a44e6aa39af5347c13e3fa_R.png",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "코스닥 지난달 최악 수익률은 제약…금리·반도체 쏠림에 직격탄",
+          "link": "https://www.yna.co.kr/view/AKR20261003033300008",
+          "summary": "(서울=연합뉴스) 김유아 기자 = 지난달 코스닥 제약 업종지수가 10% 넘게 하락하며 주요 업종 가운데 가장 큰 낙폭을 기록했다.",
+          "publishedAt": "2026-10-04T21:20:01.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2026/06/25/83/PCM20260625000183990_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.4
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 172,
+      "poolSize": 175,
       "items": [
         {
           "title": "‘나’가 없는데 무엇이 윤회하고 깨닫는 것일까",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.8
+          "score": 4.7
         },
         {
           "title": "[법인 스님의 문자 반야] 58. 여구두연(如求頭燃)",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.3
+          "score": 3.2
         },
         {
           "title": "36. 앙굴리마라의 살인과 업보",
@@ -131,26 +131,13 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.3
+          "score": 3.1
         },
         {
           "title": "한전, 외부 웹페이지에 직원 개인정보 노출...2만 4천명 정보",
           "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4110276",
           "summary": "한국전력(한전)은 지난 1일 오후 3시 59분쯤 외부 웹페이지에 직원 개인정보가 노출된 상황을 인지했다고 4일 밝혔습니다.노출된 정보는 한전 직원 2만 4천여 명의 이름, 소속, 전화번호 등으로 주민등록번호와 같은 고유식별번호와 민감정보는 노출되지 않았다고 한전은 설명했습니다.한전은 국가정보원이 한전 직원의 개인정보가 외부 웹페이지에 게시된 사실을 최초 발…",
           "publishedAt": "2026-10-04T23:21:09.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3
-        },
-        {
-          "title": "덕숭총림 수덕사 경허당 성우 대선사 탄신 177주기 다례재 봉행",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4110250",
-          "summary": "덕숭총림 수덕사가 근대 한국 선불교 중흥조인 경허당 성우 대선사 177주년 탄신 다례와 산중 대덕 스님들의 합동 다례를 봉행했습니다.다례재는 오늘 오전 수덕사 대웅전에서 전 총무원장 설정 대종사를 비롯해 덕숭총림 방장 달하 우송 대종사와 마곡사 전 주지 법용스님, 수덕사 주지 도신스님 등이 참석한 가운데 헌다 의식 등으로 진행됐습니다.헌다 의례 후 설정 대…",
-          "publishedAt": "2026-10-04T14:29:29.000Z",
           "image": "",
           "sourceName": "BBS 불교방송",
           "sourceId": "bbs-news",
@@ -198,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.7
+          "score": 5.5
         },
         {
           "title": "마르크스의 신유물론",
@@ -211,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.8
+          "score": 4.7
         },
         {
           "title": "A Philosopher Among the MacArthur Fellows",
@@ -252,20 +239,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 180,
+      "poolSize": 176,
       "items": [
         {
-          "title": "한국국제교류재단, BTS RM의 샌프란시스코 현대미술관 전시 지원",
-          "link": "https://www.yna.co.kr/view/AKR20261002130300371",
-          "summary": "(서울=연합뉴스) 강성철 기자 = 한국국제교류재단(KF·이사장 송기도)은 오는 3일부터 내년 2월 7일까지 미국 샌프란시스코 현대미술관(SFMO...",
-          "publishedAt": "2026-10-02T07:10:30.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002130300371_01_i_P2.jpg",
+          "title": "뉴욕 메트로폴리탄 미술관 정면 외벽 채운 제네시스",
+          "link": "https://www.yna.co.kr/view/AKR20261003030800003",
+          "summary": "(뉴욕=연합뉴스) 김윤구 기자 = \"파사드는 관람객이 메트로폴리탄 미술관에서 가장 먼저 만나는 전시입니다. 미술관이 과거의 역사에만 머무는 것이...",
+          "publishedAt": "2026-10-05T00:00:05.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/03/AKR20261003030800003_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 6.2
+          "score": 5.9
         },
         {
           "title": "[주말의 취향]조각 보러 창원 가요···철길·한옥·시장 따라 걷는 가을 미술 산책",
@@ -278,7 +265,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5.1
+          "score": 5
+        },
+        {
+          "title": "춘천 국립정원소재센터서 9∼18일 '우리 꽃 전시회' 개최",
+          "link": "https://www.yna.co.kr/view/AKR20261002158100062",
+          "summary": "(춘천=연합뉴스) 이상학 기자 = 강원 춘천시는 9일부터 18일까지 국립정원소재센터에서 '제32회 우리 꽃 전시회'가 열린다고 5일 밝혔다.",
+          "publishedAt": "2026-10-05T00:10:01.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2023/02/24/99/PCM20230224000099062_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "50개국서 110만부…1인 출판사와 무명작가 첫 소설, ‘해외 흥행 공식’ 다시 쓰다",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.2
         },
         {
           "title": "1인 출판사가 낸 무명작가의 첫 소설…‘휴남동 서점’은 어떻게 전 세계 베스트셀러가 됐나",
@@ -304,20 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.2
-        },
-        {
-          "title": "[imazine] 도쿄 시공간 투어 ① 오쿠아사쿠사와 네즈미술관",
-          "link": "https://www.yna.co.kr/view/AKR20260911112800542",
-          "summary": "(도쿄=연합뉴스) 성연재 기자 = 도쿄를 걷다 보면 이 도시가 단순히 더 높이, 더 크게 짓는 데만 관심을 두고 있는 것은 아니라는 사실을 알게...",
-          "publishedAt": "2026-10-04T03:00:12.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911112800542_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.1
+          "score": 4
         }
       ]
     }
