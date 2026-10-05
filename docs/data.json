@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-05T03:08:43.760Z",
+  "builtAt": "2026-10-05T09:10:08.111Z",
   "cards": [
     {
       "id": "econ",
@@ -15,6 +15,19 @@
       "poolSize": 329,
       "items": [
         {
+          "title": "유로화, 17개월 만에 최저…프랑스 등 재정 불안에 채권시장 흔들",
+          "link": "https://www.yna.co.kr/view/AKR20261005046100085",
+          "summary": "(런던=연합뉴스) 김지연 특파원 = 프랑스 등 유럽 주요국 정치·재정 불안과 에너지 가격 급등의 영향으로 달러 대비 유로화 가치가 지난해 5월 ...",
+          "publishedAt": "2026-10-05T08:11:43.000Z",
+          "image": "https://img.yna.co.kr/photo/ap/2026/06/30/PAP20260630112501009_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6
+        },
+        {
           "title": "막바지 편입 앞둔 WGBI…외국인 공백 이후 연말 채권수급 촉각",
           "link": "https://www.yna.co.kr/view/AKR20261003023200008",
           "summary": "(서울=연합뉴스) 강수지 기자 = 한국 국채의 세계국채지수(WGBI) 편입이 11월로 마무리된다. 통상 지수 편입에 따른 패시브 자금이 직전 월...",
@@ -25,40 +38,14 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.4
+          "score": 5.2
         },
         {
-          "title": "한은 “10월 소비자물가 3% 안팎 전망…상승 압력 여전”",
-          "link": "https://www.mk.co.kr/news/economy/12167722",
-          "summary": "통신요금 기저효과 사라져 상승률 둔화 항공료·여행비 상승 지속 전자제품 등 내구재 4.9% 올라 중동전쟁·비용 부담 변수한국은행이 10월에도 소비자물가 상승률이 3% 안팎에 이를 ..",
-          "publishedAt": "2026-10-03T00:41:46.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261003.cddf8f823be7483083139994297140a8_R.jpeg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.9
-        },
-        {
-          "title": "“1550원일땐 차마 못 갚았습니다”…1350원에 달러빚 정리나선 기업들",
-          "link": "https://www.mk.co.kr/news/economy/12167675",
-          "summary": "5대 은행 달러 대출 분석 고환율에 불어났던 달러 빚 원화 강세로 두달새 13%↓ 원화 매출비중 높은 기업 대출상환에 따른 효과 커원화 가치가 빠르게 오르면서 기업들이 달러 대출 ..",
-          "publishedAt": "2026-10-02T21:30:49.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-g.v1.20261002.7ee9273328f94b829903e6a92a738d11_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.9
-        },
-        {
-          "title": "우리금융 다함께 적금2 출시…최고 연 9.0% 금리",
-          "link": "https://www.mk.co.kr/news/economy/12168307",
-          "summary": "거래·신규 우대 추가 월 최대 30만원 납입우리은행이 ‘2026 우리금융 다함께 페스타’ 개막에 맞춰 최고 연 9.0% 금리를 제공하는 ‘우리금융 다함께 적금2’를 출시했다고 5일..",
-          "publishedAt": "2026-10-05T01:17:48.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/05/news-p.v1.20261002.4c89bfd167a44e6aa39af5347c13e3fa_R.png",
+          "title": "[표] 외국환율고시표",
+          "link": "https://www.mk.co.kr/news/economy/12168520",
+          "summary": "",
+          "publishedAt": "2026-10-05T07:57:44.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/06/20261006_01110110000007_L00.jpg",
           "sourceName": "매일경제",
           "sourceId": "mk-economy",
           "candidates": [
@@ -67,13 +54,26 @@
           "score": 4.5
         },
         {
-          "title": "코스닥 지난달 최악 수익률은 제약…금리·반도체 쏠림에 직격탄",
-          "link": "https://www.yna.co.kr/view/AKR20261003033300008",
-          "summary": "(서울=연합뉴스) 김유아 기자 = 지난달 코스닥 제약 업종지수가 10% 넘게 하락하며 주요 업종 가운데 가장 큰 낙폭을 기록했다.",
-          "publishedAt": "2026-10-04T21:20:01.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2026/06/25/83/PCM20260625000183990_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "[단독] “美, 20억달러만 보증해주고...韓에 알래스카 LNG 500억달러 압박”",
+          "link": "https://www.mk.co.kr/news/economy/12168425",
+          "summary": "최수진 의원실 미국 의회 보고서 분석 LNG부문 美대출보증 20억弗불과 최수진 의원 “불공정·독소 계약” 트럼프 “합의 안하면 두 배” 재압박도널드 트럼프 미국 대통령이 한국에 ..",
+          "publishedAt": "2026-10-05T06:26:12.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/05/news-p.v1.20260922.80a109fda19d45b1a11685d61b4aac70_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "중기부, ‘특별재난지역’ 거제·통영 소상공인에 정책자금 금리 인하·상환 연장",
+          "link": "https://www.khan.co.kr/article/202610051226001/",
+          "summary": "거제?통영 지역 소상공인과 중소기업을 위한 ‘재해자금지원방안’ 의결. 중소벤처기업부 제공폭우로 큰 피해를 입은 경남 거제·통영 지역의 소상공인과 중소기업을 위해 정책자금 금리를 인하하고 대출한도와 상환기간을 늘린다.중소벤처기업부는 지난달 28일 ‘2026년 제1차 재난대책심의위원회’를 열고 특별재난지역으로 선포된 거제·통영 지역 소상공인과 중소기업을 위한…",
+          "publishedAt": "2026-10-05T03:26:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 175,
+      "poolSize": 172,
       "items": [
         {
           "title": "‘나’가 없는데 무엇이 윤회하고 깨닫는 것일까",
@@ -105,7 +105,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.5
+        },
+        {
+          "title": "불교 수행의 핵심 ‘지관’의 본질을 탐구하다",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505596",
+          "summary": "불교 수행의 두 축이자 마음을 다스리는 핵심 원리인 ‘지관(止觀)’의 본질을 초기불교부터 대승·티베트 불교, 나아가 현대 심리학과 최첨단 인공지능(AI) 기술의 시각에서 다각도로 조망하는 학술의 장이 열린다.밝은사람들연구소(소장 박찬욱)는 11월 7일 오전 10시 동국대 본관 남산홀에서 ‘지관, 함께 닦는가 따로 닦는가’를 주제로 제25회 학술연찬회를 개최…",
+          "publishedAt": "2026-10-05T14:26:13.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
         },
         {
           "title": "[법인 스님의 문자 반야] 58. 여구두연(如求頭燃)",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3
         },
         {
           "title": "36. 앙굴리마라의 살인과 업보",
@@ -131,20 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
-        },
-        {
-          "title": "한전, 외부 웹페이지에 직원 개인정보 노출...2만 4천명 정보",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4110276",
-          "summary": "한국전력(한전)은 지난 1일 오후 3시 59분쯤 외부 웹페이지에 직원 개인정보가 노출된 상황을 인지했다고 4일 밝혔습니다.노출된 정보는 한전 직원 2만 4천여 명의 이름, 소속, 전화번호 등으로 주민등록번호와 같은 고유식별번호와 민감정보는 노출되지 않았다고 한전은 설명했습니다.한전은 국가정보원이 한전 직원의 개인정보가 외부 웹페이지에 게시된 사실을 최초 발…",
-          "publishedAt": "2026-10-04T23:21:09.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.9
+          "score": 3
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.5
+          "score": 5.4
         },
         {
           "title": "마르크스의 신유물론",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.7
+          "score": 4.6
         },
         {
           "title": "A Philosopher Among the MacArthur Fellows",
@@ -242,6 +242,32 @@
       "poolSize": 176,
       "items": [
         {
+          "title": "설치·조각 등에 담아낸 칠곡…예태미술관서 작가 14인 전시회",
+          "link": "https://www.yna.co.kr/view/AKR20261005037400053",
+          "summary": "(칠곡=연합뉴스) 김현태 기자 = 경북 칠곡군은 오는 25일까지 석적읍 예태미술관에서 'Re;칠곡' 전시회를 개최한다고 5일 밝혔다.",
+          "publishedAt": "2026-10-05T05:56:05.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/05/AKR20261005037400053_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "“작가는 손도 안 댔습니다”···대리인이 그린 그림이 ‘진품’? 개념미술 선구자 솔 르윗이 던진 질문",
+          "link": "https://www.khan.co.kr/article/202610051547001/",
+          "summary": "‘솔 르윗: 오픈 스트럭처’에서 그를 상징하는 작업인 ‘월 드로잉’이 그려진 전시장 모습. 배문규 기자‘월 드로잉 #786A: 꼭짓점과 변에서 시작되는 두 가지 원호의 조합들’. 검은 벽이 칠판처럼 놓였다. 오른쪽에는 정사각형의 꼭짓점과 변에서 출발하는 원호 여덟 종류가 1~8번으로 제시돼 있다. 서로 다른 두 원호를 짝지으면 28가지. 표의 조합대로 ··…",
+          "publishedAt": "2026-10-05T06:47:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 6
+        },
+        {
           "title": "뉴욕 메트로폴리탄 미술관 정면 외벽 채운 제네시스",
           "link": "https://www.yna.co.kr/view/AKR20261003030800003",
           "summary": "(뉴욕=연합뉴스) 김윤구 기자 = \"파사드는 관람객이 메트로폴리탄 미술관에서 가장 먼저 만나는 전시입니다. 미술관이 과거의 역사에만 머무는 것이...",
@@ -252,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.9
+          "score": 5.8
         },
         {
           "title": "[주말의 취향]조각 보러 창원 가요···철길·한옥·시장 따라 걷는 가을 미술 산책",
@@ -265,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5
+          "score": 4.9
         },
         {
           "title": "춘천 국립정원소재센터서 9∼18일 '우리 꽃 전시회' 개최",
@@ -278,33 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
-        },
-        {
-          "title": "50개국서 110만부…1인 출판사와 무명작가 첫 소설, ‘해외 흥행 공식’ 다시 쓰다",
-          "link": "https://www.khan.co.kr/article/202610042023005/",
-          "summary": "35개 언어권에 읽힌 ‘휴남동 서점’지친 삶 보듬는 작은 서점 속 얘기트렌드 타고 ‘한국형 힐링 소설’로‘문학상 수상·유명 작가’ 공식 깨<어서 오세요. 휴남동 서점입니다> 누적 100만부 판매 기념 표지 클레이하우스 제공세계 35개 언어권, 50개국에 번역돼 110만부 이상 판매된 한국 소설이 있다. 유명 작가의 책도 아니었고, 문학 출판은 처···",
-          "publishedAt": "2026-10-04T11:23:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.2
-        },
-        {
-          "title": "1인 출판사가 낸 무명작가의 첫 소설…‘휴남동 서점’은 어떻게 전 세계 베스트셀러가 됐나",
-          "link": "https://www.khan.co.kr/article/202610041422001/",
-          "summary": "35개 언어권·50개국서 110만부 팔려세계 독자 사로잡은 한국형 ‘힐링 소설’1인 출판사도 해외로…달라진 ‘K출판’ 흥행 공식지난 10월 2일 서울 중구 컨퍼런스하우스 달개비에서 열린 <어서 오세요. 휴남동 서점입니다> 100만부 판매 기념 기자간담회에 참석한 황보름 작가(오른쪽)와 윤성훈 클레이하우스 대표. 클레이하우스 제공세계 35개 언어권···",
-          "publishedAt": "2026-10-04T05:22:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4
+          "score": 4.3
         }
       ]
     }
