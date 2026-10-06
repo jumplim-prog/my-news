@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-05T21:13:09.429Z",
+  "builtAt": "2026-10-06T09:41:35.267Z",
   "cards": [
     {
       "id": "econ",
@@ -12,72 +12,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 333,
+      "poolSize": 341,
       "items": [
         {
-          "title": "美증시,국채금리 올라도 나스닥 사상최고…엔비디아도 최고치 돌파",
-          "link": "https://www.hankyung.com/article/202610064008i",
+          "title": "국고채 금리, 대외금리 연동하며 혼조세…3년물 3.933%",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008785433",
+          "summary": "▲ 국고 3년·10년 금리 추이국고채 금리가 혼조세로 마감했습니다.간밤 미국과 유럽지역 국채금리가 상승하면서 채권시장 긴장이 지속됐지…",
+          "publishedAt": "2026-10-06T08:46:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261006/202228975_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "국채금리 치솟자 무너진 금값…전문가는 장기 반등 점쳤다",
+          "link": "https://www.hankyung.com/article/2026100660457",
           "summary": "",
-          "publishedAt": "2026-10-05T15:55:37.000Z",
+          "publishedAt": "2026-10-06T07:21:52.000Z",
           "image": "",
           "sourceName": "한국경제",
           "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "원/달러 환율 보합 움직임…0.4원 내린 1,343.6원",
+          "link": "https://www.yna.co.kr/view/AKR20261006146500002",
+          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 6일 1,340원대 보합권에서 움직였다.",
+          "publishedAt": "2026-10-06T07:13:02.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/06/PYH2026100617440001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
           "score": 7.4
         },
         {
-          "title": "유로화, 17개월 만에 최저…프랑스 등 재정 불안에 채권시장 흔들",
-          "link": "https://www.yna.co.kr/view/AKR20261005046100085",
-          "summary": "(런던=연합뉴스) 김지연 특파원 = 프랑스 등 유럽 주요국 정치·재정 불안과 에너지 가격 급등의 영향으로 달러 대비 유로화 가치가 지난해 5월 ...",
-          "publishedAt": "2026-10-05T08:11:43.000Z",
-          "image": "https://img.yna.co.kr/photo/ap/2026/06/30/PAP20260630112501009_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "9월 외환보유액 4천405억 6천만 달러…넉 달 만에 감소 전환",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008784258",
+          "summary": "▲ 달러 지폐지난달 한미전략투자공사 자산 위탁 등의 영향으로 우리나라 외환보유액이 넉 달 만에 감소했습니다.오늘 한국은행에 따르면, …",
+          "publishedAt": "2026-10-06T00:40:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261006/202228826_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5.7
+          "score": 5.8
         },
         {
-          "title": "9월 외환보유액 4천405억6천만달러…넉 달 만에 감소",
-          "link": "https://www.yna.co.kr/view/AKR20261003017600002",
-          "summary": "(서울=연합뉴스) 한지훈 기자 = 지난달 한미전략투자공사 자산 위탁 등의 영향으로 우리나라 외환보유액이 넉 달 만에 감소했다.",
-          "publishedAt": "2026-10-05T21:00:10.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/04/03/PYH2026040306570001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "롯데마트, 고물가 겨냥 언더웨어 7종 균일가 판매",
-          "link": "https://www.yna.co.kr/view/AKR20261005044500030",
-          "summary": "(서울=연합뉴스) 한주홍 기자 = 롯데마트는 고물가에 가성비를 중시하는 소비자를 겨냥해 언더웨어 7종을 균일가로 선보인다고 6일 밝혔다.",
-          "publishedAt": "2026-10-05T21:00:04.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/05/AKR20261005044500030_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "美 서비스 물가 4년 만에 최고치…고용도 다시 확장세",
-          "link": "https://www.hankyung.com/article/202610053994i",
-          "summary": "",
-          "publishedAt": "2026-10-05T14:40:10.000Z",
+          "title": "‘AI주’ 강세에 나스닥 사상 최고···엔비디아 이틀 연속 사상 최고치 경신",
+          "link": "https://www.khan.co.kr/article/202610060718001/",
+          "summary": "엔비디아 로고. 로이터연합뉴스미국 국채 금리가 장중 22년 만에 최고치를 기록했지만, 인공지능(AI)주의 강세로 나스닥 지수가 사상 최고치 마감했다. 엔비디아 주가는 이틀 연속 사상 최고치를 경신하면서 시총 6조달러에도 근접하고 있다.5일(현지시간) 나스닥 종합지수는 286.45포인트(1.05%) 오른 2만7477.31에 마감했다. 지난 9월 22일 기록했…",
+          "publishedAt": "2026-10-05T22:18:00.000Z",
           "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.4
+          "score": 5.8
         }
       ]
     },
@@ -92,8 +92,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 103,
+      "poolSize": 167,
       "items": [
+        {
+          "title": "신원사, 적음대선사 열반 65주기 추모다례 봉행",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442843",
+          "summary": "일제강점기 조선불교 수호에 앞장섰던 초부당 적음대선사 열반 65주기를 맞아 스님의 가르침과 자비행을 되새기는 추모다례가 봉행됐다.공주 신원사(주지 성관스님)는 10월3일 대웅전에서 대안사 회주 법전대종사와 신원사 회주 중하대종사, 마곡사 주지 원경스님, 조계종 법규위원장 혜경스님, 중앙종회의원 태진·종봉스님을 비롯한 문도스님들이 동참한 가운데 적음대선사 열…",
+          "publishedAt": "2026-10-06T13:28:09.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
+        },
         {
           "title": "불교 수행의 핵심 ‘지관’의 본질을 탐구하다",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505596",
@@ -105,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.9
+          "score": 2.6
         }
       ]
     },
@@ -122,6 +135,19 @@
       "scoredBy": "keyword",
       "poolSize": 147,
       "items": [
+        {
+          "title": "Philosopher Among New AI2050 Senior Fellows",
+          "link": "https://dailynous.com/2026/10/06/philosopher-among-new-ai2050-senior-fellows/",
+          "summary": "David Danks, professor of philosophy, artificial intelligence, and data science, at the University of Virginia, has been awarded a $1 million three-year senior fellowship for […] The post Philosopher…",
+          "publishedAt": "2026-10-06T09:30:00.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/10/Danks-David.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 6
+        },
         {
           "title": "Moral Phenomenology",
           "link": "https://plato.stanford.edu/entries/moral-phenomenology/",
@@ -147,7 +173,7 @@
             "philosophy",
             "art"
           ],
-          "score": 5.9
+          "score": 5.6
         },
         {
           "title": "Mill’s Moral and Political Philosophy",
@@ -160,33 +186,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.2
+          "score": 4.9
         },
         {
-          "title": "마르크스의 신유물론",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=210879",
-          "summary": "토머스 네일 덴버대 철학과 교수, 마르크스를 신유물론으로 재해석결정론·인간중심주의 벗겨내고 ‘운동’의 철학자로 다시 읽어생태·성평등·식민주의 문제까지 잇는 새로운 마르크스주의 제시마르크스를 다시 읽는 방법이 달라지고 있다. 토머스 네일 미국 덴버대 철학과 교수는 신간 『마르크스의 신유물론』에서 마르크스를 단순히 자본주의를 분석한 사상가로 보지 않는다. 그는…",
-          "publishedAt": "2026-10-02T11:58:05.000Z",
+          "title": "의정부문화원, '지명, 녹양을 관통하다' 학술대회 성료…녹양문화권 연구 본격화",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210905",
+          "summary": "의정부문화원이 주최한 학술대회에서 지역의 역사와 문화를 아우르는 새로운 브랜드로 '녹양'이 주목받았다. 올해로 41회를 맞은 회룡문화제의 일환으로 마련된 이번 학술대회는 의정부와 양주 등 경기북부 지역 주민 110여 명이 참석해 2시간 넘게 진행됐다. 행사에는 김원기 시장, 윤성현 의정부문화원장, 경기도의회 조병진 의원 등 여러 기관장과 단체장이 함께했다.…",
+          "publishedAt": "2026-10-06T15:03:06.000Z",
           "image": "",
           "sourceName": "교수신문",
           "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.5
-        },
-        {
-          "title": "A Philosopher Among the MacArthur Fellows",
-          "link": "https://dailynous.com/2026/09/29/a-philosopher-among-the-macarthur-fellows/",
-          "summary": "Felipe De Brigard, professor of philosophy, psychology, and neuroscience at Duke University, principal investigator at the Imagination and Modal Cognition Lab, and core faculty of […] The post A Philo…",
-          "publishedAt": "2026-09-29T18:58:48.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/09/de_brigard-2026-1024x660.jpg",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.5
+          "score": 4.6
         }
       ]
     },
@@ -201,20 +214,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 180,
+      "poolSize": 182,
       "items": [
         {
-          "title": "설치·조각 등에 담아낸 칠곡…예태미술관서 작가 14인 전시회",
-          "link": "https://www.yna.co.kr/view/AKR20261005037400053",
-          "summary": "(칠곡=연합뉴스) 김현태 기자 = 경북 칠곡군은 오는 25일까지 석적읍 예태미술관에서 'Re;칠곡' 전시회를 개최한다고 5일 밝혔다.",
-          "publishedAt": "2026-10-05T05:56:05.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/05/AKR20261005037400053_01_i_P2.jpg",
+          "title": "국내외 작가 268명 참여…제8회 안산국제아트쇼 13~18일 개최",
+          "link": "https://www.yna.co.kr/view/AKR20261006076600061",
+          "summary": "(안산=연합뉴스) 최해민 기자 = 경기 안산시는 오는 13일부터 18일까지 안산문화예술의전당 화랑전시관에서 '제8회 안산국제아트쇼'를 개최한다고...",
+          "publishedAt": "2026-10-06T02:01:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/06/AKR20261006076600061_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 7.2
+          "score": 5.8
         },
         {
           "title": "“작가는 손도 안 댔습니다”···대리인이 그린 그림이 ‘진품’? 개념미술 선구자 솔 르윗이 던진 질문",
@@ -227,33 +240,33 @@
           "candidates": [
             "art"
           ],
-          "score": 5.7
+          "score": 5.4
         },
         {
-          "title": "뉴욕 메트로폴리탄 미술관 정면 외벽 채운 제네시스",
-          "link": "https://www.yna.co.kr/view/AKR20261003030800003",
-          "summary": "(뉴욕=연합뉴스) 김윤구 기자 = \"파사드는 관람객이 메트로폴리탄 미술관에서 가장 먼저 만나는 전시입니다. 미술관이 과거의 역사에만 머무는 것이...",
-          "publishedAt": "2026-10-05T00:00:05.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/03/AKR20261003030800003_01_i_P2.jpg",
+          "title": "오동나무 상자에 담긴 수집의 기록…간송미술관 '상서' 특별전",
+          "link": "https://www.yna.co.kr/view/AKR20261006141500005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 일제강점기 우리 문화재 보호를 위해 사재를 털어 수집에 나섰던 간송 전형필(1906∼1962)은 자신이 모은 ...",
+          "publishedAt": "2026-10-06T06:51:20.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/06/AKR20261006141500005_06_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 5.6
+          "score": 4.4
         },
         {
-          "title": "[주말의 취향]조각 보러 창원 가요···철길·한옥·시장 따라 걷는 가을 미술 산책",
-          "link": "https://www.khan.co.kr/article/202610031100001/",
-          "summary": "제8회 창원조각비엔날레 ‘공명장’심문섭 ‘반추’(2026), 목재, 철재, 자개 상감 옻칠 공예 기법, 229 × 207 × 66 cm. 창원조각비엔날레 제공‘주말의 취향’은 지면에 다 담기 어려운 문화 현장의 소식들을 풀어서 전합니다. 마음은 가볍게, 생각은 깊이 할 수 있는 작품을 소개합니다.철길 옆에 회색 벽돌 기둥들이 줄지어 서 있습니다. 경남 창원…",
-          "publishedAt": "2026-10-03T02:00:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "\"새로운 달이 뜬다\"…16일 빛조각축제 '노원달빛산책' 개막",
+          "link": "https://www.yna.co.kr/view/AKR20261006118000004",
+          "summary": "(서울=연합뉴스) 정준영 기자 = 서울 노원구(구청장 서준오)는 공공미술 빛조각축제인 '2026 노원달빛산책'을 오는 16일부터 11월 8일까지...",
+          "publishedAt": "2026-10-06T05:20:51.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/06/AKR20261006118000004_02_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.6
+          "score": 4.4
         },
         {
           "title": "작가는 규칙을 만들고, 구현은 실행자가 한다…‘건축 같은 미술’",
@@ -266,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.1
         }
       ]
     }
