@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-07T00:18:19.970Z",
+  "builtAt": "2026-10-07T09:39:32.640Z",
   "cards": [
     {
       "id": "econ",
@@ -12,59 +12,33 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 342,
+      "poolSize": 328,
       "items": [
         {
-          "title": "미 국채금리 급등 기업 덮쳤다…CCC급 조달비용 17%",
-          "link": "https://www.hankyung.com/article/202610077037i",
-          "summary": "",
-          "publishedAt": "2026-10-06T23:29:15.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "[뉴욕증시] 국채금리·국제유가 '숨고르기'…증시 '상승세'",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008785859",
-          "summary": "미증시 삼대지수가 상승 마감했습니다.S&P 500은 7천8백 선을 웃돌았고 나스닥은 3거래일 연속 2만 7천 선 위에서 거래를 마쳤습니다.헬스케…",
-          "publishedAt": "2026-10-06T22:40:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261007/202229180_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "국고채 금리, 대외금리 연동하며 혼조세…3년물 3.933%",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008785433",
-          "summary": "▲ 국고 3년·10년 금리 추이국고채 금리가 혼조세로 마감했습니다.간밤 미국과 유럽지역 국채금리가 상승하면서 채권시장 긴장이 지속됐지…",
-          "publishedAt": "2026-10-06T08:46:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261006/202228975_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.2
-        },
-        {
-          "title": "원/달러 환율 보합 움직임…0.4원 내린 1,343.6원",
-          "link": "https://www.yna.co.kr/view/AKR20261006146500002",
-          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 6일 1,340원대 보합권에서 움직였다.",
-          "publishedAt": "2026-10-06T07:13:02.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/06/PYH2026100617440001300_P2.jpg",
+          "title": "환율, 수출기업 달러 매도 등에 3.2원 내린 1,340원",
+          "link": "https://www.yna.co.kr/view/AKR20261007152600002",
+          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 7일 장중 한때 1,330원대 후반까지 하락했다. 약 한 달 만에 최저 수준이다.",
+          "publishedAt": "2026-10-07T07:12:39.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/07/PYH2026100723620001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 7.4
+        },
+        {
+          "title": "유가 반등에 국고채 금리 대체로 상승…3년물 3.961%(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20261007163251008",
+          "summary": "(서울=연합뉴스) 고은지 기자 = 국제유가가 소폭 반등하고 미국 국채 금리도 다시 오르면서 7일 국고채 금리가 중단기물을 중심으로 상승했다.",
+          "publishedAt": "2026-10-07T08:17:54.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2024/02/27/34/PCM20240227000034990_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6
         },
         {
           "title": "실적 기대·금리 진정에 뉴욕증시 상승…S&P500·나스닥 최고치",
@@ -77,7 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 6
+          "score": 5.8
+        },
+        {
+          "title": "[표] 외국환율고시표",
+          "link": "https://www.mk.co.kr/news/economy/12170736",
+          "summary": "",
+          "publishedAt": "2026-10-07T08:48:19.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/08/20261008_01110112000001_L00.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "신용 1등급도 지방銀 먼저 찾아…\"年 4%대 금리로 5억 빌려\"",
+          "link": "https://www.hankyung.com/article/2026100791941",
+          "summary": "",
+          "publishedAt": "2026-10-07T08:39:51.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
         }
       ]
     },
@@ -92,8 +92,47 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 171,
+      "poolSize": 211,
       "items": [
+        {
+          "title": "범어사, 덕민 대강백 초청 ‘선문염송’ 특강 개최",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505636",
+          "summary": "한국 선불교의 중심이자 선찰대본산(禪刹大本山)인 금정총림 범어사(주지 정오 스님)가 11월 1일부터 3일까지 사흘간 선문화관 강당에서 일해당 덕민 대강백 초청 ‘선문염송(禪門拈頌)’ 특강을 개최한다.이번 특강은 전국의 승가(비구, 비구니)를 대상으로 진행된다. 강의 시간은 11월 1일과 2일은 오전 10시부터 오후 4시까지, 3일은 오후 2시부터 4시까지다…",
+          "publishedAt": "2026-10-07T16:22:04.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
+        },
+        {
+          "title": "파계사, 고송당 종협 대종사 23주기 추모다례재",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505627",
+          "summary": "대구 파계사(주지 현봉 스님)는 10월 6일 설법전에서 고송당 종협 대종사 열반 23주기 추모다례재를 봉행했다. 이날 다례재에는 고송문도회와 일우문도회 스님들과 파계사 주지 현봉 스님, 신도 등 사부대중이 참석했다.다례재는 삼배를 시작으로 헌화·헌다, 종협 대종사의 육성 법문, 문도회 대표 남화사 회주 성화 대종사와 파계사 주지 현봉 스님의 인사말, 추모다…",
+          "publishedAt": "2026-10-07T13:03:06.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
+        },
+        {
+          "title": "[부고] 김방룡 충남대 교수 별세",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442886",
+          "summary": "한국불교의 선사상과 보조 지눌(普照知訥) 사상을 연구해온 김방룡 충남대 철학과 교수가 10월 6일 별세했다. 향년 62세.김방룡 교수는 지눌과 태고 보우(太古普愚)의 선사상을 비롯해 조선불교의 선사상, 동아시아 불교사상의 교섭, 한국불교철학의 세계화 등을 연구하며 한국불교학 발전에 힘써온 학자다. 보조사상연구원과 한국선학회 등 불교계 연구 현장에서도 꾸준히…",
+          "publishedAt": "2026-10-06T19:57:19.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 2.7
+        },
         {
           "title": "신원사, 적음대선사 열반 65주기 추모다례 봉행",
           "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442843",
@@ -105,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
+          "score": 2.6
         },
         {
           "title": "불교 수행의 핵심 ‘지관’의 본질을 탐구하다",
@@ -118,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.3
+          "score": 2.1
         }
       ]
     },
@@ -159,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.7
+          "score": 5.5
         },
         {
           "title": "When you feel moral disgust, what’s the emotion telling you?",
@@ -173,7 +212,20 @@
             "philosophy",
             "art"
           ],
-          "score": 5.3
+          "score": 5.1
+        },
+        {
+          "title": "디지털서울문화예술대, 조훈현 국수 초청 특별 토크콘서트 성료…바둑 인생·철학 공유",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211005",
+          "summary": "디지털서울문화예술대 바둑학과가 지난 29일 교내 6층 아트홀에서 조훈현 국수를 초청해 특별 토크콘서트를 열었다. 행사에는 바둑에 관심 있는 100여 명이 참석했다.'한 수에 깃든 길(道): 바둑학과가 조훈현 국수에게 묻다'를 주제로, 조훈현 국수는 자신의 바둑 인생과 세계 바둑계에서의 경험, 바둑에 담긴 철학을 직접 들려줬다. 조훈현 국수는 \"바둑을 통해…",
+          "publishedAt": "2026-10-07T15:06:07.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.6
         },
         {
           "title": "Mill’s Moral and Political Philosophy",
@@ -185,20 +237,6 @@
           "sourceId": "stanford-sep",
           "candidates": [
             "philosophy"
-          ],
-          "score": 4.6
-        },
-        {
-          "title": "Do Insects Matter More than People?",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/10/do-insects-matter-more-than-people.html",
-          "summary": "Paul Nedelisky at The Hedgehog Review: Matthew Adelstein is one of a small group of new public philosophers—a handful of young thinkers doing and perhaps performing philosophy in the public square on…",
-          "publishedAt": "2026-10-06T18:45:30.000Z",
-          "image": "https://3quarksdaily.com/wp-content/uploads/2026/10/Screenshot-2026-10-06-162648-360x257.png",
-          "sourceName": "3 Quarks Daily",
-          "sourceId": "3quarks",
-          "candidates": [
-            "philosophy",
-            "art"
           ],
           "score": 4.4
         }
@@ -215,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 195,
+      "poolSize": 208,
       "items": [
         {
           "title": "“작가는 손도 안 댔습니다”···대리인이 그린 그림이 ‘진품’? 개념미술 선구자 솔 르윗이 던진 질문",
@@ -228,40 +266,14 @@
           "candidates": [
             "art"
           ],
-          "score": 5.1
+          "score": 4.9
         },
         {
-          "title": "박경리문학상 수상작가 데이먼 갤것, 31일 원주서 독자 만난다",
-          "link": "https://www.yna.co.kr/view/AKR20261007038800062",
-          "summary": "(원주=연합뉴스) 임보연 기자 = 제15회 박경리문학상 수상작가 데이먼 갤것이 독자들과 만난다.",
-          "publishedAt": "2026-10-07T00:12:21.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/07/AKR20261007038800062_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "[공원이야기] '춘천은 가을도 봄'…공지천 조각공원",
-          "link": "https://www.yna.co.kr/view/AKR20260907046900542",
-          "summary": "(춘천=연합뉴스) 권혁창 기자 = 은행잎 끝자락이 노래지길 기다릴 수 없었다.",
-          "publishedAt": "2026-10-06T22:01:02.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/07/AKR20260907046900542_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "서울식물원 가을 특별전시 '팜파레, 바람이 보내는 초대장'",
-          "link": "https://www.yna.co.kr/view/AKR20261006164600004",
-          "summary": "(서울=연합뉴스) 김준태 기자 = 서울식물원은 주제정원에서 11월 8일까지 가을 특별 식물전 '팜파레, 바람이 보내는 초대장'을 진행한다고 7일...",
-          "publishedAt": "2026-10-06T21:00:11.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/06/AKR20261006164600004_01_i_P2.jpg",
+          "title": "광주비엔날레 개막 한 달, 관람객 16만명 방문",
+          "link": "https://www.yna.co.kr/view/AKR20261007148300054",
+          "summary": "(전남광주=연합뉴스) 장아름 기자 = 두 달 여정의 반환점을 앞둔 제16회 광주비엔날레에 16만명이 방문했다.",
+          "publishedAt": "2026-10-07T06:48:27.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/07/AKR20261007148300054_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -270,17 +282,43 @@
           "score": 4.4
         },
         {
-          "title": "오동나무 상자에 담긴 수집의 기록…간송미술관 '상서' 특별전",
-          "link": "https://www.yna.co.kr/view/AKR20261006141500005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 일제강점기 우리 문화재 보호를 위해 사재를 털어 수집에 나섰던 간송 전형필(1906∼1962)은 자신이 모은 ...",
-          "publishedAt": "2026-10-06T06:51:20.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/06/AKR20261006141500005_06_i_P2.jpg",
+          "title": "'제주 은갈치 맛보고 경매도'…서귀포 은갈치 축제 8일 개막",
+          "link": "https://www.yna.co.kr/view/AKR20261007103700056",
+          "summary": "(서귀포=연합뉴스) 변지철 기자 = 제주 대표 수산물인 은갈치를 맛보고 경매도 체험할 수 있는 축제가 서귀포항에서 열린다.",
+          "publishedAt": "2026-10-07T04:18:02.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/07/AKR20261007103700056_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 4.4
+        },
+        {
+          "title": "'전라도의 서정, 민화로 피다' 11월20일까지 전시회",
+          "link": "https://www.yna.co.kr/view/AKR20261007083200054",
+          "summary": "(나주=연합뉴스) 전승현 기자 = 전남광주 나주문화재단은 가회민화박물관과 협력해 나주빛가람복합문화체육센터 1층 다목적실에서 기획전시 '전라도의 ...",
+          "publishedAt": "2026-10-07T02:21:46.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/07/AKR20261007083200054_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
+        },
+        {
+          "title": "작가는 규칙을 만들고, 구현은 실행자가 한다…‘건축 같은 미술’",
+          "link": "https://www.khan.co.kr/article/202610052230005/",
+          "summary": "개념미술 선구자 솔 르윗 서울서 ‘오픈 스트럭처’전하나의 구상을 기하학적 요소로 변주…대표작 ‘월 드로잉’ 시리즈후반기엔 색채 작업도…“개념미술은 아이디어가 좋을 때만 좋다”‘월 드로잉 #786A: 꼭짓점과 변에서 시작되는 두 가지 원호의 조합들’의 구성도(아래)와 구현된 그림의 모습.‘월 드로잉 #396 A-D: 인디아 잉크와 컬러 잉크 워시로 그린 검정…",
+          "publishedAt": "2026-10-05T13:30:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 3.6
         }
       ]
     }
