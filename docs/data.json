@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-07T09:39:32.640Z",
+  "builtAt": "2026-10-08T00:39:48.469Z",
   "cards": [
     {
       "id": "econ",
@@ -12,72 +12,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 328,
+      "poolSize": 333,
       "items": [
         {
-          "title": "환율, 수출기업 달러 매도 등에 3.2원 내린 1,340원",
-          "link": "https://www.yna.co.kr/view/AKR20261007152600002",
-          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 7일 장중 한때 1,330원대 후반까지 하락했다. 약 한 달 만에 최저 수준이다.",
-          "publishedAt": "2026-10-07T07:12:39.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/07/PYH2026100723620001300_P2.jpg",
+          "title": "한투증권 \"원/달러 환율, 1,330원대 복귀해도 추가 하락 압력\"",
+          "link": "https://www.yna.co.kr/view/AKR20261008030700008",
+          "summary": "(서울=연합뉴스) 정회인 기자 = 한국투자증권은 최근 원/달러 환율이 1,330원대로 내려온 가운데 앞으로도 원화 강세 흐름이 이어질 가능성이 ...",
+          "publishedAt": "2026-10-07T23:39:51.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/08/PYH2026090804620001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.5
         },
         {
-          "title": "유가 반등에 국고채 금리 대체로 상승…3년물 3.961%(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20261007163251008",
-          "summary": "(서울=연합뉴스) 고은지 기자 = 국제유가가 소폭 반등하고 미국 국채 금리도 다시 오르면서 7일 국고채 금리가 중단기물을 중심으로 상승했다.",
-          "publishedAt": "2026-10-07T08:17:54.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2024/02/27/34/PCM20240227000034990_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6
-        },
-        {
-          "title": "실적 기대·금리 진정에 뉴욕증시 상승…S&P500·나스닥 최고치",
-          "link": "https://www.khan.co.kr/article/202610070723001/",
-          "summary": "미국 뉴욕증권거래소(NYSE)에서 8일(현지시간) 트레이더들이 근무하고 있다. AFP연합뉴스기업 실적 개선에 대한 기대와 국채 금리 하락이 맞물리며 6일(현지시간) 뉴욕증시가 상승했다. S&P500과 나스닥은 사상 최고치를 경신했고, 인공지능(AI) 인프라 투자와 관련된 반도체·전력주가 강세를 보였다.S&P500은 전장보다 44.98포인트(0···",
-          "publishedAt": "2026-10-06T22:23:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.8
-        },
-        {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12170736",
+          "title": "치솟은 미 국채금리…수요도 몰렸다 [오늘 아침, 당신이 알아야 할 7가지]",
+          "link": "https://www.hankyung.com/article/202610089703i",
           "summary": "",
-          "publishedAt": "2026-10-07T08:48:19.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/08/20261008_01110112000001_L00.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "신용 1등급도 지방銀 먼저 찾아…\"年 4%대 금리로 5억 빌려\"",
-          "link": "https://www.hankyung.com/article/2026100791941",
-          "summary": "",
-          "publishedAt": "2026-10-07T08:39:51.000Z",
+          "publishedAt": "2026-10-07T22:32:18.000Z",
           "image": "",
           "sourceName": "한국경제",
           "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.5
+          "score": 7.5
+        },
+        {
+          "title": "고금리 누가 이길까…메타 '골든크로스'에 마이크론 목표가 3000달러 [박신영의 개장전 요것만]",
+          "link": "https://www.hankyung.com/article/202610079548i",
+          "summary": "",
+          "publishedAt": "2026-10-07T14:36:37.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
+        {
+          "title": "美국채 매도세 재개…장중 10년물 금리 2002년 4월 이후 최고",
+          "link": "https://www.yna.co.kr/view/AKR20261007207300072",
+          "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 7일(현지시간) 미국 국채 시장에서 매도세가 다시 고개를 들며 주요 국채 금리가 장중 약 24년 만에 최고치...",
+          "publishedAt": "2026-10-07T14:05:07.000Z",
+          "image": "https://img.yna.co.kr/photo/etc/epa/2026/10/07/PEP20261007058601009_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
+        {
+          "title": "환율, 수출기업 달러 매도 등에 3.2원 내린 1,340원",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008787468",
+          "summary": "▲ 7일 서울 중구 하나은행 본점 딜링룸에 주가지수가 표시되고 있다.원/달러 환율은 오늘 장중 한때 1,330원대 후반까지 하락했습니…",
+          "publishedAt": "2026-10-07T07:23:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261007/202229364_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.1
         }
       ]
     },
@@ -95,6 +95,19 @@
       "poolSize": 211,
       "items": [
         {
+          "title": "동국대 와이즈캠 ‘2학기 교직원 개강 법회’",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442943",
+          "summary": "동국대학교 WISE캠퍼스 정각원(원장 법천스님)은 10월6일 교내 정각원에서 2026학년도 2학기 교직원 개강 법회를 봉행했다. 이날 법회는 동국대 이사장 돈관스님을 법사로 초청한 가운데 교수, 직원, 학생, 신도 등 300여 명이 참석했다.동국대 이사장 돈관스님은 법문을 통해 “선지식은 깊은 산속이 아니라 우리 삶 속에 있다”면서 “기다리지 말고 먼저 찾…",
+          "publishedAt": "2026-10-08T09:06:54.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
+        },
+        {
           "title": "범어사, 덕민 대강백 초청 ‘선문염송’ 특강 개최",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505636",
           "summary": "한국 선불교의 중심이자 선찰대본산(禪刹大本山)인 금정총림 범어사(주지 정오 스님)가 11월 1일부터 3일까지 사흘간 선문화관 강당에서 일해당 덕민 대강백 초청 ‘선문염송(禪門拈頌)’ 특강을 개최한다.이번 특강은 전국의 승가(비구, 비구니)를 대상으로 진행된다. 강의 시간은 11월 1일과 2일은 오전 10시부터 오후 4시까지, 3일은 오후 2시부터 4시까지다…",
@@ -105,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 2.8
         },
         {
           "title": "파계사, 고송당 종협 대종사 23주기 추모다례재",
@@ -118,20 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
-        },
-        {
-          "title": "[부고] 김방룡 충남대 교수 별세",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442886",
-          "summary": "한국불교의 선사상과 보조 지눌(普照知訥) 사상을 연구해온 김방룡 충남대 철학과 교수가 10월 6일 별세했다. 향년 62세.김방룡 교수는 지눌과 태고 보우(太古普愚)의 선사상을 비롯해 조선불교의 선사상, 동아시아 불교사상의 교섭, 한국불교철학의 세계화 등을 연구하며 한국불교학 발전에 힘써온 학자다. 보조사상연구원과 한국선학회 등 불교계 연구 현장에서도 꾸준히…",
-          "publishedAt": "2026-10-06T19:57:19.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.7
+          "score": 2.8
         },
         {
           "title": "신원사, 적음대선사 열반 65주기 추모다례 봉행",
@@ -144,20 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.6
-        },
-        {
-          "title": "불교 수행의 핵심 ‘지관’의 본질을 탐구하다",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505596",
-          "summary": "불교 수행의 두 축이자 마음을 다스리는 핵심 원리인 ‘지관(止觀)’의 본질을 초기불교부터 대승·티베트 불교, 나아가 현대 심리학과 최첨단 인공지능(AI) 기술의 시각에서 다각도로 조망하는 학술의 장이 열린다.밝은사람들연구소(소장 박찬욱)는 11월 7일 오전 10시 동국대 본관 남산홀에서 ‘지관, 함께 닦는가 따로 닦는가’를 주제로 제25회 학술연찬회를 개최…",
-          "publishedAt": "2026-10-05T14:26:13.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.1
+          "score": 2.3
         }
       ]
     },
@@ -172,13 +159,13 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 147,
+      "poolSize": 148,
       "items": [
         {
-          "title": "Moral Phenomenology",
-          "link": "https://plato.stanford.edu/entries/moral-phenomenology/",
-          "summary": "[Revised entry by John Drummond and Mark Timmons on September 24, 2026. Changes to: Main text, Bibliography, notes.html] Sometimes the term \"phenomenology\" is used to refer to the subjective character…",
-          "publishedAt": "2026-09-25T01:26:58.000Z",
+          "title": "Aristotle’s Categories",
+          "link": "https://plato.stanford.edu/entries/aristotle-categories/",
+          "summary": "[Revised entry by Paul Studtmann on October 7, 2026. Changes to: Main text, Bibliography] Aristotle's Categories is a singularly important work of philosophy. It not only presents the backbone of Aris…",
+          "publishedAt": "2026-10-08T01:15:34.000Z",
           "image": "",
           "sourceName": "Stanford Encyclopedia",
           "sourceId": "stanford-sep",
@@ -198,21 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.5
-        },
-        {
-          "title": "When you feel moral disgust, what’s the emotion telling you?",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/10/when-you-feel-moral-disgust-whats-the-emotion-telling-you.html",
-          "summary": "Brandon Yip at Psyche: Rather than see expressions like these as merely rhetorical, many philosophers and psychologists argue that moral disgust is a distinct and significant kind of moral response. T…",
-          "publishedAt": "2026-10-05T15:45:09.000Z",
-          "image": "https://3quarksdaily.com/wp-content/uploads/2026/10/sz-panos_00374310-360x203.png",
-          "sourceName": "3 Quarks Daily",
-          "sourceId": "3quarks",
-          "candidates": [
-            "philosophy",
-            "art"
-          ],
-          "score": 5.1
+          "score": 5.2
         },
         {
           "title": "디지털서울문화예술대, 조훈현 국수 초청 특별 토크콘서트 성료…바둑 인생·철학 공유",
@@ -225,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.6
+          "score": 4.3
         },
         {
           "title": "Mill’s Moral and Political Philosophy",
@@ -238,7 +211,21 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.4
+          "score": 4.1
+        },
+        {
+          "title": "Do Insects Matter More than People?",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/10/do-insects-matter-more-than-people.html",
+          "summary": "Paul Nedelisky at The Hedgehog Review: Matthew Adelstein is one of a small group of new public philosophers—a handful of young thinkers doing and perhaps performing philosophy in the public square on…",
+          "publishedAt": "2026-10-06T18:45:30.000Z",
+          "image": "https://3quarksdaily.com/wp-content/uploads/2026/10/Screenshot-2026-10-06-162648-360x257.png",
+          "sourceName": "3 Quarks Daily",
+          "sourceId": "3quarks",
+          "candidates": [
+            "philosophy",
+            "art"
+          ],
+          "score": 3.9
         }
       ]
     },
@@ -253,8 +240,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 208,
+      "poolSize": 214,
       "items": [
+        {
+          "title": "공공미술관으로 간 미술은행 소장품…서울·김해서 연계 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261008040700005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관 미술은행과 정부미술은행 소장품이 공공미술관의 기획전시를 통해 관람객과 만난다.",
+          "publishedAt": "2026-10-08T00:15:18.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008040700005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.5
+        },
         {
           "title": "“작가는 손도 안 댔습니다”···대리인이 그린 그림이 ‘진품’? 개념미술 선구자 솔 르윗이 던진 질문",
           "link": "https://www.khan.co.kr/article/202610051547001/",
@@ -266,7 +266,33 @@
           "candidates": [
             "art"
           ],
-          "score": 4.9
+          "score": 4.6
+        },
+        {
+          "title": "원주 한국옻칠공예대전 대상에 김득환 작가 '서안-관계'",
+          "link": "https://www.yna.co.kr/view/AKR20261008040800062",
+          "summary": "(원주=연합뉴스) 임보연 기자 = 제25회 원주시 한국옻칠공예대전 대상에 김득환 작가의 '서안-관계'가 선정됐다.",
+          "publishedAt": "2026-10-08T00:10:49.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008040800062_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "佛미술관서 르누아르 작품 훔친 용의자들 체포…도난품 못찾아",
+          "link": "https://www.yna.co.kr/view/AKR20261008034000009",
+          "summary": "(서울=연합뉴스) 강훈상 기자 = 지난달 프랑스의 한 미술관에서 오귀스트 르누아르의 작품이 도난당한 사건과 관련, 용의자 5명이 경찰에 체포됐다...",
+          "publishedAt": "2026-10-07T23:50:01.000Z",
+          "image": "https://img.yna.co.kr/photo/etc/af/2026/10/08/PAF20261008020201009_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
         },
         {
           "title": "광주비엔날레 개막 한 달, 관람객 16만명 방문",
@@ -279,46 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
-        },
-        {
-          "title": "'제주 은갈치 맛보고 경매도'…서귀포 은갈치 축제 8일 개막",
-          "link": "https://www.yna.co.kr/view/AKR20261007103700056",
-          "summary": "(서귀포=연합뉴스) 변지철 기자 = 제주 대표 수산물인 은갈치를 맛보고 경매도 체험할 수 있는 축제가 서귀포항에서 열린다.",
-          "publishedAt": "2026-10-07T04:18:02.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/07/AKR20261007103700056_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
-        },
-        {
-          "title": "'전라도의 서정, 민화로 피다' 11월20일까지 전시회",
-          "link": "https://www.yna.co.kr/view/AKR20261007083200054",
-          "summary": "(나주=연합뉴스) 전승현 기자 = 전남광주 나주문화재단은 가회민화박물관과 협력해 나주빛가람복합문화체육센터 1층 다목적실에서 기획전시 '전라도의 ...",
-          "publishedAt": "2026-10-07T02:21:46.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/07/AKR20261007083200054_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.3
-        },
-        {
-          "title": "작가는 규칙을 만들고, 구현은 실행자가 한다…‘건축 같은 미술’",
-          "link": "https://www.khan.co.kr/article/202610052230005/",
-          "summary": "개념미술 선구자 솔 르윗 서울서 ‘오픈 스트럭처’전하나의 구상을 기하학적 요소로 변주…대표작 ‘월 드로잉’ 시리즈후반기엔 색채 작업도…“개념미술은 아이디어가 좋을 때만 좋다”‘월 드로잉 #786A: 꼭짓점과 변에서 시작되는 두 가지 원호의 조합들’의 구성도(아래)와 구현된 그림의 모습.‘월 드로잉 #396 A-D: 인디아 잉크와 컬러 잉크 워시로 그린 검정…",
-          "publishedAt": "2026-10-05T13:30:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.6
+          "score": 4.1
         }
       ]
     }
