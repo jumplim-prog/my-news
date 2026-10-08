@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-08T00:39:48.469Z",
+  "builtAt": "2026-10-08T09:49:40.834Z",
   "cards": [
     {
       "id": "econ",
@@ -12,72 +12,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 333,
+      "poolSize": 337,
       "items": [
         {
-          "title": "한투증권 \"원/달러 환율, 1,330원대 복귀해도 추가 하락 압력\"",
-          "link": "https://www.yna.co.kr/view/AKR20261008030700008",
-          "summary": "(서울=연합뉴스) 정회인 기자 = 한국투자증권은 최근 원/달러 환율이 1,330원대로 내려온 가운데 앞으로도 원화 강세 흐름이 이어질 가능성이 ...",
-          "publishedAt": "2026-10-07T23:39:51.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/08/PYH2026090804620001300_P2.jpg",
+          "title": "원/달러 환율 1.9원 내린 1,338.5원…박스권 등락",
+          "link": "https://www.yna.co.kr/view/AKR20261008151700002",
+          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 8일 1,330원대 후반에서 횡보했다.",
+          "publishedAt": "2026-10-08T07:01:05.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/08/PYH2026100818190001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
-          "title": "치솟은 미 국채금리…수요도 몰렸다 [오늘 아침, 당신이 알아야 할 7가지]",
-          "link": "https://www.hankyung.com/article/202610089703i",
+          "title": "엇갈린 미 국채금리 전망…10년물 “내년 6% 까지” “연말 5% 아래로”",
+          "link": "https://www.hani.co.kr/arti/economy/finance/1281526.html",
           "summary": "",
-          "publishedAt": "2026-10-07T22:32:18.000Z",
+          "publishedAt": null,
           "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
+          "sourceName": "한겨레",
+          "sourceId": "hani-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 6.5
         },
         {
-          "title": "고금리 누가 이길까…메타 '골든크로스'에 마이크론 목표가 3000달러 [박신영의 개장전 요것만]",
-          "link": "https://www.hankyung.com/article/202610079548i",
-          "summary": "",
-          "publishedAt": "2026-10-07T14:36:37.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
-        },
-        {
-          "title": "美국채 매도세 재개…장중 10년물 금리 2002년 4월 이후 최고",
-          "link": "https://www.yna.co.kr/view/AKR20261007207300072",
-          "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 7일(현지시간) 미국 국채 시장에서 매도세가 다시 고개를 들며 주요 국채 금리가 장중 약 24년 만에 최고치...",
-          "publishedAt": "2026-10-07T14:05:07.000Z",
-          "image": "https://img.yna.co.kr/photo/etc/epa/2026/10/07/PEP20261007058601009_P2.jpg",
+          "title": "꺾이지 않는 美금리 고공행진…\"韓증시, 실적중심 선별 장세 전망\"",
+          "link": "https://www.yna.co.kr/view/AKR20261008061300008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 미국 장기 국채금리의 고공행진이 국내 증시의 최대 부담 요인으로 부상하면서 4분기 국내 증시가 실적에 기반한 ...",
+          "publishedAt": "2026-10-08T01:37:49.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008061300008_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 5.8
         },
         {
-          "title": "환율, 수출기업 달러 매도 등에 3.2원 내린 1,340원",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008787468",
-          "summary": "▲ 7일 서울 중구 하나은행 본점 딜링룸에 주가지수가 표시되고 있다.원/달러 환율은 오늘 장중 한때 1,330원대 후반까지 하락했습니…",
-          "publishedAt": "2026-10-07T07:23:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261007/202229364_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
+          "title": "8월 경상수지 461.1억달러 흑자…한 달 만에 역대 2위 기록 재경신",
+          "link": "https://www.khan.co.kr/article/202610080842001/",
+          "summary": "경상수지 3개월 연속 400억달러·상품수지 1000억달러 상회지난 9월1일 부산 남구 부산항 신선대, 감만, 신감만부두에 수출입 화물이 가득 쌓여 있다. 연합뉴스반도체 호황이 지속되면서 우리나라 경상수지가 한 달 만에 역대 2위 흑자 기록을 다시 경신했다.한국은행이 8일 발표한 국제수지 잠정 통계에 따르면 올해 8월 경상수지는 461억1000만달러 흑자로…",
+          "publishedAt": "2026-10-07T23:42:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 5.8
+        },
+        {
+          "title": "[속보] 반도체 호황…8월 경상수지 461억1000만달러 흑자 역대 2위",
+          "link": "https://www.mk.co.kr/news/economy/12171075",
+          "summary": "한국은행, 8월 국제수지 발표 IT품목 중심 수출 증가세 꾸준우리나라의 경상수지가 반도체 수출 호황 등에 힘입어 지난 8월에도 흑자 흐름을 이어갔다. 흑자규모로는 역대 2위다. 한..",
+          "publishedAt": "2026-10-07T23:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/08/news-p.v1.20261008.f12387ef748c4ff4bd2473fc97739106_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.8
         }
       ]
     },
@@ -92,8 +92,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 211,
+      "poolSize": 213,
       "items": [
+        {
+          "title": "가을 산사에서 배운 지혜…우석스님 \"내면을 살피는 것이 리더의 첫걸음\"",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111182",
+          "summary": "가을 산사에서 자신의 마음을 살피고 타인의 마음을 헤아리며 진정한 리더의 길을 모색하는 시간이 마련됐습니다.BBS광주불교방송이 주최하는 리더스 아카데미 ‘낮고 느린 산책’ 2기 일곱 번째 강연이 7일 지리산 구례 화엄사에서 열렸습니다.강연은 ‘리더의 길, 산사에 묻다’를 주제로 화엄사 주지 우석스님의 법문과 차담으로 진행됐습니다.화엄사에 모인 원우들은 우석…",
+          "publishedAt": "2026-10-08T17:42:48.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
+        },
+        {
+          "title": "화엄사 중창주 도광‧도천 대종사 합동 추모재",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4110960",
+          "summary": "조계종 제19교구본사 화엄사(주지 우석스님)가 지난 3일, 근현대 중창주인 리산당 도광 대선사 원적 42주기, 도천당 도천 대종사 원적 15주기 합동 추모재를 봉행했습니다.각황전에서 열린 추모재는 헌다와 죽비삼배, 육성 법문, 행장 소개, 헌화 순으로 이어졌습니다.추모재에는 우석 주지스님과 종국 문장스님을 비롯한 본말사 스님과 신도들이 함께했으며, 장길선…",
+          "publishedAt": "2026-10-08T16:42:13.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
+        },
         {
           "title": "동국대 와이즈캠 ‘2학기 교직원 개강 법회’",
           "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442943",
@@ -105,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3
         },
         {
           "title": "범어사, 덕민 대강백 초청 ‘선문염송’ 특강 개최",
@@ -118,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
+          "score": 2.6
         },
         {
           "title": "파계사, 고송당 종협 대종사 23주기 추모다례재",
@@ -131,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
-        },
-        {
-          "title": "신원사, 적음대선사 열반 65주기 추모다례 봉행",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442843",
-          "summary": "일제강점기 조선불교 수호에 앞장섰던 초부당 적음대선사 열반 65주기를 맞아 스님의 가르침과 자비행을 되새기는 추모다례가 봉행됐다.공주 신원사(주지 성관스님)는 10월3일 대웅전에서 대안사 회주 법전대종사와 신원사 회주 중하대종사, 마곡사 주지 원경스님, 조계종 법규위원장 혜경스님, 중앙종회의원 태진·종봉스님을 비롯한 문도스님들이 동참한 가운데 적음대선사 열…",
-          "publishedAt": "2026-10-06T13:28:09.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.3
+          "score": 2.6
         }
       ]
     },
@@ -162,6 +175,19 @@
       "poolSize": 148,
       "items": [
         {
+          "title": "사유의 길",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211044",
+          "summary": "철학 연구의 깊이와 일반 독자와의 소통을 함께 추구한 해제와 토론의 기록이다. 윤유석이 이승종의 주요 저술을 대륙철학과 영미철학, 해체주의와 자연주의, 2인칭 철학 등의 주제로 풀어내고 연구자들이 토론을 이어간다. 비트겐슈타인과 하이데거 등 현대철학의 쟁점을 동아시아 사유와 한국의 역사 문제까지 연결한다. 학술서와 교양서 사이의 간극을 고민하며 강의와 질문…",
+          "publishedAt": "2026-10-08T18:02:00.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 6.2
+        },
+        {
           "title": "Aristotle’s Categories",
           "link": "https://plato.stanford.edu/entries/aristotle-categories/",
           "summary": "[Revised entry by Paul Studtmann on October 7, 2026. Changes to: Main text, Bibliography] Aristotle's Categories is a singularly important work of philosophy. It not only presents the backbone of Aris…",
@@ -172,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6
+          "score": 5.8
         },
         {
           "title": "Philosopher Among New AI2050 Senior Fellows",
@@ -185,20 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.2
-        },
-        {
-          "title": "디지털서울문화예술대, 조훈현 국수 초청 특별 토크콘서트 성료…바둑 인생·철학 공유",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211005",
-          "summary": "디지털서울문화예술대 바둑학과가 지난 29일 교내 6층 아트홀에서 조훈현 국수를 초청해 특별 토크콘서트를 열었다. 행사에는 바둑에 관심 있는 100여 명이 참석했다.'한 수에 깃든 길(道): 바둑학과가 조훈현 국수에게 묻다'를 주제로, 조훈현 국수는 자신의 바둑 인생과 세계 바둑계에서의 경험, 바둑에 담긴 철학을 직접 들려줬다. 조훈현 국수는 \"바둑을 통해…",
-          "publishedAt": "2026-10-07T15:06:07.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.3
+          "score": 5
         },
         {
           "title": "Mill’s Moral and Political Philosophy",
@@ -211,7 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.1
+          "score": 4
         },
         {
           "title": "Do Insects Matter More than People?",
@@ -225,7 +238,7 @@
             "philosophy",
             "art"
           ],
-          "score": 3.9
+          "score": 3.7
         }
       ]
     },
@@ -240,40 +253,14 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 214,
+      "poolSize": 215,
       "items": [
         {
-          "title": "공공미술관으로 간 미술은행 소장품…서울·김해서 연계 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261008040700005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관 미술은행과 정부미술은행 소장품이 공공미술관의 기획전시를 통해 관람객과 만난다.",
-          "publishedAt": "2026-10-08T00:15:18.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008040700005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "“작가는 손도 안 댔습니다”···대리인이 그린 그림이 ‘진품’? 개념미술 선구자 솔 르윗이 던진 질문",
-          "link": "https://www.khan.co.kr/article/202610051547001/",
-          "summary": "‘솔 르윗: 오픈 스트럭처’에서 그를 상징하는 작업인 ‘월 드로잉’이 그려진 전시장 모습. 배문규 기자‘월 드로잉 #786A: 꼭짓점과 변에서 시작되는 두 가지 원호의 조합들’. 검은 벽이 칠판처럼 놓였다. 오른쪽에는 정사각형의 꼭짓점과 변에서 출발하는 원호 여덟 종류가 1~8번으로 제시돼 있다. 서로 다른 두 원호를 짝지으면 28가지. 표의 조합대로 ··…",
-          "publishedAt": "2026-10-05T06:47:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.6
-        },
-        {
-          "title": "원주 한국옻칠공예대전 대상에 김득환 작가 '서안-관계'",
-          "link": "https://www.yna.co.kr/view/AKR20261008040800062",
-          "summary": "(원주=연합뉴스) 임보연 기자 = 제25회 원주시 한국옻칠공예대전 대상에 김득환 작가의 '서안-관계'가 선정됐다.",
-          "publishedAt": "2026-10-08T00:10:49.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008040800062_01_i_P2.jpg",
+          "title": "세종문화관광재단, 한글문화 특별기획전 '세종과 남준' 개최",
+          "link": "https://www.yna.co.kr/view/AKR20261008186100063",
+          "summary": "(세종=연합뉴스) 양영석 기자 = 세종시와 세종문화관광재단은 한글날 100주년과 '한글비엔날레' 전시관 개관을 기념하는 한글문화 특별기획전 '세...",
+          "publishedAt": "2026-10-08T09:17:08.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008186100063_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -282,11 +269,11 @@
           "score": 4.5
         },
         {
-          "title": "佛미술관서 르누아르 작품 훔친 용의자들 체포…도난품 못찾아",
-          "link": "https://www.yna.co.kr/view/AKR20261008034000009",
-          "summary": "(서울=연합뉴스) 강훈상 기자 = 지난달 프랑스의 한 미술관에서 오귀스트 르누아르의 작품이 도난당한 사건과 관련, 용의자 5명이 경찰에 체포됐다...",
-          "publishedAt": "2026-10-07T23:50:01.000Z",
-          "image": "https://img.yna.co.kr/photo/etc/af/2026/10/08/PAF20261008020201009_P2.jpg",
+          "title": "상지대, '문학이 흐르는 캠퍼스' 해외 작가와 AI시대 문학이야기",
+          "link": "https://www.yna.co.kr/view/AKR20261008173800062",
+          "summary": "(원주=연합뉴스) 임보연 기자 = 상지대학교가 해외 작가 4명과 학생들이 인공지능(AI) 시대에 읽고 쓰는 일의 의미를 함께 살펴보는 자리를 마...",
+          "publishedAt": "2026-10-08T08:04:33.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008173800062_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -295,17 +282,43 @@
           "score": 4.5
         },
         {
-          "title": "광주비엔날레 개막 한 달, 관람객 16만명 방문",
-          "link": "https://www.yna.co.kr/view/AKR20261007148300054",
-          "summary": "(전남광주=연합뉴스) 장아름 기자 = 두 달 여정의 반환점을 앞둔 제16회 광주비엔날레에 16만명이 방문했다.",
-          "publishedAt": "2026-10-07T06:48:27.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/07/AKR20261007148300054_01_i_P2.jpg",
+          "title": "'등단 50년' 김홍신 작가 9일 논산서 북콘서트",
+          "link": "https://www.yna.co.kr/view/AKR20261008155600005",
+          "summary": "(서울=연합뉴스) 김기훈 기자 = 김홍신 작가의 등단 50주년을 맞아 이달 9일 오후 3시 충남 논산 연산문화창고에서 북콘서트가 열린다고 김홍신...",
+          "publishedAt": "2026-10-08T07:09:25.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008155600005_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 4.4
+        },
+        {
+          "title": "임오경 \"유적전시관 조건으로 개발허가 받아놓고 창고로 방치\"",
+          "link": "https://www.yna.co.kr/view/AKR20261008125100001",
+          "summary": "(서울=연합뉴스) 박경준 기자 = 국가 유산을 보존하거나 전시하는 조건으로 개발 허가를 받은 유적 전시관 상당수가 제대로 관리되지 않고 있다는 ...",
+          "publishedAt": "2026-10-08T05:50:58.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008125100001_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "서울옥션, 4년 만에 부산 경매…김종식·백남준 등 출품",
+          "link": "https://www.yna.co.kr/view/AKR20261008059400005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 서울옥션이 4년 만에 부산에서 미술품 경매를 연다.",
+          "publishedAt": "2026-10-08T01:09:24.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008059400005_02_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
         }
       ]
     }
