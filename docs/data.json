@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-08T09:49:40.834Z",
+  "builtAt": "2026-10-09T00:55:27.400Z",
   "cards": [
     {
       "id": "econ",
@@ -12,20 +12,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 337,
+      "poolSize": 336,
       "items": [
         {
-          "title": "원/달러 환율 1.9원 내린 1,338.5원…박스권 등락",
-          "link": "https://www.yna.co.kr/view/AKR20261008151700002",
-          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 8일 1,330원대 후반에서 횡보했다.",
-          "publishedAt": "2026-10-08T07:01:05.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/08/PYH2026100818190001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "원·달러 환율 1.9원 내린 1,338.5원…박스권 등락",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008789437",
+          "summary": "▲ 8일 코스피가 외국인과 기관의 동반 매도에 2% 넘게 하락하며 6600선으로 밀렸다. 이날 코스피는 177.97p 내린 6,625…",
+          "publishedAt": "2026-10-08T07:13:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261008/202229731_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "엇갈린 미 국채금리 전망…10년물 “내년 6% 까지” “연말 5% 아래로”",
@@ -41,32 +41,6 @@
           "score": 6.5
         },
         {
-          "title": "꺾이지 않는 美금리 고공행진…\"韓증시, 실적중심 선별 장세 전망\"",
-          "link": "https://www.yna.co.kr/view/AKR20261008061300008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 미국 장기 국채금리의 고공행진이 국내 증시의 최대 부담 요인으로 부상하면서 4분기 국내 증시가 실적에 기반한 ...",
-          "publishedAt": "2026-10-08T01:37:49.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008061300008_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.8
-        },
-        {
-          "title": "8월 경상수지 461.1억달러 흑자…한 달 만에 역대 2위 기록 재경신",
-          "link": "https://www.khan.co.kr/article/202610080842001/",
-          "summary": "경상수지 3개월 연속 400억달러·상품수지 1000억달러 상회지난 9월1일 부산 남구 부산항 신선대, 감만, 신감만부두에 수출입 화물이 가득 쌓여 있다. 연합뉴스반도체 호황이 지속되면서 우리나라 경상수지가 한 달 만에 역대 2위 흑자 기록을 다시 경신했다.한국은행이 8일 발표한 국제수지 잠정 통계에 따르면 올해 8월 경상수지는 461억1000만달러 흑자로…",
-          "publishedAt": "2026-10-07T23:42:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.8
-        },
-        {
           "title": "[속보] 반도체 호황…8월 경상수지 461억1000만달러 흑자 역대 2위",
           "link": "https://www.mk.co.kr/news/economy/12171075",
           "summary": "한국은행, 8월 국제수지 발표 IT품목 중심 수출 증가세 꾸준우리나라의 경상수지가 반도체 수출 호황 등에 힘입어 지난 8월에도 흑자 흐름을 이어갔다. 흑자규모로는 역대 2위다. 한..",
@@ -77,7 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.8
+          "score": 5.5
+        },
+        {
+          "title": "전쟁에 치솟는 곡물가, 식량위기 우려 고개…\"진짜 공포는 내년\"",
+          "link": "https://www.yna.co.kr/view/AKR20261008104500008",
+          "summary": "(서울=연합뉴스) 황철환 기자 = 미국과 이란의 전쟁이 장기화하면서 국제 곡물가가 들썩이는 가운데 내년부터 '애그플레이션'(농산물 가격 상승)으...",
+          "publishedAt": "2026-10-08T22:10:00.000Z",
+          "image": "https://img.yna.co.kr/photo/etc/epa/2026/09/30/PEP20260930046101009_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "트럼프 관세가 美 물가 올렸다…뉴욕 연은 \"관세 없었다면 가격 하락\"",
+          "link": "https://www.hankyung.com/article/202610082160i",
+          "summary": "",
+          "publishedAt": "2026-10-08T13:18:45.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.3
         }
       ]
     },
@@ -92,8 +92,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 213,
+      "poolSize": 208,
       "items": [
+        {
+          "title": "일상이 수행이고 깨달음",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505668",
+          "summary": "부산 대원사에는 ‘반야 타임머신’이 있다. 바로 법당에 마련된 ‘소원지함’이다. 신도와 참배객들이 소원지에 자신의 희망과 꿈을 써서 넣은 후 천일기도에 동참하면 그 힘으로 소원이 성취된다는 것이다.대원사 주지 법지 스님은 “앎과 지혜를 뜻하는 ‘반야’는 과거, 미래, 현재 어느 곳이든 마음대로 오갈 수 있는 타임머신”이라며 “대원사 반야 타임머신은 내 안에…",
+          "publishedAt": "2026-10-08T19:10:15.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 2.9
+        },
         {
           "title": "가을 산사에서 배운 지혜…우석스님 \"내면을 살피는 것이 리더의 첫걸음\"",
           "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111182",
@@ -105,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 2.8
         },
         {
           "title": "화엄사 중창주 도광‧도천 대종사 합동 추모재",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 2.8
         },
         {
           "title": "동국대 와이즈캠 ‘2학기 교직원 개강 법회’",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.7
         },
         {
           "title": "범어사, 덕민 대강백 초청 ‘선문염송’ 특강 개최",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.6
-        },
-        {
-          "title": "파계사, 고송당 종협 대종사 23주기 추모다례재",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505627",
-          "summary": "대구 파계사(주지 현봉 스님)는 10월 6일 설법전에서 고송당 종협 대종사 열반 23주기 추모다례재를 봉행했다. 이날 다례재에는 고송문도회와 일우문도회 스님들과 파계사 주지 현봉 스님, 신도 등 사부대중이 참석했다.다례재는 삼배를 시작으로 헌화·헌다, 종협 대종사의 육성 법문, 문도회 대표 남화사 회주 성화 대종사와 파계사 주지 현봉 스님의 인사말, 추모다…",
-          "publishedAt": "2026-10-07T13:03:06.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.6
+          "score": 2.3
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.2
+          "score": 5.9
         },
         {
           "title": "Aristotle’s Categories",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.8
+          "score": 5.5
         },
         {
           "title": "Philosopher Among New AI2050 Senior Fellows",
@@ -211,34 +211,33 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5
+          "score": 4.7
         },
         {
-          "title": "Mill’s Moral and Political Philosophy",
-          "link": "https://plato.stanford.edu/entries/mill-moral-political/",
-          "summary": "[Revised entry by David Brink on October 4, 2026. Changes to: Main text, notes.html] John Stuart Mill (1806 - 1873) was the most famous and influential British philosopher of the nineteenth century. H…",
-          "publishedAt": "2026-10-05T05:12:18.000Z",
+          "title": "The Cambridge Platonists",
+          "link": "https://plato.stanford.edu/entries/cambridge-platonists/",
+          "summary": "[Revised entry by Sarah Hutton on October 8, 2026. Changes to: Main text, Bibliography] The Cambridge Platonists were a cluster of English seventeenth-century thinkers associated with the University o…",
+          "publishedAt": "2026-10-09T01:32:20.000Z",
           "image": "",
           "sourceName": "Stanford Encyclopedia",
           "sourceId": "stanford-sep",
           "candidates": [
             "philosophy"
           ],
-          "score": 4
+          "score": 4.5
         },
         {
-          "title": "Do Insects Matter More than People?",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/10/do-insects-matter-more-than-people.html",
-          "summary": "Paul Nedelisky at The Hedgehog Review: Matthew Adelstein is one of a small group of new public philosophers—a handful of young thinkers doing and perhaps performing philosophy in the public square on…",
-          "publishedAt": "2026-10-06T18:45:30.000Z",
-          "image": "https://3quarksdaily.com/wp-content/uploads/2026/10/Screenshot-2026-10-06-162648-360x257.png",
-          "sourceName": "3 Quarks Daily",
-          "sourceId": "3quarks",
+          "title": "AI for Philosophy: Progress through Capital-Intensive Philosophy (guest post)",
+          "link": "https://dailynous.com/2026/10/08/ai-for-philosophy-progress-through-capital-intensive-philosophy-guest-post/",
+          "summary": "“AI systems… will transform the discipline: they will make philosophy more capital-intensive. “ * * * The following is a guest post by David Strohmaier, […] The post AI for Philosophy: Progress throug…",
+          "publishedAt": "2026-10-08T12:27:59.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/10/old-philosophy-pencil-paper-joke-1024x785.jpg",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
           "candidates": [
-            "philosophy",
-            "art"
+            "philosophy"
           ],
-          "score": 3.7
+          "score": 4.2
         }
       ]
     },
@@ -256,37 +255,25 @@
       "poolSize": 215,
       "items": [
         {
-          "title": "세종문화관광재단, 한글문화 특별기획전 '세종과 남준' 개최",
-          "link": "https://www.yna.co.kr/view/AKR20261008186100063",
-          "summary": "(세종=연합뉴스) 양영석 기자 = 세종시와 세종문화관광재단은 한글날 100주년과 '한글비엔날레' 전시관 개관을 기념하는 한글문화 특별기획전 '세...",
-          "publishedAt": "2026-10-08T09:17:08.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008186100063_01_i_P2.jpg",
+          "title": "코오롱스포츠, 디자이너 브랜드 '지용킴' 협업 컬렉션 출시",
+          "link": "https://www.yna.co.kr/view/AKR20261009019900030",
+          "summary": "(서울=연합뉴스) 김세린 기자 = 아웃도어 브랜드 코오롱스포츠는 디자이너 브랜드 '지용킴'과 협업 컬렉션을 출시했다고 9일 밝혔다.",
+          "publishedAt": "2026-10-09T00:07:44.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/09/AKR20261009019900030_05_i_P2.jpg",
           "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "sourceId": "yna-economy",
           "candidates": [
+            "econ",
             "art"
           ],
           "score": 4.5
         },
         {
-          "title": "상지대, '문학이 흐르는 캠퍼스' 해외 작가와 AI시대 문학이야기",
-          "link": "https://www.yna.co.kr/view/AKR20261008173800062",
-          "summary": "(원주=연합뉴스) 임보연 기자 = 상지대학교가 해외 작가 4명과 학생들이 인공지능(AI) 시대에 읽고 쓰는 일의 의미를 함께 살펴보는 자리를 마...",
-          "publishedAt": "2026-10-08T08:04:33.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008173800062_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "'등단 50년' 김홍신 작가 9일 논산서 북콘서트",
-          "link": "https://www.yna.co.kr/view/AKR20261008155600005",
-          "summary": "(서울=연합뉴스) 김기훈 기자 = 김홍신 작가의 등단 50주년을 맞아 이달 9일 오후 3시 충남 논산 연산문화창고에서 북콘서트가 열린다고 김홍신...",
-          "publishedAt": "2026-10-08T07:09:25.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008155600005_01_i_P2.jpg",
+          "title": "깊어가는 가을 수목원으로…숲길 걷고, 전시 보고, 정원체험까지",
+          "link": "https://www.yna.co.kr/view/AKR20261008106700063",
+          "summary": "(대전=연합뉴스) 김준호 기자 = \"선선한 바람이 불고 나뭇잎 색이 짙어져 나들이하기 좋은 가을입니다. 가까운 수목원을 찾아 숲길을 걷고, 전시...",
+          "publishedAt": "2026-10-08T22:00:05.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008106700063_02_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -295,30 +282,43 @@
           "score": 4.4
         },
         {
-          "title": "임오경 \"유적전시관 조건으로 개발허가 받아놓고 창고로 방치\"",
-          "link": "https://www.yna.co.kr/view/AKR20261008125100001",
-          "summary": "(서울=연합뉴스) 박경준 기자 = 국가 유산을 보존하거나 전시하는 조건으로 개발 허가를 받은 유적 전시관 상당수가 제대로 관리되지 않고 있다는 ...",
-          "publishedAt": "2026-10-08T05:50:58.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008125100001_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
-        },
-        {
-          "title": "서울옥션, 4년 만에 부산 경매…김종식·백남준 등 출품",
-          "link": "https://www.yna.co.kr/view/AKR20261008059400005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 서울옥션이 4년 만에 부산에서 미술품 경매를 연다.",
-          "publishedAt": "2026-10-08T01:09:24.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008059400005_02_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "한강, 노벨문학상 카슨 작품에 “눈부시고 사무치게 진실”",
+          "link": "https://www.khan.co.kr/article/202610082312001/",
+          "summary": "한강 작가가 지난 7월12일(현지시간) 제80회 아비뇽 연극 축제에서 ‘작가와의 대화’ 행사가 끝난 후 활짝 웃고 있다. 연합뉴스2025년 8월5일(현지시간) 스웨덴 스톡홀름의 현대미술관 모데르나 무세트에서 캐나다 시인 앤 카슨이 자신의 작품 <Antigonick>을 공연하고 있다. 카슨은 2026년 노벨문학상 수상자로 선정됐다. AP연합뉴스20···",
+          "publishedAt": "2026-10-08T14:12:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
           "score": 4.3
+        },
+        {
+          "title": "“그리스 신화·현대 접합 자유로운 글쓰기…장르·경계 허물어 독보적인 미학적 성취”",
+          "link": "https://www.khan.co.kr/article/202610082226005/",
+          "summary": "노벨 문학상 수상 앤 카슨은사랑·절망 다룬 작품들 8일(현지시간) 스웨덴 스톡홀름의 스웨덴 한림원에 올해 노벨 문학상 수상자로 선정된 캐나다 작가 앤 카슨의 저서들이 전시돼 있다. AFP연합뉴스수상 소식 알리려 전화했을 때 “그는 바람소리를 듣고 있었다” 토론토 출신…북미 대학서 강의 2001년 여성 첫 ‘T S 엘리엇상’ 작품 전체에 흐르는 특징 ‘···",
+          "publishedAt": "2026-10-08T13:26:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
+        },
+        {
+          "title": "[새책]작가의 역사 外",
+          "link": "https://www.khan.co.kr/article/202610082119035/",
+          "summary": "작가의 역사서구에서 ‘냉전 시기’라고 일컫는 2차 세계대전 종결 시기인 1945년 이후의 문학을 살핀다. 프리모 레비, 귄터 그라스, 커트 보니것, 살만 루슈디 등 24명의 작가를 통해 전쟁과 분단, 혁명과 독재를 겪은 이 시대의 역사를 이해해본다. 김한식 지음. 소명출판. 3만원두 개의 집시리아에서 살던 열두 살 소녀 주드는 고향 상황이 불안해지자 엄마와…",
+          "publishedAt": "2026-10-08T12:19:03.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.2
         }
       ]
     }
