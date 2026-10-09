@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-09T00:55:27.400Z",
+  "builtAt": "2026-10-09T09:54:07.062Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 336,
+      "poolSize": 337,
       "items": [
+        {
+          "title": "[외환] 원/달러 환율 4.3원 오른 1,342.8원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261009043000002",
+          "summary": "(",
+          "publishedAt": "2026-10-09T06:33:31.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/09/AKR20261009043000002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "원·달러 환율 1.9원 내린 1,338.5원…박스권 등락",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008789437",
@@ -25,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.9
         },
         {
           "title": "엇갈린 미 국채금리 전망…10년물 “내년 6% 까지” “연말 5% 아래로”",
@@ -51,33 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.5
+          "score": 5.3
         },
         {
-          "title": "전쟁에 치솟는 곡물가, 식량위기 우려 고개…\"진짜 공포는 내년\"",
-          "link": "https://www.yna.co.kr/view/AKR20261008104500008",
-          "summary": "(서울=연합뉴스) 황철환 기자 = 미국과 이란의 전쟁이 장기화하면서 국제 곡물가가 들썩이는 가운데 내년부터 '애그플레이션'(농산물 가격 상승)으...",
-          "publishedAt": "2026-10-08T22:10:00.000Z",
-          "image": "https://img.yna.co.kr/photo/etc/epa/2026/09/30/PEP20260930046101009_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.4
-        },
-        {
-          "title": "트럼프 관세가 美 물가 올렸다…뉴욕 연은 \"관세 없었다면 가격 하락\"",
-          "link": "https://www.hankyung.com/article/202610082160i",
+          "title": "[표] 외국환율고시표",
+          "link": "https://www.mk.co.kr/news/economy/12172462",
           "summary": "",
-          "publishedAt": "2026-10-08T13:18:45.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
+          "publishedAt": "2026-10-09T08:34:30.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/10/20261010_01110109000008_L00.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.3
+          "score": 4.5
         }
       ]
     },
@@ -95,6 +95,58 @@
       "poolSize": 208,
       "items": [
         {
+          "title": "[반야 참회로 여는 수행의 첫걸음] 19. 자신을 지키지 못함 참회 관련 경전 해석의 오류(보충)",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505687",
+          "summary": "화를 내지 말라고 한 경전을 잘못 해석하면 안 된다고 했는데, 경전 중에는 이와 반대로 화를 낼 수도 있음을 보여주는 경전도 있다. 석가모니 부처님께서도 자신을 근거 없이 비난하는 자에게 직접 찾아가서 따지고 사과를 받아 낸 사례가 〈잡아함경〉 제35권 ‘사라보경’(〈앙굿따라니까야〉 제3권 ‘싸라바의 경’)에 들어 있다.또 관세음보살에 관한 경전에도 그런…",
+          "publishedAt": "2026-10-09T09:58:00.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "[법인 스님의 문자 반야] 59. 본무자성(本無自性)",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505690",
+          "summary": "세상을 관조하면 선인과 악인, 증오와 자비, 전쟁과 평화처럼 서로 대칭을 이루는 현상들이 팽팽하게 맞물려 돌아간다. 이러한 양상은 과연 고정된 본질을 가진 실체인가[自性], 아니면 어떤 인연이 모여 한시적으로 드러난 현상[假有]인가? 우리는 흔히 악한 성품을 지닌 사람이 악한 행위를 한다고 말한다. 그러나 연기와 공성의 지혜는 어떠한 현상도 고정된 본질,…",
+          "publishedAt": "2026-10-09T10:09:39.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "제주 원명선원, 사흘간 무차선회 봉행…참선의 참된 의미 되새겨",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111260",
+          "summary": "참선재단 제주 원명선원이 오늘(9일)부터 모레(11일)까지 사흘간 무차선회(無遮禪會)를 봉행합니다.이번 무차선회에는 참선재단 이사장 금강스님을 비롯해 백양사 수좌 일수 대종사와 원명선원 한주 대효 스님이 함께하며 불자들에게 참선의 참된 의미를 전했습니다.참선재단 이사장 금강스님은 법문을 통해 참선 수행에서 화두를 놓치지 않고 늘 깨어 있는 자세의 중요성을…",
+          "publishedAt": "2026-10-09T15:55:55.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
+        },
+        {
+          "title": "“신비로운 몸과 소리, 이미지로 읽는 밀교”",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505688",
+          "summary": "밀교는 대승불교 흐름 속에서 4~5세기경 본격적으로 대두된 뒤 7~8세기경 중국을 거쳐 한국과 일본으로 전파됐다. 인도 후기 불교의 또 다른 흐름은 티베트에서 번성했으며, 동아시아의 경우 일본에서 오늘날 의례와 수행법에 깊이 자리 잡았다.인도와 한국, 일본에서 전개된 밀교의 양상을 조명하는 국제학술강연회가 열린다.재단법인 리앤원(이사장 원재연)은 10월 1…",
+          "publishedAt": "2026-10-09T09:59:41.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3
+        },
+        {
           "title": "일상이 수행이고 깨달음",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505668",
           "summary": "부산 대원사에는 ‘반야 타임머신’이 있다. 바로 법당에 마련된 ‘소원지함’이다. 신도와 참배객들이 소원지에 자신의 희망과 꿈을 써서 넣은 후 천일기도에 동참하면 그 힘으로 소원이 성취된다는 것이다.대원사 주지 법지 스님은 “앎과 지혜를 뜻하는 ‘반야’는 과거, 미래, 현재 어느 곳이든 마음대로 오갈 수 있는 타임머신”이라며 “대원사 반야 타임머신은 내 안에…",
@@ -105,59 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.9
-        },
-        {
-          "title": "가을 산사에서 배운 지혜…우석스님 \"내면을 살피는 것이 리더의 첫걸음\"",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111182",
-          "summary": "가을 산사에서 자신의 마음을 살피고 타인의 마음을 헤아리며 진정한 리더의 길을 모색하는 시간이 마련됐습니다.BBS광주불교방송이 주최하는 리더스 아카데미 ‘낮고 느린 산책’ 2기 일곱 번째 강연이 7일 지리산 구례 화엄사에서 열렸습니다.강연은 ‘리더의 길, 산사에 묻다’를 주제로 화엄사 주지 우석스님의 법문과 차담으로 진행됐습니다.화엄사에 모인 원우들은 우석…",
-          "publishedAt": "2026-10-08T17:42:48.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.8
-        },
-        {
-          "title": "화엄사 중창주 도광‧도천 대종사 합동 추모재",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4110960",
-          "summary": "조계종 제19교구본사 화엄사(주지 우석스님)가 지난 3일, 근현대 중창주인 리산당 도광 대선사 원적 42주기, 도천당 도천 대종사 원적 15주기 합동 추모재를 봉행했습니다.각황전에서 열린 추모재는 헌다와 죽비삼배, 육성 법문, 행장 소개, 헌화 순으로 이어졌습니다.추모재에는 우석 주지스님과 종국 문장스님을 비롯한 본말사 스님과 신도들이 함께했으며, 장길선…",
-          "publishedAt": "2026-10-08T16:42:13.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.8
-        },
-        {
-          "title": "동국대 와이즈캠 ‘2학기 교직원 개강 법회’",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442943",
-          "summary": "동국대학교 WISE캠퍼스 정각원(원장 법천스님)은 10월6일 교내 정각원에서 2026학년도 2학기 교직원 개강 법회를 봉행했다. 이날 법회는 동국대 이사장 돈관스님을 법사로 초청한 가운데 교수, 직원, 학생, 신도 등 300여 명이 참석했다.동국대 이사장 돈관스님은 법문을 통해 “선지식은 깊은 산속이 아니라 우리 삶 속에 있다”면서 “기다리지 말고 먼저 찾…",
-          "publishedAt": "2026-10-08T09:06:54.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
           "score": 2.7
-        },
-        {
-          "title": "범어사, 덕민 대강백 초청 ‘선문염송’ 특강 개최",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505636",
-          "summary": "한국 선불교의 중심이자 선찰대본산(禪刹大本山)인 금정총림 범어사(주지 정오 스님)가 11월 1일부터 3일까지 사흘간 선문화관 강당에서 일해당 덕민 대강백 초청 ‘선문염송(禪門拈頌)’ 특강을 개최한다.이번 특강은 전국의 승가(비구, 비구니)를 대상으로 진행된다. 강의 시간은 11월 1일과 2일은 오전 10시부터 오후 4시까지, 3일은 오후 2시부터 4시까지다…",
-          "publishedAt": "2026-10-07T16:22:04.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.3
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.9
+          "score": 5.7
         },
         {
           "title": "Aristotle’s Categories",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.5
+          "score": 5.3
         },
         {
           "title": "Philosopher Among New AI2050 Senior Fellows",
@@ -211,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "The Cambridge Platonists",
@@ -224,7 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "AI for Philosophy: Progress through Capital-Intensive Philosophy (guest post)",
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.2
+          "score": 4.1
         }
       ]
     },
@@ -255,6 +255,19 @@
       "poolSize": 215,
       "items": [
         {
+          "title": "[게시판] KT&G 상상마당 부산, 한글날 100주년 기획전시",
+          "link": "https://www.yna.co.kr/view/AKR20261009037300030",
+          "summary": "▲ KT&amp;G[033780] 상상마당은 한글날 100주년을 기념해 내년 2월 14일까지 상상마당 부산에서 기획전시 '가갸거겨고!'를 연다고...",
+          "publishedAt": "2026-10-09T05:35:43.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/09/AKR20261009037300030_02_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
+        {
           "title": "코오롱스포츠, 디자이너 브랜드 '지용킴' 협업 컬렉션 출시",
           "link": "https://www.yna.co.kr/view/AKR20261009019900030",
           "summary": "(서울=연합뉴스) 김세린 기자 = 아웃도어 브랜드 코오롱스포츠는 디자이너 브랜드 '지용킴'과 협업 컬렉션을 출시했다고 9일 밝혔다.",
@@ -266,7 +279,7 @@
             "econ",
             "art"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "깊어가는 가을 수목원으로…숲길 걷고, 전시 보고, 정원체험까지",
@@ -279,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "한강, 노벨문학상 카슨 작품에 “눈부시고 사무치게 진실”",
@@ -292,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "“그리스 신화·현대 접합 자유로운 글쓰기…장르·경계 허물어 독보적인 미학적 성취”",
@@ -305,20 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
-        },
-        {
-          "title": "[새책]작가의 역사 外",
-          "link": "https://www.khan.co.kr/article/202610082119035/",
-          "summary": "작가의 역사서구에서 ‘냉전 시기’라고 일컫는 2차 세계대전 종결 시기인 1945년 이후의 문학을 살핀다. 프리모 레비, 귄터 그라스, 커트 보니것, 살만 루슈디 등 24명의 작가를 통해 전쟁과 분단, 혁명과 독재를 겪은 이 시대의 역사를 이해해본다. 김한식 지음. 소명출판. 3만원두 개의 집시리아에서 살던 열두 살 소녀 주드는 고향 상황이 불안해지자 엄마와…",
-          "publishedAt": "2026-10-08T12:19:03.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.2
+          "score": 4.1
         }
       ]
     }
