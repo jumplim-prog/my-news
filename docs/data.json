@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-09T09:54:07.062Z",
+  "builtAt": "2026-10-10T00:26:08.222Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 337,
+      "poolSize": 341,
       "items": [
         {
           "title": "[외환] 원/달러 환율 4.3원 오른 1,342.8원(15:30 기준가)",
@@ -25,20 +25,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
-          "title": "원·달러 환율 1.9원 내린 1,338.5원…박스권 등락",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008789437",
-          "summary": "▲ 8일 코스피가 외국인과 기관의 동반 매도에 2% 넘게 하락하며 6600선으로 밀렸다. 이날 코스피는 177.97p 내린 6,625…",
-          "publishedAt": "2026-10-08T07:13:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261008/202229731_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
+          "title": "원/달러 환율 1.9원 내린 1,338.5원…박스권 등락",
+          "link": "https://www.yna.co.kr/view/AKR20261008151700002",
+          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 8일 1,330원대 후반에서 횡보했다.",
+          "publishedAt": "2026-10-08T07:01:05.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/08/PYH2026100818190001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6.9
+          "score": 6.6
         },
         {
           "title": "엇갈린 미 국채금리 전망…10년물 “내년 6% 까지” “연말 5% 아래로”",
@@ -64,20 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.3
+          "score": 5
         },
         {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12172462",
-          "summary": "",
-          "publishedAt": "2026-10-09T08:34:30.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/10/20261010_01110109000008_L00.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "title": "[경제뭔데]“일본 주말에 또 갈까”···원·엔 환율 18년만에 최저, 원화는 왜 강할까",
+          "link": "https://www.khan.co.kr/article/202610100600091/",
+          "summary": "일러스트 ｜생성형AI이번 주 원·엔 재정환율이 100엔당 840원대까지 떨어지면서 2008년 이후 18년 만에 최저치를 기록했습니다.10만원을 환전하면 현재 환율(8일 기준 100엔당 846원)로 1만1820엔, 100엔당 1000원 시절과 비교해 18.2% 많은 엔화를 환전할 수 있습니다. 한국에서 270만원인 셀린느 백도 일본 가격을 27만엔으로 가정할…",
+          "publishedAt": "2026-10-09T21:00:09.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.5
+          "score": 4.4
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 208,
+      "poolSize": 204,
       "items": [
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 19. 자신을 지키지 못함 참회 관련 경전 해석의 오류(보충)",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "[법인 스님의 문자 반야] 59. 본무자성(本無自性)",
@@ -118,7 +118,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.2
+        },
+        {
+          "title": "“봉선사 1057년 역사, 천년 만년 법등으로 밝혀가자”",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443010",
+          "summary": "“천년의 세월을 면면이 이어온 이 교학의 도량에서 부처님의 법문을 믿고 이해하며 실천하여 그 위대하고 수승한 지혜의 가르침을 깨닫기를 간절히 발원합니다.” 10월9일 교종본찰 조계종 제25교구본사 봉선사 큰법당에 운집한 사부대중 1000여명을 대표하여 자명화 신도회장이 ‘봉선사 개산을 맞아 발원문을 봉독했다. 봉선사(주지 호산스님)는 가을볕 완연한 운악산…",
+          "publishedAt": "2026-10-09T22:12:57.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3
         },
         {
           "title": "제주 원명선원, 사흘간 무차선회 봉행…참선의 참된 의미 되새겨",
@@ -131,26 +144,13 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 2.8
         },
         {
           "title": "“신비로운 몸과 소리, 이미지로 읽는 밀교”",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505688",
           "summary": "밀교는 대승불교 흐름 속에서 4~5세기경 본격적으로 대두된 뒤 7~8세기경 중국을 거쳐 한국과 일본으로 전파됐다. 인도 후기 불교의 또 다른 흐름은 티베트에서 번성했으며, 동아시아의 경우 일본에서 오늘날 의례와 수행법에 깊이 자리 잡았다.인도와 한국, 일본에서 전개된 밀교의 양상을 조명하는 국제학술강연회가 열린다.재단법인 리앤원(이사장 원재연)은 10월 1…",
           "publishedAt": "2026-10-09T09:59:41.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3
-        },
-        {
-          "title": "일상이 수행이고 깨달음",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505668",
-          "summary": "부산 대원사에는 ‘반야 타임머신’이 있다. 바로 법당에 마련된 ‘소원지함’이다. 신도와 참배객들이 소원지에 자신의 희망과 꿈을 써서 넣은 후 천일기도에 동참하면 그 힘으로 소원이 성취된다는 것이다.대원사 주지 법지 스님은 “앎과 지혜를 뜻하는 ‘반야’는 과거, 미래, 현재 어느 곳이든 마음대로 오갈 수 있는 타임머신”이라며 “대원사 반야 타임머신은 내 안에…",
-          "publishedAt": "2026-10-08T19:10:15.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 148,
+      "poolSize": 147,
       "items": [
         {
           "title": "사유의 길",
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.7
+          "score": 5.4
         },
         {
           "title": "Aristotle’s Categories",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.3
+          "score": 5
         },
         {
           "title": "Philosopher Among New AI2050 Senior Fellows",
@@ -224,20 +224,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
-          "title": "AI for Philosophy: Progress through Capital-Intensive Philosophy (guest post)",
-          "link": "https://dailynous.com/2026/10/08/ai-for-philosophy-progress-through-capital-intensive-philosophy-guest-post/",
-          "summary": "“AI systems… will transform the discipline: they will make philosophy more capital-intensive. “ * * * The following is a guest post by David Strohmaier, […] The post AI for Philosophy: Progress throug…",
-          "publishedAt": "2026-10-08T12:27:59.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/10/old-philosophy-pencil-paper-joke-1024x785.jpg",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
+          "title": "Mill’s Moral and Political Philosophy",
+          "link": "https://plato.stanford.edu/entries/mill-moral-political/",
+          "summary": "[Revised entry by David Brink on October 4, 2026. Changes to: Main text, notes.html] John Stuart Mill (1806 - 1873) was the most famous and influential British philosopher of the nineteenth century. H…",
+          "publishedAt": "2026-10-05T05:12:18.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.1
+          "score": 4
         }
       ]
     },
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.1
         },
         {
           "title": "코오롱스포츠, 디자이너 브랜드 '지용킴' 협업 컬렉션 출시",
@@ -279,7 +279,7 @@
             "econ",
             "art"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "깊어가는 가을 수목원으로…숲길 걷고, 전시 보고, 정원체험까지",
@@ -292,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 3.9
         },
         {
           "title": "한강, 노벨문학상 카슨 작품에 “눈부시고 사무치게 진실”",
@@ -305,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 3.8
         },
         {
           "title": "“그리스 신화·현대 접합 자유로운 글쓰기…장르·경계 허물어 독보적인 미학적 성취”",
@@ -318,7 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 3.8
         }
       ]
     }
