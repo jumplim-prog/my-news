@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-10T09:18:14.767Z",
+  "builtAt": "2026-10-11T00:03:21.894Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 338,
+      "poolSize": 335,
       "items": [
+        {
+          "title": "국채금리 급등에 줄어든 매력에도…개인, 리츠 ETF 순매수액↑",
+          "link": "https://www.yna.co.kr/view/AKR20261008168900008",
+          "summary": "(서울=연합뉴스) 고은지 기자 = 최근 국채 금리가 고공행진하면서 리츠(REITs·부동산투자회사) 상장지수펀드(ETF)의 매력이 상대적으로 줄었...",
+          "publishedAt": "2026-10-10T21:10:01.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2019/11/28/10/PCM20191128000110990_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "[외환] 원/달러 환율 4.3원 오른 1,342.8원(15:30 기준가)",
           "link": "https://www.yna.co.kr/view/AKR20261009043000002",
@@ -25,20 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.9
-        },
-        {
-          "title": "원/달러 환율 1.9원 내린 1,338.5원…박스권 등락",
-          "link": "https://www.yna.co.kr/view/AKR20261008151700002",
-          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 8일 1,330원대 후반에서 횡보했다.",
-          "publishedAt": "2026-10-08T07:01:05.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/08/PYH2026100818190001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.5
+          "score": 6.6
         },
         {
           "title": "엇갈린 미 국채금리 전망…10년물 “내년 6% 까지” “연말 5% 아래로”",
@@ -54,30 +54,30 @@
           "score": 6.5
         },
         {
-          "title": "[경제뭔데]“일본 주말에 또 갈까”···원·엔 환율 18년만에 최저, 원화는 왜 강할까",
-          "link": "https://www.khan.co.kr/article/202610100600091/",
-          "summary": "일러스트 ｜생성형AI이번 주 원·엔 재정환율이 100엔당 840원대까지 떨어지면서 2008년 이후 18년 만에 최저치를 기록했습니다.10만원을 환전하면 현재 환율(8일 기준 100엔당 846원)로 1만1820엔, 100엔당 1000원 시절과 비교해 18.2% 많은 엔화를 환전할 수 있습니다. 한국에서 270만원인 셀린느 백도 일본 가격을 27만엔으로 가정할…",
-          "publishedAt": "2026-10-09T21:00:09.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.2
-        },
-        {
-          "title": "은행권 금리 경쟁…1년만기 예금 3%대 후반으로 속속 인상",
-          "link": "https://www.yna.co.kr/view/AKR20261009056800002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 시장금리 상승 속에 은행 정기예금 금리도 연 3%대 후반으로 향하고 있다.",
-          "publishedAt": "2026-10-09T20:53:01.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2017/08/20/02/C0A8CA3D0000015DFEB841DD0007CEE9_P2.jpeg",
+          "title": "은행 가계대출 57.3%가 변동금리…1년 새 4.3%p 확대",
+          "link": "https://www.yna.co.kr/view/AKR20261010042400002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 한국은행이 기준금리를 두 차례 연속 인상한 가운데 은행 가계대출 잔액에서 변동금리 대출 비중은 1년 새 더 높...",
+          "publishedAt": "2026-10-10T20:52:00.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/08/14/PYH2026081408110001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.2
+          "score": 5.9
+        },
+        {
+          "title": "“내년엔 1200원대도 가능”…‘반도체 달러’ 덕에 원화 강세 계속될까",
+          "link": "https://www.mk.co.kr/news/economy/12172825",
+          "summary": "수출 호조세에 달러 공급 이어져 시장선 원화값 추가 상승 가능성한때 1550원대까지 하락했던 달러당 원화값이 1300원대 중반에서 안정적으로 머물고 있다. 반도체 수출 호황에 달러..",
+          "publishedAt": "2026-10-10T22:33:46.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/11/news-p.v1.20261008.e24a0b3b7d8a4e9bafe2c1de2b1b99d6_R.png",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 206,
+      "poolSize": 169,
       "items": [
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 19. 자신을 지키지 못함 참회 관련 경전 해석의 오류(보충)",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 7
+          "score": 6.7
         },
         {
           "title": "[법인 스님의 문자 반야] 59. 본무자성(本無自性)",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.7
         },
         {
           "title": "불광사, 창립 52주년 맞아 전법 원력 계승·화합 다짐",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 2.8
         },
         {
           "title": "성철 스님 내건 기복 영상 하루 평균 23건꼴…신고해도 절차 안내만",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.7
         },
         {
           "title": "“봉선사 1057년 역사, 천년 만년 법등으로 밝혀가자”",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
+          "score": 2.5
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.2
+          "score": 4.9
         },
         {
           "title": "Aristotle’s Categories",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.8
+          "score": 4.5
         },
         {
           "title": "Philosopher Among New AI2050 Senior Fellows",
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.8
+          "score": 3.5
         }
       ]
     },
@@ -252,8 +252,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 213,
+      "poolSize": 205,
       "items": [
+        {
+          "title": "'가을밤 즐기는 영화'…김해시립김영원미술관 16일 야외 상영",
+          "link": "https://www.yna.co.kr/view/AKR20261008141100052",
+          "summary": "(김해=연합뉴스) 이준영 기자 = 경남 김해시립김영원미술관은 오는 16일 오후 7시 미술관 서측 광장에서 국립현대미술관과 협업 프로젝트 'MMC...",
+          "publishedAt": "2026-10-10T23:35:00.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008141100052_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 6
+        },
+        {
+          "title": "이자벨 위페르 \"한강 작가 글, 강렬한 힘으로 관객에 다가가\"",
+          "link": "https://www.yna.co.kr/view/AKR20261010047200005",
+          "summary": "(서울=연합뉴스) 권지현 기자 = 하얀 스크린으로 벽과 바닥을 뒤덮은 단출한 무대에 마찬가지로 하얀 옷을 입은 두 배우 이혜영과 이자벨 위페르가...",
+          "publishedAt": "2026-10-10T15:20:37.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/10/AKR20261010047200005_04_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
+        },
         {
           "title": "'전설' 페이커 이상혁 기념우표 기획전시관 열린다",
           "link": "https://www.yna.co.kr/view/AKR20261008171200017",
@@ -265,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.1
         },
         {
           "title": "[게시판] KT&G 상상마당 부산, 한글날 100주년 기획전시",
@@ -278,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 3.9
+          "score": 3.6
         },
         {
           "title": "코오롱스포츠, 디자이너 브랜드 '지용킴' 협업 컬렉션 출시",
@@ -292,33 +318,7 @@
             "econ",
             "art"
           ],
-          "score": 3.8
-        },
-        {
-          "title": "깊어가는 가을 수목원으로…숲길 걷고, 전시 보고, 정원체험까지",
-          "link": "https://www.yna.co.kr/view/AKR20261008106700063",
-          "summary": "(대전=연합뉴스) 김준호 기자 = \"선선한 바람이 불고 나뭇잎 색이 짙어져 나들이하기 좋은 가을입니다. 가까운 수목원을 찾아 숲길을 걷고, 전시...",
-          "publishedAt": "2026-10-08T22:00:05.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008106700063_02_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.8
-        },
-        {
-          "title": "한강, 노벨문학상 카슨 작품에 “눈부시고 사무치게 진실”",
-          "link": "https://www.khan.co.kr/article/202610082312001/",
-          "summary": "한강 작가가 지난 7월12일(현지시간) 제80회 아비뇽 연극 축제에서 ‘작가와의 대화’ 행사가 끝난 후 활짝 웃고 있다. 연합뉴스2025년 8월5일(현지시간) 스웨덴 스톡홀름의 현대미술관 모데르나 무세트에서 캐나다 시인 앤 카슨이 자신의 작품 <Antigonick>을 공연하고 있다. 카슨은 2026년 노벨문학상 수상자로 선정됐다. AP연합뉴스20···",
-          "publishedAt": "2026-10-08T14:12:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.6
+          "score": 3.5
         }
       ]
     }
