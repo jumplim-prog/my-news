@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-11T09:35:21.755Z",
+  "builtAt": "2026-10-12T00:08:27.013Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 326,
+      "poolSize": 330,
       "items": [
+        {
+          "title": "한투증권 \"초과 세수 활용 촉각…통화정책이 금리 변수\"",
+          "link": "https://www.yna.co.kr/view/AKR20261012022900008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 한국투자증권은 12일 올해 초과 세수의 활용 방안이 장기 국채 수급 안정에 힘을 보태겠지만, 향후 채권금리 방...",
+          "publishedAt": "2026-10-11T23:57:19.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/12/AKR20261012022900008_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "국채금리 급등에 줄어든 매력에도…개인, 리츠 ETF 순매수액↑",
           "link": "https://www.yna.co.kr/view/AKR20261008168900008",
@@ -25,20 +38,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 6.9
         },
         {
-          "title": "[외환] 원/달러 환율 4.3원 오른 1,342.8원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261009043000002",
-          "summary": "(",
-          "publishedAt": "2026-10-09T06:33:31.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/09/AKR20261009043000002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "[글로벌 마켓시황] 3분기 실적 시즌…원유 선물 '92달러'",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008792249",
+          "summary": "먼저 뉴욕증시부터 살펴보겠습니다.13일 JP모건 체이스와 골드만삭스 등 금융주들의 실적이 공개되고 14일 9월 소비자물가지수가 이어서 15일에는…",
+          "publishedAt": "2026-10-11T22:42:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261012/202230432_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6.4
+          "score": 6
         },
         {
           "title": "국감서 드러난 미래기금 숙제···국채 찍으며 104조 쌓고, 사업 기준도 모호",
@@ -51,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.9
+          "score": 5.6
         },
         {
           "title": "은행 가계대출 57.3%가 변동금리…1년 새 4.3%p 확대",
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.7
-        },
-        {
-          "title": "무보 '떼인 돈' 3.8조원…남은 채권 절반은 10년 이상 미회수",
-          "link": "https://www.yna.co.kr/view/AKR20261011042200003",
-          "summary": "(서울=연합뉴스) 장보인 기자 = 한국무역보험공사가 회수하지 못하고 상각·종결 처리한 채권의 누적 금액이 3조8천억원을 넘어서는 것으로 파악됐다...",
-          "publishedAt": "2026-10-11T09:04:55.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2021/04/28/57/PCM20210428000057990_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.5
+          "score": 5.4
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 169,
+      "poolSize": 150,
       "items": [
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 19. 자신을 지키지 못함 참회 관련 경전 해석의 오류(보충)",
@@ -105,7 +105,33 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 6.5
+          "score": 6.2
+        },
+        {
+          "title": "8. ‘나무아미타불’의 인연 ⑧",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338238",
+          "summary": "“하물며 다시 진리의 소리를 듣고서 모양 없음(無相/무상)에 들어가며, 부처님의 빛을 뵙고서는 남이 없음(無生/무생)을 깨닫는다. 태어남이 없음을 깨달았기에 태어남이 아닌 것이 없고, 모양 없음에 들어갔기에 모양 아닌 것이 없다.”(원효, ‘무량수경종요’)오늘부터는 새로운 주제로 들어가려고 했습니다. 하지만, 감사하게도 독자로부터 메일이 왔습니다. 저의 사…",
+          "publishedAt": "2026-10-12T08:56:18.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
+        },
+        {
+          "title": "창원 반야사, 제1회 ‘그냥 그대로’ 불교대학 입학식",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505716",
+          "summary": "창원 반야사(주지 혜명 스님)가 부처님의 가르침을 배우고 일상에서 지혜와 자비를 실천하는 새로운 배움의 도량을 열었다.반야사는 10월 11일 대웅전에서 제1회 ‘그냥 그대로’ 불교대학 입학식을 봉행하고, 신입생 35명과 함께 불교 교리와 명상 수행을 통한 마음공부의 첫걸음을 내디뎠다.이날 입학식에는 반야사 주지 혜명 스님, 불교대학장 경문 스님을 비롯한 대…",
+          "publishedAt": "2026-10-11T19:21:00.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.4
         },
         {
           "title": "의왕 청계사, 5대 선사 다례재...“한국 선불교 전통 계승”",
@@ -118,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.3
         },
         {
           "title": "[법인 스님의 문자 반야] 59. 본무자성(本無自性)",
@@ -131,33 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
-        },
-        {
-          "title": "“연희국사 창건 이래 역대조사님께 감사의 차 공양올립니다”",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443025",
-          "summary": "서울 강남의 대표적인 포교도량 봉은사가 10월11일 역대조사다례재를 봉행하며 개산 1232주년을 기념하는 전통문화축제 마당을 10여일간 펼친다. 음력 9월 초하루를 맞은 이날 조계종 제38대 총무원장으로 취임한 진우스님이 초하루 법문을 설했다.서울 봉은사는 10월11일 대웅전 무대에서 ‘개산 1232주년 봉은사 개산대재’의 시작을 알리며 역대조사다례재를 봉…",
-          "publishedAt": "2026-10-11T12:08:06.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.1
-        },
-        {
-          "title": "불광사, 창립 52주년 맞아 전법 원력 계승·화합 다짐",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338209",
-          "summary": "서울 송파구 잠실 불광사(주지 동민 스님)가 창립 52주년을 맞아 광덕 스님의 전법 원력을 되새기고 새로운 도약을 다짐했다.불광사는 10월 10일 경내 보광당에서 ‘불광 창립 52주년 기념법회 및 제40차 마하반야바라밀 릴레이대법회’를 봉행했다. 법회에는 대각회 이사장 장산 스님, 불광사 문장 지정 스님, 주지 동민 스님, 남인순 국회부의장, 이효진 신도회…",
-          "publishedAt": "2026-10-10T13:38:05.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.6
+          "score": 3.2
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "Aristotle’s Categories",
@@ -252,8 +252,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 199,
+      "poolSize": 172,
       "items": [
+        {
+          "title": "“청인들의 규칙 벗어나니, 소리가 내것이 되었다”···세계가 주목한 작가 김 크리스틴 선",
+          "link": "https://www.khan.co.kr/article/202610120600081/",
+          "summary": "한국계 미국인 작가 김 크리스틴 선타임지 100인·맥아더 펠로십 선정 미국수어·기보·문자를 조형 언어로소통의 권력 구조 재치있게 풀어내국립현대미술관에선 ‘완고한 바위…’갤러리현대에선 ‘달 마음’전 잇따라김 크리스틴 선. 사진 Shen Chen·갤러리현대 제공“소리에 관해서 청인들에게 더 이상 예의 바르게 맞춰주려 하지 않게 되자, 소리를 제 방식으로 소··…",
+          "publishedAt": "2026-10-11T21:00:08.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.4
+        },
         {
           "title": "'가을밤 즐기는 영화'…김해시립김영원미술관 16일 야외 상영",
           "link": "https://www.yna.co.kr/view/AKR20261008141100052",
@@ -265,14 +278,14 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
+          "score": 5.5
         },
         {
-          "title": "동시 작가 충주에 모인다…내달 7∼8일 제3회 전국동시인대회",
-          "link": "https://www.yna.co.kr/view/AKR20261011033400005",
-          "summary": "(서울=연합뉴스) 김기훈 기자 = '제3회 전국동시인대회'가 다음 달 7∼8일 충북 충주시 유네스코국제무예센터 국제회의실에서 열린다고 동시 전문...",
-          "publishedAt": "2026-10-11T06:18:02.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/11/AKR20261011033400005_01_i_P2.jpg",
+          "title": "서울아트책보고 기획전시 '예술과 출판이 교차하는 지형'",
+          "link": "https://www.yna.co.kr/view/AKR20261011026000004",
+          "summary": "(서울=연합뉴스) 김준태 기자 = 서울시는 구로구 고척스카이돔 지하 '서울아트책보고'에서 특별기획전시 '아트북그라피: 예술과 출판이 교차하는 지...",
+          "publishedAt": "2026-10-11T21:00:05.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/11/AKR20261011026000004_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -281,11 +294,11 @@
           "score": 4.4
         },
         {
-          "title": "울주문화예술회관서 지역작가 '송은지 초대전' 개최",
-          "link": "https://www.yna.co.kr/view/AKR20261008072900057",
-          "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주문화재단은 오는 17일까지 울주문화예술회관 채움갤러리에서 2026 울주아트 지역작가 송은지 초대전을 ...",
-          "publishedAt": "2026-10-11T00:10:01.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2025/06/13/72/PCM20250613000072990_P2.jpg",
+          "title": "[르포] 뉴욕 달군 한국 웹툰…韓작가 사인회에 3시간 대기줄",
+          "link": "https://www.yna.co.kr/view/AKR20261012000200072",
+          "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 콜럼버스의 날 연휴인 10일(현지시간) 미국 뉴욕 맨해튼의 재비츠 컨벤션 센터 주변.",
+          "publishedAt": "2026-10-11T15:29:15.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/12/AKR20261012000200072_03_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -294,30 +307,17 @@
           "score": 4.3
         },
         {
-          "title": "이자벨 위페르 \"한강 작가 글, 강렬한 힘으로 관객에 다가가\"",
-          "link": "https://www.yna.co.kr/view/AKR20261010047200005",
-          "summary": "(서울=연합뉴스) 권지현 기자 = 하얀 스크린으로 벽과 바닥을 뒤덮은 단출한 무대에 마찬가지로 하얀 옷을 입은 두 배우 이혜영과 이자벨 위페르가...",
-          "publishedAt": "2026-10-10T15:20:37.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/10/AKR20261010047200005_04_i_P2.jpg",
+          "title": "소문보다 더 낭만적인 악뮤의 낙원 \"여러분 삶에 예쁜 조각되길\"",
+          "link": "https://www.yna.co.kr/view/AKR20261011031200005",
+          "summary": "(서울=연합뉴스) 이태수 기자 = 따뜻한 수프와 고기가 차려지고('소문의 낙원'), 순박한 주근깨 소녀와 그을린 피부의 소년('햇빛 블레스 유'...",
+          "publishedAt": "2026-10-11T12:07:26.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/11/AKR20261011031200005_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.1
-        },
-        {
-          "title": "'전설' 페이커 이상혁 기념우표 기획전시관 열린다",
-          "link": "https://www.yna.co.kr/view/AKR20261008171200017",
-          "summary": "(서울=연합뉴스) 박형빈 기자 = e스포츠 리그 오브 레전드의 '페이커' 이상혁(T1·30) 선수의 기념우표가 발행된다.",
-          "publishedAt": "2026-10-10T03:00:00.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/10/PYH2026101002260001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.9
+          "score": 4.2
         }
       ]
     }
