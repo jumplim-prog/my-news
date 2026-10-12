@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-12T00:08:27.013Z",
+  "builtAt": "2026-10-12T10:06:08.860Z",
   "cards": [
     {
       "id": "econ",
@@ -12,14 +12,14 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 330,
+      "poolSize": 331,
       "items": [
         {
-          "title": "한투증권 \"초과 세수 활용 촉각…통화정책이 금리 변수\"",
-          "link": "https://www.yna.co.kr/view/AKR20261012022900008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 한국투자증권은 12일 올해 초과 세수의 활용 방안이 장기 국채 수급 안정에 힘을 보태겠지만, 향후 채권금리 방...",
-          "publishedAt": "2026-10-11T23:57:19.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/12/AKR20261012022900008_01_i_P2.jpg",
+          "title": "한은 총재 \"환율, 아직 예년보다 높아…추가 하락 여지 있다\"",
+          "link": "https://www.yna.co.kr/view/AKR20261012161000002",
+          "summary": "(서울=연합뉴스) 채새롬 이도흔 기자 = 신현송 한국은행 총재는 12일 원/달러 환율이 아직 예년보다 높고, 추가 하락 여지가 있다고 밝혔다.",
+          "publishedAt": "2026-10-12T09:03:09.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/12/PYH2026101205880001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
@@ -28,56 +28,56 @@
           "score": 7.5
         },
         {
-          "title": "국채금리 급등에 줄어든 매력에도…개인, 리츠 ETF 순매수액↑",
-          "link": "https://www.yna.co.kr/view/AKR20261008168900008",
-          "summary": "(서울=연합뉴스) 고은지 기자 = 최근 국채 금리가 고공행진하면서 리츠(REITs·부동산투자회사) 상장지수펀드(ETF)의 매력이 상대적으로 줄었...",
-          "publishedAt": "2026-10-10T21:10:01.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2019/11/28/10/PCM20191128000110990_P2.jpg",
+          "title": "\"물가 상당기간 목표 웃돌 것\"… 한은총재 금리인상 시사",
+          "link": "https://www.mk.co.kr/news/economy/12173940",
+          "summary": "신현송 한국은행 총재가 물가 상승폭이 상당 기간 목표치를 웃돌 것으로 진단하면서 기준금리 추가 인상을 시사했다. 한은이 지난 7~8월 연이어 금리를 인상한 가운데 오는 22일 기준..",
+          "publishedAt": "2026-10-12T08:38:15.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/13/20261013_01110110000002_L00.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "한은 총재 \"기준금리 0.5%p 인상, 물가상승률 0.08%p 하락 효과\"(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20261012108651002",
+          "summary": "(서울=연합뉴스) 한지훈 채새롬 기자 = 신현송 한국은행 총재는 12일 \"내넌 정부 예산안에 따른 국내총생산(GDP)의 추가 성장 효과는 0.5...",
+          "publishedAt": "2026-10-12T08:30:37.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/12/PYH2026101208000001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6.9
+          "score": 7.5
         },
         {
-          "title": "[글로벌 마켓시황] 3분기 실적 시즌…원유 선물 '92달러'",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008792249",
-          "summary": "먼저 뉴욕증시부터 살펴보겠습니다.13일 JP모건 체이스와 골드만삭스 등 금융주들의 실적이 공개되고 14일 9월 소비자물가지수가 이어서 15일에는…",
-          "publishedAt": "2026-10-11T22:42:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261012/202230432_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6
-        },
-        {
-          "title": "국감서 드러난 미래기금 숙제···국채 찍으며 104조 쌓고, 사업 기준도 모호",
-          "link": "https://www.khan.co.kr/article/202610111550001/",
-          "summary": "박홍근 기획예산처장관이 8일 국회 기획재정위원회 국정감사에서 의원질의에 답하고 있다. 2026.10.8 박민규 선임기자정부가 내년 162조원 규모의 미래대응기금(미래기금) 신설을 추진하는 가운데 기금 적립의 효율성과 사업 범위를 둘러싼 논란이 국정감사에서 불거졌다. 국채금리가 급등하는 상황에서 100조원이 넘는 자금을 기금에 적립하기보다 국채 발행을 더 줄…",
-          "publishedAt": "2026-10-11T06:50:00.000Z",
+          "title": "원·달러 환율 1331.8원, 2년여만에 최저",
+          "link": "https://www.khan.co.kr/article/202610121716001/",
+          "summary": "원·엔 환율은 840.83원으로 2008년 이후 최저12일 서울 중구 하나은행 본점 딜링룸 현황판에 원·달러, 원·엔, 원·위안 환율이 표시되고 있다. 연합뉴스미국 달러화 대비 원화 환율이 12일 1331.8원까지 떨어져 2년여만에 최저를 기록했다.이날 서울 외환시장에서 원·달러 환율의 주간 종가(오후 3시30분)는 전 거래일 대비 7.7원 내린 1335.…",
+          "publishedAt": "2026-10-12T08:16:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5.6
+          "score": 7.5
         },
         {
-          "title": "은행 가계대출 57.3%가 변동금리…1년 새 4.3%p 확대",
-          "link": "https://www.yna.co.kr/view/AKR20261010042400002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 한국은행이 기준금리를 두 차례 연속 인상한 가운데 은행 가계대출 잔액에서 변동금리 대출 비중은 1년 새 더 높...",
-          "publishedAt": "2026-10-10T20:52:00.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/08/14/PYH2026081408110001300_P2.jpg",
+          "title": "외국인, 3년 국채선물 역대 2번째 순매수…금리 일제히↓(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20261012144451008",
+          "summary": "(서울=연합뉴스) 김태종 기자 = 외국인이 12일 역대 두 번째로 많은 3년 국채선물 순매수에 나서면서 국고채 금리가 일제히 비교적 큰 폭으로 ...",
+          "publishedAt": "2026-10-12T08:10:15.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2024/03/04/45/PCM20240304000145990_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5.4
+          "score": 7.5
         }
       ]
     },
@@ -92,21 +92,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 150,
+      "poolSize": 191,
       "items": [
-        {
-          "title": "[반야 참회로 여는 수행의 첫걸음] 19. 자신을 지키지 못함 참회 관련 경전 해석의 오류(보충)",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505687",
-          "summary": "화를 내지 말라고 한 경전을 잘못 해석하면 안 된다고 했는데, 경전 중에는 이와 반대로 화를 낼 수도 있음을 보여주는 경전도 있다. 석가모니 부처님께서도 자신을 근거 없이 비난하는 자에게 직접 찾아가서 따지고 사과를 받아 낸 사례가 〈잡아함경〉 제35권 ‘사라보경’(〈앙굿따라니까야〉 제3권 ‘싸라바의 경’)에 들어 있다.또 관세음보살에 관한 경전에도 그런…",
-          "publishedAt": "2026-10-09T09:58:00.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 6.2
-        },
         {
           "title": "8. ‘나무아미타불’의 인연 ⑧",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=338238",
@@ -118,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "창원 반야사, 제1회 ‘그냥 그대로’ 불교대학 입학식",
@@ -131,33 +118,46 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
-          "title": "의왕 청계사, 5대 선사 다례재...“한국 선불교 전통 계승”",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111395",
-          "summary": "한국 선불교의 중흥을 이끌었던 경허 대선사와 제자 만공스님 등의 수행 정신을 기리는 법석이 경허스님 출가사찰인 의왕 청계사에서 봉행됐습니다.수도권의 천년고찰 의왕 청계사는 오늘 극락보전 앞 수미단과 부도탑에서 2026 청계사 5대 선사 추모다례재와 ‘소욕다시 전통다례문화축제’를 봉행했습니다.다례재는 향과 꽃, 과일 등 여섯 가지 공양물이 불단에 올리고 불교…",
-          "publishedAt": "2026-10-11T16:10:39.000Z",
+          "title": "동국대 분당한방병원 ‘개원 30주년 기념식’ 봉행",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443074",
+          "summary": "동국대학교 분당한방병원(병원장 김근우)은 10월8일 ‘개원 30주년 기념식’을 갖고, 지난 발자취를 돌아보며 새로운 도약을 다짐했다. 이날 기념식은 삼귀의례와 반야심경 봉독으로 시작해 기념 동영상 시청, 병원장 기념사, 지도법사 보경스님의 축사 순으로 진행됐다.김근우 병원장은 기념사를 통해 “지난 30년간 병원이 지역사회와 함께 성장해 온 역사와 정신을 되…",
+          "publishedAt": "2026-10-12T15:09:31.000Z",
           "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 3.1
         },
         {
-          "title": "[법인 스님의 문자 반야] 59. 본무자성(本無自性)",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505690",
-          "summary": "세상을 관조하면 선인과 악인, 증오와 자비, 전쟁과 평화처럼 서로 대칭을 이루는 현상들이 팽팽하게 맞물려 돌아간다. 이러한 양상은 과연 고정된 본질을 가진 실체인가[自性], 아니면 어떤 인연이 모여 한시적으로 드러난 현상[假有]인가? 우리는 흔히 악한 성품을 지닌 사람이 악한 행위를 한다고 말한다. 그러나 연기와 공성의 지혜는 어떠한 현상도 고정된 본질,…",
-          "publishedAt": "2026-10-09T10:09:39.000Z",
+          "title": "달마대사 고향서 만나는 남인도 불교의 숨결",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338247",
+          "summary": "한국불교 수행의 큰 줄기를 형성해 온 선불교의 초조 달마대사. 달마대사가 중국으로 건너가기 전 머물렀던 남인도 땅에는 불교가 번성했던 오랜 역사의 흔적이 곳곳에 남아 있다. 아제여행사가 2027년 1월 11일부터 20일까지 8박10일 일정으로 이곳을 찾는 ‘남인도 화엄성지순례’를 진행한다. 남인도의 고대 불교유적을 찾아 부처님 가르침의 전래 과정을 살피고…",
+          "publishedAt": "2026-10-12T09:19:03.000Z",
           "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3
+        },
+        {
+          "title": "천년 전 임제 가르침으로 집착의 벽을 깨다",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338240",
+          "summary": "‘수처작주 입처개진(隨處作主 立處皆眞).’ ‘임제록’을 대표하는 이 말은 흔히 ‘어디서든 주인이 되면 그 자리가 모두 참되다’는 뜻으로 풀이된다. 하지만 고광 스님은 의문을 던진다. ‘무아’를 깨우친 붓다의 가르침을 잇는 선사가 어떻게 다시 ‘주인’이 되라고 했을까. 이 질문이 ‘고광 스님의 임제록 도장 깨기’의 출발점이다.‘임제록’은 중국 당나라 선승 임…",
+          "publishedAt": "2026-10-12T09:04:28.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3
         }
       ]
     },
@@ -172,8 +172,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 147,
+      "poolSize": 148,
       "items": [
+        {
+          "title": "서울대 일본연구소, '편견차별대환영대회' 등 일본과 정신건강 교류 학술대회 개최",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211124",
+          "summary": "정신건강복지 분야에서 한일 양국이 20년간 이어온 교류의 경험이, 당사자연구를 매개로 새로운 협력 모델을 모색하는 계기로 확장된다. 2026년 10월 15일부터 16일까지 서울대 국제대학원 소천국제회의실에서는 '정신건강복지 한일 협력 20년: ‘당사자연구’ 교류를 중심으로'라는 주제로 학술회의와 교류회가 개최된다. 이번 행사는 서울대 일본연구소와 청주정신건…",
+          "publishedAt": "2026-10-12T17:52:43.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.7
+        },
+        {
+          "title": "Online Philosophy Resources Weekly Update",
+          "link": "https://dailynous.com/2026/10/12/online-philosophy-resources-weekly-update-443/",
+          "summary": "This is the report on new and revised entries at online philosophy resources, new reviews of philosophy books, new podcast episodes, recently published open access […] The post Online Philosophy Resou…",
+          "publishedAt": "2026-10-12T09:30:00.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/09/weekly-update-logo-2023.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
+        },
         {
           "title": "사유의 길",
           "link": "https://www.kyosu.net/news/articleView.html?idxno=211044",
@@ -212,32 +238,6 @@
             "philosophy"
           ],
           "score": 4.5
-        },
-        {
-          "title": "Mill’s Moral and Political Philosophy",
-          "link": "https://plato.stanford.edu/entries/mill-moral-political/",
-          "summary": "[Revised entry by David Brink on October 4, 2026. Changes to: Main text, notes.html] John Stuart Mill (1806 - 1873) was the most famous and influential British philosopher of the nineteenth century. H…",
-          "publishedAt": "2026-10-05T05:12:18.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4
-        },
-        {
-          "title": "“블랙핑크 듣는다고 황석영 읽나요”…한국문학 세계화 끌어올릴 ‘번역의 힘’",
-          "link": "https://www.hani.co.kr/arti/culture/book/1281734.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레 문화",
-          "sourceId": "hani-culture",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3.5
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 172,
+      "poolSize": 178,
       "items": [
         {
           "title": "“청인들의 규칙 벗어나니, 소리가 내것이 되었다”···세계가 주목한 작가 김 크리스틴 선",
@@ -265,59 +265,59 @@
           "candidates": [
             "art"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
-          "title": "'가을밤 즐기는 영화'…김해시립김영원미술관 16일 야외 상영",
-          "link": "https://www.yna.co.kr/view/AKR20261008141100052",
-          "summary": "(김해=연합뉴스) 이준영 기자 = 경남 김해시립김영원미술관은 오는 16일 오후 7시 미술관 서측 광장에서 국립현대미술관과 협업 프로젝트 'MMC...",
-          "publishedAt": "2026-10-10T23:35:00.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008141100052_01_i_P2.jpg",
+          "title": "문체부·예경, 한국 작가·화랑 해외 진출 지원",
+          "link": "https://www.yna.co.kr/view/AKR20261012150800005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 문화체육관광부와 예술경영지원센터(예경)는 이달 런던과 파리에서 열리는 국제 아트페어와 협력해 한국 신진 작가와...",
+          "publishedAt": "2026-10-12T08:12:31.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/12/AKR20261012150800005_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 5.5
+          "score": 6
         },
         {
-          "title": "서울아트책보고 기획전시 '예술과 출판이 교차하는 지형'",
-          "link": "https://www.yna.co.kr/view/AKR20261011026000004",
-          "summary": "(서울=연합뉴스) 김준태 기자 = 서울시는 구로구 고척스카이돔 지하 '서울아트책보고'에서 특별기획전시 '아트북그라피: 예술과 출판이 교차하는 지...",
-          "publishedAt": "2026-10-11T21:00:05.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/11/AKR20261011026000004_01_i_P2.jpg",
+          "title": "분단의 상징 넘어 관계의 무대로…'DMZ 오픈 전시: 스테이징'",
+          "link": "https://www.yna.co.kr/view/AKR20261012070300005",
+          "summary": "(파주=연합뉴스) 박의래 기자 = 벽 한가운데서 시작한 푸른색 종이들이 나선을 그리며 바깥으로 퍼져 나간다. 멕시코 작가 아브라함 크루즈비예가스...",
+          "publishedAt": "2026-10-12T06:50:34.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/12/AKR20261012070300005_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 5.9
+        },
+        {
+          "title": "룩셈부르크 문화장관 만난 최휘영 \"영화·게임·관광 분야 협력\"",
+          "link": "https://www.yna.co.kr/view/AKR20261012162300005",
+          "summary": "(서울=연합뉴스) 임순현 기자 = 최휘영 문화체육관광부 장관은 12일 서울 종로구 국립현대미술관 서울관에서 에릭 틸 룩셈부르크 문화부 장관을 만...",
+          "publishedAt": "2026-10-12T09:04:55.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/12/PYH2026101219710001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "추사 글씨가 중국까지 갔다 돌아온 사연···오동나무 상자에 답이 있다",
+          "link": "https://www.khan.co.kr/article/202610121449001/",
+          "summary": "간송미술관 ‘상서, 컬렉션을 읽다’작품 내력 담긴 오동나무 상자 첫 조명추사·김홍도 등 명작의 수집·감식 기록“간송이 후대에게 전하는 조용한 편지”상서·서화 총 106점···12월 6일까지김정희 ‘적성수구’와 작품을 보관한 ‘상서’의 모습. ‘곧은 소리는 대궐 아래 머무르고 빼어난 구절은 하늘 동쪽에 가득하다’는 뜻의 글씨다. 배문규 기자“완당 선생의···",
+          "publishedAt": "2026-10-12T05:49:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
           "score": 4.4
-        },
-        {
-          "title": "[르포] 뉴욕 달군 한국 웹툰…韓작가 사인회에 3시간 대기줄",
-          "link": "https://www.yna.co.kr/view/AKR20261012000200072",
-          "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 콜럼버스의 날 연휴인 10일(현지시간) 미국 뉴욕 맨해튼의 재비츠 컨벤션 센터 주변.",
-          "publishedAt": "2026-10-11T15:29:15.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/12/AKR20261012000200072_03_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.3
-        },
-        {
-          "title": "소문보다 더 낭만적인 악뮤의 낙원 \"여러분 삶에 예쁜 조각되길\"",
-          "link": "https://www.yna.co.kr/view/AKR20261011031200005",
-          "summary": "(서울=연합뉴스) 이태수 기자 = 따뜻한 수프와 고기가 차려지고('소문의 낙원'), 순박한 주근깨 소녀와 그을린 피부의 소년('햇빛 블레스 유'...",
-          "publishedAt": "2026-10-11T12:07:26.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/11/AKR20261011031200005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.2
         }
       ]
     }
