@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-13T02:21:39.560Z",
+  "builtAt": "2026-10-13T09:59:13.145Z",
   "cards": [
     {
       "id": "econ",
@@ -12,33 +12,33 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 336,
+      "poolSize": 331,
       "items": [
         {
-          "title": "글로벌 금리 급등에도 한국 국채 '선방'…외국인 역대 두 번째 선물 순매수",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794731",
-          "summary": "▲ 뉴욕증권거래소올해 미국 국채금리와 국제유가상승에 민감하게 반응하며 큰 폭으로 올랐던 한국 국고채 금리가 최근 글로벌 금리 상승세에…",
-          "publishedAt": "2026-10-13T01:46:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261002/202228123_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
+          "title": "[외환] 원/달러 환율 10.0원 오른 1,345.1원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261013136700002",
+          "summary": "(",
+          "publishedAt": "2026-10-13T06:30:44.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/13/AKR20261013136700002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
-          "title": "한은, ‘금리 인상 기조’ 유지 시사",
-          "link": "https://www.khan.co.kr/article/202610122032055/",
-          "summary": "“내년 예산안, 추가 성장 0.5%P”신 총재, 레버리지 역할론 지적엔“당시엔 변동성 파악 못해 송구”신현송 한국은행 총재(사진)는 12일 “내년 정부 예산안에 따른 국내총생산(GDP)의 추가 성장 효과는 0.5%포인트로 보고 있다”고 밝혔다.신 총재는 이날 서울 중구 한은에서 열린 국회 재정경제기획위원회 국정감사에서 “그에 따른 물가상승률 추가 상승은 0…",
-          "publishedAt": "2026-10-12T11:32:05.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
+          "title": "증시 급락에 채권으로 눈 돌릴까…금리 오르자 개인 매수 확대",
+          "link": "https://www.yna.co.kr/view/AKR20261013122100008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 국내 증시가 급락하면서 개인 투자자들의 자금이 채권으로 향할지 관심이 쏠린다. 금리 상승으로 채권의 이자수익 ...",
+          "publishedAt": "2026-10-13T05:44:08.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/13/PYH2026101303050001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.4
         },
         {
           "title": "\"물가 상당기간 목표 웃돌 것\"… 한은총재 금리인상 시사",
@@ -51,33 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 7
         },
         {
-          "title": "원·달러 환율 1331.8원, 2년여만에 최저",
-          "link": "https://www.khan.co.kr/article/202610121716001/",
-          "summary": "원·엔 환율은 840.83원으로 2008년 이후 최저12일 서울 중구 하나은행 본점 딜링룸 현황판에 원·달러, 원·엔, 원·위안 환율이 표시되고 있다. 연합뉴스미국 달러화 대비 원화 환율이 12일 1331.8원까지 떨어져 2년여만에 최저를 기록했다.이날 서울 외환시장에서 원·달러 환율의 주간 종가(오후 3시30분)는 전 거래일 대비 7.7원 내린 1335.…",
-          "publishedAt": "2026-10-12T08:16:00.000Z",
+          "title": "환율 1200원대 내려갈까, 다시 1400원 갈까",
+          "link": "https://www.khan.co.kr/article/202610131704001/",
+          "summary": "외국인 34조원 팔았는데 환율은 뚝반도체 수출 등 경상수지 흑자에 환율 하락 기대연내 1200원대 vs 1400원대13일 서울 중구 하나은행 본점 딜링룸 전광판에 원·달러 환율, 코스피, 코스닥 지수가 표시돼 있다. 연합뉴스최근 국내 주식시장에서 외국인들의 매도가 이어지는데도 원·달러 환율이 크게 오르지 않고 1300원 초반대에 안착하고 있다. 반도체 수출…",
+          "publishedAt": "2026-10-13T08:04:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6
         },
         {
-          "title": "“기준금리 10월 또 올리나” 질문에…한은 총재가 국감장에서 밝힌 답변은",
-          "link": "https://www.mk.co.kr/news/economy/12173588",
-          "summary": "“인플레이션 추이 가장 중요”신현송 한국은행 총재는 12일 “금리 향방에서 가장 중요한 기준은 인플레이션(물가 상승) 추이”라고 밝혔다. 신 총재는 이날 서울 중구 한국은행 본관에..",
-          "publishedAt": "2026-10-12T05:45:39.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.628834cb06614e16b6b949c9626d9533_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "title": "중동발 유가상승·증시 급락에…환율 10원 오른 1,345.1원",
+          "link": "https://www.yna.co.kr/view/AKR20261013145100002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율은 13일 중동발 지정학적 리스크로 인한 국제유가 상승, 국내 증시 급락에 따른 위험회피 심리 확...",
+          "publishedAt": "2026-10-13T07:03:27.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/13/PYH2026101303050001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 5.9
         }
       ]
     },
@@ -92,21 +92,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 200,
+      "poolSize": 203,
       "items": [
-        {
-          "title": "8. ‘나무아미타불’의 인연 ⑧",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338238",
-          "summary": "“하물며 다시 진리의 소리를 듣고서 모양 없음(無相/무상)에 들어가며, 부처님의 빛을 뵙고서는 남이 없음(無生/무생)을 깨닫는다. 태어남이 없음을 깨달았기에 태어남이 아닌 것이 없고, 모양 없음에 들어갔기에 모양 아닌 것이 없다.”(원효, ‘무량수경종요’)오늘부터는 새로운 주제로 들어가려고 했습니다. 하지만, 감사하게도 독자로부터 메일이 왔습니다. 저의 사…",
-          "publishedAt": "2026-10-12T08:56:18.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.1
-        },
         {
           "title": "창원 반야사, 제1회 ‘그냥 그대로’ 불교대학 입학식",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505716",
@@ -118,7 +105,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.9
+          "score": 3.7
+        },
+        {
+          "title": "신대승네트워크, 불교적 가치 담은 AI 윤리 가이드라인 제안",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338303",
+          "summary": "신대승네트워크가 불교적 가치에 기반한 인공지능(AI) 윤리 가이드라인을 제안했다. AI를 단순한 편의 도구가 아닌 인간의 삶과 공동체, 생태계에 영향을 미치는 기술로 바라보고 지혜와 자비의 실천 기준을 마련해야 한다는 취지다.신대승네트워크는 10월 13일 ‘살림을 향한 AI 윤리 가이드라인’을 발표했다. 가이드라인은 ‘신대승불교 생활수행론’을 토대로 연기·…",
+          "publishedAt": "2026-10-13T16:33:26.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
         },
         {
           "title": "동국대 분당한방병원 ‘개원 30주년 기념식’ 봉행",
@@ -131,33 +131,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
-        },
-        {
-          "title": "달마대사 고향서 만나는 남인도 불교의 숨결",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338247",
-          "summary": "한국불교 수행의 큰 줄기를 형성해 온 선불교의 초조 달마대사. 달마대사가 중국으로 건너가기 전 머물렀던 남인도 땅에는 불교가 번성했던 오랜 역사의 흔적이 곳곳에 남아 있다. 아제여행사가 2027년 1월 11일부터 20일까지 8박10일 일정으로 이곳을 찾는 ‘남인도 화엄성지순례’를 진행한다. 남인도의 고대 불교유적을 찾아 부처님 가르침의 전래 과정을 살피고…",
-          "publishedAt": "2026-10-12T09:19:03.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
           "score": 2.6
         },
         {
-          "title": "천년 전 임제 가르침으로 집착의 벽을 깨다",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338240",
-          "summary": "‘수처작주 입처개진(隨處作主 立處皆眞).’ ‘임제록’을 대표하는 이 말은 흔히 ‘어디서든 주인이 되면 그 자리가 모두 참되다’는 뜻으로 풀이된다. 하지만 고광 스님은 의문을 던진다. ‘무아’를 깨우친 붓다의 가르침을 잇는 선사가 어떻게 다시 ‘주인’이 되라고 했을까. 이 질문이 ‘고광 스님의 임제록 도장 깨기’의 출발점이다.‘임제록’은 중국 당나라 선승 임…",
-          "publishedAt": "2026-10-12T09:04:28.000Z",
+          "title": "우주의 세계로 확장한 명상 수행",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443038",
+          "summary": "명상 온톨로지명상에 대한 관심이 어느 때보다 높다. 마음챙김, 위빠사나, 호흡명상, 자애명상에서부터 심리치유에 이르기까지 다양한 명상법과 이론이 소개되고 있다. 그렇다면 이들 명상은 서로 어떻게 연결돼 있을까. 그리고 우리는 무엇을 위해 명상하며, 명상의 궁극적인 목적은 무엇일까. 명상 수행을 생활화한 정순일 원광대 명예교수가 최근 펴낸 는 바로 이러한 근…",
+          "publishedAt": "2026-10-12T09:04:15.000Z",
           "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.6
+          "score": 2.5
         }
       ]
     },
@@ -175,6 +162,32 @@
       "poolSize": 148,
       "items": [
         {
+          "title": "‘농부 철학자’ 윤구병 사상 함께 이야기…31일 서울 정암학당서",
+          "link": "https://www.hani.co.kr/arti/culture/religion/1282138.html",
+          "summary": "",
+          "publishedAt": null,
+          "image": "",
+          "sourceName": "한겨레 문화",
+          "sourceId": "hani-culture",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 6.5
+        },
+        {
+          "title": "이이",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211179",
+          "summary": "율곡 이이, 성리학을 넘어 시대의 개혁을 묻다이기지묘 철학에서 법과 제도의 개혁론까지분당과 갈등의 시대, 백성의 삶 바꾸려 한 실천적 사상가율곡 이이(李珥, 1536~1584)는 흔히 퇴계 이황과 함께 조선 성리학을 대표하는 학자로 기억된다. 그러나 그의 삶과 사상은 성리학만으로 설명하기 어렵다. 열아홉 살에 금강산에 들어가 불교를 공부했고, 노자의 『도덕…",
+          "publishedAt": "2026-10-13T11:56:38.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 6
+        },
+        {
           "title": "한국을 번역하는 강의실, 인도네시아에서 가르치고 연구하는 의미는…",
           "link": "https://www.kyosu.net/news/articleView.html?idxno=211083",
           "summary": "[특집_ 동남아시아 한국학의 오늘 : 인도네시아] 외국어를 가르치는 일은 결코 단순히 문법 규칙을 해독하거나 어휘를 암기시키는 과정에 그치지 않는다. 그것은 문화적 번역을 이루어 내는 능동적 과정이다. 한국 문화에 대한 열기가 지속적으로 고조되고 있는 인도네시아에서 한국어와 한국 문화를 가르친다는 것은 복잡하면서도 독창적인 한국 사회를 소개해 나가는 일이다…",
@@ -185,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.6
+          "score": 4.5
         },
         {
           "title": "Aristotle’s Categories",
@@ -212,32 +225,6 @@
             "philosophy"
           ],
           "score": 4.5
-        },
-        {
-          "title": "서울대 일본연구소, '편견차별대환영대회' 등 일본과 정신건강 교류 학술대회 개최",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211124",
-          "summary": "정신건강복지 분야에서 한일 양국이 20년간 이어온 교류의 경험이, 당사자연구를 매개로 새로운 협력 모델을 모색하는 계기로 확장된다. 2026년 10월 15일부터 16일까지 서울대 국제대학원 소천국제회의실에서는 '정신건강복지 한일 협력 20년: ‘당사자연구’ 교류를 중심으로'라는 주제로 학술회의와 교류회가 개최된다. 이번 행사는 서울대 일본연구소와 청주정신건…",
-          "publishedAt": "2026-10-12T17:52:43.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.3
-        },
-        {
-          "title": "Online Philosophy Resources Weekly Update",
-          "link": "https://dailynous.com/2026/10/12/online-philosophy-resources-weekly-update-443/",
-          "summary": "This is the report on new and revised entries at online philosophy resources, new reviews of philosophy books, new podcast episodes, recently published open access […] The post Online Philosophy Resou…",
-          "publishedAt": "2026-10-12T09:30:00.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/09/weekly-update-logo-2023.png",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.1
         }
       ]
     },
@@ -252,7 +239,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 181,
+      "poolSize": 186,
       "items": [
         {
           "title": "현대자동차, 영국 테이트 미술관 파트너십 11번째 전시",
@@ -265,7 +252,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "“청인들의 규칙 벗어나니, 소리가 내것이 되었다”···세계가 주목한 작가 김 크리스틴 선",
@@ -278,44 +265,43 @@
           "candidates": [
             "art"
           ],
-          "score": 6.9
+          "score": 6.7
         },
         {
-          "title": "문체부·예경, 한국 작가·화랑 해외 진출 지원",
-          "link": "https://www.yna.co.kr/view/AKR20261012150800005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 문화체육관광부와 예술경영지원센터(예경)는 이달 런던과 파리에서 열리는 국제 아트페어와 협력해 한국 신진 작가와...",
-          "publishedAt": "2026-10-12T08:12:31.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/12/AKR20261012150800005_01_i_P2.jpg",
+          "title": "포천서 '한국현대미술' 협력전…국내 작가 148명 참여",
+          "link": "https://www.yna.co.kr/view/AKR20261013152000060",
+          "summary": "(포천=연합뉴스) 노승혁 기자 = 경기 포천문화관광재단은 오는 21일부터 다음 달 7일까지 포천38문화예술창작소 내 작은미술관에서 금보성아트센터...",
+          "publishedAt": "2026-10-13T07:28:12.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/13/AKR20261013152000060_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 5.6
+          "score": 5.9
         },
         {
-          "title": "분단의 상징 넘어 관계의 무대로…'DMZ 오픈 전시: 스테이징'",
-          "link": "https://www.yna.co.kr/view/AKR20261012070300005",
-          "summary": "(파주=연합뉴스) 박의래 기자 = 벽 한가운데서 시작한 푸른색 종이들이 나선을 그리며 바깥으로 퍼져 나간다. 멕시코 작가 아브라함 크루즈비예가스...",
-          "publishedAt": "2026-10-12T06:50:34.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/12/AKR20261012070300005_01_i_P2.jpg",
+          "title": "[양양소식] 찰나의 순간을 예술로…양양사진작가협회 회원전",
+          "link": "https://www.yna.co.kr/view/AKR20261013084200062",
+          "summary": "(양양=연합뉴스) ▲ 찰나의 순간을 예술로…양양사진작가협회 회원전 = 한국사진작가협회 양양지부는 오는 26∼31일 양양문화복지회관 1층 전시실에...",
+          "publishedAt": "2026-10-13T02:21:10.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/13/AKR20261013084200062_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 5.6
+          "score": 5.8
         },
         {
-          "title": "르베이지, 윤광조 작가와 협업 제품 출시…드레스 등 14종 구성",
-          "link": "https://www.yna.co.kr/view/AKR20261013032300030",
-          "summary": "(서울=연합뉴스) 이상서 기자 = 삼성물산[028260] 패션부문의 르베이지는 한국 도예의 거장 윤광조 작가와 협업 제품을 출시했다고 13일 밝...",
-          "publishedAt": "2026-10-13T00:07:54.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/13/AKR20261013032300030_01_i_P2.jpg",
+          "title": "제17회 두산연강예술상에 김상훈 연출·조익정 작가",
+          "link": "https://www.yna.co.kr/view/AKR20261013172200005",
+          "summary": "(서울=연합뉴스) 조윤희 기자 = 제17회 두산연강예술상 수상자로 김상훈 연출과 조익정 작가가 선정됐다고 두산연강재단이 13일 밝혔다.",
+          "publishedAt": "2026-10-13T09:05:09.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/13/AKR20261013172200005_01_i_P2.jpg",
           "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "sourceId": "yna-culture",
           "candidates": [
-            "econ",
             "art"
           ],
           "score": 4.5
