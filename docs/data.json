@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-14T14:16:10.078Z",
+  "builtAt": "2026-10-14T23:35:51.061Z",
   "cards": [
     {
       "id": "econ",
@@ -15,6 +15,45 @@
       "poolSize": 336,
       "items": [
         {
+          "title": "美 물가 충격에 금값 1.8% 급락…Fed 금리 인상론 확산",
+          "link": "https://www.hankyung.com/article/202610152810i",
+          "summary": "",
+          "publishedAt": "2026-10-14T22:48:13.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "예상 웃돈 CPI 여파에 美국채 투매…주가 하락·달러 연중최고",
+          "link": "https://www.hankyung.com/article/202610142609i",
+          "summary": "",
+          "publishedAt": "2026-10-14T14:45:56.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
+        {
+          "title": "美 9월 소비자 물가 3.7% 상승…고유가에 인플레이션 압력",
+          "link": "https://www.hankyung.com/article/202610142600i",
+          "summary": "",
+          "publishedAt": "2026-10-14T14:03:55.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
+        {
           "title": "美 9월 소비자물가 3.7% 상승 예상치 상회…\"금리인상 압력\"",
           "link": "https://www.hankyung.com/article/2026101425871",
           "summary": "",
@@ -25,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "\"금리 동결 믿었는데\"…9월 물가 충격에 연준 셈법 복잡해져",
@@ -35,45 +74,6 @@
           "image": "",
           "sourceName": "한국경제",
           "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "국고채 금리, 사흘만에 상승…美 물가 발표 앞두고 숨고르기(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20261014154951008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 14일 국고채 금리는 지난 이틀간의 하락분을 일부 되돌리며 사흘 만에 상승했다.",
-          "publishedAt": "2026-10-14T07:52:14.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/14/AKR20261014154951008_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "환율, 6.8원 내린 1,338.3원…달러 약세에 하락 전환",
-          "link": "https://www.yna.co.kr/view/AKR20261014143800002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율은 14일 달러 약세와 수출업체 달러 매도 등에 소폭 하락했다.",
-          "publishedAt": "2026-10-14T07:07:43.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/14/PYH2026101418870001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "모건스탠리 \"한은, 10월 동결 후 11월 인상…물가 상승 압력\"",
-          "link": "https://www.yna.co.kr/view/AKR20261014111600008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 모건스탠리는 한국은행이 오는 22일 금융통화위원회에서 기준금리를 연 3.0%로 동결한 후, 11월에 금리를 인...",
-          "publishedAt": "2026-10-14T05:14:29.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/14/AKR20261014111600008_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
@@ -95,6 +95,19 @@
       "poolSize": 201,
       "items": [
         {
+          "title": "쿠무다 문화재단 이사장 주석 스님, 정부세종청사서 공직자 대상 법문",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338333",
+          "summary": "쿠무다 문화재단 이사장 주석 스님이 정부세종청사에서 공직자들을 대상으로 일상 속 선명상 수행의 가치를 전하는 법문을 펼쳤다.정부세종청사 공무원불자회는 10월 13일 보건복지부 대회의실에서 주석 스님을 초청해 10월 정기법회를 봉행했다. 이날 법석에는 14개 주요 정부 부처 공직자 불자들이 참석했다.스님은 쿠무다·명경문화재단 이사장, 부산 송정 대운사 주지,…",
+          "publishedAt": "2026-10-15T07:42:07.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
+        },
+        {
           "title": "책 읽고 법문 듣고…가을 조계사, 도심 속 ‘마음 쉼터’로",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=338322",
           "summary": "형형색색 빈백에 몸을 기대고 불서를 펼쳐 든 시민의 얼굴에는 한낮의 여유가 묻어났다. 한쪽에서는 법문을 듣고, 다른 한쪽에서는 가을 햇살 아래 책장을 넘겼다. 국화향이 번지는 가을 조계사 마당이 잠시 걸음을 멈추고 마음을 쉬어가는 도심 속 휴식처로 탈바꿈했다.조계종 총무원 문화부(부장 성원 스님)는 10월 14일 서울 조계사 특설무대에서 ‘2026 불교문화…",
@@ -105,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "주석 스님, 세종청사 법문 \"있는 그대로 아름답다\"",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "의왕 청계사, 5대 선사 추모다례재 봉행",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 2.9
         },
         {
           "title": "불교문화로 일상에 쉼표…조계사서 사흘간 축제",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
-        },
-        {
-          "title": "보일스님 “불교 AI 윤리 선언, 더 늦출 수 없다”",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443136",
-          "summary": "인공지능(AI)이 법문을 하고 목소리까지 재현하는 시대, 불교계도 AI 윤리 기준을 마련해야 한다는 주장이 제기됐다. 보일스님은 가톨릭 사례를 검토하고 불교 고유의 사상에 기반한 조계종 AI 윤리 7대 강령을 제안했다.동국대 전자불전문화콘텐츠연구소(소장 주경스님)가 10월 12일 서울 남산책방에서 개최한 ‘AI에게도 인과와 업이 있는가’라는 주제의 세미나에…",
-          "publishedAt": "2026-10-14T08:07:44.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.9
+          "score": 2.8
         }
       ]
     },
@@ -201,20 +201,6 @@
           "score": 4.5
         },
         {
-          "title": "Owen Barfield – Evolution of Consciousness",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/10/owen-barfield-evolution-of-consciousness.html",
-          "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
-          "publishedAt": "2026-10-13T17:01:47.000Z",
-          "image": "",
-          "sourceName": "3 Quarks Daily",
-          "sourceId": "3quarks",
-          "candidates": [
-            "philosophy",
-            "art"
-          ],
-          "score": 4.1
-        },
-        {
           "title": "Mill’s Moral and Political Philosophy",
           "link": "https://plato.stanford.edu/entries/mill-moral-political/",
           "summary": "[Revised entry by David Brink on October 4, 2026. Changes to: Main text, notes.html] John Stuart Mill (1806 - 1873) was the most famous and influential British philosopher of the nineteenth century. H…",
@@ -228,6 +214,20 @@
           "score": 4
         },
         {
+          "title": "Owen Barfield – Evolution of Consciousness",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/10/owen-barfield-evolution-of-consciousness.html",
+          "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
+          "publishedAt": "2026-10-13T17:01:47.000Z",
+          "image": "",
+          "sourceName": "3 Quarks Daily",
+          "sourceId": "3quarks",
+          "candidates": [
+            "philosophy",
+            "art"
+          ],
+          "score": 3.9
+        },
+        {
           "title": "The Future Currency of Achievement in Human Philosophy",
           "link": "https://dailynous.com/2026/10/13/the-future-currency-of-achievement-in-human-philosophy/",
           "summary": "“What do we lose if LLMs kill the journal system? Nothing but some heavy ass chains, and a few weak heuristics for assessing CVs quickly […] The post The Future Currency of Achievement in Human Philos…",
@@ -238,7 +238,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.9
+          "score": 3.7
         }
       ]
     },
@@ -256,17 +256,43 @@
       "poolSize": 201,
       "items": [
         {
-          "title": "“청인들의 규칙 벗어나니, 소리가 내것이 되었다”···세계가 주목한 작가 김 크리스틴 선",
-          "link": "https://www.khan.co.kr/article/202610120600081/",
-          "summary": "한국계 미국인 작가 김 크리스틴 선타임지 100인·맥아더 펠로십 선정 미국수어·기보·문자를 조형 언어로소통의 권력 구조 재치있게 풀어내국립현대미술관에선 ‘완고한 바위…’갤러리현대에선 ‘달 마음’전 잇따라김 크리스틴 선. 사진 Shen Chen·갤러리현대 제공“소리에 관해서 청인들에게 더 이상 예의 바르게 맞춰주려 하지 않게 되자, 소리를 제 방식으로 소··…",
-          "publishedAt": "2026-10-11T21:00:08.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "부산 낙동강 정원서 '부산 가든 쇼'…정원작품 40점 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261015021100051",
+          "summary": "(부산=연합뉴스) 민영규 기자 = 부산시는 15일 오전 낙동강 정원에서 '2026 부산 가든 쇼' 개막식을 하고 오는 18일까지 다채로운 행사를...",
+          "publishedAt": "2026-10-14T23:09:58.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/15/AKR20261015021100051_02_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 6.1
+          "score": 4.5
+        },
+        {
+          "title": "\"국중박 전시 나온 친일파 유묵, 주인은 유홍준 관장\"",
+          "link": "https://www.yna.co.kr/view/AKR20261015010600001",
+          "summary": "(서울=연합뉴스) 조다운 기자 = 국립중앙박물관이 애국지사의 글씨로 소개했다가 친일파 박중양(1874∼1959)의 유묵으로 확인돼 철거한 유물이...",
+          "publishedAt": "2026-10-14T21:55:31.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/10/PYH2026091008070001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "조선 최고관청 '의정부' 만난다…'의정부지 유적전시관' 개관",
+          "link": "https://www.yna.co.kr/view/AKR20261014165000004",
+          "summary": "(서울=연합뉴스) 유한주 기자 = 서울시는 조선시대 최고 행정관청인 의정부가 있던 터에 '의정부지 유적전시관'을 조성하고 오는 16일 오후 2시...",
+          "publishedAt": "2026-10-14T21:00:07.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/14/AKR20261014165000004_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "남양주 다산기념관 새 단장…전시 환경 개선",
@@ -279,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "간호협회, 국회서 파독 간호사 60주년 기념 전시회 개최",
@@ -292,33 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
-        },
-        {
-          "title": "서울시 소유 통영 강구안 '한강거북선' 전시 21년만에 마침표",
-          "link": "https://www.yna.co.kr/view/AKR20261014142700052",
-          "summary": "(통영=연합뉴스) 정종호 기자 = 경남 통영시는 강구안문화마당에서 약 21년간 관람객에게 선보인 서울시 소유의 '한강거북선' 전시를 종료한다고 ...",
-          "publishedAt": "2026-10-14T06:57:17.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/14/AKR20261014142700052_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.3
-        },
-        {
-          "title": "아트광주 22일 개막…12개국 국내외 거장 작품 출품",
-          "link": "https://www.yna.co.kr/view/AKR20261014089800054",
-          "summary": "(전남광주=연합뉴스) 장아름 기자 = 호남권 최대 미술시장인 제17회 광주국제아트페어 '아트광주'가 오는 22일부터 25일까지 전남광주 김대중컨...",
-          "publishedAt": "2026-10-14T02:43:27.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2026/10/14/72/PCM20261014000072990_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.3
+          "score": 4.2
         }
       ]
     }
