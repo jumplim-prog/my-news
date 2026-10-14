@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-14T08:18:32.392Z",
+  "builtAt": "2026-10-14T14:16:10.078Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 335,
+      "poolSize": 336,
       "items": [
+        {
+          "title": "美 9월 소비자물가 3.7% 상승 예상치 상회…\"금리인상 압력\"",
+          "link": "https://www.hankyung.com/article/2026101425871",
+          "summary": "",
+          "publishedAt": "2026-10-14T13:36:36.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "\"금리 동결 믿었는데\"…9월 물가 충격에 연준 셈법 복잡해져",
+          "link": "https://www.hankyung.com/article/202610142568i",
+          "summary": "",
+          "publishedAt": "2026-10-14T13:26:48.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "국고채 금리, 사흘만에 상승…美 물가 발표 앞두고 숨고르기(종합)",
           "link": "https://www.yna.co.kr/view/AKR20261014154951008",
@@ -25,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
           "title": "환율, 6.8원 내린 1,338.3원…달러 약세에 하락 전환",
@@ -35,19 +61,6 @@
           "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/14/PYH2026101418870001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "한은 총재 \"한국 경제 K자형 뚜렷…통화정책으로 물가 낮춰야\"",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008797307",
-          "summary": "▲ CNN '글로벌 퍼스펙티브스' 패널 토론에 참여한 신현송 한국은행 총재.신현송 한국은행 총재는 AI 투자 호황이 중…",
-          "publishedAt": "2026-10-14T05:52:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261014/202231362_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
-        },
-        {
-          "title": "모건스탠리 \"한은, 10월 금리 동결 후 11월 인상할 것으로 전망\"",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008797341",
-          "summary": "▲ 한국은행모건스탠리는 한국은행이 오는 22일 금융통화위원회에서 기준금리를 연 3.0%로 동결한 후, 11월에 금리를 인상할 것으로 …",
-          "publishedAt": "2026-10-14T05:25:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20260930/202227190_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.9
+          "score": 7.3
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 202,
+      "poolSize": 201,
       "items": [
         {
           "title": "책 읽고 법문 듣고…가을 조계사, 도심 속 ‘마음 쉼터’로",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.5
         },
         {
           "title": "주석 스님, 세종청사 법문 \"있는 그대로 아름답다\"",
@@ -118,20 +118,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.5
         },
         {
-          "title": "창원 반야사, 제1회 ‘그냥 그대로’ 불교대학 입학식",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505716",
-          "summary": "창원 반야사(주지 혜명 스님)가 부처님의 가르침을 배우고 일상에서 지혜와 자비를 실천하는 새로운 배움의 도량을 열었다.반야사는 10월 11일 대웅전에서 제1회 ‘그냥 그대로’ 불교대학 입학식을 봉행하고, 신입생 35명과 함께 불교 교리와 명상 수행을 통한 마음공부의 첫걸음을 내디뎠다.이날 입학식에는 반야사 주지 혜명 스님, 불교대학장 경문 스님을 비롯한 대…",
-          "publishedAt": "2026-10-11T19:21:00.000Z",
+          "title": "의왕 청계사, 5대 선사 추모다례재 봉행",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505786",
+          "summary": "의왕 청계사(주지 명원 스님)가 한국 근현대 선불교의 법맥을 이은 경허·만공·보월·금오·월산 선사의 수행정신을 기리는 추모다례재를 봉행했다. 청계사는 10월 11일 ‘2026년 5대 선사 추모다례재 및 소욕다시 전통다례문화축제’를 개최했다. 이날 행사는 한국 선불교 수행 전통을 계승하고 선사들의 가르침을 오늘의 삶 속에서 되새기자는 취지로 마련됐다.다례재는…",
+          "publishedAt": "2026-10-14T21:04:21.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3.1
         },
         {
           "title": "불교문화로 일상에 쉼표…조계사서 사흘간 축제",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 3
         },
         {
           "title": "보일스님 “불교 AI 윤리 선언, 더 늦출 수 없다”",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.9
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 146,
+      "poolSize": 145,
       "items": [
         {
           "title": "‘농부 철학자’ 윤구병 사상 함께 이야기…31일 서울 정암학당서",
@@ -186,19 +186,6 @@
             "philosophy"
           ],
           "score": 6.5
-        },
-        {
-          "title": "이이",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211179",
-          "summary": "율곡 이이, 성리학을 넘어 시대의 개혁을 묻다이기지묘 철학에서 법과 제도의 개혁론까지분당과 갈등의 시대, 백성의 삶 바꾸려 한 실천적 사상가율곡 이이(李珥, 1536~1584)는 흔히 퇴계 이황과 함께 조선 성리학을 대표하는 학자로 기억된다. 그러나 그의 삶과 사상은 성리학만으로 설명하기 어렵다. 열아홉 살에 금강산에 들어가 불교를 공부했고, 노자의 『도덕…",
-          "publishedAt": "2026-10-13T11:56:38.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 5.6
         },
         {
           "title": "Aristotle’s Categories",
@@ -225,7 +212,20 @@
             "philosophy",
             "art"
           ],
-          "score": 4.2
+          "score": 4.1
+        },
+        {
+          "title": "Mill’s Moral and Political Philosophy",
+          "link": "https://plato.stanford.edu/entries/mill-moral-political/",
+          "summary": "[Revised entry by David Brink on October 4, 2026. Changes to: Main text, notes.html] John Stuart Mill (1806 - 1873) was the most famous and influential British philosopher of the nineteenth century. H…",
+          "publishedAt": "2026-10-05T05:12:18.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4
         },
         {
           "title": "The Future Currency of Achievement in Human Philosophy",
@@ -238,7 +238,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.1
+          "score": 3.9
         }
       ]
     },
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 198,
+      "poolSize": 201,
       "items": [
         {
           "title": "“청인들의 규칙 벗어나니, 소리가 내것이 되었다”···세계가 주목한 작가 김 크리스틴 선",
@@ -266,7 +266,20 @@
           "candidates": [
             "art"
           ],
-          "score": 6.3
+          "score": 6.1
+        },
+        {
+          "title": "남양주 다산기념관 새 단장…전시 환경 개선",
+          "link": "https://www.yna.co.kr/view/AKR20261014168400060",
+          "summary": "(남양주=연합뉴스) 김도윤 기자 = 경기 남양주시는 14일 조안면 정약용 유적지에서 다산기념관 재개관식을 열었다.",
+          "publishedAt": "2026-10-14T09:33:22.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/14/AKR20261014168400060_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "간호협회, 국회서 파독 간호사 60주년 기념 전시회 개최",
@@ -279,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.4
         },
         {
           "title": "서울시 소유 통영 강구안 '한강거북선' 전시 21년만에 마침표",
@@ -292,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "아트광주 22일 개막…12개국 국내외 거장 작품 출품",
@@ -305,20 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
-        },
-        {
-          "title": "남원백두대간교육장, 세계 희귀 절지동물 200마리 31일까지 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261014085000055",
-          "summary": "(남원=연합뉴스) 백도인 기자 = 전북 남원시는 백두대간생태교육장에서 세계 각국의 희귀한 절지동물을 소개하는 기획 전시회 '미리 만나보는 핼러윈...",
-          "publishedAt": "2026-10-14T02:34:42.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/14/AKR20261014085000055_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
+          "score": 4.3
         }
       ]
     }
