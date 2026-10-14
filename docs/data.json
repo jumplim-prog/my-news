@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-13T09:59:13.145Z",
+  "builtAt": "2026-10-14T00:03:54.649Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 331,
+      "poolSize": 286,
       "items": [
+        {
+          "title": "미 국채금리 24년 만에 최고…급락장에도 큰손들 매수",
+          "link": "https://www.hankyung.com/article/202610140190i",
+          "summary": "",
+          "publishedAt": "2026-10-13T23:14:53.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "신현송 총재 \"AI 호황이 3.3% 성장 견인…물가 잡힐 때까지 긴축\"",
+          "link": "https://www.hankyung.com/article/202610139794i",
+          "summary": "",
+          "publishedAt": "2026-10-13T11:21:16.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.2
+        },
         {
           "title": "[외환] 원/달러 환율 10.0원 오른 1,345.1원(15:30 기준가)",
           "link": "https://www.yna.co.kr/view/AKR20261013136700002",
@@ -25,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "증시 급락에 채권으로 눈 돌릴까…금리 오르자 개인 매수 확대",
@@ -38,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "\"물가 상당기간 목표 웃돌 것\"… 한은총재 금리인상 시사",
@@ -51,33 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7
-        },
-        {
-          "title": "환율 1200원대 내려갈까, 다시 1400원 갈까",
-          "link": "https://www.khan.co.kr/article/202610131704001/",
-          "summary": "외국인 34조원 팔았는데 환율은 뚝반도체 수출 등 경상수지 흑자에 환율 하락 기대연내 1200원대 vs 1400원대13일 서울 중구 하나은행 본점 딜링룸 전광판에 원·달러 환율, 코스피, 코스닥 지수가 표시돼 있다. 연합뉴스최근 국내 주식시장에서 외국인들의 매도가 이어지는데도 원·달러 환율이 크게 오르지 않고 1300원 초반대에 안착하고 있다. 반도체 수출…",
-          "publishedAt": "2026-10-13T08:04:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6
-        },
-        {
-          "title": "중동발 유가상승·증시 급락에…환율 10원 오른 1,345.1원",
-          "link": "https://www.yna.co.kr/view/AKR20261013145100002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율은 13일 중동발 지정학적 리스크로 인한 국제유가 상승, 국내 증시 급락에 따른 위험회피 심리 확...",
-          "publishedAt": "2026-10-13T07:03:27.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/13/PYH2026101303050001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.9
+          "score": 6.7
         }
       ]
     },
@@ -105,7 +105,33 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.4
+        },
+        {
+          "title": "보일스님 “불교 AI 윤리 선언, 더 늦출 수 없다”",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443136",
+          "summary": "인공지능(AI)이 법문을 하고 목소리까지 재현하는 시대, 불교계도 AI 윤리 기준을 마련해야 한다는 주장이 제기됐다. 보일스님은 가톨릭 사례를 검토하고 불교 고유의 사상에 기반한 조계종 AI 윤리 7대 강령을 제안했다.동국대 전자불전문화콘텐츠연구소(소장 주경스님)가 10월 12일 서울 남산책방에서 개최한 ‘AI에게도 인과와 업이 있는가’라는 주제의 세미나에…",
+          "publishedAt": "2026-10-14T08:07:44.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
+        },
+        {
+          "title": "10/14 (수) BBS TV 뉴스 전체 영상",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4112021",
+          "summary": "R1. '세운4구역·증도가자' 핵심 쟁점…국가유산 국감 공방ST1. 의왕 청계사, 5대 선사 다례재…\"한국 선불교 전통 계승\"R2. 법주사 개산 1474년 개산대재…'가을 국화 향연'ST2. \"국화향처럼, 행복도 천리 가기를\"…조계사 '국화화엄축제' 개막ST3. 대행선사 탄신 99주년…한마음선원 울산지원 '산사문화축제'R3. 진관사 수륙재 오재…\"공양 공덕…",
+          "publishedAt": "2026-10-14T07:00:00.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
         },
         {
           "title": "신대승네트워크, 불교적 가치 담은 AI 윤리 가이드라인 제안",
@@ -118,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 2.8
         },
         {
           "title": "동국대 분당한방병원 ‘개원 30주년 기념식’ 봉행",
@@ -131,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.6
-        },
-        {
-          "title": "우주의 세계로 확장한 명상 수행",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443038",
-          "summary": "명상 온톨로지명상에 대한 관심이 어느 때보다 높다. 마음챙김, 위빠사나, 호흡명상, 자애명상에서부터 심리치유에 이르기까지 다양한 명상법과 이론이 소개되고 있다. 그렇다면 이들 명상은 서로 어떻게 연결돼 있을까. 그리고 우리는 무엇을 위해 명상하며, 명상의 궁극적인 목적은 무엇일까. 명상 수행을 생활화한 정순일 원광대 명예교수가 최근 펴낸 는 바로 이러한 근…",
-          "publishedAt": "2026-10-12T09:04:15.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.5
+          "score": 2.3
         }
       ]
     },
@@ -159,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 148,
+      "poolSize": 146,
       "items": [
         {
           "title": "‘농부 철학자’ 윤구병 사상 함께 이야기…31일 서울 정암학당서",
@@ -185,20 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6
-        },
-        {
-          "title": "한국을 번역하는 강의실, 인도네시아에서 가르치고 연구하는 의미는…",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211083",
-          "summary": "[특집_ 동남아시아 한국학의 오늘 : 인도네시아] 외국어를 가르치는 일은 결코 단순히 문법 규칙을 해독하거나 어휘를 암기시키는 과정에 그치지 않는다. 그것은 문화적 번역을 이루어 내는 능동적 과정이다. 한국 문화에 대한 열기가 지속적으로 고조되고 있는 인도네시아에서 한국어와 한국 문화를 가르친다는 것은 복잡하면서도 독창적인 한국 사회를 소개해 나가는 일이다…",
-          "publishedAt": "2026-10-13T08:20:56.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.5
+          "score": 5.7
         },
         {
           "title": "Aristotle’s Categories",
@@ -214,17 +214,31 @@
           "score": 4.5
         },
         {
-          "title": "Philosopher Among New AI2050 Senior Fellows",
-          "link": "https://dailynous.com/2026/10/06/philosopher-among-new-ai2050-senior-fellows/",
-          "summary": "David Danks, professor of philosophy, artificial intelligence, and data science at the University of Virginia, has been awarded a $1 million three-year senior fellowship for […] The post Philosopher A…",
-          "publishedAt": "2026-10-06T09:30:00.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/10/Danks-David.png",
+          "title": "Owen Barfield – Evolution of Consciousness",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/10/owen-barfield-evolution-of-consciousness.html",
+          "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
+          "publishedAt": "2026-10-13T17:01:47.000Z",
+          "image": "",
+          "sourceName": "3 Quarks Daily",
+          "sourceId": "3quarks",
+          "candidates": [
+            "philosophy",
+            "art"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "The Future Currency of Achievement in Human Philosophy",
+          "link": "https://dailynous.com/2026/10/13/the-future-currency-of-achievement-in-human-philosophy/",
+          "summary": "“What do we lose if LLMs kill the journal system? Nothing but some heavy ass chains, and a few weak heuristics for assessing CVs quickly […] The post The Future Currency of Achievement in Human Philos…",
+          "publishedAt": "2026-10-13T11:10:54.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2016/04/donovan-untitled-wonder-1024x511.jpg",
           "sourceName": "Daily Nous",
           "sourceId": "dailynous",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.5
+          "score": 4.2
         }
       ]
     },
@@ -239,34 +253,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 186,
+      "poolSize": 165,
       "items": [
-        {
-          "title": "현대자동차, 영국 테이트 미술관 파트너십 11번째 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261013048100003",
-          "summary": "(서울=연합뉴스) 홍규빈 기자 = 현대자동차는 내년 4월 11일까지 영국 테이트 미술관에서 '현대 커미션: 타렉 아투이: Hold' 전시가 개최...",
-          "publishedAt": "2026-10-13T00:37:57.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/13/PYH2026101302910001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 7.3
-        },
-        {
-          "title": "“청인들의 규칙 벗어나니, 소리가 내것이 되었다”···세계가 주목한 작가 김 크리스틴 선",
-          "link": "https://www.khan.co.kr/article/202610120600081/",
-          "summary": "한국계 미국인 작가 김 크리스틴 선타임지 100인·맥아더 펠로십 선정 미국수어·기보·문자를 조형 언어로소통의 권력 구조 재치있게 풀어내국립현대미술관에선 ‘완고한 바위…’갤러리현대에선 ‘달 마음’전 잇따라김 크리스틴 선. 사진 Shen Chen·갤러리현대 제공“소리에 관해서 청인들에게 더 이상 예의 바르게 맞춰주려 하지 않게 되자, 소리를 제 방식으로 소··…",
-          "publishedAt": "2026-10-11T21:00:08.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 6.7
-        },
         {
           "title": "포천서 '한국현대미술' 협력전…국내 작가 148명 참여",
           "link": "https://www.yna.co.kr/view/AKR20261013152000060",
@@ -278,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.9
+          "score": 5.7
         },
         {
           "title": "[양양소식] 찰나의 순간을 예술로…양양사진작가협회 회원전",
@@ -291,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
+          "score": 5.5
         },
         {
           "title": "제17회 두산연강예술상에 김상훈 연출·조익정 작가",
@@ -304,7 +292,33 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.2
+        },
+        {
+          "title": "청주시, 박응주 신임 청주시립미술관장 임용",
+          "link": "https://www.yna.co.kr/view/AKR20261013158700064",
+          "summary": "(청주=연합뉴스) 김형우 기자 = 청주시는 신임 청주시립미술관장에 박응주(62) 전 고암 이응노 생가기념관 학술연구실 책임연구원을 임용했다고 1...",
+          "publishedAt": "2026-10-13T07:51:47.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/13/AKR20261013158700064_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.2
+        },
+        {
+          "title": "'유리의 성' 작가 와타나베 마사코 별세…日 순정만화 개척자",
+          "link": "https://www.yna.co.kr/view/AKR20261013120400009",
+          "summary": "(서울=연합뉴스) 김병규 기자 = 일본 순정만화의 개척자로 '유리의 성'으로 유명한 와타나베 마사코 만화가가 지난 3일 별세했다고 교도통신이 1...",
+          "publishedAt": "2026-10-13T05:38:18.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/13/AKR20261013120400009_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.1
         }
       ]
     }
