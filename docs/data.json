@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-14T23:35:51.061Z",
+  "builtAt": "2026-10-15T07:55:18.111Z",
   "cards": [
     {
       "id": "econ",
@@ -12,72 +12,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 336,
+      "poolSize": 331,
       "items": [
         {
-          "title": "美 물가 충격에 금값 1.8% 급락…Fed 금리 인상론 확산",
-          "link": "https://www.hankyung.com/article/202610152810i",
-          "summary": "",
-          "publishedAt": "2026-10-14T22:48:13.000Z",
+          "title": "코스피 7% 폭락에 5500선까지 후퇴…“변동성 장세 이어질 듯”",
+          "link": "https://www.khan.co.kr/article/202610151549001/",
+          "summary": "코스피와 코스닥 지수가 8% 이상 폭락하며 연이은 서킷브레이커가 발동된 15일 서울 중구 하나은행 본점 딜링룸 전광판에 코스피와 코스닥, 원·달러 환율이 표시돼 있다. 연합뉴스국내 증시가 15일 7% 넘게 폭락하며 ‘검은 목요일’을 맞았다. 코스피·코스닥 시장에는 두 달 반 만에 서킷브레이커가 동반 발동됐다. 미국 국채 금리 상승과 인공지능(AI) 수익성…",
+          "publishedAt": "2026-10-15T06:49:00.000Z",
           "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
           "score": 7.5
         },
         {
-          "title": "예상 웃돈 CPI 여파에 美국채 투매…주가 하락·달러 연중최고",
-          "link": "https://www.hankyung.com/article/202610142609i",
-          "summary": "",
-          "publishedAt": "2026-10-14T14:45:56.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
+          "title": "[외환] 원/달러 환율 6.3원 오른 1,344.6원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261015130900002",
+          "summary": "(",
+          "publishedAt": "2026-10-15T06:31:32.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/15/AKR20261015130900002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.5
         },
         {
-          "title": "美 9월 소비자 물가 3.7% 상승…고유가에 인플레이션 압력",
-          "link": "https://www.hankyung.com/article/202610142600i",
-          "summary": "",
-          "publishedAt": "2026-10-14T14:03:55.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
+          "title": "“내가 손절만 하면 다시 오르네”…하루 만에 반등한 금값 이유는?",
+          "link": "https://www.mk.co.kr/news/economy/12176754",
+          "summary": "4084달러까지 하락한 국제금값, 15일 4158달러 美 CPI 3.7% ↑…고금리 장기화 우려에 금값 출렁 국내 금 투자 수익률도 국제 금값·원달러 환율 영향미국의 물가 상승률..",
+          "publishedAt": "2026-10-15T06:15:42.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/15/news-p.v1.20261015.c10dae6794384915bfc746d9995ec225_R.png",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.5
         },
         {
-          "title": "美 9월 소비자물가 3.7% 상승 예상치 상회…\"금리인상 압력\"",
-          "link": "https://www.hankyung.com/article/2026101425871",
+          "title": "美 물가 4% 찍나…커지는 美 최종금리 상향 공포 [심성미의 중앙은행 워치]",
+          "link": "https://www.hankyung.com/article/202610153743i",
           "summary": "",
-          "publishedAt": "2026-10-14T13:36:36.000Z",
+          "publishedAt": "2026-10-15T03:10:57.000Z",
           "image": "",
           "sourceName": "한국경제",
           "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.4
         },
         {
-          "title": "\"금리 동결 믿었는데\"…9월 물가 충격에 연준 셈법 복잡해져",
-          "link": "https://www.hankyung.com/article/202610142568i",
-          "summary": "",
-          "publishedAt": "2026-10-14T13:26:48.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
+          "title": "샌프란시스코 연은 총재 \"금리인상 당장 급하진 않다\"",
+          "link": "https://www.yna.co.kr/view/AKR20261015114700009",
+          "summary": "(서울=연합뉴스) 이성한 기자 = 메리 데일리 미국 샌프란시스코 연방준비은행(연은) 총재가 14일(현지시간) 연방준비제도(연준)가 금리를 추가 ...",
+          "publishedAt": "2026-10-15T05:40:25.000Z",
+          "image": "https://img.yna.co.kr/photo/reuters/2026/10/15/PRU20261015148801009_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 6
         }
       ]
     },
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "책 읽고 법문 듣고…가을 조계사, 도심 속 ‘마음 쉼터’로",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "주석 스님, 세종청사 법문 \"있는 그대로 아름답다\"",
@@ -131,26 +131,26 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4.1
+        },
+        {
+          "title": "<84>영원하지 않음은 곧 축복",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443200",
+          "summary": "모든 형상은 덧없이 변한다는 것(諸行無常)을 마음에 새겨라. 마음에 꽈리를 틀고 있는 자만심을 버려라. 자만심(我相)이 무너지면, 그때는 평온하게 세상을 살게 될 것이다. #342게송은 무상 법문이다. 모든 만물은 고정불변한 것이 없건만 잘난 척 그만하고, 생사(生死)가 촌각에 달려 있음을 자각하라는 뜻이다. 모든 것이 영원하지 않다는 것! 불교사상의 근간…",
+          "publishedAt": "2026-10-15T11:03:14.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
         },
         {
           "title": "의왕 청계사, 5대 선사 추모다례재 봉행",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505786",
           "summary": "의왕 청계사(주지 명원 스님)가 한국 근현대 선불교의 법맥을 이은 경허·만공·보월·금오·월산 선사의 수행정신을 기리는 추모다례재를 봉행했다. 청계사는 10월 11일 ‘2026년 5대 선사 추모다례재 및 소욕다시 전통다례문화축제’를 개최했다. 이날 행사는 한국 선불교 수행 전통을 계승하고 선사들의 가르침을 오늘의 삶 속에서 되새기자는 취지로 마련됐다.다례재는…",
           "publishedAt": "2026-10-14T21:04:21.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.9
-        },
-        {
-          "title": "불교문화로 일상에 쉼표…조계사서 사흘간 축제",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505768",
-          "summary": "서울 조계사에 불교문화를 만끽할 축제의 장이 마련됐다.조계종(총무원장 진우 스님)은 10월 14일 서울 조계사에서 ‘2026 불교문화대전’ 개막식을 봉행했다. 총무원 문화부(부장 성원 스님)가 주관한 이날 개막식은 삼귀의와 반야심경 봉독을 시작으로 총무원 문화부장 성원 스님의 인사말, 내외빈 소개, 사홍서원 순으로 진행됐다. 행사에는 문화부장 성원 스님,…",
-          "publishedAt": "2026-10-14T13:28:57.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
@@ -225,7 +225,7 @@
             "philosophy",
             "art"
           ],
-          "score": 3.9
+          "score": 3.7
         },
         {
           "title": "The Future Currency of Achievement in Human Philosophy",
@@ -238,7 +238,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.7
+          "score": 3.6
         }
       ]
     },
@@ -253,14 +253,53 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 201,
+      "poolSize": 197,
       "items": [
         {
-          "title": "부산 낙동강 정원서 '부산 가든 쇼'…정원작품 40점 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261015021100051",
-          "summary": "(부산=연합뉴스) 민영규 기자 = 부산시는 15일 오전 낙동강 정원에서 '2026 부산 가든 쇼' 개막식을 하고 오는 18일까지 다채로운 행사를...",
-          "publishedAt": "2026-10-14T23:09:58.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/15/AKR20261015021100051_02_i_P2.jpg",
+          "title": "삼성전자, 이탈리아 작가들과 협업…서울디자인위크서 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261015023000003",
+          "summary": "(서울=연합뉴스) 강태우 기자 = 삼성전자는 오는 25일까지 서울 중구 동대문디자인플라자(DDP)에서 열리는 '서울 디자인 위크 2026'에 참...",
+          "publishedAt": "2026-10-15T01:00:03.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/15/AKR20261015023000003_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "색을 밟고 쓸어 만든 회화…도시의 균열에서 발견한 산수",
+          "link": "https://www.yna.co.kr/view/AKR20261015054000005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 색을 쓸고 밟으며 삶의 기억과 감정을 화면에 담는 작가가 있다. 도시의 벽에 생긴 얼룩과 균열에서 산과 계곡을...",
+          "publishedAt": "2026-10-15T07:03:13.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/15/AKR20261015054000005_05_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 6
+        },
+        {
+          "title": "제27회 이인성미술상 수상자에 김성룡 작가 선정",
+          "link": "https://www.yna.co.kr/view/AKR20261015118000053",
+          "summary": "(대구=연합뉴스) 이덕기 기자 = 대구미술관은 제27회 이인성미술상 수상자로 김성룡 작가를 선정했다고 15일 밝혔다.",
+          "publishedAt": "2026-10-15T05:43:59.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/15/AKR20261015118000053_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 6
+        },
+        {
+          "title": "김윤덕 \"국립 박물관·미술관·도서관 수장고 '포화 상태'\"",
+          "link": "https://www.yna.co.kr/view/AKR20261015150000055",
+          "summary": "(전주=연합뉴스) 김동철 기자 = 국립박물관과 미술관, 도서관 등의 국가 수장 능력이 한계치를 초과해 대책 마련이 시급한 것으로 나타났다.",
+          "publishedAt": "2026-10-15T07:48:52.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/15/AKR20261015150000055_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -269,56 +308,17 @@
           "score": 4.5
         },
         {
-          "title": "\"국중박 전시 나온 친일파 유묵, 주인은 유홍준 관장\"",
-          "link": "https://www.yna.co.kr/view/AKR20261015010600001",
-          "summary": "(서울=연합뉴스) 조다운 기자 = 국립중앙박물관이 애국지사의 글씨로 소개했다가 친일파 박중양(1874∼1959)의 유묵으로 확인돼 철거한 유물이...",
-          "publishedAt": "2026-10-14T21:55:31.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/10/PYH2026091008070001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "조선 최고관청 '의정부' 만난다…'의정부지 유적전시관' 개관",
-          "link": "https://www.yna.co.kr/view/AKR20261014165000004",
-          "summary": "(서울=연합뉴스) 유한주 기자 = 서울시는 조선시대 최고 행정관청인 의정부가 있던 터에 '의정부지 유적전시관'을 조성하고 오는 16일 오후 2시...",
-          "publishedAt": "2026-10-14T21:00:07.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/14/AKR20261014165000004_01_i_P2.jpg",
+          "title": "대전시, 대덕대교 통제 관련 신호체계 조정·시차출퇴근 등 시행",
+          "link": "https://www.yna.co.kr/view/AKR20261015069400063",
+          "summary": "(대전=연합뉴스) 박주영 기자 = 대전시는 오는 19일부터 '대덕대교(구교) 교량개축공사'로 차량 부분 통제가 시행되는 것과 관련, 신호체계를 ...",
+          "publishedAt": "2026-10-15T01:44:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/15/AKR20261015069400063_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
           "score": 4.4
-        },
-        {
-          "title": "남양주 다산기념관 새 단장…전시 환경 개선",
-          "link": "https://www.yna.co.kr/view/AKR20261014168400060",
-          "summary": "(남양주=연합뉴스) 김도윤 기자 = 경기 남양주시는 14일 조안면 정약용 유적지에서 다산기념관 재개관식을 열었다.",
-          "publishedAt": "2026-10-14T09:33:22.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/14/AKR20261014168400060_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.2
-        },
-        {
-          "title": "간호협회, 국회서 파독 간호사 60주년 기념 전시회 개최",
-          "link": "https://www.yna.co.kr/view/AKR20261014154800530",
-          "summary": "(서울=연합뉴스) 고유선 기자 = 대한간호협회는 파독 간호사 60주년을 기념해 이달 20일과 21일 서울 여의도 국회의원회관 2층에서 '최초의 ...",
-          "publishedAt": "2026-10-14T07:41:17.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/14/AKR20261014154800530_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.2
         }
       ]
     }
