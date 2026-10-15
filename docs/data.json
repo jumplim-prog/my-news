@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-15T13:51:13.254Z",
+  "builtAt": "2026-10-15T23:29:58.093Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 328,
+      "poolSize": 332,
       "items": [
+        {
+          "title": "환율 내렸지만 유가 올라…수입물가 넉 달만에 상승",
+          "link": "https://www.khan.co.kr/article/202610160737001/",
+          "summary": "지난달 20일 서울 시내 한 주유소 모습. 연합뉴스지난달 원·달러 환율이 하락했지만 국제유가가 큰 폭으로 상승하면서 수입물가지수가 4개월만에 상승했다.한국은행이 16일 발표한 수출입물가지수 통계에 따르면, 올해 9월 수입물가지수(원화 기준 잠정치·2020년 수준 100)는 159.37로, 8월(156.68)보다 1.7% 상승했다.수입물가지수는 6월 4.2%…",
+          "publishedAt": "2026-10-15T22:37:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "이자만 받던 한국 국채, 담보로도 쓴다…채권시장 ‘새 돈줄’ 주목",
           "link": "https://www.mk.co.kr/news/economy/12177097",
@@ -25,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "\"소부장, 긴축충격 가장 커\"… 저리대출 지원 강조",
@@ -38,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "\"채권대차시장 203조원…외인보유 국채, 담보 활용 방안 관심↑\"",
@@ -51,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "[외환] 원/달러 환율 6.3원 오른 1,344.6원(15:30 기준가)",
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
-        },
-        {
-          "title": "“내가 손절만 하면 다시 오르네”…하루 만에 반등한 금값 이유는?",
-          "link": "https://www.mk.co.kr/news/economy/12176754",
-          "summary": "4084달러까지 하락한 국제금값, 15일 4158달러 美 CPI 3.7% ↑…고금리 장기화 우려에 금값 출렁 국내 금 투자 수익률도 국제 금값·원달러 환율 영향미국의 물가 상승률..",
-          "publishedAt": "2026-10-15T06:15:42.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/15/news-p.v1.20261015.c10dae6794384915bfc746d9995ec225_R.png",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
+          "score": 7.1
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 201,
+      "poolSize": 192,
       "items": [
         {
           "title": "\"차향으로 이어지는 전통의 계승\"… 제2회 안동국제무아차회, 오는 31일 보경사서 개최",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.4
         },
         {
           "title": "쿠무다 문화재단 이사장 주석 스님, 정부세종청사서 공직자 대상 법문",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "책 읽고 법문 듣고…가을 조계사, 도심 속 ‘마음 쉼터’로",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.8
         },
         {
           "title": "주석 스님, 세종청사 법문 \"있는 그대로 아름답다\"",
@@ -144,20 +144,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.8
         },
         {
-          "title": "<84>영원하지 않음은 곧 축복",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443200",
-          "summary": "모든 형상은 덧없이 변한다는 것(諸行無常)을 마음에 새겨라. 마음에 꽈리를 틀고 있는 자만심을 버려라. 자만심(我相)이 무너지면, 그때는 평온하게 세상을 살게 될 것이다. #342게송은 무상 법문이다. 모든 만물은 고정불변한 것이 없건만 잘난 척 그만하고, 생사(生死)가 촌각에 달려 있음을 자각하라는 뜻이다. 모든 것이 영원하지 않다는 것! 불교사상의 근간…",
-          "publishedAt": "2026-10-15T11:03:14.000Z",
+          "title": "부산불교거사림, 창립 54주년 기념법회 봉행한다",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338346",
+          "summary": "부산불교거사림(회장 정익수)이 창립 54주년을 맞아 오는 10월 27일 오후 7시 부산 연제구 법계정사에서 기념법회를 봉행한다.이번 법회는 반세기 넘게 이어온 거사림의 역사를 돌아보는 자리다. 창립 초기부터 묵묵히 주춧돌을 놓아온 원로 선배 거사들을 모시고 그 헌신에 감사의 뜻을 전하기 위해 마련됐다. 이날 법문은 부산 홍법사 주지 심산 스님이 맡는다.부산…",
+          "publishedAt": "2026-10-16T08:07:25.000Z",
           "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.9
+          "score": 3.2
         }
       ]
     },
@@ -175,17 +175,17 @@
       "poolSize": 146,
       "items": [
         {
-          "title": "‘농부 철학자’ 윤구병 사상 함께 이야기…31일 서울 정암학당서",
-          "link": "https://www.hani.co.kr/arti/culture/religion/1282138.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레 문화",
-          "sourceId": "hani-culture",
+          "title": "New: “Why Teach Philosophy?”",
+          "link": "https://dailynous.com/2026/10/15/new-why-teach-philosophy/",
+          "summary": "Why Teach Philosophy is a new series of interviews with philosophers known for their teaching, their research on philosophy pedagogy, or their work on curriculum design. […] The post New: “Why Teach P…",
+          "publishedAt": "2026-10-15T14:34:35.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2019/09/lecture-hall-old-1.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
           "candidates": [
             "philosophy"
           ],
-          "score": 6.5
+          "score": 5.8
         },
         {
           "title": "Aristotle’s Categories",
@@ -211,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "Mill’s Moral and Political Philosophy",
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.4
+          "score": 3.2
         }
       ]
     },
@@ -252,21 +252,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 204,
+      "poolSize": 205,
       "items": [
-        {
-          "title": "삼성전자, 이탈리아 작가들과 협업…서울디자인위크서 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261015023000003",
-          "summary": "(서울=연합뉴스) 강태우 기자 = 삼성전자는 오는 25일까지 서울 중구 동대문디자인플라자(DDP)에서 열리는 '서울 디자인 위크 2026'에 참...",
-          "publishedAt": "2026-10-15T01:00:03.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/15/AKR20261015023000003_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 7.2
-        },
         {
           "title": "색을 밟고 쓸어 만든 회화…도시의 균열에서 발견한 산수",
           "link": "https://www.yna.co.kr/view/AKR20261015054000005",
@@ -278,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.9
+          "score": 5.7
         },
         {
           "title": "제27회 이인성미술상 수상자에 김성룡 작가 선정",
@@ -291,7 +278,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
+          "score": 5.6
+        },
+        {
+          "title": "노벨상 작가 오에 겐자부로가 소개하는 '인생 책들'",
+          "link": "https://www.yna.co.kr/view/AKR20261015174900005",
+          "summary": "(서울=연합뉴스) 강종훈 기자 = \"제 삶의 방향은 책이 정했습니다. 인생의 종착역을 앞두고, 그 사실을 더욱 절실히 느낍니다.\"",
+          "publishedAt": "2026-10-15T22:10:00.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/15/AKR20261015174900005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
         },
         {
           "title": "국중박 전시 나온 친일파 글씨 “유홍준 관장 소장품”",
@@ -304,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "김윤덕 \"국립 박물관·미술관·도서관 수장고 '포화 상태'\"",
@@ -317,7 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         }
       ]
     }
