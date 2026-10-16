@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-16T13:41:28.289Z",
+  "builtAt": "2026-10-16T23:12:24.237Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 341,
+      "poolSize": 338,
       "items": [
         {
           "title": "석유 최고가격 4주 더 동결…100달러대 고유가에도 물가 고려",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "'주식 60 채권 40' 공식 깨뜨린 범인…금리가 아니었다",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "[외환] 원/달러 환율 13.2원 내린 1,331.4원(15:30 기준가)",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "외국인 자금 이탈 8개월째…올해 국내 증시서 1450억달러 순유출",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.1
         },
         {
           "title": "블록체인에 올라탄 미국 국채·기업대출…토큰화 시장 391억달러",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.1
         }
       ]
     },
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "쉼 넘어 지혜에 이르는 부처님 명상법 안내",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 5.9
+          "score": 5.7
         },
         {
           "title": "시대와 지역에 따라 꽃피운 불교 수행의 세계",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 5.9
+          "score": 5.7
         },
         {
           "title": "[법인 스님의 문자 반야] 60. 망상분별(妄想分別)",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "실크로드 따라 만나는 천년 불교의 숨결",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.9
+          "score": 2.7
         }
       ]
     },
@@ -198,7 +198,33 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.5
+          "score": 5.3
+        },
+        {
+          "title": "Feminist Social Epistemology",
+          "link": "https://plato.stanford.edu/entries/feminist-social-epistemology/",
+          "summary": "[Revised entry by Heidi Grasswick on October 16, 2026. Changes to: Main text, Bibliography] Many of the significant contributors to the continually developing field of social epistemology have been fe…",
+          "publishedAt": "2026-10-17T02:35:52.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.6
+        },
+        {
+          "title": "Epistemology of Artificial Intelligence",
+          "link": "https://plato.stanford.edu/entries/epistemology-ai/",
+          "summary": "[New Entry by Claus Beisbart on October 16, 2026.] Artificial intelligence (AI) is increasingly being used to obtain knowledge and understanding. For example, it is employed to detect objects in image…",
+          "publishedAt": "2026-10-17T00:29:34.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
         },
         {
           "title": "Aristotle’s Categories",
@@ -212,32 +238,6 @@
             "philosophy"
           ],
           "score": 4.5
-        },
-        {
-          "title": "Mill’s Moral and Political Philosophy",
-          "link": "https://plato.stanford.edu/entries/mill-moral-political/",
-          "summary": "[Revised entry by David Brink on October 4, 2026. Changes to: Main text, notes.html] John Stuart Mill (1806 - 1873) was the most famous and influential British philosopher of the nineteenth century. H…",
-          "publishedAt": "2026-10-05T05:12:18.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4
-        },
-        {
-          "title": "AI Use in STEM and Philosophy Dissertations",
-          "link": "https://dailynous.com/2026/10/15/ai-use-in-dissertations/",
-          "summary": "We’ve asked before: “What is your department’s AI policy?” Perhaps you think a good academic AI policy should, to the extent possible, be sensitive to […] The post AI Use in STEM and Philosophy Disser…",
-          "publishedAt": "2026-10-15T09:45:00.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/10/Gandy-James-Nolan-2-1024x790.jpg",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3.9
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 207,
+      "poolSize": 165,
       "items": [
         {
           "title": "박수근·윤형근·정상화…RM이 매혹된 작가들 작품 경매로",
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "'제주사진예술제' 17일 개막…303점 다채로운 작품 전시",
@@ -278,7 +278,33 @@
           "candidates": [
             "art"
           ],
-          "score": 5.9
+          "score": 5.7
+        },
+        {
+          "title": "[신간] 사라진 존재들에 바치는 문학적 부고…'숨의 조각'",
+          "link": "https://www.yna.co.kr/view/AKR20261016160800005",
+          "summary": "(서울=연합뉴스) 김기훈 기자 = ▲ 숨의 조각 = 이다 투르페이넨 지음. 정보람 옮김.",
+          "publishedAt": "2026-10-16T22:03:00.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016160800005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "[금주핫템] 아이오페 '리페어링 밴디지 크림'·로엠 '로맨틱 멜로우' 컬렉션",
+          "link": "https://www.yna.co.kr/view/AKR20261016068500030",
+          "summary": "▲ 아모레퍼시픽[090430]의 화장품 브랜드 아이오페는 손상된 피부 장벽의 빠른 회복을 돕는 '어드밴스드덤 프로 리페어링 밴디지 크림'을 출시...",
+          "publishedAt": "2026-10-16T22:00:03.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016068500030_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
         },
         {
           "title": "전시부터 국악 경연까지 '함안예술제' 개막…25일까지 이어져",
@@ -291,33 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
-        },
-        {
-          "title": "울주민속박물관·창녕박물관 '보부상:지역을 잇다' 공동 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261016127500057",
-          "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주민속박물관은 창녕박물관과 공동기획한 K-뮤지엄 지역 순회 전시 및 투어 지원사업 '뮤지엄 이음'의 전...",
-          "publishedAt": "2026-10-16T07:04:07.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016127500057_02_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
-        },
-        {
-          "title": "또다시 예술원 겨눈 이기호 작가 \"문학으로 하는 1인 시위\"",
-          "link": "https://www.yna.co.kr/view/AKR20261016057100005",
-          "summary": "(서울=연합뉴스) 김기훈 기자 = \"저는요, 그런 소설은 미학적으로 '후지다'고 생각합니다.\"",
-          "publishedAt": "2026-10-16T02:24:13.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016057100005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.3
+          "score": 4.2
         }
       ]
     }
