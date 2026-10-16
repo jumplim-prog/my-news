@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-15T23:29:58.093Z",
+  "builtAt": "2026-10-16T07:47:57.436Z",
   "cards": [
     {
       "id": "econ",
@@ -12,13 +12,39 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 332,
+      "poolSize": 340,
       "items": [
         {
-          "title": "환율 내렸지만 유가 올라…수입물가 넉 달만에 상승",
-          "link": "https://www.khan.co.kr/article/202610160737001/",
-          "summary": "지난달 20일 서울 시내 한 주유소 모습. 연합뉴스지난달 원·달러 환율이 하락했지만 국제유가가 큰 폭으로 상승하면서 수입물가지수가 4개월만에 상승했다.한국은행이 16일 발표한 수출입물가지수 통계에 따르면, 올해 9월 수입물가지수(원화 기준 잠정치·2020년 수준 100)는 159.37로, 8월(156.68)보다 1.7% 상승했다.수입물가지수는 6월 4.2%…",
-          "publishedAt": "2026-10-15T22:37:00.000Z",
+          "title": "'주식 60 채권 40' 공식 깨뜨린 범인…금리가 아니었다",
+          "link": "https://www.hankyung.com/article/202610166691i",
+          "summary": "",
+          "publishedAt": "2026-10-16T06:59:25.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "[외환] 원/달러 환율 13.2원 내린 1,331.4원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261016120200002",
+          "summary": "(",
+          "publishedAt": "2026-10-16T06:30:52.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016120200002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "외국인 자금 이탈 8개월째…올해 국내 증시서 1450억달러 순유출",
+          "link": "https://www.khan.co.kr/article/202610161452001/",
+          "summary": "3분기 원·달러 환율 하락에 베팅16일 서울 중구 하나은행 본점 딜링룸 전광판에 코스피와 코스닥, 원/달러 환율이 표시돼 있다. 연합뉴스외국인들이 올해 들어 지난달까지 국내 주식시장에서 1450억달러 규모의 자금을 회수한 것으로 집계됐다. 외환시장에서 외국인들은 원화 강세(원·달러 환율 하락)에 베팅한 것으로 나타났다.한국은행이 16일 발표한 ‘9월 이후…",
+          "publishedAt": "2026-10-16T05:52:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
@@ -28,56 +54,30 @@
           "score": 7.5
         },
         {
-          "title": "이자만 받던 한국 국채, 담보로도 쓴다…채권시장 ‘새 돈줄’ 주목",
-          "link": "https://www.mk.co.kr/news/economy/12177097",
-          "summary": "국채 담보·대차 활용도 높여 미래대응기금 채권 유입 기대 내년 금리 경로는 전망 엇갈려외국인 투자자의 한국 국채 활용 범위를 단순 보유에서 담보·대차거래로 넓히기 위한 움직임이 본..",
-          "publishedAt": "2026-10-15T08:59:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/15/news-p.v1.20261015.097dee8075f34995bd217bffb6868892_R.jpeg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "title": "CPI 이은 PPI 쇼크에도…美 국채금리 뚝 떨어진 까닭은 [심성미의 중앙은행 워치]",
+          "link": "https://www.hankyung.com/article/202610165785i",
+          "summary": "",
+          "publishedAt": "2026-10-16T02:24:52.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.4
         },
         {
-          "title": "\"소부장, 긴축충격 가장 커\"… 저리대출 지원 강조",
-          "link": "https://www.mk.co.kr/news/economy/12177041",
-          "summary": "신현송 한국은행 총재(사진)가 공동저자로 참여한 국제결제은행(BIS) 보고서를 통해 소재·부품·장비(소부장) 기업들이 다른 기업체보다 금리 인상 충격을 더 크게 받는다고 분석했다...",
-          "publishedAt": "2026-10-15T08:35:22.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/16/20261016_01160110000002_L00.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.2
-        },
-        {
-          "title": "\"채권대차시장 203조원…외인보유 국채, 담보 활용 방안 관심↑\"",
-          "link": "https://www.yna.co.kr/view/AKR20261015157200008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 국내 채권대차시장 잔고가 203조원으로 커진 가운데 외국인 투자자가 보유한 국채를 담보로 활용하는 방안이 제시...",
-          "publishedAt": "2026-10-15T08:32:31.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/15/AKR20261015157200008_01_i_P2.jpg",
+          "title": "블록체인에 올라탄 미국 국채·기업대출…토큰화 시장 391억달러",
+          "link": "https://www.yna.co.kr/view/AKR20261016058600017",
+          "summary": "(서울=연합뉴스) 한상용 기자 = 주식과 채권 등 실물·금융자산을 블록체인 기반 디지털 자산으로 전환하는 토큰화 시장이 391억달러 규모로 성장...",
+          "publishedAt": "2026-10-16T01:39:20.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016058600017_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.2
-        },
-        {
-          "title": "[외환] 원/달러 환율 6.3원 오른 1,344.6원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261015130900002",
-          "summary": "(",
-          "publishedAt": "2026-10-15T06:31:32.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/15/AKR20261015130900002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.1
+          "score": 7.4
         }
       ]
     },
@@ -92,72 +92,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 192,
+      "poolSize": 201,
       "items": [
         {
-          "title": "\"차향으로 이어지는 전통의 계승\"… 제2회 안동국제무아차회, 오는 31일 보경사서 개최",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4112579",
-          "summary": "한국 정신문화의 수도 안동에서 국내외 차인들이 한자리에 모여 신분과 연령을 뛰어넘어 평등하게 차를 나누는 특별한 교류의 장이 펼쳐집니다.사단법인 한국차인연합회 선다문화원이 주최·주관하는 '제2회 안동국제무아차회(無我茶會)'가 오는 31일 오후 2시 안동시 남후면에 위치한 보경사에서 개최됩니다.'차로 비우고, 인연으로 채우다'를 주제로 열리는 이번 행사는 참…",
-          "publishedAt": "2026-10-15T17:25:35.000Z",
+          "title": "초기불교와 대승불교의 회통",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443236",
+          "summary": "무아와 일심부처님이 세상을 떠난 뒤, 그 가르침은 하나로 남지 않았다. 한쪽은 ‘나’라고 할 만한 것이 없다는 ‘무아(無我)’를 강조했고, 다른 한쪽은 모든 것의 바탕에 하나의 마음, 즉 ‘일심(一心)’이 있다고 말했다. 대승불교가 등장한 이래, 이 둘이 같은 붓다의 가르침인가를 두고 논쟁은 한 번도 가라앉은 적이 없다. ‘대승은 붓다의 가르침이 아니다’라…",
+          "publishedAt": "2026-10-16T09:16:15.000Z",
           "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 7.5
         },
         {
-          "title": "쿠무다 문화재단 이사장 주석 스님, 정부세종청사서 공직자 대상 법문",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338333",
-          "summary": "쿠무다 문화재단 이사장 주석 스님이 정부세종청사에서 공직자들을 대상으로 일상 속 선명상 수행의 가치를 전하는 법문을 펼쳤다.정부세종청사 공무원불자회는 10월 13일 보건복지부 대회의실에서 주석 스님을 초청해 10월 정기법회를 봉행했다. 이날 법석에는 14개 주요 정부 부처 공직자 불자들이 참석했다.스님은 쿠무다·명경문화재단 이사장, 부산 송정 대운사 주지,…",
-          "publishedAt": "2026-10-15T07:42:07.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.2
-        },
-        {
-          "title": "책 읽고 법문 듣고…가을 조계사, 도심 속 ‘마음 쉼터’로",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338322",
-          "summary": "형형색색 빈백에 몸을 기대고 불서를 펼쳐 든 시민의 얼굴에는 한낮의 여유가 묻어났다. 한쪽에서는 법문을 듣고, 다른 한쪽에서는 가을 햇살 아래 책장을 넘겼다. 국화향이 번지는 가을 조계사 마당이 잠시 걸음을 멈추고 마음을 쉬어가는 도심 속 휴식처로 탈바꿈했다.조계종 총무원 문화부(부장 성원 스님)는 10월 14일 서울 조계사 특설무대에서 ‘2026 불교문화…",
-          "publishedAt": "2026-10-14T12:14:37.000Z",
+          "title": "쉼 넘어 지혜에 이르는 부처님 명상법 안내",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338370",
+          "summary": "명상이 일상의 쉼과 치유를 위한 수단으로 주목받는 시대다. 그러나 부처님이 명상을 가르친 본래 목적은 마음의 일시적인 안정이 아니라 괴로움의 근원을 없애고 완전한 자유에 이르는 것이었다. 일중 스님이 펴낸 ‘붓다의 오리지널 명상법’은 빨리어 초기경전인 니까야와 ‘청정도론’을 토대로 사마타와 위빠사나 수행을 체계적으로 정리했다. 법보신문에 2년간 연재한 ‘초…",
+          "publishedAt": "2026-10-16T10:54:40.000Z",
           "image": "",
           "sourceName": "법보신문",
           "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.8
+          "score": 6.1
         },
         {
-          "title": "주석 스님, 세종청사 법문 \"있는 그대로 아름답다\"",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505767",
-          "summary": "대운사 주지이자 쿠무다·명경문화재단 이사장인 주석 스님이 10월 13일 보건복지부 대회의실에서 공직자들에게 불교의 실천 덕목인 '육바라밀'을 설했다.주석 스님은 이번 법회에서 보시, 지계, 인욕, 정진, 선정, 지혜 등 육바라밀의 의미를 현대인의 삶에 맞춰 설명했다.스님은 \"타인에게 베풀기 전 자신을 먼저 사랑해야 진정한 자비와 나눔이 시작된다\"며 보시바라…",
-          "publishedAt": "2026-10-14T12:07:33.000Z",
+          "title": "시대와 지역에 따라 꽃피운 불교 수행의 세계",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338366",
+          "summary": "불교 수행은 하나의 방법으로 규정되지 않는다. 초기불교에서 대승불교와 밀교, 선불교에 이르기까지 시대와 지역에 따라 다양한 수행법이 발전해 왔다. 하여 신간 ‘불교 수행의 스펙트럼’은 불교 수행의 역사적 전개와 사상적 특징을 살피며 오늘날 수행이 갖는 의미를 되짚는다.책은 2024년 11월 위덕대 밀교문화연구원과 동아시아불교문화학회가 공동 개최한 학술대회…",
+          "publishedAt": "2026-10-16T10:46:58.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 6.1
+        },
+        {
+          "title": "[법인 스님의 문자 반야] 60. 망상분별(妄想分別)",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505827",
+          "summary": "초기 불교 경전은 인간이 겪는 근원적 고통의 원인을 날카롭게 짚어낸다. 그 핵심에는 ‘빠판짜(Papaca)’, 즉 ‘망상분별(妄想分別)’ 또는 ‘희론(論)’이라 불리는 정신적 메커니즘이 있다. 감각기관과 대상이 만나면 촉(觸)이 일어나고, 이에 따라 느낌[受]과 지각[想]이 생겨난다. 그러나 마음이 여기에 언어와 개념을 덧씌우면 생각은 꼬리를 물고 번져 나…",
+          "publishedAt": "2026-10-16T10:22:48.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.8
+          "score": 4.6
         },
         {
-          "title": "부산불교거사림, 창립 54주년 기념법회 봉행한다",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338346",
-          "summary": "부산불교거사림(회장 정익수)이 창립 54주년을 맞아 오는 10월 27일 오후 7시 부산 연제구 법계정사에서 기념법회를 봉행한다.이번 법회는 반세기 넘게 이어온 거사림의 역사를 돌아보는 자리다. 창립 초기부터 묵묵히 주춧돌을 놓아온 원로 선배 거사들을 모시고 그 헌신에 감사의 뜻을 전하기 위해 마련됐다. 이날 법문은 부산 홍법사 주지 심산 스님이 맡는다.부산…",
-          "publishedAt": "2026-10-16T08:07:25.000Z",
+          "title": "실크로드 따라 만나는 천년 불교의 숨결",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338374",
+          "summary": "동서 문명이 교류했던 실크로드를 따라 중국 불교의 찬란한 역사와 예술을 만나는 순례길이 열린다. 실크로드여행사는 2027년 4월 8일부터 17일까지 9박 10일 일정으로 중국 서안과 돈황, 투루판, 우루무치를 잇는 불교성지 순례를 진행한다. 부처님 진신사리를 모신 법문사부터 천년 불교미술의 보고인 돈황 막고굴까지 중국 불교문화의 정수를 살펴보는 여정이다.순…",
+          "publishedAt": "2026-10-16T11:02:15.000Z",
           "image": "",
           "sourceName": "법보신문",
           "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3.1
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.8
+          "score": 5.6
         },
         {
           "title": "Aristotle’s Categories",
@@ -211,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
           "title": "Mill’s Moral and Political Philosophy",
@@ -227,17 +227,17 @@
           "score": 4
         },
         {
-          "title": "The Future Currency of Achievement in Human Philosophy",
-          "link": "https://dailynous.com/2026/10/13/the-future-currency-of-achievement-in-human-philosophy/",
-          "summary": "“What do we lose if LLMs kill the journal system? Nothing but some heavy ass chains, and a few weak heuristics for assessing CVs quickly […] The post The Future Currency of Achievement in Human Philos…",
-          "publishedAt": "2026-10-13T11:10:54.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2016/04/donovan-untitled-wonder-1024x511.jpg",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
+          "title": "어른이 뭔데: 《대학(大學)》이 주는 답",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211362",
+          "summary": "서른이 넘어도 선택은 어렵고 관계는 서툴다.『어른이 뭔데―《대학(大學)》이 주는 답』은 오늘의 어른이 겪는 14가지 고민을《대학》의 지혜로 풀어낸다. 결정 장애와 목표 상실, 자기기만과 감정 과몰입부터 가족 갈등, 시기·질투와 무력감까지 고전 원문과 주희의 해석을 일상의 사례에 연결하고, 각 장마다 증상 점검과 실천 처방을 제시한다. ‘방향·뿌리·확장’의…",
+          "publishedAt": "2026-10-16T14:44:11.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 3.2
+          "score": 3.1
         }
       ]
     },
@@ -252,40 +252,27 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 205,
+      "poolSize": 210,
       "items": [
         {
-          "title": "색을 밟고 쓸어 만든 회화…도시의 균열에서 발견한 산수",
-          "link": "https://www.yna.co.kr/view/AKR20261015054000005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 색을 쓸고 밟으며 삶의 기억과 감정을 화면에 담는 작가가 있다. 도시의 벽에 생긴 얼룩과 균열에서 산과 계곡을...",
-          "publishedAt": "2026-10-15T07:03:13.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/15/AKR20261015054000005_05_i_P2.jpg",
+          "title": "박수근·윤형근·정상화…RM이 매혹된 작가들 작품 경매로",
+          "link": "https://www.yna.co.kr/view/AKR20261016041300005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 박서보와 윤형근, 정상화 등 그룹 방탄소년단(BTS) 리더 RM이 소장한 것으로도 유명한 작가들의 작품이 경매...",
+          "publishedAt": "2026-10-16T00:36:45.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016041300005_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 5.7
+          "score": 7.4
         },
         {
-          "title": "제27회 이인성미술상 수상자에 김성룡 작가 선정",
-          "link": "https://www.yna.co.kr/view/AKR20261015118000053",
-          "summary": "(대구=연합뉴스) 이덕기 기자 = 대구미술관은 제27회 이인성미술상 수상자로 김성룡 작가를 선정했다고 15일 밝혔다.",
-          "publishedAt": "2026-10-15T05:43:59.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/15/AKR20261015118000053_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 5.6
-        },
-        {
-          "title": "노벨상 작가 오에 겐자부로가 소개하는 '인생 책들'",
-          "link": "https://www.yna.co.kr/view/AKR20261015174900005",
-          "summary": "(서울=연합뉴스) 강종훈 기자 = \"제 삶의 방향은 책이 정했습니다. 인생의 종착역을 앞두고, 그 사실을 더욱 절실히 느낍니다.\"",
-          "publishedAt": "2026-10-15T22:10:00.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/15/AKR20261015174900005_01_i_P2.jpg",
+          "title": "울주민속박물관·창녕박물관 '보부상:지역을 잇다' 공동 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261016127500057",
+          "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주민속박물관은 창녕박물관과 공동기획한 K-뮤지엄 지역 순회 전시 및 투어 지원사업 '뮤지엄 이음'의 전...",
+          "publishedAt": "2026-10-16T07:04:07.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016127500057_02_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -294,30 +281,43 @@
           "score": 4.5
         },
         {
-          "title": "국중박 전시 나온 친일파 글씨 “유홍준 관장 소장품”",
-          "link": "https://www.khan.co.kr/article/202610152025001/",
-          "summary": "유홍준 국립중앙박물관장이 지난 7월 10일 서울 용산구 국립중앙박물관 대강당에서 특별전 ‘우리들의 밥상’ 연계 ‘맛 대 맛’ 특별강연을 하고 있다. 연합뉴스국립중앙박물관이 애국지사의 글씨로 소개했다가 친일파인 동명이인의 작품으로 밝혀져 철거한 유물이 유홍준 관장의 개인 소장품으로 밝혀졌다.15일 국회 문화체육관광위원회 소속 정연욱 국민의힘 의원이 국립중앙박…",
-          "publishedAt": "2026-10-15T11:25:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.2
-        },
-        {
-          "title": "김윤덕 \"국립 박물관·미술관·도서관 수장고 '포화 상태'\"",
-          "link": "https://www.yna.co.kr/view/AKR20261015150000055",
-          "summary": "(전주=연합뉴스) 김동철 기자 = 국립박물관과 미술관, 도서관 등의 국가 수장 능력이 한계치를 초과해 대책 마련이 시급한 것으로 나타났다.",
-          "publishedAt": "2026-10-15T07:48:52.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/15/AKR20261015150000055_01_i_P2.jpg",
+          "title": "또다시 예술원 겨눈 이기호 작가 \"문학으로 하는 1인 시위\"",
+          "link": "https://www.yna.co.kr/view/AKR20261016057100005",
+          "summary": "(서울=연합뉴스) 김기훈 기자 = \"저는요, 그런 소설은 미학적으로 '후지다'고 생각합니다.\"",
+          "publishedAt": "2026-10-16T02:24:13.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016057100005_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.2
+          "score": 4.4
+        },
+        {
+          "title": "해남군, 16일 문예회관서 자원순환 체험·전시 축제",
+          "link": "https://www.yna.co.kr/view/AKR20261016060000054",
+          "summary": "(해남=연합뉴스) 조근영 기자 = 전남광주통합특별시 해남군은 오는 21일 문화예술회관 다목적실과 군민광장 일원에서 '제4회 해남군 자원순환 페스...",
+          "publishedAt": "2026-10-16T01:37:48.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016060000054_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "충주시·한국조각가협회 지역 문화예술 발전 업무협약",
+          "link": "https://www.yna.co.kr/view/AKR20261016041600064",
+          "summary": "(충주=연합뉴스) 천경환 기자 = 충북 충주시는 16일 한국조각가협회와 지역 문화예술 발전을 위한 업무협약을 했다.",
+          "publishedAt": "2026-10-16T00:33:40.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2026/05/09/10/PCM20260509000010064_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
         }
       ]
     }
