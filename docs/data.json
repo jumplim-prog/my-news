@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-17T07:26:01.536Z",
+  "builtAt": "2026-10-17T12:38:23.964Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 336,
+      "poolSize": 337,
       "items": [
+        {
+          "title": "일본은행 총재 “더 이상의 물가 상승 용납 못해”…금리 인상 지속 방침",
+          "link": "https://www.khan.co.kr/article/202610171641001/",
+          "summary": "우에다 가즈오 일본은행 총재. EPA연합뉴스우에다 가즈오 일본은행 총재가 “더 이상의 물가 인상은 용납할 수 없다”며 금리 인상 기조를 이어가겠다는 방침을 밝혔다.17일 니혼게이자이신문(닛케이)에 따르면 우에다 총재는 전날(현지시간) 주요 20개국(G20) 재무장관·중앙은행 총재 회의가 열린 태국 방콕에서 기자회견을 열고 “일본은행의 물가 목표치인 기조 물…",
+          "publishedAt": "2026-10-17T07:41:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "[다음주 경제] 기준금리 3연속 인상할까…생산자 물가도 발표",
           "link": "https://www.yna.co.kr/view/AKR20261017011700002",
@@ -25,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "석유 최고가격 4주 더 동결…100달러대 고유가에도 물가 고려",
@@ -38,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7
+          "score": 6.9
         },
         {
           "title": "[외환] 원/달러 환율 13.2원 내린 1,331.4원(15:30 기준가)",
@@ -51,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7
+          "score": 6.9
         },
         {
           "title": "외국인 자금 이탈 8개월째…올해 국내 증시서 1450억달러 순유출",
@@ -61,19 +74,6 @@
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7
-        },
-        {
-          "title": "블록체인에 올라탄 미국 국채·기업대출…토큰화 시장 391억달러",
-          "link": "https://www.yna.co.kr/view/AKR20261016058600017",
-          "summary": "(서울=연합뉴스) 한상용 기자 = 주식과 채권 등 실물·금융자산을 블록체인 기반 디지털 자산으로 전환하는 토큰화 시장이 391억달러 규모로 성장...",
-          "publishedAt": "2026-10-16T01:39:20.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016058600017_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 7
+          "score": 6.9
         },
         {
           "title": "쉼 넘어 지혜에 이르는 부처님 명상법 안내",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 5.6
+          "score": 5.5
         },
         {
           "title": "시대와 지역에 따라 꽃피운 불교 수행의 세계",
@@ -131,20 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 5.6
-        },
-        {
-          "title": "[비.만.사] 국경 넘은 'K-선불교' 40년...연등국제선원 주지 혜달스님",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4112883",
-          "summary": "국경과 언어를 넘어 한국 불교의 선(禪) 사상을 세계에 알려온 인천 강화 연등국제선원이 올해로 개원 40주년을 맞았습니다.인도 출신으로 은사 원명스님의 원력을 이어 도량을 일궈온 주지 혜달스님을 배재수 보도국장이 만나 지난 40년의 발자취와 향후 비전을 들어봤습니다.",
-          "publishedAt": "2026-10-17T07:00:00.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.5
+          "score": 5.5
         },
         {
           "title": "[법인 스님의 문자 반야] 60. 망상분별(妄想分別)",
@@ -157,7 +144,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.1
+          "score": 4
+        },
+        {
+          "title": "직지사, 자연수목장림 '극락원' 개원… 친환경 장례문화의 새 장 열다",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4112938",
+          "summary": "대한불교조계종 제8교구 본사 직지사가 17일, 약 4만 9,500제곱미터(약 1만 5,000평) 규모에 총 2,000기를 안치할 수 있는 친환경 자연수목장림 '극락원'을 개원했습니다.이번에 문을 연 극락원은 인위적인 식물을 최소화하고 기존 숲의 생태계를 그대로 보존해 고인을 모시는 친환경 장묘 시설로 불교의 연기법과 해탈의 가르침을 일상 속 장례문화로 구현…",
+          "publishedAt": "2026-10-17T21:26:30.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
         }
       ]
     },
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.1
+          "score": 5
         },
         {
           "title": "Aristotle’s Categories",
@@ -224,7 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "Epistemology of Artificial Intelligence",
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.4
+          "score": 4.2
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 205,
+      "poolSize": 198,
       "items": [
         {
           "title": "'제주사진예술제' 17일 개막…303점 다채로운 작품 전시",
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.5
+          "score": 5.4
         },
         {
           "title": "[홀리한 구석] 부처님은 왜 TV 속 자신을 보고 있을까···세종에서 만난 백남준",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "앤트로픽, 한국 작가 책 21종 무단으로 AI 학습 활용",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "'인류세, 이후의 미래는'…31일 제주비엔날레 국제심포지엄",
@@ -304,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.2
         },
         {
           "title": "세계 민속예술 한자리에…'진주세계민속예술비엔날레' 개막",
@@ -317,7 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.2
         }
       ]
     }
