@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-17T12:38:23.964Z",
+  "builtAt": "2026-10-17T22:49:19.690Z",
   "cards": [
     {
       "id": "econ",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "[다음주 경제] 기준금리 3연속 인상할까…생산자 물가도 발표",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "석유 최고가격 4주 더 동결…100달러대 고유가에도 물가 고려",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.9
+          "score": 6.7
         },
         {
           "title": "[외환] 원/달러 환율 13.2원 내린 1,331.4원(15:30 기준가)",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.9
+          "score": 6.7
         },
         {
           "title": "외국인 자금 이탈 8개월째…올해 국내 증시서 1450억달러 순유출",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.9
+          "score": 6.6
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 201,
+      "poolSize": 190,
       "items": [
         {
           "title": "초기불교와 대승불교의 회통",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 6.9
+          "score": 6.7
         },
         {
           "title": "쉼 넘어 지혜에 이르는 부처님 명상법 안내",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 5.5
+          "score": 5.3
         },
         {
           "title": "시대와 지역에 따라 꽃피운 불교 수행의 세계",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 5.5
+          "score": 5.2
         },
         {
           "title": "[법인 스님의 문자 반야] 60. 망상분별(妄想分別)",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.7
         },
         {
           "title": "직지사, 자연수목장림 '극락원' 개원… 친환경 장례문화의 새 장 열다",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3
         }
       ]
     },
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5
+          "score": 4.8
         },
         {
           "title": "Aristotle’s Categories",
@@ -224,7 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "Epistemology of Artificial Intelligence",
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.2
+          "score": 4
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 198,
+      "poolSize": 197,
       "items": [
         {
           "title": "'제주사진예술제' 17일 개막…303점 다채로운 작품 전시",
@@ -265,7 +265,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5.4
+          "score": 5.2
+        },
+        {
+          "title": "경기도서관 1주년 기획전시 '플라스틱 바다, 데이터의 파도'",
+          "link": "https://www.yna.co.kr/view/AKR20261016142800061",
+          "summary": "(수원=연합뉴스) 최찬흥 기자 = 경기도서관은 오는 12월 13일까지 지하 1층 플래닛 경기홀에서 개관 1주년 기념 기획전시 '플라스틱 바다, ...",
+          "publishedAt": "2026-10-17T22:01:03.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016142800061_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
         },
         {
           "title": "[홀리한 구석] 부처님은 왜 TV 속 자신을 보고 있을까···세종에서 만난 백남준",
@@ -278,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "앤트로픽, 한국 작가 책 21종 무단으로 AI 학습 활용",
@@ -291,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "'인류세, 이후의 미래는'…31일 제주비엔날레 국제심포지엄",
@@ -304,20 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.2
-        },
-        {
-          "title": "세계 민속예술 한자리에…'진주세계민속예술비엔날레' 개막",
-          "link": "https://www.yna.co.kr/view/AKR20261016104000052",
-          "summary": "(진주=연합뉴스) 박정헌 기자 = 유네스코 창의도시 경남 진주에서 세계 각국의 전통 민속예술이 한자리에 모이는 '2026 진주세계민속예술비엔날레...",
-          "publishedAt": "2026-10-16T23:25:00.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016104000052_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.2
+          "score": 4
         }
       ]
     }
