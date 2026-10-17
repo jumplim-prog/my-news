@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-16T23:12:24.237Z",
+  "builtAt": "2026-10-17T07:26:01.536Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 338,
+      "poolSize": 336,
       "items": [
+        {
+          "title": "[다음주 경제] 기준금리 3연속 인상할까…생산자 물가도 발표",
+          "link": "https://www.yna.co.kr/view/AKR20261017011700002",
+          "summary": "(세종=연합뉴스) 이대희 배영경 채새롬 기자 = 다음 주(10월 19∼23일)에는 한국은행이 기준금리를 결정한다. 주요 경제부처의 종합 국정감사...",
+          "publishedAt": "2026-10-17T00:07:32.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/08/27/PYH2026082710380001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
         {
           "title": "석유 최고가격 4주 더 동결…100달러대 고유가에도 물가 고려",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801576",
@@ -25,20 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
-        },
-        {
-          "title": "'주식 60 채권 40' 공식 깨뜨린 범인…금리가 아니었다",
-          "link": "https://www.hankyung.com/article/202610166691i",
-          "summary": "",
-          "publishedAt": "2026-10-16T06:59:25.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "[외환] 원/달러 환율 13.2원 내린 1,331.4원(15:30 기준가)",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "외국인 자금 이탈 8개월째…올해 국내 증시서 1450억달러 순유출",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 7
         },
         {
           "title": "블록체인에 올라탄 미국 국채·기업대출…토큰화 시장 391억달러",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.9
         }
       ]
     },
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "쉼 넘어 지혜에 이르는 부처님 명상법 안내",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 5.7
+          "score": 5.6
         },
         {
           "title": "시대와 지역에 따라 꽃피운 불교 수행의 세계",
@@ -131,7 +131,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 5.7
+          "score": 5.6
+        },
+        {
+          "title": "[비.만.사] 국경 넘은 'K-선불교' 40년...연등국제선원 주지 혜달스님",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4112883",
+          "summary": "국경과 언어를 넘어 한국 불교의 선(禪) 사상을 세계에 알려온 인천 강화 연등국제선원이 올해로 개원 40주년을 맞았습니다.인도 출신으로 은사 원명스님의 원력을 이어 도량을 일궈온 주지 혜달스님을 배재수 보도국장이 만나 지난 40년의 발자취와 향후 비전을 들어봤습니다.",
+          "publishedAt": "2026-10-17T07:00:00.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
         },
         {
           "title": "[법인 스님의 문자 반야] 60. 망상분별(妄想分別)",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
-        },
-        {
-          "title": "실크로드 따라 만나는 천년 불교의 숨결",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338374",
-          "summary": "동서 문명이 교류했던 실크로드를 따라 중국 불교의 찬란한 역사와 예술을 만나는 순례길이 열린다. 실크로드여행사는 2027년 4월 8일부터 17일까지 9박 10일 일정으로 중국 서안과 돈황, 투루판, 우루무치를 잇는 불교성지 순례를 진행한다. 부처님 진신사리를 모신 법문사부터 천년 불교미술의 보고인 돈황 막고굴까지 중국 불교문화의 정수를 살펴보는 여정이다.순…",
-          "publishedAt": "2026-10-16T11:02:15.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.7
+          "score": 4.1
         }
       ]
     },
@@ -198,33 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.3
-        },
-        {
-          "title": "Feminist Social Epistemology",
-          "link": "https://plato.stanford.edu/entries/feminist-social-epistemology/",
-          "summary": "[Revised entry by Heidi Grasswick on October 16, 2026. Changes to: Main text, Bibliography] Many of the significant contributors to the continually developing field of social epistemology have been fe…",
-          "publishedAt": "2026-10-17T02:35:52.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.6
-        },
-        {
-          "title": "Epistemology of Artificial Intelligence",
-          "link": "https://plato.stanford.edu/entries/epistemology-ai/",
-          "summary": "[New Entry by Claus Beisbart on October 16, 2026.] Artificial intelligence (AI) is increasingly being used to obtain knowledge and understanding. For example, it is employed to detect objects in image…",
-          "publishedAt": "2026-10-17T00:29:34.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.5
+          "score": 5.1
         },
         {
           "title": "Aristotle’s Categories",
@@ -238,6 +212,32 @@
             "philosophy"
           ],
           "score": 4.5
+        },
+        {
+          "title": "Feminist Social Epistemology",
+          "link": "https://plato.stanford.edu/entries/feminist-social-epistemology/",
+          "summary": "[Revised entry by Heidi Grasswick on October 16, 2026. Changes to: Main text, Bibliography] Many of the significant contributors to the continually developing field of social epistemology have been fe…",
+          "publishedAt": "2026-10-17T02:35:52.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "Epistemology of Artificial Intelligence",
+          "link": "https://plato.stanford.edu/entries/epistemology-ai/",
+          "summary": "[New Entry by Claus Beisbart on October 16, 2026.] Artificial intelligence (AI) is increasingly being used to obtain knowledge and understanding. For example, it is employed to detect objects in image…",
+          "publishedAt": "2026-10-17T00:29:34.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.4
         }
       ]
     },
@@ -252,21 +252,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 165,
+      "poolSize": 205,
       "items": [
-        {
-          "title": "박수근·윤형근·정상화…RM이 매혹된 작가들 작품 경매로",
-          "link": "https://www.yna.co.kr/view/AKR20261016041300005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 박서보와 윤형근, 정상화 등 그룹 방탄소년단(BTS) 리더 RM이 소장한 것으로도 유명한 작가들의 작품이 경매...",
-          "publishedAt": "2026-10-16T00:36:45.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016041300005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 7
-        },
         {
           "title": "'제주사진예술제' 17일 개막…303점 다채로운 작품 전시",
           "link": "https://www.yna.co.kr/view/AKR20261016143800056",
@@ -278,46 +265,59 @@
           "candidates": [
             "art"
           ],
-          "score": 5.7
+          "score": 5.5
         },
         {
-          "title": "[신간] 사라진 존재들에 바치는 문학적 부고…'숨의 조각'",
-          "link": "https://www.yna.co.kr/view/AKR20261016160800005",
-          "summary": "(서울=연합뉴스) 김기훈 기자 = ▲ 숨의 조각 = 이다 투르페이넨 지음. 정보람 옮김.",
-          "publishedAt": "2026-10-16T22:03:00.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016160800005_01_i_P2.jpg",
+          "title": "[홀리한 구석] 부처님은 왜 TV 속 자신을 보고 있을까···세종에서 만난 백남준",
+          "link": "https://www.khan.co.kr/article/202610171400001/",
+          "summary": "전시회 ‘세종과 남준’에서 만난 만난 부처백남준 ‘자화상’이 세종시 비엔날레 전시관 입구에 전시되어 있다. 박경은 선임기자믿음이 없어도 이상하게 마음이 고요해지는 순간들. 먹고 마시며 다니다가 마주치는 뜻밖의 성스러움. 거창하지 않아도 일상에 숨어 있는 작고 거룩한 순간들을 만나봅니다.얼마전 세종시에 갔다가 재미있는 전시를 구경했어요. 세종 중앙공원에 있는…",
+          "publishedAt": "2026-10-17T05:00:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "앤트로픽, 한국 작가 책 21종 무단으로 AI 학습 활용",
+          "link": "https://www.yna.co.kr/view/AKR20261017020600005",
+          "summary": "(서울=연합뉴스) 김기훈 기자 = 미국 인공지능(AI) 기업 앤트로픽이 한강·황석영 등 한국 작가의 영문판 책을 무단으로 자사 AI 챗봇 클로드...",
+          "publishedAt": "2026-10-17T01:11:55.000Z",
+          "image": "https://img.yna.co.kr/photo/reuters/2026/10/16/PRU20261016135101009_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.4
         },
         {
-          "title": "[금주핫템] 아이오페 '리페어링 밴디지 크림'·로엠 '로맨틱 멜로우' 컬렉션",
-          "link": "https://www.yna.co.kr/view/AKR20261016068500030",
-          "summary": "▲ 아모레퍼시픽[090430]의 화장품 브랜드 아이오페는 손상된 피부 장벽의 빠른 회복을 돕는 '어드밴스드덤 프로 리페어링 밴디지 크림'을 출시...",
-          "publishedAt": "2026-10-16T22:00:03.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016068500030_01_i_P2.jpg",
+          "title": "'인류세, 이후의 미래는'…31일 제주비엔날레 국제심포지엄",
+          "link": "https://www.yna.co.kr/view/AKR20261016149300056",
+          "summary": "(제주=연합뉴스) 김호천 기자 = 인간의 활동이 지구의 지질과 기후까지 변화시킨 시대를 뜻하는 '인류세'와 그 이후의 미래를 화두로 삼은 제5회...",
+          "publishedAt": "2026-10-17T00:00:02.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016149300056_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
-          "title": "전시부터 국악 경연까지 '함안예술제' 개막…25일까지 이어져",
-          "link": "https://www.yna.co.kr/view/AKR20261016153500052",
-          "summary": "(함안=연합뉴스) 박영민 기자 = 경남 함안군은 오는 25일까지 함안문화예술회관과 함안복합문학관, 함주공원 등에서 '제22회 함안예술제'를 연다...",
-          "publishedAt": "2026-10-16T08:29:51.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016153500052_01_i_P2.jpg",
+          "title": "세계 민속예술 한자리에…'진주세계민속예술비엔날레' 개막",
+          "link": "https://www.yna.co.kr/view/AKR20261016104000052",
+          "summary": "(진주=연합뉴스) 박정헌 기자 = 유네스코 창의도시 경남 진주에서 세계 각국의 전통 민속예술이 한자리에 모이는 '2026 진주세계민속예술비엔날레...",
+          "publishedAt": "2026-10-16T23:25:00.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016104000052_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.2
+          "score": 4.3
         }
       ]
     }
