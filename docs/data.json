@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-18T12:55:35.204Z",
+  "builtAt": "2026-10-18T22:42:21.651Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 329,
+      "poolSize": 330,
       "items": [
         {
           "title": "원달러환율 2년 1개웖만에 최저",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "일본은행 총재 “더 이상의 물가 상승 용납 못해”…금리 인상 지속 방침",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.9
+          "score": 6.7
         },
         {
           "title": "[다음주 경제] 기준금리 3연속 인상할까…생산자 물가도 발표",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.7
+          "score": 6.5
         },
         {
           "title": "‘AI 거품론’에 국채값 오르고 달러 내려…미국에 쏠린 투자, 회수 움직임",
@@ -67,17 +67,17 @@
           "score": 6.5
         },
         {
-          "title": "’전날 7% 폭락’ 코스피, 장중 3%대 반등…미 국채금리 하락세 영향",
-          "link": "https://www.hani.co.kr/arti/economy/finance/1282728.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레",
-          "sourceId": "hani-economy",
+          "title": "석유 최고가격 다시 동결…100달러대 고유가에도 물가 고려",
+          "link": "https://www.yna.co.kr/view/AKR20261016147400003",
+          "summary": "(서울=연합뉴스) 장보인 기자 = 정부가 석유 최고가격을 4주 더 동결한다.",
+          "publishedAt": "2026-10-16T09:00:02.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/16/PYH2026101608700001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6.5
+          "score": 6.2
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 193,
+      "poolSize": 185,
       "items": [
         {
           "title": "초기불교와 대승불교의 회통",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 6.4
+          "score": 6.2
         },
         {
           "title": "쉼 넘어 지혜에 이르는 부처님 명상법 안내",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 5
+          "score": 4.8
         },
         {
           "title": "시대와 지역에 따라 꽃피운 불교 수행의 세계",
@@ -131,7 +131,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 5
+          "score": 4.8
+        },
+        {
+          "title": "문경 관음사, 지유 대종사 대중 법문 6년 만에 재개",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338420",
+          "summary": "봉암사 조실 지유 대종사가 대중을 위해 선(禪) 법문을 펼치는 법회의 장이 다시 열렸다.문경 관음사(주지 담연 스님)는 10월 18일 경내 법당에서 ‘불기 2570년 10월 정기법회’를 봉행했다. 특히 이날 법석에서는 문경 봉암사 조실 지유 대종사가 법문을 펼쳤다. 관음사에서 스님이 법문을 설한 것은 코로나19로 법회가 중단된 지 6년 만이다. 이 자리에는…",
+          "publishedAt": "2026-10-19T02:12:10.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.6
         },
         {
           "title": "[법인 스님의 문자 반야] 60. 망상분별(妄想分別)",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.4
-        },
-        {
-          "title": "[염화실에서 법을 청하다] 서울 구룡사 회주 아산 정우대종사",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443255",
-          "summary": "1985년 서울 남대문시장에서 직접 천막을 사서 서초구 양재동에 천막 법당을 세우고 포교를 시작해 1989년 지금의 구룡사를 낙성한 전설적인 도심포교 인물이 정우대종사(구룡사 회주, 홍법문화복지법인 이사장)다. 30대에 도심포교를 시작해 쉼없이 정진해 ‘한국불교 도심포교의 전설’이 됐다. 정우스님은 이제 70대 중반에 들어서 종단의 ‘어른스님’이 돼 ‘노스…",
-          "publishedAt": "2026-10-18T13:58:33.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3
+          "score": 3.2
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 146,
+      "poolSize": 147,
       "items": [
         {
           "title": "창비 60돌 ‘한국사상선’ 완간 기념 학술대회…‘문명의 전환과 변혁의 모색’ 주제로",
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.8
+          "score": 3.6
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 190,
+      "poolSize": 180,
       "items": [
         {
           "title": "한낮 같은 밤, 폐허 속 여인…꿈같은 현대회화 대작들, 강남 한복판서 만난다",
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6
+          "score": 5.8
         },
         {
           "title": "강남 한복판에 걸린 기묘한 꿈…델보부터 쿠사마까지",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "재개발·철거로 달라진 성북, 예술가 시선으로…서울기록원 전시",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "[충남소식] 공주 제민천길, 드라마 작가 선호 여행지 1위",
@@ -304,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "대전시, 25일 시청 남문광장서 '2026 동물사랑 큰잔치'",
@@ -317,7 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.2
+          "score": 4
         }
       ]
     }
