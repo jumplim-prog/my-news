@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-17T22:49:19.690Z",
+  "builtAt": "2026-10-18T07:41:36.740Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 337,
+      "poolSize": 332,
       "items": [
+        {
+          "title": "원달러환율 2년 1개웖만에 최저",
+          "link": "https://www.mk.co.kr/news/economy/12178910",
+          "summary": "18일 서울 중구 명동의 환전소에 외환 시세가 표시돼 있다. 한국은행 경제통계시스템에 따르면, 이달 들어 12거래일간 원·달러 평균 환율은 1,342.6원으로, 2024년 9월 평..",
+          "publishedAt": "2026-10-18T07:30:15.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/18/news-p.v1.20261018.64fe9aa6ba594e18981a83562ca21b53_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "일본은행 총재 “더 이상의 물가 상승 용납 못해”…금리 인상 지속 방침",
           "link": "https://www.khan.co.kr/article/202610171641001/",
@@ -25,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "[다음주 경제] 기준금리 3연속 인상할까…생산자 물가도 발표",
@@ -38,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7
+          "score": 6.8
         },
         {
           "title": "석유 최고가격 4주 더 동결…100달러대 고유가에도 물가 고려",
@@ -51,20 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.7
-        },
-        {
-          "title": "[외환] 원/달러 환율 13.2원 내린 1,331.4원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261016120200002",
-          "summary": "(",
-          "publishedAt": "2026-10-16T06:30:52.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016120200002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.7
+          "score": 6.5
         },
         {
           "title": "외국인 자금 이탈 8개월째…올해 국내 증시서 1450억달러 순유출",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.6
+          "score": 6.5
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 190,
+      "poolSize": 201,
       "items": [
         {
           "title": "초기불교와 대승불교의 회통",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 6.7
+          "score": 6.5
         },
         {
           "title": "쉼 넘어 지혜에 이르는 부처님 명상법 안내",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 5.3
+          "score": 5.1
         },
         {
           "title": "시대와 지역에 따라 꽃피운 불교 수행의 세계",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 5.2
+          "score": 5.1
         },
         {
           "title": "[법인 스님의 문자 반야] 60. 망상분별(妄想分別)",
@@ -144,20 +144,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.6
         },
         {
-          "title": "직지사, 자연수목장림 '극락원' 개원… 친환경 장례문화의 새 장 열다",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4112938",
-          "summary": "대한불교조계종 제8교구 본사 직지사가 17일, 약 4만 9,500제곱미터(약 1만 5,000평) 규모에 총 2,000기를 안치할 수 있는 친환경 자연수목장림 '극락원'을 개원했습니다.이번에 문을 연 극락원은 인위적인 식물을 최소화하고 기존 숲의 생태계를 그대로 보존해 고인을 모시는 친환경 장묘 시설로 불교의 연기법과 해탈의 가르침을 일상 속 장례문화로 구현…",
-          "publishedAt": "2026-10-17T21:26:30.000Z",
+          "title": "[염화실에서 법을 청하다] 서울 구룡사 회주 아산 정우대종사",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443255",
+          "summary": "1985년 서울 남대문시장에서 직접 천막을 사서 서초구 양재동에 천막 법당을 세우고 포교를 시작해 1989년 지금의 구룡사를 낙성한 전설적인 도심포교 인물이 정우대종사(구룡사 회주, 홍법문화복지법인 이사장)다. 30대에 도심포교를 시작해 쉼없이 정진해 ‘한국불교 도심포교의 전설’이 됐다. 정우스님은 이제 70대 중반에 들어서 종단의 ‘어른스님’이 돼 ‘노스…",
+          "publishedAt": "2026-10-18T13:58:33.000Z",
           "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 3.1
         }
       ]
     },
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.8
+          "score": 4.6
         },
         {
           "title": "Aristotle’s Categories",
@@ -214,6 +214,19 @@
           "score": 4.5
         },
         {
+          "title": "Mill’s Moral and Political Philosophy",
+          "link": "https://plato.stanford.edu/entries/mill-moral-political/",
+          "summary": "[Revised entry by David Brink on October 4, 2026. Changes to: Main text, notes.html] John Stuart Mill (1806 - 1873) was the most famous and influential British philosopher of the nineteenth century. H…",
+          "publishedAt": "2026-10-05T05:12:18.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4
+        },
+        {
           "title": "Feminist Social Epistemology",
           "link": "https://plato.stanford.edu/entries/feminist-social-epistemology/",
           "summary": "[Revised entry by Heidi Grasswick on October 16, 2026. Changes to: Main text, Bibliography] Many of the significant contributors to the continually developing field of social epistemology have been fe…",
@@ -224,20 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.1
-        },
-        {
-          "title": "Epistemology of Artificial Intelligence",
-          "link": "https://plato.stanford.edu/entries/epistemology-ai/",
-          "summary": "[New Entry by Claus Beisbart on October 16, 2026.] Artificial intelligence (AI) is increasingly being used to obtain knowledge and understanding. For example, it is employed to detect objects in image…",
-          "publishedAt": "2026-10-17T00:29:34.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4
+          "score": 3.9
         }
       ]
     },
@@ -252,20 +252,59 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 197,
+      "poolSize": 198,
       "items": [
         {
-          "title": "'제주사진예술제' 17일 개막…303점 다채로운 작품 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261016143800056",
-          "summary": "(제주=연합뉴스) 김호천 기자 = 한국사진작가협회 제주도지회 주최 제5회 제주사진예술제가 17일부터 22일까지 제주문예회관에서 열린다.",
-          "publishedAt": "2026-10-16T07:48:45.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016143800056_01_i_P2.jpg",
+          "title": "강남 한복판에 걸린 기묘한 꿈…델보부터 쿠사마까지",
+          "link": "https://www.khan.co.kr/article/202610181359001/",
+          "summary": "‘현대회화 하이라이트: 시대의 초상’전현대미술 거장 14인 작품 20점 한자리에폴 델보 ‘크리스마스의 밤’(1956). 글로벌세아 아트스페이스 제공화면 한쪽에 보름달이 떠 있는데 붉은 옷을 입은 금발의 여인이 선 기차역 플랫폼은 한낮처럼 환하다. 다른 그림에는 고대 그리스 조각처럼 흰 천을 두른 여인이 새와 꽃으로 꾸민 모자를 쓰고 있다. 폐허가 된 도··…",
+          "publishedAt": "2026-10-18T04:59:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "재개발·철거로 달라진 성북, 예술가 시선으로…서울기록원 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261018018500004",
+          "summary": "(서울=연합뉴스) 김동규 기자 = 서울기록원과 성북문화재단은 공공기록과 예술작품을 통해 성북의 변화와 기억을 살펴보는 '예술가들이 기록한 도시'...",
+          "publishedAt": "2026-10-18T02:15:00.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/18/AKR20261018018500004_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 5.2
+          "score": 4.4
+        },
+        {
+          "title": "[충남소식] 공주 제민천길, 드라마 작가 선호 여행지 1위",
+          "link": "https://www.yna.co.kr/view/AKR20261018016300063",
+          "summary": "(홍성=연합뉴스) ▲ 공주 제민천길, 드라마 작가 선호 여행지 1위 = 충남도는 공주 제민천길이 드라마 작가들이 선호하는 여행지이자 작품 배경지...",
+          "publishedAt": "2026-10-18T01:03:50.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/18/AKR20261018016300063_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "대전시, 25일 시청 남문광장서 '2026 동물사랑 큰잔치'",
+          "link": "https://www.yna.co.kr/view/AKR20261018014900063",
+          "summary": "(대전=연합뉴스) 양영석 기자 = 대전시는 오는 25일 시청 남문광장에서 대전수의사회, 충남대학교 수의학과 학생회와 공동으로 '동물사랑 큰잔치'...",
+          "publishedAt": "2026-10-18T00:52:30.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/18/AKR20261018014900063_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "경기도서관 1주년 기획전시 '플라스틱 바다, 데이터의 파도'",
@@ -278,46 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
-        },
-        {
-          "title": "[홀리한 구석] 부처님은 왜 TV 속 자신을 보고 있을까···세종에서 만난 백남준",
-          "link": "https://www.khan.co.kr/article/202610171400001/",
-          "summary": "전시회 ‘세종과 남준’에서 만난 만난 부처백남준 ‘자화상’이 세종시 비엔날레 전시관 입구에 전시되어 있다. 박경은 선임기자믿음이 없어도 이상하게 마음이 고요해지는 순간들. 먹고 마시며 다니다가 마주치는 뜻밖의 성스러움. 거창하지 않아도 일상에 숨어 있는 작고 거룩한 순간들을 만나봅니다.얼마전 세종시에 갔다가 재미있는 전시를 구경했어요. 세종 중앙공원에 있는…",
-          "publishedAt": "2026-10-17T05:00:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.1
-        },
-        {
-          "title": "앤트로픽, 한국 작가 책 21종 무단으로 AI 학습 활용",
-          "link": "https://www.yna.co.kr/view/AKR20261017020600005",
-          "summary": "(서울=연합뉴스) 김기훈 기자 = 미국 인공지능(AI) 기업 앤트로픽이 한강·황석영 등 한국 작가의 영문판 책을 무단으로 자사 AI 챗봇 클로드...",
-          "publishedAt": "2026-10-17T01:11:55.000Z",
-          "image": "https://img.yna.co.kr/photo/reuters/2026/10/16/PRU20261016135101009_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4
-        },
-        {
-          "title": "'인류세, 이후의 미래는'…31일 제주비엔날레 국제심포지엄",
-          "link": "https://www.yna.co.kr/view/AKR20261016149300056",
-          "summary": "(제주=연합뉴스) 김호천 기자 = 인간의 활동이 지구의 지질과 기후까지 변화시킨 시대를 뜻하는 '인류세'와 그 이후의 미래를 화두로 삼은 제5회...",
-          "publishedAt": "2026-10-17T00:00:02.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016149300056_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4
+          "score": 4.3
         }
       ]
     }
