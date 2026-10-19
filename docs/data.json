@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-18T22:42:21.651Z",
+  "builtAt": "2026-10-19T08:23:19.245Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 330,
+      "poolSize": 329,
       "items": [
+        {
+          "title": "원/달러 환율 2년만에 또 최저…위안화 환율도 1년만에 최저(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20261019137151002",
+          "summary": "(서울=연합뉴스) 채새롬 기자 = 19일 원/달러 환율이 오후 3시 30분 기준 1,330원선까지 내려가며 2년 만에 최저치를 다시 기록했다.",
+          "publishedAt": "2026-10-19T07:24:48.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/19/PYH2026101915580001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "[외환] 원/달러 환율 1.1원 내린 1,330.3원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261019129000002",
+          "summary": "(",
+          "publishedAt": "2026-10-19T06:30:49.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019129000002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "원달러환율 2년 1개웖만에 최저",
           "link": "https://www.mk.co.kr/news/economy/12178910",
@@ -25,29 +51,16 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
-          "title": "일본은행 총재 “더 이상의 물가 상승 용납 못해”…금리 인상 지속 방침",
-          "link": "https://www.khan.co.kr/article/202610171641001/",
-          "summary": "우에다 가즈오 일본은행 총재. EPA연합뉴스우에다 가즈오 일본은행 총재가 “더 이상의 물가 인상은 용납할 수 없다”며 금리 인상 기조를 이어가겠다는 방침을 밝혔다.17일 니혼게이자이신문(닛케이)에 따르면 우에다 총재는 전날(현지시간) 주요 20개국(G20) 재무장관·중앙은행 총재 회의가 열린 태국 방콕에서 기자회견을 열고 “일본은행의 물가 목표치인 기조 물…",
-          "publishedAt": "2026-10-17T07:41:00.000Z",
+          "title": "1330원 코앞에서 멈춘 원-달러 환율…더 안 떨어지는 이유는?",
+          "link": "https://www.hani.co.kr/arti/economy/economy_general/1283071.html",
+          "summary": "",
+          "publishedAt": null,
           "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.7
-        },
-        {
-          "title": "[다음주 경제] 기준금리 3연속 인상할까…생산자 물가도 발표",
-          "link": "https://www.yna.co.kr/view/AKR20261017011700002",
-          "summary": "(세종=연합뉴스) 이대희 배영경 채새롬 기자 = 다음 주(10월 19∼23일)에는 한국은행이 기준금리를 결정한다. 주요 경제부처의 종합 국정감사...",
-          "publishedAt": "2026-10-17T00:07:32.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/08/27/PYH2026082710380001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "sourceName": "한겨레",
+          "sourceId": "hani-economy",
           "candidates": [
             "econ"
           ],
@@ -65,19 +78,6 @@
             "econ"
           ],
           "score": 6.5
-        },
-        {
-          "title": "석유 최고가격 다시 동결…100달러대 고유가에도 물가 고려",
-          "link": "https://www.yna.co.kr/view/AKR20261016147400003",
-          "summary": "(서울=연합뉴스) 장보인 기자 = 정부가 석유 최고가격을 4주 더 동결한다.",
-          "publishedAt": "2026-10-16T09:00:02.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/16/PYH2026101608700001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.2
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 185,
+      "poolSize": 203,
       "items": [
         {
           "title": "초기불교와 대승불교의 회통",
@@ -105,38 +105,12 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 6.2
+          "score": 6
         },
         {
-          "title": "쉼 넘어 지혜에 이르는 부처님 명상법 안내",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338370",
-          "summary": "명상이 일상의 쉼과 치유를 위한 수단으로 주목받는 시대다. 그러나 부처님이 명상을 가르친 본래 목적은 마음의 일시적인 안정이 아니라 괴로움의 근원을 없애고 완전한 자유에 이르는 것이었다. 일중 스님이 펴낸 ‘붓다의 오리지널 명상법’은 빨리어 초기경전인 니까야와 ‘청정도론’을 토대로 사마타와 위빠사나 수행을 체계적으로 정리했다. 법보신문에 2년간 연재한 ‘초…",
-          "publishedAt": "2026-10-16T10:54:40.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.8
-        },
-        {
-          "title": "시대와 지역에 따라 꽃피운 불교 수행의 세계",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338366",
-          "summary": "불교 수행은 하나의 방법으로 규정되지 않는다. 초기불교에서 대승불교와 밀교, 선불교에 이르기까지 시대와 지역에 따라 다양한 수행법이 발전해 왔다. 하여 신간 ‘불교 수행의 스펙트럼’은 불교 수행의 역사적 전개와 사상적 특징을 살피며 오늘날 수행이 갖는 의미를 되짚는다.책은 2024년 11월 위덕대 밀교문화연구원과 동아시아불교문화학회가 공동 개최한 학술대회…",
-          "publishedAt": "2026-10-16T10:46:58.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.8
-        },
-        {
-          "title": "문경 관음사, 지유 대종사 대중 법문 6년 만에 재개",
+          "title": "문경 관음사, 지유 선사 대중 법문 6년 만에 재개",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=338420",
-          "summary": "봉암사 조실 지유 대종사가 대중을 위해 선(禪) 법문을 펼치는 법회의 장이 다시 열렸다.문경 관음사(주지 담연 스님)는 10월 18일 경내 법당에서 ‘불기 2570년 10월 정기법회’를 봉행했다. 특히 이날 법석에서는 문경 봉암사 조실 지유 대종사가 법문을 펼쳤다. 관음사에서 스님이 법문을 설한 것은 코로나19로 법회가 중단된 지 6년 만이다. 이 자리에는…",
+          "summary": "봉암사 조실 지유 선사가 대중을 위해 선(禪) 법문을 펼치는 법회의 장이 다시 열렸다.문경 관음사(주지 담연 스님)는 10월 18일 경내 법당에서 ‘불기 2570년 10월 정기법회’를 봉행했다. 특히 이날 법석에서는 문경 봉암사 조실 지유 선사가 법문을 펼쳤다. 관음사에서 스님이 법문을 설한 것은 코로나19로 법회가 중단된 지 6년 만이다. 이 자리에는 법…",
           "publishedAt": "2026-10-19T02:12:10.000Z",
           "image": "",
           "sourceName": "법보신문",
@@ -144,20 +118,33 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.4
         },
         {
-          "title": "[법인 스님의 문자 반야] 60. 망상분별(妄想分別)",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505827",
-          "summary": "초기 불교 경전은 인간이 겪는 근원적 고통의 원인을 날카롭게 짚어낸다. 그 핵심에는 ‘빠판짜(Papaca)’, 즉 ‘망상분별(妄想分別)’ 또는 ‘희론(論)’이라 불리는 정신적 메커니즘이 있다. 감각기관과 대상이 만나면 촉(觸)이 일어나고, 이에 따라 느낌[受]과 지각[想]이 생겨난다. 그러나 마음이 여기에 언어와 개념을 덧씌우면 생각은 꼬리를 물고 번져 나…",
-          "publishedAt": "2026-10-16T10:22:48.000Z",
+          "title": "[염화실에서 법을 청하다] 서울 구룡사 회주 아산 정우대종사",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443255",
+          "summary": "1985년 서울 남대문시장에서 직접 천막을 사서 서초구 양재동에 천막 법당을 세우고 포교를 시작해 1989년 지금의 구룡사를 낙성한 전설적인 도심포교 인물이 정우대종사(구룡사 회주, 홍법문화복지법인 이사장)다. 30대에 도심포교를 시작해 쉼없이 정진해 ‘한국불교 도심포교의 전설’이 됐다. 정우스님은 이제 70대 중반에 들어서 종단의 ‘어른스님’이 돼 ‘노스…",
+          "publishedAt": "2026-10-18T13:58:33.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 2.6
+        },
+        {
+          "title": "대원각사, 비로자나불 대불 점안…\"자비광명 온누리에\"",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505870",
+          "summary": "부산 대원각사(주지 도천 스님)는 10월 17일 법신 비로자나불 대불 복장·개금 점안대법회를 봉행했다. 이날 법회에는 금정총림 방장 정여 대종사를 비롯해 대원각사 회주 안도 스님과 사부대중이 동참해 비로자나불의 원만한 점안을 축원했다.법회는 각현 스님의 법고시연과 성현 스님의 타종 5타로 시작됐다. 이어 개회사, 삼귀의례, 반야심경 봉독에 이어 비로자나불…",
+          "publishedAt": "2026-10-18T11:49:39.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 2.6
         }
       ]
     },
@@ -175,6 +162,19 @@
       "poolSize": 147,
       "items": [
         {
+          "title": "건국대 모빌리티인문학 연구원, ‘2026 모빌리티인문학 세계학술대회’ 개최",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211391",
+          "summary": "건국대 모빌리티인문학 연구원은 10월 29일부터 31일까지 건국대 법학관에서 '2026 모빌리티인문학 세계학술대회'를 개최한다고 밝혔다. 이번 학술대회는 건국대 모빌리티인문학 연구원과 싱가포르국립대 아시아연구소가 공동으로 연다. '기후, 모빌리티, 인프라'를 주제로 국내외 인문학·사회과학 연구자들이 기후위기 시대의 이동과 인프라 문제를 논의한다. GMHC는…",
+          "publishedAt": "2026-10-19T16:00:03.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 7.7
+        },
+        {
           "title": "창비 60돌 ‘한국사상선’ 완간 기념 학술대회…‘문명의 전환과 변혁의 모색’ 주제로",
           "link": "https://www.hani.co.kr/arti/culture/religion/1282817.html",
           "summary": "",
@@ -186,6 +186,19 @@
             "philosophy"
           ],
           "score": 6.5
+        },
+        {
+          "title": "한국인 식탁 바꾼 꼬집의 맛…미원•미풍 광고전으로 한판승부",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211369",
+          "summary": "[『한국 광고를 빛낸 33개 명장면』 ① 국산 조미료의 탄생]김장 맛을 내는 조미료를 샀는데 순금 반지, 스웨터, 내복, 쇼핑백까지 따라온다고 했다. 조미료 광고는 식구들을 좀 더 맛있게 먹이고 싶은 마음과 살림살이를 하나라도 더 장만하고 싶은 주부의 소망을 부엌에서 길어 올렸다.",
+          "publishedAt": "2026-10-19T08:25:45.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
         },
         {
           "title": "New: “Why Teach Philosophy?”",
@@ -212,32 +225,6 @@
             "philosophy"
           ],
           "score": 4.5
-        },
-        {
-          "title": "Mill’s Moral and Political Philosophy",
-          "link": "https://plato.stanford.edu/entries/mill-moral-political/",
-          "summary": "[Revised entry by David Brink on October 4, 2026. Changes to: Main text, notes.html] John Stuart Mill (1806 - 1873) was the most famous and influential British philosopher of the nineteenth century. H…",
-          "publishedAt": "2026-10-05T05:12:18.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4
-        },
-        {
-          "title": "Feminist Social Epistemology",
-          "link": "https://plato.stanford.edu/entries/feminist-social-epistemology/",
-          "summary": "[Revised entry by Heidi Grasswick on October 16, 2026. Changes to: Main text, Bibliography] Many of the significant contributors to the continually developing field of social epistemology have been fe…",
-          "publishedAt": "2026-10-17T02:35:52.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3.6
         }
       ]
     },
@@ -252,8 +239,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 180,
+      "poolSize": 178,
       "items": [
+        {
+          "title": "美서 전시된 '시왕도'가 위작?…유홍준 \"진품, 위작 절대 아냐\"",
+          "link": "https://www.yna.co.kr/view/AKR20261019112000005",
+          "summary": "(서울=연합뉴스) 김예나 기자 = 유홍준 국립중앙박물관장이 최근 미국 클리블랜드미술관 특별전에 출품한 '시왕도'가 진품이라고 밝혔다.",
+          "publishedAt": "2026-10-19T05:42:31.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019112000005_02_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 5.9
+        },
         {
           "title": "한낮 같은 밤, 폐허 속 여인…꿈같은 현대회화 대작들, 강남 한복판서 만난다",
           "link": "https://www.khan.co.kr/article/202610182045005/",
@@ -265,59 +265,46 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
+          "score": 5.6
         },
         {
-          "title": "강남 한복판에 걸린 기묘한 꿈…델보부터 쿠사마까지",
-          "link": "https://www.khan.co.kr/article/202610181359001/",
-          "summary": "‘현대회화 하이라이트: 시대의 초상’전현대미술 거장 14인 작품 20점 한자리에폴 델보 ‘크리스마스의 밤’(1956). 글로벌세아 아트스페이스 제공화면 한쪽에 보름달이 떠 있는데 붉은 옷을 입은 금발의 여인이 선 기차역 플랫폼은 한낮처럼 환하다. 다른 그림에는 고대 그리스 조각처럼 흰 천을 두른 여인이 새와 꽃으로 꾸민 모자를 쓰고 있다. 폐허가 된 도··…",
-          "publishedAt": "2026-10-18T04:59:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.1
-        },
-        {
-          "title": "재개발·철거로 달라진 성북, 예술가 시선으로…서울기록원 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261018018500004",
-          "summary": "(서울=연합뉴스) 김동규 기자 = 서울기록원과 성북문화재단은 공공기록과 예술작품을 통해 성북의 변화와 기억을 살펴보는 '예술가들이 기록한 도시'...",
-          "publishedAt": "2026-10-18T02:15:00.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/18/AKR20261018018500004_01_i_P2.jpg",
+          "title": "서세옥·서도호 부자 첫 동반 전시…성북아트위크 20일 개막",
+          "link": "https://www.yna.co.kr/view/AKR20261019136700005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 사람을 뜻하는 한자 '인'(人)을 층층이 쌓아 탑처럼 만든 서세옥의 작품 '기다리는 사람들'. 그 옆에는 사람...",
+          "publishedAt": "2026-10-19T07:17:04.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019136700005_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 4.5
         },
         {
-          "title": "[충남소식] 공주 제민천길, 드라마 작가 선호 여행지 1위",
-          "link": "https://www.yna.co.kr/view/AKR20261018016300063",
-          "summary": "(홍성=연합뉴스) ▲ 공주 제민천길, 드라마 작가 선호 여행지 1위 = 충남도는 공주 제민천길이 드라마 작가들이 선호하는 여행지이자 작품 배경지...",
-          "publishedAt": "2026-10-18T01:03:50.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/18/AKR20261018016300063_01_i_P2.jpg",
+          "title": "'시민의 기억 찬란한 기록' 익산시, 민간기록물 한 달간 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261019117200055",
+          "summary": "(익산=연합뉴스) 김진방 기자 = 전북 익산시는 오는 30일부터 11월 29일까지 솜리문화예술회관에서 '제6회 익산시 민간기록물 수집 공모전 전...",
+          "publishedAt": "2026-10-19T06:02:34.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019117200055_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 4.5
         },
         {
-          "title": "대전시, 25일 시청 남문광장서 '2026 동물사랑 큰잔치'",
-          "link": "https://www.yna.co.kr/view/AKR20261018014900063",
-          "summary": "(대전=연합뉴스) 양영석 기자 = 대전시는 오는 25일 시청 남문광장에서 대전수의사회, 충남대학교 수의학과 학생회와 공동으로 '동물사랑 큰잔치'...",
-          "publishedAt": "2026-10-18T00:52:30.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/18/AKR20261018014900063_01_i_P2.jpg",
+          "title": "김해시, 중국 징더전시와 도자 문화·산업 교류 협력 협약",
+          "link": "https://www.yna.co.kr/view/AKR20261019111500052",
+          "summary": "(김해=연합뉴스) 이준영 기자 = 경남 김해시는 19일 중국 장시성 징더전시청에서 중국 도자기 생산지로 유명한 징더전시와 도자 문화·산업 분야의...",
+          "publishedAt": "2026-10-19T05:30:04.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019111500052_02_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 4.4
         }
       ]
     }
