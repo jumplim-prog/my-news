@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-19T08:23:19.245Z",
+  "builtAt": "2026-10-19T16:06:22.663Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 329,
+      "poolSize": 330,
       "items": [
         {
           "title": "원/달러 환율 2년만에 또 최저…위안화 환율도 1년만에 최저(종합)",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "[외환] 원/달러 환율 1.1원 내린 1,330.3원(15:30 기준가)",
@@ -38,20 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
-        },
-        {
-          "title": "원달러환율 2년 1개웖만에 최저",
-          "link": "https://www.mk.co.kr/news/economy/12178910",
-          "summary": "18일 서울 중구 명동의 환전소에 외환 시세가 표시돼 있다. 한국은행 경제통계시스템에 따르면, 이달 들어 12거래일간 원·달러 평균 환율은 1,342.6원으로, 2024년 9월 평..",
-          "publishedAt": "2026-10-18T07:30:15.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/18/news-p.v1.20261018.64fe9aa6ba594e18981a83562ca21b53_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7
+          "score": 7.3
         },
         {
           "title": "1330원 코앞에서 멈춘 원-달러 환율…더 안 떨어지는 이유는?",
@@ -67,17 +54,30 @@
           "score": 6.5
         },
         {
-          "title": "‘AI 거품론’에 국채값 오르고 달러 내려…미국에 쏠린 투자, 회수 움직임",
-          "link": "https://www.hani.co.kr/arti/economy/finance/1282907.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레",
-          "sourceId": "hani-economy",
+          "title": "국고채 금리, 금통위 앞두고 일제히 상승…3년물 연 3.877%",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008804857",
+          "summary": "▲ 자료화면국고채 금리가 19일 일제히 상승 마감했습니다.이날 서울 채권시장에서 3년 만기 국고채 금리는 전 거래일보다 2.3bp 오…",
+          "publishedAt": "2026-10-19T08:25:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20240328/201912440_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6.5
+          "score": 5.8
+        },
+        {
+          "title": "이형일 \"환율, 펀더멘털 찾는 중…한미 스와프, 의미 있고 필요\"",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803829",
+          "summary": "▲ 발언하는 이형일 부총리이형일 부총리 겸 재정경제부 장관은 최근 원·달러 환율이 1,330원 안팎으로 내려온 상황을 두고 \"…",
+          "publishedAt": "2026-10-19T01:17:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261019/202232612_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.7
         }
       ]
     },
@@ -92,21 +92,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 203,
+      "poolSize": 189,
       "items": [
-        {
-          "title": "초기불교와 대승불교의 회통",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443236",
-          "summary": "무아와 일심부처님이 세상을 떠난 뒤, 그 가르침은 하나로 남지 않았다. 한쪽은 ‘나’라고 할 만한 것이 없다는 ‘무아(無我)’를 강조했고, 다른 한쪽은 모든 것의 바탕에 하나의 마음, 즉 ‘일심(一心)’이 있다고 말했다. 대승불교가 등장한 이래, 이 둘이 같은 붓다의 가르침인가를 두고 논쟁은 한 번도 가라앉은 적이 없다. ‘대승은 붓다의 가르침이 아니다’라…",
-          "publishedAt": "2026-10-16T09:16:15.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 6
-        },
         {
           "title": "문경 관음사, 지유 선사 대중 법문 6년 만에 재개",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=338420",
@@ -118,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "[염화실에서 법을 청하다] 서울 구룡사 회주 아산 정우대종사",
@@ -131,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.6
+          "score": 2.5
         },
         {
           "title": "대원각사, 비로자나불 대불 점안…\"자비광명 온누리에\"",
@@ -144,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.6
+          "score": 2.4
         }
       ]
     },
@@ -172,7 +159,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.7
+          "score": 7.5
         },
         {
           "title": "창비 60돌 ‘한국사상선’ 완간 기념 학술대회…‘문명의 전환과 변혁의 모색’ 주제로",
@@ -186,19 +173,6 @@
             "philosophy"
           ],
           "score": 6.5
-        },
-        {
-          "title": "한국인 식탁 바꾼 꼬집의 맛…미원•미풍 광고전으로 한판승부",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211369",
-          "summary": "[『한국 광고를 빛낸 33개 명장면』 ① 국산 조미료의 탄생]김장 맛을 내는 조미료를 샀는데 순금 반지, 스웨터, 내복, 쇼핑백까지 따라온다고 했다. 조미료 광고는 식구들을 좀 더 맛있게 먹이고 싶은 마음과 살림살이를 하나라도 더 장만하고 싶은 주부의 소망을 부엌에서 길어 올렸다.",
-          "publishedAt": "2026-10-19T08:25:45.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.5
         },
         {
           "title": "New: “Why Teach Philosophy?”",
@@ -225,6 +199,19 @@
             "philosophy"
           ],
           "score": 4.5
+        },
+        {
+          "title": "New Philosophy of AI Initiatives",
+          "link": "https://dailynous.com/2026/10/19/new-philosophy-of-ai-initiatives/",
+          "summary": "The London School of Economics and Political Science (LSE) and the University of Toronto have launched new initiatives to support and focus philosophical research on […] The post New Philosophy of AI…",
+          "publishedAt": "2026-10-19T11:00:00.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/10/Paolozzi-Eduardo-Perception-through-Impression-The-Conditional-Probability-Machine-1024x567.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.4
         }
       ]
     },
@@ -239,7 +226,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 178,
+      "poolSize": 187,
       "items": [
         {
           "title": "美서 전시된 '시왕도'가 위작?…유홍준 \"진품, 위작 절대 아냐\"",
@@ -252,7 +239,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.9
+          "score": 5.8
         },
         {
           "title": "한낮 같은 밤, 폐허 속 여인…꿈같은 현대회화 대작들, 강남 한복판서 만난다",
@@ -265,7 +252,33 @@
           "candidates": [
             "art"
           ],
-          "score": 5.6
+          "score": 5.4
+        },
+        {
+          "title": "유홍준, 본인 소유 ‘친일파 글씨’ 셀프 전시·세탁 의혹에 사과",
+          "link": "https://www.khan.co.kr/article/202610192144005/",
+          "summary": "국감 직전 드러난 소장자 보도에“미술사가로서 실수 인정에 주저”감정 질의에 “제가 전공자라 확신”사퇴 요구엔 별도 입장 표명 없어국감 질의에 답하는 유홍준 관장 유홍준 국립중앙박물관장이 19일 국회 문화체육관광위원회 국정감사에서 개인소장품 ‘셀프 전시’ 논란에 대한 질의에 답하고 있다. 그는 “미술사가로서 실수를 공개하는 데 주저했다”며 사과했다. 연합뉴스…",
+          "publishedAt": "2026-10-19T12:44:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "'울산교육문화예술제' 23∼29일 열려…전시·공연·체험 마련",
+          "link": "https://www.yna.co.kr/view/AKR20261019162800057",
+          "summary": "(울산=연합뉴스) 김용태 기자 = 울산시교육청은 23∼29일 울산학생교육문화회관에서 '제29회 울산교육문화예술제'를 개최한다고 19일 밝혔다.",
+          "publishedAt": "2026-10-19T09:04:22.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019162800057_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "서세옥·서도호 부자 첫 동반 전시…성북아트위크 20일 개막",
@@ -278,33 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
-        },
-        {
-          "title": "'시민의 기억 찬란한 기록' 익산시, 민간기록물 한 달간 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261019117200055",
-          "summary": "(익산=연합뉴스) 김진방 기자 = 전북 익산시는 오는 30일부터 11월 29일까지 솜리문화예술회관에서 '제6회 익산시 민간기록물 수집 공모전 전...",
-          "publishedAt": "2026-10-19T06:02:34.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019117200055_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "김해시, 중국 징더전시와 도자 문화·산업 교류 협력 협약",
-          "link": "https://www.yna.co.kr/view/AKR20261019111500052",
-          "summary": "(김해=연합뉴스) 이준영 기자 = 경남 김해시는 19일 중국 장시성 징더전시청에서 중국 도자기 생산지로 유명한 징더전시와 도자 문화·산업 분야의...",
-          "publishedAt": "2026-10-19T05:30:04.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019111500052_02_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
+          "score": 4.3
         }
       ]
     }
