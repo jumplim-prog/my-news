@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-19T16:06:22.663Z",
+  "builtAt": "2026-10-20T00:03:57.629Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 330,
+      "poolSize": 333,
       "items": [
         {
           "title": "원/달러 환율 2년만에 또 최저…위안화 환율도 1년만에 최저(종합)",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "[외환] 원/달러 환율 1.1원 내린 1,330.3원(15:30 기준가)",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.1
         },
         {
           "title": "1330원 코앞에서 멈춘 원-달러 환율…더 안 떨어지는 이유는?",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.8
+          "score": 5.7
         },
         {
           "title": "이형일 \"환율, 펀더멘털 찾는 중…한미 스와프, 의미 있고 필요\"",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.7
+          "score": 5.5
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 189,
+      "poolSize": 181,
       "items": [
         {
           "title": "문경 관음사, 지유 선사 대중 법문 6년 만에 재개",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
           "title": "[염화실에서 법을 청하다] 서울 구룡사 회주 아산 정우대종사",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.5
+          "score": 2.3
         },
         {
           "title": "대원각사, 비로자나불 대불 점안…\"자비광명 온누리에\"",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.4
+          "score": 2.2
         }
       ]
     },
@@ -159,7 +159,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "창비 60돌 ‘한국사상선’ 완간 기념 학술대회…‘문명의 전환과 변혁의 모색’ 주제로",
@@ -211,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.4
+          "score": 4.2
         }
       ]
     },
@@ -226,8 +226,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 187,
+      "poolSize": 189,
       "items": [
+        {
+          "title": "체크인 안 해도 호텔 간다…미술관·공연장으로 변신한 호텔들",
+          "link": "https://www.yna.co.kr/view/AKR20261019152300030",
+          "summary": "(서울=연합뉴스) 구정모 기자 = 호텔·리조트업계가 세계적인 미술 거장의 작품을 전시하고 대형 음악 축제를 개최하는 등 문화예술 콘텐츠를 강화하...",
+          "publishedAt": "2026-10-19T21:31:05.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019152300030_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 5.9
+        },
         {
           "title": "美서 전시된 '시왕도'가 위작?…유홍준 \"진품, 위작 절대 아냐\"",
           "link": "https://www.yna.co.kr/view/AKR20261019112000005",
@@ -239,7 +252,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
+          "score": 5.6
         },
         {
           "title": "한낮 같은 밤, 폐허 속 여인…꿈같은 현대회화 대작들, 강남 한복판서 만난다",
@@ -252,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.4
+          "score": 5.2
         },
         {
           "title": "유홍준, 본인 소유 ‘친일파 글씨’ 셀프 전시·세탁 의혹에 사과",
@@ -265,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "'울산교육문화예술제' 23∼29일 열려…전시·공연·체험 마련",
@@ -278,20 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
-        },
-        {
-          "title": "서세옥·서도호 부자 첫 동반 전시…성북아트위크 20일 개막",
-          "link": "https://www.yna.co.kr/view/AKR20261019136700005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 사람을 뜻하는 한자 '인'(人)을 층층이 쌓아 탑처럼 만든 서세옥의 작품 '기다리는 사람들'. 그 옆에는 사람...",
-          "publishedAt": "2026-10-19T07:17:04.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019136700005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.3
+          "score": 4.2
         }
       ]
     }
