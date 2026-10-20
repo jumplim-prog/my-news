@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-20T00:03:57.629Z",
+  "builtAt": "2026-10-20T08:06:14.615Z",
   "cards": [
     {
       "id": "econ",
@@ -12,33 +12,59 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 333,
+      "poolSize": 336,
       "items": [
         {
-          "title": "원/달러 환율 2년만에 또 최저…위안화 환율도 1년만에 최저(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20261019137151002",
-          "summary": "(서울=연합뉴스) 채새롬 기자 = 19일 원/달러 환율이 오후 3시 30분 기준 1,330원선까지 내려가며 2년 만에 최저치를 다시 기록했다.",
-          "publishedAt": "2026-10-19T07:24:48.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/19/PYH2026101915580001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "원·달러 환율 1,325원 연저점 또 경신…원·엔 환율도",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806492",
+          "summary": "▲ 이달 원·달러 환율이 반도체 수출 호조에 따른 달러 공급 확대 등에 힘입어 2년 1개월 만에 최저 수준으로 내려갔고 원·엔 재정환…",
+          "publishedAt": "2026-10-20T07:12:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261020/202233089_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.5
         },
         {
-          "title": "[외환] 원/달러 환율 1.1원 내린 1,330.3원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261019129000002",
+          "title": "[외환] 원/달러 환율 2.2원 내린 1,328.1원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261020124400002",
           "summary": "(",
-          "publishedAt": "2026-10-19T06:30:49.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019129000002_01_i_P2.jpg",
+          "publishedAt": "2026-10-20T06:30:48.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020124400002_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 7.5
+        },
+        {
+          "title": "채권시장 참여자 93% \"10월 금통위서 기준금리 동결 예상\"",
+          "link": "https://www.yna.co.kr/view/AKR20261020070400008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 채권시장 참여자 10명 중 9명은 이달 한국은행 금융통화위원회가 기준금리를 동결할 것으로 예상했다.",
+          "publishedAt": "2026-10-20T01:54:03.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020070400008_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "원-달러 환율 2년여 만에 최저…수출 기업 달러 매도에 1320원대 ‘뚝’",
+          "link": "https://www.hani.co.kr/arti/economy/economy_general/1283261.html",
+          "summary": "",
+          "publishedAt": null,
+          "image": "",
+          "sourceName": "한겨레",
+          "sourceId": "hani-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6.5
         },
         {
           "title": "1330원 코앞에서 멈춘 원-달러 환율…더 안 떨어지는 이유는?",
@@ -52,32 +78,6 @@
             "econ"
           ],
           "score": 6.5
-        },
-        {
-          "title": "국고채 금리, 금통위 앞두고 일제히 상승…3년물 연 3.877%",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008804857",
-          "summary": "▲ 자료화면국고채 금리가 19일 일제히 상승 마감했습니다.이날 서울 채권시장에서 3년 만기 국고채 금리는 전 거래일보다 2.3bp 오…",
-          "publishedAt": "2026-10-19T08:25:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20240328/201912440_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.7
-        },
-        {
-          "title": "이형일 \"환율, 펀더멘털 찾는 중…한미 스와프, 의미 있고 필요\"",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803829",
-          "summary": "▲ 발언하는 이형일 부총리이형일 부총리 겸 재정경제부 장관은 최근 원·달러 환율이 1,330원 안팎으로 내려온 상황을 두고 \"…",
-          "publishedAt": "2026-10-19T01:17:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261019/202232612_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.5
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 181,
+      "poolSize": 202,
       "items": [
         {
           "title": "문경 관음사, 지유 선사 대중 법문 6년 만에 재개",
@@ -105,20 +105,46 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.9
         },
         {
-          "title": "[염화실에서 법을 청하다] 서울 구룡사 회주 아산 정우대종사",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443255",
-          "summary": "1985년 서울 남대문시장에서 직접 천막을 사서 서초구 양재동에 천막 법당을 세우고 포교를 시작해 1989년 지금의 구룡사를 낙성한 전설적인 도심포교 인물이 정우대종사(구룡사 회주, 홍법문화복지법인 이사장)다. 30대에 도심포교를 시작해 쉼없이 정진해 ‘한국불교 도심포교의 전설’이 됐다. 정우스님은 이제 70대 중반에 들어서 종단의 ‘어른스님’이 돼 ‘노스…",
-          "publishedAt": "2026-10-18T13:58:33.000Z",
+          "title": "기도에서 나눔으로, 시민과 함께 여는 화합의 장…용인 법륜사",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4113587",
+          "summary": "용인 무수산 법륜사가 시민과 함께하는 다양한 행사를 열어 화합의 의미를 되새겼습니다.법륜사는 최근 만일결사 제5차 천일기도 400일 회향 무차법회와 자선바자회, 산사음악회 등을 진행했습니다.주지 현암스님은 부처님께서 깨달으신 연기법과 사성제의 가르침을 바탕으로 어려움 속에서도 수행과 나눔을 이어가는 의미를 강조했습니다.[현암스님 / 법륜사 주지 : 우리 아…",
+          "publishedAt": "2026-10-20T16:43:02.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
+        },
+        {
+          "title": "금정총림 범어사, 개산 1348주년 개산대재 봉행",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505925",
+          "summary": "금정총림 범어사(주지 정오 스님)가 10월 20일 경내에서 개산 1348주년 개산대재를 봉행됐다. 이날 법요식에는 방장 정여 대종사와 수좌 수불 대종사, 주지 정오 스님, 이윤희 범어사신도회장을 비롯한 사부대중이 동참해 범어사를 창건한 의상조사의 원력을 되새기고, 오랜 세월 이어온 불교 전통과 가르침을 기렸다.법요식은 육법공양과 삼귀의, 반야심경 봉독, 헌…",
+          "publishedAt": "2026-10-20T16:37:23.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
+        },
+        {
+          "title": "충주 미륵세계사, 미륵대재 봉행…자비와 평화의 세상 발원",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443345",
+          "summary": "충북 충주 미륵세계사가 미륵부처님의 자비와 지혜를 되새기고 모든 중생이 평화롭고 행복한 미륵세상이 도래하기를 발원하는 법석을 마련했다.미륵세계사(주지 법초스님)는 10월17일 경내 보물 제96호 석조여래입상 앞에서 법주사 주지 정덕스님과 한대수 포교사단 충북지역단장을 비롯한 사부대중이 동참한 가운데 미륵대재를 봉행했다.이날 미륵대재는 삼귀의와 반야심경 봉독…",
+          "publishedAt": "2026-10-20T15:20:23.000Z",
           "image": "",
           "sourceName": "불교신문",
           "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.3
+          "score": 3.2
         },
         {
           "title": "대원각사, 비로자나불 대불 점안…\"자비광명 온누리에\"",
@@ -131,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.2
+          "score": 2.1
         }
       ]
     },
@@ -159,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "창비 60돌 ‘한국사상선’ 완간 기념 학술대회…‘문명의 전환과 변혁의 모색’ 주제로",
@@ -173,6 +199,19 @@
             "philosophy"
           ],
           "score": 6.5
+        },
+        {
+          "title": "한국공학대, 지역주민 위한 인문학 강연 ‘런치 콘서트’ 개최",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211422",
+          "summary": "한국공학대 평생교육원이 지난 8일 시흥비즈니스라운지에서 제2회 런치 콘서트 '한 사람의 삶, 다섯 개의 창'을 열었다. 이번 행사는 시흥시 정왕권 직장인과 지역주민, 대학 교직원, 평생학습 참여자를 대상으로 진행했다. 한국공학대는 시흥시와 함께 2026년 시흥시 정왕권 평생학습 특화사업의 일환으로 이번 콘서트를 마련했다고 밝혔다. 강연은 최윤경 한국공학대…",
+          "publishedAt": "2026-10-20T11:16:35.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.6
         },
         {
           "title": "New: “Why Teach Philosophy?”",
@@ -199,19 +238,6 @@
             "philosophy"
           ],
           "score": 4.5
-        },
-        {
-          "title": "New Philosophy of AI Initiatives",
-          "link": "https://dailynous.com/2026/10/19/new-philosophy-of-ai-initiatives/",
-          "summary": "The London School of Economics and Political Science (LSE) and the University of Toronto have launched new initiatives to support and focus philosophical research on […] The post New Philosophy of AI…",
-          "publishedAt": "2026-10-19T11:00:00.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/10/Paolozzi-Eduardo-Perception-through-Impression-The-Conditional-Probability-Machine-1024x567.png",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.2
         }
       ]
     },
@@ -226,33 +252,59 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 189,
+      "poolSize": 192,
       "items": [
         {
-          "title": "체크인 안 해도 호텔 간다…미술관·공연장으로 변신한 호텔들",
-          "link": "https://www.yna.co.kr/view/AKR20261019152300030",
-          "summary": "(서울=연합뉴스) 구정모 기자 = 호텔·리조트업계가 세계적인 미술 거장의 작품을 전시하고 대형 음악 축제를 개최하는 등 문화예술 콘텐츠를 강화하...",
-          "publishedAt": "2026-10-19T21:31:05.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019152300030_01_i_P2.jpg",
+          "title": "전남수묵비엔날레 총감독에 장현우 전시기획자 위촉",
+          "link": "https://www.yna.co.kr/view/AKR20261020119800054",
+          "summary": "(전남광주=연합뉴스) 형민우 기자 = 전남광주통합특별시는 '2027 전남국제수묵비엔날레' 총감독에 장현우 전시기획자를 위촉했다고 20일 밝혔다.",
+          "publishedAt": "2026-10-20T06:14:38.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020119800054_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "빛과 바람을 매단 천칭…국립현대미술관에 뜬 올라퍼 엘리아슨 신작",
+          "link": "https://www.khan.co.kr/article/202610201319001/",
+          "summary": "국립현대미술관 서울관 로비에 설치된 올라퍼 엘리아슨의 신작 ‘예측할 수 없는 궤도’. 국립현대미술관 제공국립현대미술관 서울관 로비에 설치된 올라퍼 엘리아슨의 신작 ‘예측할 수 없는 궤도’. 국립현대미술관 제공국립현대미술관 서울관 로비에 설치된 올라퍼 엘리아슨의 신작 ‘예측할 수 없는 궤도’. 국립현대미술관 제공국립현대미술관 서울관 로비에 천···",
+          "publishedAt": "2026-10-20T04:19:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "빛·움직임으로 공간 바꾸는 엘리아슨…국립현대미술관 신작 공개",
+          "link": "https://www.yna.co.kr/view/AKR20261020046000005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관(MMCA) 서울관 로비에 빛을 내는 유리 다면체와 선풍기가 매달린 조형물이 등장했다. 불규칙하게...",
+          "publishedAt": "2026-10-20T00:49:54.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020046000005_02_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.3
+        },
+        {
+          "title": "서울시립미술관, 美 원로 미디어아티스트 린 허쉬만 리슨 개인전",
+          "link": "https://www.yna.co.kr/view/AKR20261019166200004",
+          "summary": "(서울=연합뉴스) 김준태 기자 = 서울시립미술관은 미국의 원로 미디어아트 작가이자 영화감독인 린 허쉬만 리슨의 개인전 '린 허쉬만 리슨: 나의 ...",
+          "publishedAt": "2026-10-20T01:30:04.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019166200004_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
           "score": 5.9
-        },
-        {
-          "title": "美서 전시된 '시왕도'가 위작?…유홍준 \"진품, 위작 절대 아냐\"",
-          "link": "https://www.yna.co.kr/view/AKR20261019112000005",
-          "summary": "(서울=연합뉴스) 김예나 기자 = 유홍준 국립중앙박물관장이 최근 미국 클리블랜드미술관 특별전에 출품한 '시왕도'가 진품이라고 밝혔다.",
-          "publishedAt": "2026-10-19T05:42:31.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019112000005_02_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 5.6
         },
         {
           "title": "한낮 같은 밤, 폐허 속 여인…꿈같은 현대회화 대작들, 강남 한복판서 만난다",
@@ -265,33 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.2
-        },
-        {
-          "title": "유홍준, 본인 소유 ‘친일파 글씨’ 셀프 전시·세탁 의혹에 사과",
-          "link": "https://www.khan.co.kr/article/202610192144005/",
-          "summary": "국감 직전 드러난 소장자 보도에“미술사가로서 실수 인정에 주저”감정 질의에 “제가 전공자라 확신”사퇴 요구엔 별도 입장 표명 없어국감 질의에 답하는 유홍준 관장 유홍준 국립중앙박물관장이 19일 국회 문화체육관광위원회 국정감사에서 개인소장품 ‘셀프 전시’ 논란에 대한 질의에 답하고 있다. 그는 “미술사가로서 실수를 공개하는 데 주저했다”며 사과했다. 연합뉴스…",
-          "publishedAt": "2026-10-19T12:44:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.3
-        },
-        {
-          "title": "'울산교육문화예술제' 23∼29일 열려…전시·공연·체험 마련",
-          "link": "https://www.yna.co.kr/view/AKR20261019162800057",
-          "summary": "(울산=연합뉴스) 김용태 기자 = 울산시교육청은 23∼29일 울산학생교육문화회관에서 '제29회 울산교육문화예술제'를 개최한다고 19일 밝혔다.",
-          "publishedAt": "2026-10-19T09:04:22.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019162800057_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.2
+          "score": 5.1
         }
       ]
     }
