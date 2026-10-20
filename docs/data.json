@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-20T14:02:00.695Z",
+  "builtAt": "2026-10-20T23:35:08.087Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,47 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 335,
+      "poolSize": 334,
       "items": [
+        {
+          "title": "iM증권, 한화생명 목표가↓…\"금리·환율 영향 투자 손실 악화\"",
+          "link": "https://www.yna.co.kr/view/AKR20261021023200008",
+          "summary": "(서울=연합뉴스) 김유아 기자 = iM증권은 21일 한화생명[088350]에 대해 금리 상승과 환율 하락 등에 따른 투자손실 악화와 신계약 축소...",
+          "publishedAt": "2026-10-20T23:20:24.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2021/07/30/43/PCM20210730000143990_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "Fed 추가 금리 인상 우려에 금값 하락…4000달러 지지선 주목",
+          "link": "https://www.hankyung.com/article/202610214657i",
+          "summary": "",
+          "publishedAt": "2026-10-20T23:02:25.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "佛 채권금리 年 5% 육박…재정위기 초기 그리스 넘어",
+          "link": "https://www.hankyung.com/article/2026102041591",
+          "summary": "",
+          "publishedAt": "2026-10-20T21:00:12.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "2번 연속 금리 올린 한국은행…“또 올리나” vs “동결하나” 관심 집중",
           "link": "https://www.mk.co.kr/news/economy/12180901",
@@ -25,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "[단독] \"채권 금리 올리지마\" 재경부, 은행채 발행 자제령",
@@ -35,45 +74,6 @@
           "image": "",
           "sourceName": "한국경제",
           "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "원·달러 환율 1,325원 연저점 또 경신…원·엔 환율도",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806492",
-          "summary": "▲ 이달 원·달러 환율이 반도체 수출 호조에 따른 달러 공급 확대 등에 힘입어 2년 1개월 만에 최저 수준으로 내려갔고 원·엔 재정환…",
-          "publishedAt": "2026-10-20T07:12:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261020/202233089_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "[외환] 원/달러 환율 2.2원 내린 1,328.1원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261020124400002",
-          "summary": "(",
-          "publishedAt": "2026-10-20T06:30:48.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020124400002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
-        },
-        {
-          "title": "채권시장 참여자 93% \"10월 금통위서 기준금리 동결 예상\"",
-          "link": "https://www.yna.co.kr/view/AKR20261020070400008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 채권시장 참여자 10명 중 9명은 이달 한국은행 금융통화위원회가 기준금리를 동결할 것으로 예상했다.",
-          "publishedAt": "2026-10-20T01:54:03.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020070400008_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.4
         },
         {
           "title": "문경 관음사, 지유 선사 대중 법문 6년 만에 재개",
@@ -118,20 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.8
-        },
-        {
-          "title": "기도에서 나눔으로, 시민과 함께 여는 화합의 장…용인 법륜사",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4113587",
-          "summary": "용인 무수산 법륜사가 시민과 함께하는 다양한 행사를 열어 화합의 의미를 되새겼습니다.법륜사는 최근 만일결사 제5차 천일기도 400일 회향 무차법회와 자선바자회, 산사음악회 등을 진행했습니다.주지 현암스님은 부처님께서 깨달으신 연기법과 사성제의 가르침을 바탕으로 어려움 속에서도 수행과 나눔을 이어가는 의미를 강조했습니다.[현암스님 / 법륜사 주지 : 우리 아…",
-          "publishedAt": "2026-10-20T16:43:02.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.1
+          "score": 3.6
         },
         {
           "title": "금정총림 범어사, 개산 1348주년 개산대재 봉행",
@@ -144,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 2.9
         },
         {
           "title": "충주 미륵세계사, 미륵대재 봉행…자비와 평화의 세상 발원",
@@ -157,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.8
         }
       ]
     },
@@ -172,8 +159,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 147,
+      "poolSize": 148,
       "items": [
+        {
+          "title": "Locke’s Moral Philosophy",
+          "link": "https://plato.stanford.edu/entries/locke-moral/",
+          "summary": "[Revised entry by Patricia Sheridan on October 20, 2026. Changes to: Main text, Bibliography] Locke's greatest philosophical work, An Essay Concerning Human Understanding, is generally seen as a defin…",
+          "publishedAt": "2026-10-20T23:49:21.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 7.5
+        },
         {
           "title": "창비 60돌 ‘한국사상선’ 완간 기념 학술대회…‘문명의 전환과 변혁의 모색’ 주제로",
           "link": "https://www.hani.co.kr/arti/culture/religion/1282817.html",
@@ -214,30 +214,18 @@
           "score": 4.5
         },
         {
-          "title": "한국공학대, 지역주민 위한 인문학 강연 ‘런치 콘서트’ 개최",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211422",
-          "summary": "한국공학대 평생교육원이 지난 8일 시흥비즈니스라운지에서 제2회 런치 콘서트 '한 사람의 삶, 다섯 개의 창'을 열었다. 이번 행사는 시흥시 정왕권 직장인과 지역주민, 대학 교직원, 평생학습 참여자를 대상으로 진행했다. 한국공학대는 시흥시와 함께 2026년 시흥시 정왕권 평생학습 특화사업의 일환으로 이번 콘서트를 마련했다고 밝혔다. 강연은 최윤경 한국공학대…",
-          "publishedAt": "2026-10-20T11:16:35.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
+          "title": "Why AI alignment science took a turn towards virtue ethics",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/10/why-ai-alignment-science-took-a-turn-towards-virtue-ethics.html",
+          "summary": "Daniel Bashir at Asterisk: AI alignment has always started with the question: If, one day, we develop superintelligent machines, how do we ensure they do what we actually want? In the field’s prehisto…",
+          "publishedAt": "2026-10-20T17:45:00.000Z",
+          "image": "https://3quarksdaily.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-120424-360x360.png",
+          "sourceName": "3 Quarks Daily",
+          "sourceId": "3quarks",
           "candidates": [
-            "philosophy"
+            "philosophy",
+            "art"
           ],
           "score": 4.4
-        },
-        {
-          "title": "Mill’s Moral and Political Philosophy",
-          "link": "https://plato.stanford.edu/entries/mill-moral-political/",
-          "summary": "[Revised entry by David Brink on October 4, 2026. Changes to: Main text, notes.html] John Stuart Mill (1806 - 1873) was the most famous and influential British philosopher of the nineteenth century. H…",
-          "publishedAt": "2026-10-05T05:12:18.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4
         }
       ]
     },
@@ -252,7 +240,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 199,
+      "poolSize": 203,
       "items": [
         {
           "title": "전남수묵비엔날레 총감독에 장현우 전시기획자 위촉",
@@ -265,7 +253,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
+          "score": 7.1
         },
         {
           "title": "빛과 바람을 매단 천칭…국립현대미술관에 뜬 올라퍼 엘리아슨 신작",
@@ -278,20 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
-        },
-        {
-          "title": "빛·움직임으로 공간 바꾸는 엘리아슨…국립현대미술관 신작 공개",
-          "link": "https://www.yna.co.kr/view/AKR20261020046000005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관(MMCA) 서울관 로비에 빛을 내는 유리 다면체와 선풍기가 매달린 조형물이 등장했다. 불규칙하게...",
-          "publishedAt": "2026-10-20T00:49:54.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020046000005_02_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 7.2
+          "score": 7.1
         },
         {
           "title": "서울시립미술관, 美 원로 미디어아티스트 린 허쉬만 리슨 개인전",
@@ -304,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.7
+          "score": 5.5
         },
         {
           "title": "한낮 같은 밤, 폐허 속 여인…꿈같은 현대회화 대작들, 강남 한복판서 만난다",
@@ -317,7 +292,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5
+          "score": 4.8
+        },
+        {
+          "title": "한일 대표 작가들의 문학적 대화…12월 '한일 작가 다이얼로그'",
+          "link": "https://www.yna.co.kr/view/AKR20261020127900005",
+          "summary": "(서울=연합뉴스) 김기훈 기자 = 한국과 일본을 대표하는 작가들이 한자리에 모여 작품세계를 공유하고 미래를 모색하는 행사가 열린다.",
+          "publishedAt": "2026-10-20T07:12:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020127900005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.2
         }
       ]
     }
