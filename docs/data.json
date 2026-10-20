@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-20T08:06:14.615Z",
+  "builtAt": "2026-10-20T14:02:00.695Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 336,
+      "poolSize": 335,
       "items": [
+        {
+          "title": "2번 연속 금리 올린 한국은행…“또 올리나” vs “동결하나” 관심 집중",
+          "link": "https://www.mk.co.kr/news/economy/12180901",
+          "summary": "이번주 22일 한은 기준금리 결정 시장은 11월 인상 가능성에 무게한국은행 금융통화위원회가 지난 7~8월 기준금리를 2차례 인상한 가운데, 오는 22일 기준금리 결정을 앞두고 동결..",
+          "publishedAt": "2026-10-20T08:52:12.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/20/news-p.v1.20261020.ac1d42ee02954718a175333d8730a30a_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "[단독] \"채권 금리 올리지마\" 재경부, 은행채 발행 자제령",
+          "link": "https://www.hankyung.com/article/2026102039961",
+          "summary": "",
+          "publishedAt": "2026-10-20T08:50:36.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "원·달러 환율 1,325원 연저점 또 경신…원·엔 환율도",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806492",
@@ -25,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
           "title": "[외환] 원/달러 환율 2.2원 내린 1,328.1원(15:30 기준가)",
@@ -38,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "채권시장 참여자 93% \"10월 금통위서 기준금리 동결 예상\"",
@@ -51,33 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
-        },
-        {
-          "title": "원-달러 환율 2년여 만에 최저…수출 기업 달러 매도에 1320원대 ‘뚝’",
-          "link": "https://www.hani.co.kr/arti/economy/economy_general/1283261.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레",
-          "sourceId": "hani-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.5
-        },
-        {
-          "title": "1330원 코앞에서 멈춘 원-달러 환율…더 안 떨어지는 이유는?",
-          "link": "https://www.hani.co.kr/arti/economy/economy_general/1283071.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레",
-          "sourceId": "hani-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.5
+          "score": 7.2
         }
       ]
     },
@@ -95,6 +95,19 @@
       "poolSize": 202,
       "items": [
         {
+          "title": "불국사 창건 김대성과 유식대가 원측스님 고향, '모량부' 조명",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443362",
+          "summary": "신라 6부 가운데 하나인 모량부의 불교 유산을 살펴보고, 현대적으로 활용할 방안을 모색하는 학술대회가 열린다.경주시가 주최하고 동국대 신라문화연구소가 주관하는 제46회 신라학술제가 10월30일 오후 1시 국립경주박물관 강당에서 열린다. 제53회 신라문화제의 일환으로 열리는 이번 학술제의 주제는 '신라 모량부의 불교 유산과 현대적 활용'이다.모량부는 지금의…",
+          "publishedAt": "2026-10-20T17:09:37.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.6
+        },
+        {
           "title": "문경 관음사, 지유 선사 대중 법문 6년 만에 재개",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=338420",
           "summary": "봉암사 조실 지유 선사가 대중을 위해 선(禪) 법문을 펼치는 법회의 장이 다시 열렸다.문경 관음사(주지 담연 스님)는 10월 18일 경내 법당에서 ‘불기 2570년 10월 정기법회’를 봉행했다. 특히 이날 법석에서는 문경 봉암사 조실 지유 선사가 법문을 펼쳤다. 관음사에서 스님이 법문을 설한 것은 코로나19로 법회가 중단된 지 6년 만이다. 이 자리에는 법…",
@@ -105,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.9
+          "score": 3.8
         },
         {
           "title": "기도에서 나눔으로, 시민과 함께 여는 화합의 장…용인 법륜사",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3.1
         },
         {
           "title": "금정총림 범어사, 개산 1348주년 개산대재 봉행",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3.1
         },
         {
           "title": "충주 미륵세계사, 미륵대재 봉행…자비와 평화의 세상 발원",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
-        },
-        {
-          "title": "대원각사, 비로자나불 대불 점안…\"자비광명 온누리에\"",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505870",
-          "summary": "부산 대원각사(주지 도천 스님)는 10월 17일 법신 비로자나불 대불 복장·개금 점안대법회를 봉행했다. 이날 법회에는 금정총림 방장 정여 대종사를 비롯해 대원각사 회주 안도 스님과 사부대중이 동참해 비로자나불의 원만한 점안을 축원했다.법회는 각현 스님의 법고시연과 성현 스님의 타종 5타로 시작됐다. 이어 개회사, 삼귀의례, 반야심경 봉독에 이어 비로자나불…",
-          "publishedAt": "2026-10-18T11:49:39.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.1
+          "score": 3
         }
       ]
     },
@@ -175,19 +175,6 @@
       "poolSize": 147,
       "items": [
         {
-          "title": "건국대 모빌리티인문학 연구원, ‘2026 모빌리티인문학 세계학술대회’ 개최",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211391",
-          "summary": "건국대 모빌리티인문학 연구원은 10월 29일부터 31일까지 건국대 법학관에서 '2026 모빌리티인문학 세계학술대회'를 개최한다고 밝혔다. 이번 학술대회는 건국대 모빌리티인문학 연구원과 싱가포르국립대 아시아연구소가 공동으로 연다. '기후, 모빌리티, 인프라'를 주제로 국내외 인문학·사회과학 연구자들이 기후위기 시대의 이동과 인프라 문제를 논의한다. GMHC는…",
-          "publishedAt": "2026-10-19T16:00:03.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 7.2
-        },
-        {
           "title": "창비 60돌 ‘한국사상선’ 완간 기념 학술대회…‘문명의 전환과 변혁의 모색’ 주제로",
           "link": "https://www.hani.co.kr/arti/culture/religion/1282817.html",
           "summary": "",
@@ -199,19 +186,6 @@
             "philosophy"
           ],
           "score": 6.5
-        },
-        {
-          "title": "한국공학대, 지역주민 위한 인문학 강연 ‘런치 콘서트’ 개최",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211422",
-          "summary": "한국공학대 평생교육원이 지난 8일 시흥비즈니스라운지에서 제2회 런치 콘서트 '한 사람의 삶, 다섯 개의 창'을 열었다. 이번 행사는 시흥시 정왕권 직장인과 지역주민, 대학 교직원, 평생학습 참여자를 대상으로 진행했다. 한국공학대는 시흥시와 함께 2026년 시흥시 정왕권 평생학습 특화사업의 일환으로 이번 콘서트를 마련했다고 밝혔다. 강연은 최윤경 한국공학대…",
-          "publishedAt": "2026-10-20T11:16:35.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.6
         },
         {
           "title": "New: “Why Teach Philosophy?”",
@@ -238,6 +212,32 @@
             "philosophy"
           ],
           "score": 4.5
+        },
+        {
+          "title": "한국공학대, 지역주민 위한 인문학 강연 ‘런치 콘서트’ 개최",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211422",
+          "summary": "한국공학대 평생교육원이 지난 8일 시흥비즈니스라운지에서 제2회 런치 콘서트 '한 사람의 삶, 다섯 개의 창'을 열었다. 이번 행사는 시흥시 정왕권 직장인과 지역주민, 대학 교직원, 평생학습 참여자를 대상으로 진행했다. 한국공학대는 시흥시와 함께 2026년 시흥시 정왕권 평생학습 특화사업의 일환으로 이번 콘서트를 마련했다고 밝혔다. 강연은 최윤경 한국공학대…",
+          "publishedAt": "2026-10-20T11:16:35.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "Mill’s Moral and Political Philosophy",
+          "link": "https://plato.stanford.edu/entries/mill-moral-political/",
+          "summary": "[Revised entry by David Brink on October 4, 2026. Changes to: Main text, notes.html] John Stuart Mill (1806 - 1873) was the most famous and influential British philosopher of the nineteenth century. H…",
+          "publishedAt": "2026-10-05T05:12:18.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 192,
+      "poolSize": 199,
       "items": [
         {
           "title": "전남수묵비엔날레 총감독에 장현우 전시기획자 위촉",
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "빛과 바람을 매단 천칭…국립현대미술관에 뜬 올라퍼 엘리아슨 신작",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.4
+          "score": 7.3
         },
         {
           "title": "빛·움직임으로 공간 바꾸는 엘리아슨…국립현대미술관 신작 공개",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "서울시립미술관, 美 원로 미디어아티스트 린 허쉬만 리슨 개인전",
@@ -304,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.9
+          "score": 5.7
         },
         {
           "title": "한낮 같은 밤, 폐허 속 여인…꿈같은 현대회화 대작들, 강남 한복판서 만난다",
@@ -317,7 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.1
+          "score": 5
         }
       ]
     }
