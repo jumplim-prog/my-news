@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-21T08:12:20.146Z",
+  "builtAt": "2026-10-21T14:17:57.905Z",
   "cards": [
     {
       "id": "econ",
@@ -16,16 +16,16 @@
       "items": [
         {
           "title": "원/달러 환율 4거래일 연속 연저점 기록…1,320원대 초반",
-          "link": "https://www.yna.co.kr/view/AKR20261021129200002",
-          "summary": "(서울=연합뉴스) 채새롬 기자 = 반도체 수출 호조에 환율 하락 기대가 지속되면서 21일 원/달러 환율이 4거래일 연속 연저점을 경신했다.",
-          "publishedAt": "2026-10-21T06:52:03.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/21/PYH2026102116410001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808518",
+          "summary": "▲ 21일 서울 중구 명동의 한 환전소 앞에서 외국인 관광객들이 환전을 위해 줄을 서고 있다.반도체 수출 호조에 환율 하락 기대가 지…",
+          "publishedAt": "2026-10-21T07:04:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261021/202233507_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "[외환] 원/달러 환율 2.9원 내린 1,325.2원(15:30 기준가)",
@@ -38,46 +38,46 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
-          "title": "Fed 추가 금리 인상 우려에 금값 하락…4000달러 지지선 주목",
-          "link": "https://www.hankyung.com/article/202610214657i",
+          "title": "금통위 앞두고 국고채 금리 대체로 하락…3년물 연 3.822%(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20261021144851008",
+          "summary": "(서울=연합뉴스) 고은지 기자 = 한국은행 금융통화위원회를 하루 앞둔 21일 국고채 금리가 대체로 하락했다.",
+          "publishedAt": "2026-10-21T08:07:11.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2024/03/04/45/PCM20240304000145990_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.9
+        },
+        {
+          "title": "국제 유가 상승에 생산자물가 5개월째 1년전보다 8% 상승",
+          "link": "https://www.khan.co.kr/article/202610211102001/",
+          "summary": "전월 대비로는 0.2% 상승서울 시내 한 주유소. 연합뉴스지난달 생산자 물가가 전월보다 0.2% 상승했다. 1년 전보다는 8% 상승했다. 중동전쟁이 초래한 국제 유가 상승 여파다.한국은행이 21일 발표한 ‘9월 생산자물가지수’에 따르면 지난달 생산자물가 상승률은 8월 대비 0.2%였다. 8월(0.1%)에 이어 두 달 연속 올랐다.추석 명절을 앞두고 농산물(…",
+          "publishedAt": "2026-10-21T02:02:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.7
+        },
+        {
+          "title": "만기일 직접 정하는 정기예금…토스뱅크, 최고 연 3.8% 금리",
+          "link": "https://www.hankyung.com/article/2026102167181",
           "summary": "",
-          "publishedAt": "2026-10-20T23:02:25.000Z",
+          "publishedAt": "2026-10-21T08:45:54.000Z",
           "image": "",
           "sourceName": "한국경제",
           "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.3
-        },
-        {
-          "title": "佛 채권금리 年 5% 육박…재정위기 초기 그리스 넘어",
-          "link": "https://www.hankyung.com/article/2026102041591",
-          "summary": "",
-          "publishedAt": "2026-10-20T21:00:12.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
-        },
-        {
-          "title": "2번 연속 금리 올린 한국은행…“또 올리나” vs “동결하나” 관심 집중",
-          "link": "https://www.mk.co.kr/news/economy/12180901",
-          "summary": "이번주 22일 한은 기준금리 결정 시장은 11월 인상 가능성에 무게한국은행 금융통화위원회가 지난 7~8월 기준금리를 2차례 인상한 가운데, 오는 22일 기준금리 결정을 앞두고 동결..",
-          "publishedAt": "2026-10-20T08:52:12.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/20/news-p.v1.20261020.ac1d42ee02954718a175333d8730a30a_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7
+          "score": 4.4
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 202,
+      "poolSize": 201,
       "items": [
         {
           "title": "불국사 창건 김대성과 유식대가 원측스님 고향, '모량부' 조명",
@@ -105,7 +105,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4.1
+        },
+        {
+          "title": "동곡일타 스님 생애·사상 재조명…문집·전집 편찬 제안",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338488",
+          "summary": "동곡당 일타 대종사의 생애와 사상을 다룬 학술세미나에서 스님의 삶과 법문을 집대성한 문집·전집을 편찬하고, 고승대덕의 기록문화유산도 체계적으로 보존해야 한다는 제언이 나왔다.조계종 제10교구본사 은해사(주지 성로 스님)와 대각사상연구원(원장 보광 스님)은 10월 21일 동국대 서울캠퍼스 고순청세미나실에서 ‘동곡일타 큰스님의 생애와 사상’을 주제로 학술세미나…",
+          "publishedAt": "2026-10-21T19:14:35.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
         },
         {
           "title": "LA불교대학, ‘2026 입학식’ 봉행",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 3
         },
         {
           "title": "한중일 불교지도자들 “수행, 이웃과 사회 위한 따뜻한 회향으로 확장할 것”",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 2.9
         },
         {
           "title": "금정총림 범어사, 개산 1348주년 개산대재 봉행",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.7
-        },
-        {
-          "title": "충주 미륵세계사, 미륵대재 봉행…자비와 평화의 세상 발원",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443345",
-          "summary": "충북 충주 미륵세계사가 미륵부처님의 자비와 지혜를 되새기고 모든 중생이 평화롭고 행복한 미륵세상이 도래하기를 발원하는 법석을 마련했다.미륵세계사(주지 법초스님)는 10월17일 경내 보물 제96호 석조여래입상 앞에서 법주사 주지 정덕스님과 한대수 포교사단 충북지역단장을 비롯한 사부대중이 동참한 가운데 미륵대재를 봉행했다.이날 미륵대재는 삼귀의와 반야심경 봉독…",
-          "publishedAt": "2026-10-20T15:20:23.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.6
+          "score": 2.5
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "계명대 여성학연구소 '삶의 생산' 주제 추계학술대회 개최",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "New: “Why Teach Philosophy?”",
@@ -238,7 +238,7 @@
             "philosophy",
             "art"
           ],
-          "score": 4.2
+          "score": 4.1
         }
       ]
     },
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 200,
+      "poolSize": 197,
       "items": [
         {
           "title": "빛과 바람을 매단 천칭…국립현대미술관에 뜬 올라퍼 엘리아슨 신작",
@@ -266,20 +266,33 @@
           "candidates": [
             "art"
           ],
-          "score": 6.9
+          "score": 6.8
         },
         {
-          "title": "한낮 같은 밤, 폐허 속 여인…꿈같은 현대회화 대작들, 강남 한복판서 만난다",
-          "link": "https://www.khan.co.kr/article/202610182045005/",
-          "summary": "창업자 미술품 수집 유명한 글로벌세아‘현대회화 하이라이트: 시대의 초상’전델보·쿠닝·쿠사마 등 14인 작품 한자리폴 델보 ‘크리스마스의 밤’. 글로벌세아 아트스페이스 제공화면 한쪽에 보름달이 떠 있는데 붉은 옷을 입은 금발의 여인이 선 기차역 플랫폼은 한낮처럼 환하다. 다른 그림에는 고대 그리스 조각처럼 흰 천을 두른 여인이 새와 꽃으로 꾸민 모자를 쓰고…",
-          "publishedAt": "2026-10-18T11:45:00.000Z",
+          "title": "‘소장품 셀프 전시’ 유홍준 국중박 관장 사의…“모두 내 책임”",
+          "link": "https://www.khan.co.kr/article/202610212113005/",
+          "summary": "1년3개월 만에 ‘불명예 퇴진’유홍준 국립중앙박물관장(사진)이 개인 소장품 ‘셀프 전시’ 논란에 책임을 지고 관장직에서 물러났다. 약 1년3개월 만에 직을 내려놓으며 ‘불명예 퇴진’하게 됐다.유 관장은 21일 “국민 여러분께서 국립중앙박물관에 보내주신 깊은 신뢰와 우리 박물관 직원들이 쌓아 올린 가치가 저의 개인적인 실수로 한순간에 무너졌다”며 “실추된 박…",
+          "publishedAt": "2026-10-21T12:13:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.6
+          "score": 4.5
+        },
+        {
+          "title": "‘부캐’에서 AI 챗봇까지…자아를 탐구한 60여년",
+          "link": "https://www.khan.co.kr/article/202610212041015/",
+          "summary": "린 허쉬만 리슨 ‘나의 [나]들’전…미디어아트 선구자로베르타 브라이트모어 프로젝트 전시 모습. 서울시립미술관 제공금발 가발에 짙은 눈 화장, 붉은 립스틱을 바른 로베르타 브라이트모어는 1973년 버스를 타고 미국 샌프란시스코에 도착해 호텔에 투숙했다. 이후 은행계좌를 개설하고 운전면허를 취득했으며, 신문에 룸메이트 구인광고를 내 사람들을 만났다. 하지만 로…",
+          "publishedAt": "2026-10-21T11:41:01.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "진주 정촌 공룡박자국 화석산지에 보호각·전시시설·공원",
@@ -292,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.4
         },
         {
           "title": "‘부캐’에서 AI까지…60년간 ‘나’를 실험한 린 허쉬만 리슨",
@@ -305,20 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
-        },
-        {
-          "title": "한국 어린이도서 작가들, 세계 독자 만난다…'잇다 프로젝트'",
-          "link": "https://www.yna.co.kr/view/AKR20261021130600005",
-          "summary": "(서울=연합뉴스) 김기훈 기자 = 국제아동청소년도서협의회 한국위원회(KBBY) 이달부터 12월까지 칠레, 아르헨티나, 스웨덴, 이탈리아, 일본,...",
-          "publishedAt": "2026-10-21T06:54:18.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/21/AKR20261021130600005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
+          "score": 4.4
         }
       ]
     }
