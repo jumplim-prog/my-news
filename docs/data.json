@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-21T14:17:57.905Z",
+  "builtAt": "2026-10-21T23:51:50.240Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 325,
+      "poolSize": 328,
       "items": [
+        {
+          "title": "IBK증권 \"삼성바이오, 원·달러 환율 하락에도 성장궤도 유지\"",
+          "link": "https://www.yna.co.kr/view/AKR20261022025800008",
+          "summary": "(서울=연합뉴스) 황철환 기자 = IBK투자증권은 22일 삼성바이오로직스[207940]에 대해 \"원·달러 환율 하락에도 불구 가이던스(기업 자체...",
+          "publishedAt": "2026-10-21T23:20:55.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2026/07/03/03/PCM20260703000103065_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "佛 국채 10년물 금리 年5% 돌파…2002년 이후 처음",
+          "link": "https://www.hankyung.com/article/2026102171271",
+          "summary": "",
+          "publishedAt": "2026-10-21T14:56:46.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
         {
           "title": "원/달러 환율 4거래일 연속 연저점 기록…1,320원대 초반",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808518",
@@ -25,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "[외환] 원/달러 환율 2.9원 내린 1,325.2원(15:30 기준가)",
@@ -38,46 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.1
         },
         {
-          "title": "금통위 앞두고 국고채 금리 대체로 하락…3년물 연 3.822%(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20261021144851008",
-          "summary": "(서울=연합뉴스) 고은지 기자 = 한국은행 금융통화위원회를 하루 앞둔 21일 국고채 금리가 대체로 하락했다.",
-          "publishedAt": "2026-10-21T08:07:11.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2024/03/04/45/PCM20240304000145990_P2.jpg",
+          "title": "한은 '매파적 동결' 유력…내달 인상 재개 신호 주목",
+          "link": "https://www.yna.co.kr/view/AKR20261021147400002",
+          "summary": "(서울=연합뉴스) 한지훈 채새롬 이도흔 기자 = 한국은행 금융통화위원회는 22일 통화정책방향 회의에서 기준금리(현재 연 3.00%) 조정 여부를...",
+          "publishedAt": "2026-10-21T20:30:07.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/08/27/PYH2026082703050001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
           "score": 5.9
-        },
-        {
-          "title": "국제 유가 상승에 생산자물가 5개월째 1년전보다 8% 상승",
-          "link": "https://www.khan.co.kr/article/202610211102001/",
-          "summary": "전월 대비로는 0.2% 상승서울 시내 한 주유소. 연합뉴스지난달 생산자 물가가 전월보다 0.2% 상승했다. 1년 전보다는 8% 상승했다. 중동전쟁이 초래한 국제 유가 상승 여파다.한국은행이 21일 발표한 ‘9월 생산자물가지수’에 따르면 지난달 생산자물가 상승률은 8월 대비 0.2%였다. 8월(0.1%)에 이어 두 달 연속 올랐다.추석 명절을 앞두고 농산물(…",
-          "publishedAt": "2026-10-21T02:02:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.7
-        },
-        {
-          "title": "만기일 직접 정하는 정기예금…토스뱅크, 최고 연 3.8% 금리",
-          "link": "https://www.hankyung.com/article/2026102167181",
-          "summary": "",
-          "publishedAt": "2026-10-21T08:45:54.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.4
         }
       ]
     },
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.1
+          "score": 3.9
         },
         {
           "title": "동곡일타 스님 생애·사상 재조명…문집·전집 편찬 제안",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 2.9
         },
         {
           "title": "LA불교대학, ‘2026 입학식’ 봉행",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.8
         },
         {
           "title": "한중일 불교지도자들 “수행, 이웃과 사회 위한 따뜻한 회향으로 확장할 것”",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.9
+          "score": 2.7
         },
         {
           "title": "금정총림 범어사, 개산 1348주년 개산대재 봉행",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.5
+          "score": 2.3
         }
       ]
     },
@@ -185,20 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.2
-        },
-        {
-          "title": "계명대 여성학연구소 '삶의 생산' 주제 추계학술대회 개최",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211518",
-          "summary": "계명대 여성학연구소가 10월 23일 오후 2시 성서캠퍼스 동천관 301호에서 '삶의 생산: 지역, 관계 그리고 돌봄'을 주제로 2026년 추계학술대회를 연다. 계명대에 따르면 이번 학술대회는 생산의 의미를 시장 중심에서 돌봄과 관계, 여성의 몸과 지역사회의 삶으로 확장해 조명하고, 여성주의적 논의를 확대하기 위해 마련됐다. 학술대회는 두 개 세션으로 구성된…",
-          "publishedAt": "2026-10-21T16:38:55.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.5
+          "score": 7
         },
         {
           "title": "New: “Why Teach Philosophy?”",
@@ -227,6 +214,19 @@
           "score": 4.5
         },
         {
+          "title": "계명대 여성학연구소 '삶의 생산' 주제 추계학술대회 개최",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211518",
+          "summary": "계명대 여성학연구소가 10월 23일 오후 2시 성서캠퍼스 동천관 301호에서 '삶의 생산: 지역, 관계 그리고 돌봄'을 주제로 2026년 추계학술대회를 연다. 계명대에 따르면 이번 학술대회는 생산의 의미를 시장 중심에서 돌봄과 관계, 여성의 몸과 지역사회의 삶으로 확장해 조명하고, 여성주의적 논의를 확대하기 위해 마련됐다. 학술대회는 두 개 세션으로 구성된…",
+          "publishedAt": "2026-10-21T16:38:55.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.3
+        },
+        {
           "title": "Why AI alignment science took a turn towards virtue ethics",
           "link": "https://3quarksdaily.com/3quarksdaily/2026/10/why-ai-alignment-science-took-a-turn-towards-virtue-ethics.html",
           "summary": "Daniel Bashir at Asterisk: AI alignment has always started with the question: If, one day, we develop superintelligent machines, how do we ensure they do what we actually want? In the field’s prehisto…",
@@ -238,7 +238,7 @@
             "philosophy",
             "art"
           ],
-          "score": 4.1
+          "score": 3.9
         }
       ]
     },
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 197,
+      "poolSize": 198,
       "items": [
         {
           "title": "빛과 바람을 매단 천칭…국립현대미술관에 뜬 올라퍼 엘리아슨 신작",
@@ -266,7 +266,20 @@
           "candidates": [
             "art"
           ],
-          "score": 6.8
+          "score": 6.6
+        },
+        {
+          "title": "‘모자무싸’ 박해영 작가가 글로벌 OTT와 싸우는 이유···대박 나도 추가 보상은 ‘0원’",
+          "link": "https://www.khan.co.kr/article/202610220600061/",
+          "summary": "“대박나도 흥행의 대가 한 푼 못받는 현실 바꿔야”초기에 일괄로 받는 ‘매절 계약’ 지적“과거엔 방송사 특약 통해 빈틈 매워넷플릭스·디플 등 특약 거부, 제작비 상승도70년간 글로벌 OTT 곳간 채워줄 판창작자에 ‘비례적 보상’ 법에 명시를”한국방송작가협회 저작권위원장인 박해영 작가가 지난 20일 서울 영등포구 방송작가협회 사무실에서 OTT와의 ‘매절 계·…",
+          "publishedAt": "2026-10-21T21:00:06.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "‘소장품 셀프 전시’ 유홍준 국중박 관장 사의…“모두 내 책임”",
@@ -279,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "‘부캐’에서 AI 챗봇까지…자아를 탐구한 60여년",
@@ -292,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "진주 정촌 공룡박자국 화석산지에 보호각·전시시설·공원",
@@ -305,20 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
-        },
-        {
-          "title": "‘부캐’에서 AI까지…60년간 ‘나’를 실험한 린 허쉬만 리슨",
-          "link": "https://www.khan.co.kr/article/202610211617001/",
-          "summary": "로베르타 구성 차트 #1(1975) 서울시립미술관 제공‘린 허쉬만 리슨_ 나의 [나]들’에 로베르타 브라이트모어 프로젝트 전시 모습. 서울시립미술관 제공금발 가발에 짙은 눈 화장, 붉은 립스틱을 바른 로베르타 브라이트모어는 1973년 버스를 타고 미국 샌프란시스코에 도착해 호텔에 투숙했다. 이후 은행계좌를 개설하고 운전면허를 취득했으며, 신문에 룸메이트··…",
-          "publishedAt": "2026-10-21T07:17:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
+          "score": 4.2
         }
       ]
     }
