@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-22T08:13:23.923Z",
+  "builtAt": "2026-10-22T14:17:13.750Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,47 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 327,
+      "poolSize": 334,
       "items": [
+        {
+          "title": "한은, 연속 금리 인상 뒤 ‘숨 고르기’…11월·내년 인상 시사",
+          "link": "https://www.khan.co.kr/article/202610222159005/",
+          "summary": "금통위, 기준금리 연 3% 동결신현송 “쫓기는 인상 없다, 호미질 결실” 선제 인상 후 동결 자평 강한 성장·물가에 “목표 수준 2% 물가까지 대응” 긴축 유지 뜻 환율 추가 하락도 예상…정부 확장 재정엔 “되돌리려면 어렵다”한국은행 금융통화위원회가 22일 기준금리를 연 3.0%로 동결했다. 지난 7월과 8월 두 차례 연속 인상 후 숨을 고르는 모습이다.…",
+          "publishedAt": "2026-10-22T12:59:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "한은 '숨고르기' … 기준금리 동결",
+          "link": "https://www.mk.co.kr/news/economy/12183239",
+          "summary": "한국은행이 22일 기준금리를 연 3%로 동결했다. 중동 사태 등 대외 불확실성이 커진 상황에서 앞선 두 차례 금리 인상의 효과를 점검하겠다는 포석이다. 다만 높은 성장세와 물가 상..",
+          "publishedAt": "2026-10-22T08:45:08.000Z",
+          "image": "",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "申 \"금리 동결, 선제 대응의 결실\"… 물가 압력에 긴축 기조 유지",
+          "link": "https://www.mk.co.kr/news/economy/12183208",
+          "summary": "신현송 한국은행 총재가 22일 기준금리를 3.00%로 동결하며 7~8월 연속으로 단행했던 금리 인상의 결실이라는 평가를 내렸다. 미리 금리를 올리면서 통화정책 운용 과정에서 여력을..",
+          "publishedAt": "2026-10-22T08:42:44.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/23/20261023_01160104000001_L00.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "한은, 11월 기준금리 다시 인상 관측 지배적···“10월 금리 유지는 호미질 결실”",
           "link": "https://www.khan.co.kr/article/202610221628001/",
@@ -25,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
           "title": "원/달러 환율 '매파적 동결' 금통위에 하락…연저점 또 경신(종합)",
@@ -33,45 +72,6 @@
           "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 한국은행 금융통화위원회(금통위)가 기준금리를 동결한 22일 하락하며 연저점을 또 낮췄다.",
           "publishedAt": "2026-10-22T07:10:00.000Z",
           "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/22/PYH2026102220810001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "[외환] 원/달러 환율 1.0원 내린 1,324.2원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261022143200002",
-          "summary": "(",
-          "publishedAt": "2026-10-22T06:36:59.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/22/AKR20261022143200002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "신현송 \"금리 동결은 '호미질'의 결실…긴축기조는 지속\"",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810179",
-          "summary": "▲ 신현송 한국은행 총재가 22일 서울 중구 한국은행에서 열린 금융통화위원회 회의에서 의사봉을 두드리고 있다.신현송 한국은행 총재는 …",
-          "publishedAt": "2026-10-22T05:09:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261022/202233838_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "증권가 \"한은, 예상된 금리 동결…긴축 종료 아닌 '속도 조절'\"",
-          "link": "https://www.yna.co.kr/view/AKR20261022113600008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 한국은행이 10월 금융통화위원회에서 기준금리를 동결한 데 대해 증권가는 지난 7·8월 연속 인상 효과와 대외 ...",
-          "publishedAt": "2026-10-22T05:08:04.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/22/PYH2026102214300001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.5
         },
         {
           "title": "불국사 창건 김대성과 유식대가 원측스님 고향, '모량부' 조명",
@@ -118,7 +118,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.6
+        },
+        {
+          "title": "“깨달음, 계율·윤리적 책임 면제하는 특권 아니다”",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338510",
+          "summary": "선불교의 깨달음은 계율과 윤리적 책임을 면제받는 특권이 아니며, 그 진정성은 깨달음 이후 남은 습기(習氣)를 다스리는 보림(保任)과 자비행을 통해 확인해야 한다는 제언이 나왔다. ‘본래 부처’라는 자각이 자칫 자신의 행동을 정당화하는 논리로 변질될 수 있다는 지적도 함께 나왔다.한국선학회(회장 향산 스님)는 10월 22일 서울 한국불교역사문화기념관 국제회의…",
+          "publishedAt": "2026-10-22T19:48:59.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
         },
         {
           "title": "동곡일타 스님 생애·사상 재조명…문집·전집 편찬 제안",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.7
+          "score": 2.6
         },
         {
           "title": "LA불교대학, ‘2026 입학식’ 봉행",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.6
-        },
-        {
-          "title": "한중일 불교지도자들 “수행, 이웃과 사회 위한 따뜻한 회향으로 확장할 것”",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443385",
-          "summary": "“불교의 사회적 책무가 더 절실해졌습니다. 한중일 불교계는 현대인의 마음 치유를 위해 내면을 가꾸는 수행을 이웃과 사회로 확장하겠습니다. 모두가 서로 연결되어 있다는 연기법(緣起法)의 지혜로, 상생의 문명사를 열어가는 데 앞장서겠습니다.”한국불교종단협의회장 진우스님(조계종 총무원장)은 ‘불교의 사회적 책무’를 거듭 강조했다. 잦은 전쟁과 갈등, 디지털 변혁…",
-          "publishedAt": "2026-10-21T11:24:28.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.6
+          "score": 2.5
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.8
+          "score": 6.7
         },
         {
           "title": "‘AI 시대, 질문하는 인문학’… 26일부터 전국 대학에서 인문주간 시행",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.6
+          "score": 4.5
         },
         {
           "title": "New: “Why Teach Philosophy?”",
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.2
+          "score": 4
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 201,
+      "poolSize": 208,
       "items": [
         {
           "title": "빛과 바람을 매단 천칭…국립현대미술관에 뜬 올라퍼 엘리아슨 신작",
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.4
+          "score": 6.3
         },
         {
           "title": "세계서 모인 일본군 '위안부' 기록들…내일부터 기획전시",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "순창 추령장승축제 24∼25일 열려…전국 장승 전시·체험 등",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "캠브리지 멤버스, 英 홀랜드 앤 쉐리와 190주년 기념 컬렉션",
@@ -304,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "제9회 제주유스아트페스티벌 24일 개막…800여 작품 전시",
@@ -317,7 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         }
       ]
     }
