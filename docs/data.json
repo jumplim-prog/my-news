@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-23T14:00:21.206Z",
+  "builtAt": "2026-10-23T23:42:25.661Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 343,
+      "poolSize": 342,
       "items": [
         {
           "title": "3회 연속 금리 인상에 부담느낀 신 총재…‘매파본색’은 계속된다 [BOK WATCHER]",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "국고채 금리 일제히 하락…美 국채 강세 영향(종합)",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "원/달러 환율 소폭 반등…1,320원대 중반",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "한은 총재 “7~8월 금리 인상으로 운신 폭 얻어…물가는 높게 유지”",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "[외환] 원/달러 환율 0.4원 오른 1,324.6원(15:30 기준가)",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.1
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 200,
+      "poolSize": 199,
       "items": [
         {
           "title": "“올해 70일 남았다” 연말 모임 전 체중관리… 지금부터가 골든타임",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "10-1. ‘법문’의 유래",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "[법인 스님의 문자 반야] 61. 체로금풍(體露金風)",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 20. 비겁함·비굴함 참회와 교만 참회",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "<41>MZ, Gen Z세대. 그들의 신대승불교 운동",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.8
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 149,
+      "poolSize": 150,
       "items": [
         {
           "title": "국립순천대 인문학술원, UCLA서 ‘국면으로서의 1948’ 국제학술대회 공동 개최",
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.6
+          "score": 7.4
         },
         {
           "title": "미셸 푸코 『말과 사물』 강의",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -211,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7
+          "score": 6.8
         },
         {
           "title": "Locke’s Moral Philosophy",
@@ -224,7 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.2
+          "score": 6
         },
         {
           "title": "Kant’s Transcendental Arguments",
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.8
+          "score": 5.6
         }
       ]
     },
@@ -255,17 +255,17 @@
       "poolSize": 201,
       "items": [
         {
-          "title": "[부산소식] 시립미술관 '젊은 시각 새로운 시선' 작가 모집",
-          "link": "https://www.yna.co.kr/view/AKR20261023020300051",
-          "summary": "(부산=연합뉴스) ▲ 시립미술관 '젊은 시각 새로운 시선' 작가 모집 = 부산시립미술관은 역량 있는 젊은 작가를 발굴하는 '젊은 시각 새로운 시...",
-          "publishedAt": "2026-10-22T23:21:20.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/23/AKR20261023020300051_01_i_P2.jpg",
+          "title": "한지로 그린 회화·조형·빛…원주한지테마파크, 네 작가 기획전",
+          "link": "https://www.yna.co.kr/view/AKR20261024011300062",
+          "summary": "(원주=연합뉴스) 임보연 기자 = 강원 원주한지테마파크에서 한지를 회화와 조형, 빛 등 다양한 예술 표현으로 재해석한 전시가 펼쳐진다.",
+          "publishedAt": "2026-10-23T22:35:40.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/24/AKR20261024011300062_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 7.2
+          "score": 7.5
         },
         {
           "title": "14회 서울미디어시티비엔날레 예술감독에 이리니 파파디미트리우",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
+          "score": 5.6
         },
         {
           "title": "\"텅 빈 상가에 활력을\"…한동대, 포항 원도심서 전시·체험 마련",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "영암군립하정웅미술관, 공립미술관 평가인증 획득",
@@ -304,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "문체부, 유홍준 ‘셀프 출품’ 감사…전시품 관리·검증 전반 들여다본다",
@@ -317,7 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.1
         }
       ]
     }
