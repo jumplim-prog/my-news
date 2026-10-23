@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-22T23:49:03.809Z",
+  "builtAt": "2026-10-23T08:10:48.843Z",
   "cards": [
     {
       "id": "econ",
@@ -12,72 +12,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 332,
+      "poolSize": 338,
       "items": [
         {
-          "title": "[글로벌 마켓시황] 투자 심리 위축…미 국채 금리 큰 폭↓",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811153",
-          "summary": "글로벌 시황입니다. 먼저 뉴욕증시부터 살펴보겠습니다.미 증시 3대 지수가 엇갈린 흐름으로 마감했는데요.나스닥이 2% 내렸고 S&P500도 1% …",
-          "publishedAt": "2026-10-22T23:00:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261023/202234112_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "금리 동결에도 3.5% 급락…AI 수익성·긴축 우려",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811204",
-          "summary": "긴축 기조를 이어가고 있는 한국은행이 이번 달에는 금리 인상을 쉬어갔습니다. 하지만 고금리가 장기화될 거라는 우려에 코스피는 3.5% 넘게 급락했습니다.김혜민 기자입니다.",
-          "publishedAt": "2026-10-22T22:00:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261023/202234072_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "안전자산 찾아서…美 10년물 국채 금리, 한달만에 5% 밑으로",
-          "link": "https://www.yna.co.kr/view/AKR20261023009000072",
-          "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 글로벌 채권 금리의 벤치마크인 미국 10년 만기 국채 금리가 22일(현지시간) 약 한 달 만에 5% 아래로 ...",
-          "publishedAt": "2026-10-22T21:14:56.000Z",
-          "image": "https://img.yna.co.kr/photo/etc/gt/2026/10/21/PGT20261021122701009_P2.jpg",
+          "title": "국고채 금리 일제히 하락…美 국채 강세 영향(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20261023146851008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 23일 국고채 금리가 일제히 하락했다.",
+          "publishedAt": "2026-10-23T07:50:10.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/23/AKR20261023146851008_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.5
         },
         {
-          "title": "3회 연속 금리 인상에 부담느낀 신 총재 ... ‘매파본색’은 계속된다",
-          "link": "https://www.mk.co.kr/news/economy/12183249",
-          "summary": "향후 통화정책 좌우할 변수 점검한국은행 금융통화위원회가 22일 기준금리를 연 3.00%로 동결했다. 신현송 한은 총재는 금리 동결의 명분으로 ‘2차례의 금리 인상을 통해 정책 공간..",
-          "publishedAt": "2026-10-22T20:00:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/22/news-a.v1.20261022.44a1ec7b38ca460a809a20327153e130_R.jpg",
+          "title": "원/달러 환율 소폭 반등…1,320원대 중반",
+          "link": "https://www.yna.co.kr/view/AKR20261023134800002",
+          "summary": "(서울=연합뉴스) 채새롬 기자 = 23일 원/달러 환율이 1,320원대 초반까지 떨어졌다가 소폭 반등해 1,320원대 중반을 기록했다.",
+          "publishedAt": "2026-10-23T07:40:34.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/23/PYH2026102314360001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "한은 총재 “7~8월 금리 인상으로 운신 폭 얻어…물가는 높게 유지”",
+          "link": "https://www.mk.co.kr/news/economy/12184218",
+          "summary": "한국은행, 국회 재정위 국정감사 향후 금리 인상 기조는 열어둬 “물가는 목표수준보다 높게 유지”신현송 한국은행 총재가 지난 7~8월 두 달 연속 금리 인상을 통해 선제적으로 대응하..",
+          "publishedAt": "2026-10-23T06:50:38.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/23/news-p.v1.20261023.e87999afd56e4c5ebedecb74aff09e9b_R.jpg",
           "sourceName": "매일경제",
           "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.5
         },
         {
-          "title": "한은, 연속 금리 인상 뒤 ‘숨 고르기’…11월·내년 인상 시사",
-          "link": "https://www.khan.co.kr/article/202610222159005/",
-          "summary": "금통위, 기준금리 연 3% 동결신현송 “쫓기는 인상 없다, 호미질 결실” 선제 인상 후 동결 자평 강한 성장·물가에 “목표 수준 2% 물가까지 대응” 긴축 유지 뜻 환율 추가 하락도 예상…정부 확장 재정엔 “되돌리려면 어렵다”한국은행 금융통화위원회가 22일 기준금리를 연 3.0%로 동결했다. 지난 7월과 8월 두 차례 연속 인상 후 숨을 고르는 모습이다.…",
-          "publishedAt": "2026-10-22T12:59:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
+          "title": "[외환] 원/달러 환율 0.4원 오른 1,324.6원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261023128300002",
+          "summary": "(",
+          "publishedAt": "2026-10-23T06:30:42.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/23/AKR20261023128300002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.5
+        },
+        {
+          "title": "신현송 \"고성장·고금리 상황에 대비해 정책 펴겠다\"",
+          "link": "https://www.yna.co.kr/view/AKR20261023121900002",
+          "summary": "(서울=연합뉴스) 한지훈 채새롬 이도흔 기자 = 신현송 한국은행 총재는 23일 초(超)저금리 시대로 돌아가기 어렵다는 '매파적'(통화긴축 선호)...",
+          "publishedAt": "2026-10-23T06:08:08.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/23/PYH2026102306860001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
         }
       ]
     },
@@ -92,8 +92,60 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 200,
+      "poolSize": 201,
       "items": [
+        {
+          "title": "“올해 70일 남았다” 연말 모임 전 체중관리… 지금부터가 골든타임",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338551",
+          "summary": "올해도 어느덧 70일 남짓 남았다. 11월이 되면 송년회와 각종 모임, 회식이 이어지고 날씨까지 추워져 활동량이 줄면서 체중 관리가 가장 어려워지는 시기가 시작된다. 연말 모임을 앞두고 급하게 식사량을 줄이는 사람도 있지만 전문가들은 그런 방식이 오히려 역효과를 낼 수 있다고 말한다. 연말 시즌의 체중 증가는 하루 이틀의 과식보다 생활 리듬이 흐트러지는 데…",
+          "publishedAt": "2026-10-23T15:56:54.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
+        },
+        {
+          "title": "10-1. ‘법문’의 유래",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338525",
+          "summary": "‘금강경’ 제13 여법수지분 첫머리엔 수보리가 부처님께 “세존이시여! 이 경을 어떻게 이름해야 하며, 저희들이 어떻게 받들어 지녀야 하옵니까?”라고 여쭙는 장면이 등장한다. 비록 인도는 신화와 역사가 뒤섞여 전해져서 대서사시 ‘마하바라따’의 저자 위야사가 자신의 작품 속에서 왕실 혈통의 선조로 둔갑하여 기록되는 등 혼란스런 모습이 예사롭지 않은 게 사실이라…",
+          "publishedAt": "2026-10-23T10:46:01.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.6
+        },
+        {
+          "title": "[법인 스님의 문자 반야] 61. 체로금풍(體露金風)",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505989",
+          "summary": "가을 산은 눈부시다. 온갖 수목이 형형색색으로 물들어 펼쳐내는 단풍의 향연은 보는 이들의 탄성을 자아낸다. 소동파(1037~1101)가 “시냇물 소리는 부처의 설법이요, 산빛은 어찌 부처의 청정한 몸이 아니겠는가(溪聲便是廣長舌 山色豈非淸淨身)”라고 읊었듯, 산과 들은 그 자체로 부처의 진면목을 드러낸다. 그러나 찬 바람이 불면 무성하던 잎들은 이내 떨어지고…",
+          "publishedAt": "2026-10-23T10:17:09.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "[반야 참회로 여는 수행의 첫걸음] 20. 비겁함·비굴함 참회와 교만 참회",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505987",
+          "summary": "비겁함·비굴함 참회중급 참회에서 다음 참회 대상은 비겁함과 비굴함이다. 이 둘은 서로 다른 용어이지만 구별하지 않고 사용하는 경우가 많으며 참회 방법이 같아 한 항목으로 분류했다.참회 대상비겁함 : 다음 몇 가지가 비겁함의 주요 참회 대상이 된다. 사안에 따라서는 중복될 수도 있다.•책임 회피: 자기가 책임져야 할 일을 회피하거나 다른 사람에게 미루는 마음…",
+          "publishedAt": "2026-10-23T10:14:05.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
+        },
         {
           "title": "<41>MZ, Gen Z세대. 그들의 신대승불교 운동",
           "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443449",
@@ -105,59 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
-        },
-        {
-          "title": "불국사 창건 김대성과 유식대가 원측스님 고향, '모량부' 조명",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443362",
-          "summary": "신라 6부 가운데 하나인 모량부의 불교 유산을 살펴보고, 현대적으로 활용할 방안을 모색하는 학술대회가 열린다.경주시가 주최하고 동국대 신라문화연구소가 주관하는 제46회 신라학술제가 10월30일 오후 1시 국립경주박물관 강당에서 열린다. 제53회 신라문화제의 일환으로 열리는 이번 학술제의 주제는 '신라 모량부의 불교 유산과 현대적 활용'이다.모량부는 지금의…",
-          "publishedAt": "2026-10-20T17:09:37.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.4
-        },
-        {
-          "title": "“깨달음, 계율·윤리적 책임 면제하는 특권 아니다”",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338510",
-          "summary": "선불교의 깨달음은 계율과 윤리적 책임을 면제받는 특권이 아니며, 그 진정성은 깨달음 이후 남은 습기(習氣)를 다스리는 보림(保任)과 자비행을 통해 확인해야 한다는 제언이 나왔다. ‘본래 부처’라는 자각이 자칫 자신의 행동을 정당화하는 논리로 변질될 수 있다는 지적도 함께 나왔다.한국선학회(회장 향산 스님)는 10월 22일 서울 한국불교역사문화기념관 국제회의…",
-          "publishedAt": "2026-10-22T19:48:59.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.9
-        },
-        {
-          "title": "동곡일타 스님 생애·사상 재조명…문집·전집 편찬 제안",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338488",
-          "summary": "동곡당 일타 대종사의 생애와 사상을 다룬 학술세미나에서 스님의 삶과 법문을 집대성한 문집·전집을 편찬하고, 고승대덕의 기록문화유산도 체계적으로 보존해야 한다는 제언이 나왔다.조계종 제10교구본사 은해사(주지 성로 스님)와 대각사상연구원(원장 보광 스님)은 10월 21일 동국대 서울캠퍼스 고순청세미나실에서 ‘동곡일타 큰스님의 생애와 사상’을 주제로 학술세미나…",
-          "publishedAt": "2026-10-21T19:14:35.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.4
-        },
-        {
-          "title": "LA불교대학, ‘2026 입학식’ 봉행",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338478",
-          "summary": "미국 LA불교대학이 신입생 19명을 맞아 입학식을 열고 불교 인재 양성과 지역 포교 활성화를 위한 교육에 나섰다.LA불교대학은 10월 10일 미국 로스앤젤레스 동국대 LA캠퍼스에서 ‘2026년 LA불교대학 입학식’을 봉행했다. 이날 입학식에는 스테판 서 동국대 LA캠퍼스 총장과 조계종 포교사단 관계자, 고려사·금강선원·관음사·달마사·반야사·법왕사·법보선원…",
-          "publishedAt": "2026-10-21T13:32:50.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.3
+          "score": 4.1
         }
       ]
     },
@@ -175,6 +175,19 @@
       "poolSize": 148,
       "items": [
         {
+          "title": "미셸 푸코 『말과 사물』 강의",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211587",
+          "summary": "『미셸 푸코 《말과 사물》 강의』는 한국 철학계에서 보기 드물게 하나의 철학 고전을 장기적이고 치밀하게 해설한 작업이다. 이 책은 철학아카데미에서 6학기 동안 진행된 강의를 바탕으로 하며, 『말과 사물』의 서문부터 마지막 문장까지를 따라가면서, 푸코 사유의 전체 지형도를 일관된 사유의 흐름 속에 재현하고 있다. 특히 단순한 주해와 해설을 넘어서, 동시대 철…",
+          "publishedAt": "2026-10-23T16:06:44.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 7.7
+        },
+        {
           "title": "How to face the end of the world – according to Plato and the Stoics",
           "link": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/22/ancient-philosophy-apocalypse",
           "summary": "<p>Fearing future catastrophe is nothing new – ancient Greek and Roman philosophers all visualized the apocalypse</p><p>Do your feelings of existential dread extend beyond your own personal mortality?…",
@@ -185,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "Locke’s Moral Philosophy",
@@ -198,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.5
+          "score": 6.3
         },
         {
           "title": "Kant’s Transcendental Arguments",
@@ -211,33 +224,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.1
+          "score": 5.9
         },
         {
-          "title": "New: “Why Teach Philosophy?”",
-          "link": "https://dailynous.com/2026/10/15/new-why-teach-philosophy/",
-          "summary": "Why Teach Philosophy is a new series of interviews with philosophers known for their teaching, their research on philosophy pedagogy, or their work on curriculum design. […] The post New: “Why Teach P…",
-          "publishedAt": "2026-10-15T14:34:35.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2019/09/lecture-hall-old-1.png",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "Aristotle’s Categories",
-          "link": "https://plato.stanford.edu/entries/aristotle-categories/",
-          "summary": "[Revised entry by Paul Studtmann on October 7, 2026. Changes to: Main text, Bibliography] Aristotle's Categories is a singularly important work of philosophy. It not only presents the backbone of Aris…",
-          "publishedAt": "2026-10-08T01:15:34.000Z",
+          "title": "인도–한국 학술대회, AI·반도체 등 24개 세션서 미래 논의",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211634",
+          "summary": "한–인도 포럼(India–Korea Forum, IKF)이 23일부터 25일까지 3일간 온라인으로 인도–한국 국제학술대회 2026(India–Korea International Conference 2026, IKIC 2026)을 개최한다. 이번 학술대회에는 인도와 한국을 포함해 총 12개 국가·지역의 학자, 연구자, 전문가들이 참여하며, 24개 주제별 세션…",
+          "publishedAt": "2026-10-23T16:56:19.000Z",
           "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.5
+          "score": 4.7
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 208,
+      "poolSize": 207,
       "items": [
         {
           "title": "[부산소식] 시립미술관 '젊은 시각 새로운 시선' 작가 모집",
@@ -265,59 +265,59 @@
           "candidates": [
             "art"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
-          "title": "빛과 바람을 매단 천칭…국립현대미술관에 뜬 올라퍼 엘리아슨 신작",
-          "link": "https://www.khan.co.kr/article/202610201319001/",
-          "summary": "국립현대미술관 서울관 로비에 설치된 올라퍼 엘리아슨의 신작 ‘예측할 수 없는 궤도’. 국립현대미술관 제공국립현대미술관 서울관 로비에 설치된 올라퍼 엘리아슨의 신작 ‘예측할 수 없는 궤도’. 국립현대미술관 제공국립현대미술관 서울관 로비에 설치된 올라퍼 엘리아슨의 신작 ‘예측할 수 없는 궤도’. 국립현대미술관 제공국립현대미술관 서울관 로비에 천···",
-          "publishedAt": "2026-10-20T04:19:00.000Z",
+          "title": "14회 서울미디어시티비엔날레 예술감독에 이리니 파파디미트리우",
+          "link": "https://www.yna.co.kr/view/AKR20261023046500004",
+          "summary": "(서울=연합뉴스) 김준태 기자 = 서울시립미술관은 내년 8월 개최 예정인 제14회 서울미디어시티비엔날레 예술감독으로 이리니 파파디미트리우를 선정...",
+          "publishedAt": "2026-10-23T02:15:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/23/AKR20261023046500004_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 5.9
+        },
+        {
+          "title": "\"텅 빈 상가에 활력을\"…한동대, 포항 원도심서 전시·체험 마련",
+          "link": "https://www.yna.co.kr/view/AKR20261023144800053",
+          "summary": "(포항=연합뉴스) 손대성 기자 = 한동대가 쇠락한 경북 포항의 원도심을 살리기 위한 행사를 마련한다.",
+          "publishedAt": "2026-10-23T07:34:22.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/23/AKR20261023144800053_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "영암군립하정웅미술관, 공립미술관 평가인증 획득",
+          "link": "https://www.yna.co.kr/view/AKR20261023113500054",
+          "summary": "(영암=연합뉴스) 조근영 기자 = 전남광주 영암군립하정웅미술관은 23일 문화체육관광부의 '2026년 공립미술관 평가인증'을 받았다고 밝혔다.",
+          "publishedAt": "2026-10-23T05:47:52.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/23/AKR20261023113500054_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "문체부, 유홍준 ‘셀프 출품’ 감사…전시품 관리·검증 전반 들여다본다",
+          "link": "https://www.khan.co.kr/article/202610231438001/",
+          "summary": "최휘영 문화체육관광부 장관이 23일 국회 문화체육관광위원회 종합감사에서 질의에 답하고 있다. 연합뉴스문화체육관광부가 유홍준 전 국립중앙박물관장의 개인 소장품 출품 논란을 포함해 전시품 관리·검증 절차 전반을 감사하겠다고 밝혔다.23일 국회 문화체육관광위원회의 종합 국정감사에서 정연욱 국민의힘 의원은 박물관이 문체부에 감사를 의뢰하면서 유 전 관장의 소장··…",
+          "publishedAt": "2026-10-23T05:38:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 6.1
-        },
-        {
-          "title": "세계서 모인 일본군 '위안부' 기록들…내일부터 기획전시",
-          "link": "https://www.yna.co.kr/view/AKR20261022042700530",
-          "summary": "(서울=연합뉴스) 홍준석 기자 = 한국여성인권진흥원과 일본군 '위안부' 문제연구소는 일본군 '위안부' 문제를 기억하고 피해 생존자 목소리를 미래...",
-          "publishedAt": "2026-10-22T03:00:07.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/22/AKR20261022042700530_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.1
-        },
-        {
-          "title": "순창 추령장승축제 24∼25일 열려…전국 장승 전시·체험 등",
-          "link": "https://www.yna.co.kr/view/AKR20261022073900055",
-          "summary": "(순창=연합뉴스) 최영수 기자 = 전북 순창군은 복흥면 추령에서 제30회 추령장승축제를 24∼25일 연다고 22일 밝혔다.",
-          "publishedAt": "2026-10-22T01:46:05.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/22/AKR20261022073900055_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4
-        },
-        {
-          "title": "‘모자무싸’ 박해영 작가가 글로벌 OTT와 싸우는 이유···대박 나도 추가 보상은 ‘0원’",
-          "link": "https://www.khan.co.kr/article/202610220600061/",
-          "summary": "“대박나도 흥행의 대가 한 푼 못받는 현실 바꿔야”초기에 일괄로 받는 ‘매절 계약’ 지적“과거엔 방송사 특약 통해 빈틈 매워넷플릭스·디플 등 특약 거부, 제작비 상승도70년간 글로벌 OTT 곳간 채워줄 판창작자에 ‘비례적 보상’ 법에 명시를”한국방송작가협회 저작권위원장인 박해영 작가가 지난 20일 서울 영등포구 방송작가협회 사무실에서 OTT와의 ‘매절 계·…",
-          "publishedAt": "2026-10-21T21:00:06.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.9
+          "score": 4.4
         }
       ]
     }
