@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-23T08:10:48.843Z",
+  "builtAt": "2026-10-23T14:00:21.206Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 338,
+      "poolSize": 343,
       "items": [
+        {
+          "title": "3회 연속 금리 인상에 부담느낀 신 총재…‘매파본색’은 계속된다 [BOK WATCHER]",
+          "link": "https://www.mk.co.kr/news/economy/12184526",
+          "summary": "향후 통화정책 좌우할 변수 점검한국은행 금융통화위원회가 22일 기준금리를 연 3.00%로 동결했다. 신현송 한은 총재는 금리 동결의 명분으로 ‘2차례의 금리 인상을 통해 정책 공간..",
+          "publishedAt": "2026-10-23T11:30:33.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/23/news-p.v1.20261022.10fc5d823880460c89406531a10de7a7_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "국고채 금리 일제히 하락…美 국채 강세 영향(종합)",
           "link": "https://www.yna.co.kr/view/AKR20261023146851008",
@@ -25,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
           "title": "원/달러 환율 소폭 반등…1,320원대 중반",
@@ -38,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
           "title": "한은 총재 “7~8월 금리 인상으로 운신 폭 얻어…물가는 높게 유지”",
@@ -51,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
           "title": "[외환] 원/달러 환율 0.4원 오른 1,324.6원(15:30 기준가)",
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
-        },
-        {
-          "title": "신현송 \"고성장·고금리 상황에 대비해 정책 펴겠다\"",
-          "link": "https://www.yna.co.kr/view/AKR20261023121900002",
-          "summary": "(서울=연합뉴스) 한지훈 채새롬 이도흔 기자 = 신현송 한국은행 총재는 23일 초(超)저금리 시대로 돌아가기 어렵다는 '매파적'(통화긴축 선호)...",
-          "publishedAt": "2026-10-23T06:08:08.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/23/PYH2026102306860001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
+          "score": 7.3
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 201,
+      "poolSize": 200,
       "items": [
         {
           "title": "“올해 70일 남았다” 연말 모임 전 체중관리… 지금부터가 골든타임",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "10-1. ‘법문’의 유래",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.4
         },
         {
           "title": "[법인 스님의 문자 반야] 61. 체로금풍(體露金風)",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.4
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 20. 비겁함·비굴함 참회와 교만 참회",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.4
         },
         {
           "title": "<41>MZ, Gen Z세대. 그들의 신대승불교 운동",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.1
+          "score": 4
         }
       ]
     },
@@ -172,8 +172,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 148,
+      "poolSize": 149,
       "items": [
+        {
+          "title": "국립순천대 인문학술원, UCLA서 ‘국면으로서의 1948’ 국제학술대회 공동 개최",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211629",
+          "summary": "국립순천대 인문학술원이 10월 23일부터 24일까지 미국 로스앤젤레스 캘리포니아대 한국학센터에서 국제학술대회를 공동 개최한다. 학술대회 주제는 '국면으로서의 1948: 아시아·태평양에서의 혁명, 관리된 탈식민화, 그리고 세계 만들기'다. 이번 학술대회에는 국립순천대 인문학술원, UCLA 한국학센터, 일본 리츠메이칸대 코리아연구센터, 강원대 통일강원연구소,…",
+          "publishedAt": "2026-10-23T17:18:26.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 7.6
+        },
         {
           "title": "미셸 푸코 『말과 사물』 강의",
           "link": "https://www.kyosu.net/news/articleView.html?idxno=211587",
@@ -185,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.7
+          "score": 7.5
         },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -198,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "Locke’s Moral Philosophy",
@@ -211,7 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.3
+          "score": 6.2
         },
         {
           "title": "Kant’s Transcendental Arguments",
@@ -224,20 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.9
-        },
-        {
-          "title": "인도–한국 학술대회, AI·반도체 등 24개 세션서 미래 논의",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211634",
-          "summary": "한–인도 포럼(India–Korea Forum, IKF)이 23일부터 25일까지 3일간 온라인으로 인도–한국 국제학술대회 2026(India–Korea International Conference 2026, IKIC 2026)을 개최한다. 이번 학술대회에는 인도와 한국을 포함해 총 12개 국가·지역의 학자, 연구자, 전문가들이 참여하며, 24개 주제별 세션…",
-          "publishedAt": "2026-10-23T16:56:19.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.7
+          "score": 5.8
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 207,
+      "poolSize": 201,
       "items": [
         {
           "title": "[부산소식] 시립미술관 '젊은 시각 새로운 시선' 작가 모집",
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "14회 서울미디어시티비엔날레 예술감독에 이리니 파파디미트리우",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.9
+          "score": 5.8
         },
         {
           "title": "\"텅 빈 상가에 활력을\"…한동대, 포항 원도심서 전시·체험 마련",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.4
         },
         {
           "title": "영암군립하정웅미술관, 공립미술관 평가인증 획득",
@@ -304,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "문체부, 유홍준 ‘셀프 출품’ 감사…전시품 관리·검증 전반 들여다본다",
@@ -317,7 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         }
       ]
     }
