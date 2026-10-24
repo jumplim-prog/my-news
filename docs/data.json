@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-24T13:02:52.347Z",
+  "builtAt": "2026-10-24T22:49:17.693Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 342,
+      "poolSize": 343,
       "items": [
         {
           "title": "\"수출호황·확장재정에 수요측 물가압력↑…긴축 장기화 가능성\"",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "3회 연속 금리 인상에 부담느낀 신 총재…‘매파본색’은 계속된다 [BOK WATCHER]",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7
+          "score": 6.8
         },
         {
           "title": "국고채 금리 일제히 하락…美 국채 강세 영향(종합)",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.9
+          "score": 6.7
         },
         {
           "title": "원/달러 환율 소폭 반등…1,320원대 중반",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.9
+          "score": 6.7
         },
         {
           "title": "한은 총재 “7~8월 금리 인상으로 운신 폭 얻어…물가는 높게 유지”",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.9
+          "score": 6.7
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 198,
+      "poolSize": 188,
       "items": [
         {
           "title": "“올해 70일 남았다” 연말 모임 전 체중관리… 지금부터가 골든타임",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.1
+          "score": 3.9
         },
         {
           "title": "10-1. ‘법문’의 유래",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.7
         },
         {
           "title": "[법인 스님의 문자 반야] 61. 체로금풍(體露金風)",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.9
+          "score": 3.7
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 20. 비겁함·비굴함 참회와 교만 참회",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.9
+          "score": 3.7
         },
         {
           "title": "<41>MZ, Gen Z세대. 그들의 신대승불교 운동",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
+          "score": 3.3
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.1
+          "score": 6.9
         },
         {
           "title": "미셸 푸코 『말과 사물』 강의",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.1
+          "score": 6.9
         },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -211,7 +211,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.6
+          "score": 6.4
+        },
+        {
+          "title": "Kant’s Transcendental Arguments",
+          "link": "https://plato.stanford.edu/entries/kant-transcendental/",
+          "summary": "[Revised entry by Derk Pereboom on October 24, 2026. Changes to: Main text, Bibliography] Among Immanuel Kant's (1724 - 1804) most influential contributions to philosophy is his development of the tra…",
+          "publishedAt": "2026-10-25T01:07:48.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 6
         },
         {
           "title": "Locke’s Moral Philosophy",
@@ -225,19 +238,6 @@
             "philosophy"
           ],
           "score": 6
-        },
-        {
-          "title": "Kant’s Transcendental Arguments",
-          "link": "https://plato.stanford.edu/entries/kant-transcendental/",
-          "summary": "[Revised entry by Derk Pereboom on October 22, 2026. Changes to: Main text, Bibliography] Among Immanuel Kant's (1724 - 1804) most influential contributions to philosophy is his development of the tra…",
-          "publishedAt": "2026-10-23T04:55:04.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 5.3
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 199,
+      "poolSize": 198,
       "items": [
         {
           "title": "한지로 그린 회화·조형·빛…원주한지테마파크, 네 작가 기획전",
@@ -265,20 +265,20 @@
           "candidates": [
             "art"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
-          "title": "14회 서울미디어시티비엔날레 예술감독에 이리니 파파디미트리우",
-          "link": "https://www.yna.co.kr/view/AKR20261023046500004",
-          "summary": "(서울=연합뉴스) 김준태 기자 = 서울시립미술관은 내년 8월 개최 예정인 제14회 서울미디어시티비엔날레 예술감독으로 이리니 파파디미트리우를 선정...",
-          "publishedAt": "2026-10-23T02:15:01.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/23/AKR20261023046500004_01_i_P2.jpg",
+          "title": "서울시 시립박물관 유료 기획전시, 기후동행패스로 할인받는다",
+          "link": "https://www.yna.co.kr/view/AKR20261023139400004",
+          "summary": "(서울=연합뉴스) 김준태 기자 = 서울시의 대중교통 정기권 기후동행패스로 시립박물관 유료 기획전시를 할인받아 이용할 수 있게 된다.",
+          "publishedAt": "2026-10-24T20:55:02.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/23/AKR20261023139400004_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 5.3
+          "score": 4.5
         },
         {
           "title": "부산 영도에서 경성의 식탁까지…버려진 그릇 조각이 걸어온 길",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "\"텅 빈 상가에 활력을\"…한동대, 포항 원도심서 전시·체험 마련",
@@ -304,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 3.9
+          "score": 3.7
         },
         {
           "title": "영암군립하정웅미술관, 공립미술관 평가인증 획득",
@@ -317,7 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 3.8
+          "score": 3.6
         }
       ]
     }
