@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-25T13:30:32.058Z",
+  "builtAt": "2026-10-25T22:59:21.702Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,60 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 336,
+      "poolSize": 335,
       "items": [
+        {
+          "title": "[글로벌 마켓시황] FOMC에 빅테크 실적까지…선물 일제히 오름세",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814179",
+          "summary": "글로벌 시황입니다. 먼저 이번 주 뉴욕증시부터 살펴보겠습니다.27일부터 이틀간 미 FOMC회의가 진행되고 29일에는 9월 개인소비지출 PCE 물가지수가 발표됩니다.28일에는 알파벳과 마이크로소프트, 29일에는 아마존의 3분기 실적이 공개됩니다.10월 FOMC에서 금리 동결 가능성이 90% 안팎으로 우세한 가운데, 시장은 케빈 워시 연준 의장이 12월 추가…",
+          "publishedAt": "2026-10-25T22:57:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261026/202234749_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "[인터뷰] 이성호 NH증권 본부장 \"올해 채권금리 상승은 성장의 대가\"",
+          "link": "https://www.yna.co.kr/view/AKR20261025020300008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = \"올해 우리나라 채권금리 상승은 '성장의 대가'였습니다.\"",
+          "publishedAt": "2026-10-25T22:06:33.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/25/AKR20261025020300008_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "국제유가 117달러 돌파…에너지값 급등에 연말 물가 '빨간불'",
+          "link": "https://www.hankyung.com/article/2026102638807",
+          "summary": "",
+          "publishedAt": "2026-10-25T21:45:56.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고",
+          "link": "https://www.yna.co.kr/view/AKR20261025043600002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율이 1,320원대 초반으로 하락하면서 주요 교역국 통화와 비교한 원화의 명목실효환율이 약 2년 만...",
+          "publishedAt": "2026-10-25T20:55:00.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2025/04/18/06/PCM20250418000006990_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "\"수출호황·확장재정에 수요측 물가압력↑…긴축 장기화 가능성\"",
           "link": "https://www.yna.co.kr/view/AKR20261023177600002",
@@ -25,59 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.7
-        },
-        {
-          "title": "3회 연속 금리 인상에 부담느낀 신 총재…‘매파본색’은 계속된다 [BOK WATCHER]",
-          "link": "https://www.mk.co.kr/news/economy/12184526",
-          "summary": "향후 통화정책 좌우할 변수 점검한국은행 금융통화위원회가 22일 기준금리를 연 3.00%로 동결했다. 신현송 한은 총재는 금리 동결의 명분으로 ‘2차례의 금리 인상을 통해 정책 공간..",
-          "publishedAt": "2026-10-23T11:30:33.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/23/news-p.v1.20261022.10fc5d823880460c89406531a10de7a7_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
           "score": 6.5
-        },
-        {
-          "title": "국고채 금리 일제히 하락…美 국채 강세 영향(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20261023146851008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 23일 국고채 금리가 일제히 하락했다.",
-          "publishedAt": "2026-10-23T07:50:10.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/23/AKR20261023146851008_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.4
-        },
-        {
-          "title": "원/달러 환율 소폭 반등…1,320원대 중반",
-          "link": "https://www.yna.co.kr/view/AKR20261023134800002",
-          "summary": "(서울=연합뉴스) 채새롬 기자 = 23일 원/달러 환율이 1,320원대 초반까지 떨어졌다가 소폭 반등해 1,320원대 중반을 기록했다.",
-          "publishedAt": "2026-10-23T07:40:34.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/23/PYH2026102314360001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.4
-        },
-        {
-          "title": "한은 총재 “7~8월 금리 인상으로 운신 폭 얻어…물가는 높게 유지”",
-          "link": "https://www.mk.co.kr/news/economy/12184218",
-          "summary": "한국은행, 국회 재정위 국정감사 향후 금리 인상 기조는 열어둬 “물가는 목표수준보다 높게 유지”신현송 한국은행 총재가 지난 7~8월 두 달 연속 금리 인상을 통해 선제적으로 대응하..",
-          "publishedAt": "2026-10-23T06:50:38.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/23/news-p.v1.20261023.e87999afd56e4c5ebedecb74aff09e9b_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.4
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 189,
+      "poolSize": 174,
       "items": [
         {
           "title": "마곡사 군왕대제 입재…“반야 지혜 발원”",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.4
         },
         {
           "title": "“올해 70일 남았다” 연말 모임 전 체중관리… 지금부터가 골든타임",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.6
+          "score": 3.4
         },
         {
           "title": "10-1. ‘법문’의 유래",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.4
+          "score": 3.2
         },
         {
           "title": "[법인 스님의 문자 반야] 61. 체로금풍(體露金風)",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.4
+          "score": 3.2
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 20. 비겁함·비굴함 참회와 교만 참회",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.4
+          "score": 3.2
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 147,
+      "poolSize": 146,
       "items": [
         {
           "title": "국립순천대 인문학술원, UCLA서 ‘국면으로서의 1948’ 국제학술대회 공동 개최",
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.6
+          "score": 6.4
         },
         {
           "title": "미셸 푸코 『말과 사물』 강의",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.6
+          "score": 6.4
         },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -211,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.1
+          "score": 6
         },
         {
           "title": "Locke’s Moral Philosophy",
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.7
+          "score": 5.5
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 186,
+      "poolSize": 182,
       "items": [
         {
           "title": "폴란드 작가 눈에 비친 창원은…경남도립미술관 작가 창작 교류",
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "한지로 그린 회화·조형·빛…원주한지테마파크, 네 작가 기획전",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.7
+          "score": 6.5
         },
         {
           "title": "서울시 시립박물관 유료 기획전시, 기후동행패스로 할인받는다",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
           "title": "부산 영도에서 경성의 식탁까지…버려진 그릇 조각이 걸어온 길",
@@ -304,20 +304,20 @@
           "candidates": [
             "art"
           ],
-          "score": 3.7
+          "score": 3.6
         },
         {
-          "title": "\"텅 빈 상가에 활력을\"…한동대, 포항 원도심서 전시·체험 마련",
-          "link": "https://www.yna.co.kr/view/AKR20261023144800053",
-          "summary": "(포항=연합뉴스) 손대성 기자 = 한동대가 쇠락한 경북 포항의 원도심을 살리기 위한 행사를 마련한다.",
-          "publishedAt": "2026-10-23T07:34:22.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/23/AKR20261023144800053_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "문체부, 유홍준 ‘셀프 출품’ 감사…전시품 관리·검증 전반 들여다본다",
+          "link": "https://www.khan.co.kr/article/202610231438001/",
+          "summary": "최휘영 문화체육관광부 장관이 23일 국회 문화체육관광위원회 종합감사에서 질의에 답하고 있다. 연합뉴스문화체육관광부가 유홍준 전 국립중앙박물관장의 개인 소장품 출품 논란을 포함해 전시품 관리·검증 절차 전반을 감사하겠다고 밝혔다.23일 국회 문화체육관광위원회의 종합 국정감사에서 정연욱 국민의힘 의원은 박물관이 문체부에 감사를 의뢰하면서 유 전 관장의 소장··…",
+          "publishedAt": "2026-10-23T05:38:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 3.4
+          "score": 3.1
         }
       ]
     }
