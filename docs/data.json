@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-25T08:01:52.629Z",
+  "builtAt": "2026-10-25T13:30:32.058Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 338,
+      "poolSize": 336,
       "items": [
         {
           "title": "\"수출호황·확장재정에 수요측 물가압력↑…긴축 장기화 가능성\"",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.8
+          "score": 6.7
         },
         {
           "title": "3회 연속 금리 인상에 부담느낀 신 총재…‘매파본색’은 계속된다 [BOK WATCHER]",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.6
+          "score": 6.5
         },
         {
           "title": "국고채 금리 일제히 하락…美 국채 강세 영향(종합)",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.5
+          "score": 6.4
         },
         {
           "title": "원/달러 환율 소폭 반등…1,320원대 중반",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.5
+          "score": 6.4
         },
         {
           "title": "한은 총재 “7~8월 금리 인상으로 운신 폭 얻어…물가는 높게 유지”",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.5
+          "score": 6.4
         }
       ]
     },
@@ -92,8 +92,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 196,
+      "poolSize": 189,
       "items": [
+        {
+          "title": "마곡사 군왕대제 입재…“반야 지혜 발원”",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506027",
+          "summary": "공주 마곡사(주지 원경 스님)는 10월 24일 영산전 일원에서 제13회 군왕대재 입재식을 봉행하고 지역과 가정의 평안을 기원했다.입재식은 총무국장 라훌 스님의 헌향·헌다를 시작으로 기획국장 호선 스님과 교무국장 용담 스님이 집전한 산신청, 산왕 성근시, 축원, 신현탁 보리수 회장의 발원문 낭독, 인사말 순으로 진행됐다.라훌 스님은 주지 원경 스님을 대신한…",
+          "publishedAt": "2026-10-25T17:23:18.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.6
+        },
         {
           "title": "“올해 70일 남았다” 연말 모임 전 체중관리… 지금부터가 골든타임",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=338551",
@@ -105,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.6
         },
         {
           "title": "10-1. ‘법문’의 유래",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.6
+          "score": 3.4
         },
         {
           "title": "[법인 스님의 문자 반야] 61. 체로금풍(體露金風)",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
+          "score": 3.4
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 20. 비겁함·비굴함 참회와 교만 참회",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
-        },
-        {
-          "title": "<41>MZ, Gen Z세대. 그들의 신대승불교 운동",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443449",
-          "summary": "비교과. 전공 혹은 교양과목처럼 점수로 결과가 나오는 것이 아니라 전공과목 이해를 위해 다양한 활동을 하거나 동아리 같은 활동을 하는 영역이다. 필자가 소속되어 있는 학교 불교학부에서는 다양한 비교과 활동을 한다. 사경을 하며 신심을 고취시키는 비교과도 있고, 불교문화콘텐츠를 어떻게 접근할 것이며 이를 사회에 어떻게 전달할 것인가 고민하는 ‘맵핑’의 비교과…",
-          "publishedAt": "2026-10-22T14:25:10.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.1
+          "score": 3.4
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.7
+          "score": 6.6
         },
         {
           "title": "미셸 푸코 『말과 사물』 강의",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.7
+          "score": 6.6
         },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -211,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.2
+          "score": 6.1
         },
         {
           "title": "Locke’s Moral Philosophy",
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.9
+          "score": 5.7
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 194,
+      "poolSize": 186,
       "items": [
         {
           "title": "폴란드 작가 눈에 비친 창원은…경남도립미술관 작가 창작 교류",
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "한지로 그린 회화·조형·빛…원주한지테마파크, 네 작가 기획전",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.8
+          "score": 6.7
         },
         {
           "title": "서울시 시립박물관 유료 기획전시, 기후동행패스로 할인받는다",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.2
         },
         {
           "title": "부산 영도에서 경성의 식탁까지…버려진 그릇 조각이 걸어온 길",
@@ -304,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 3.9
+          "score": 3.7
         },
         {
           "title": "\"텅 빈 상가에 활력을\"…한동대, 포항 원도심서 전시·체험 마련",
@@ -317,7 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 3.5
+          "score": 3.4
         }
       ]
     }
