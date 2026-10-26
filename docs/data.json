@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-25T22:59:21.702Z",
+  "builtAt": "2026-10-26T08:23:22.416Z",
   "cards": [
     {
       "id": "econ",
@@ -12,27 +12,14 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 335,
+      "poolSize": 314,
       "items": [
         {
-          "title": "[글로벌 마켓시황] FOMC에 빅테크 실적까지…선물 일제히 오름세",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814179",
-          "summary": "글로벌 시황입니다. 먼저 이번 주 뉴욕증시부터 살펴보겠습니다.27일부터 이틀간 미 FOMC회의가 진행되고 29일에는 9월 개인소비지출 PCE 물가지수가 발표됩니다.28일에는 알파벳과 마이크로소프트, 29일에는 아마존의 3분기 실적이 공개됩니다.10월 FOMC에서 금리 동결 가능성이 90% 안팎으로 우세한 가운데, 시장은 케빈 워시 연준 의장이 12월 추가…",
-          "publishedAt": "2026-10-25T22:57:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261026/202234749_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "[인터뷰] 이성호 NH증권 본부장 \"올해 채권금리 상승은 성장의 대가\"",
-          "link": "https://www.yna.co.kr/view/AKR20261025020300008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = \"올해 우리나라 채권금리 상승은 '성장의 대가'였습니다.\"",
-          "publishedAt": "2026-10-25T22:06:33.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/25/AKR20261025020300008_01_i_P2.jpg",
+          "title": "원/달러 환율 1.5원 내린 1,323.1원…연중 저점 또 경신",
+          "link": "https://www.yna.co.kr/view/AKR20261026137300002",
+          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 26일 1,320원 선에 바짝 다가서며 다시 한번 저점을 낮췄다.",
+          "publishedAt": "2026-10-26T07:33:08.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/26/PYH2026102616930001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
@@ -41,43 +28,56 @@
           "score": 7.5
         },
         {
-          "title": "국제유가 117달러 돌파…에너지값 급등에 연말 물가 '빨간불'",
-          "link": "https://www.hankyung.com/article/2026102638807",
+          "title": "NH증권 \"연말까지 AAA급 채권 공급 부담 완화 전망\"",
+          "link": "https://www.yna.co.kr/view/AKR20261026108700008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 연말까지 최상위 신용등급인 AAA급 채권의 공급 부담이 줄면서 국채 대비 신용채권(크레딧) 금리 차이인 신용스...",
+          "publishedAt": "2026-10-26T05:34:09.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/26/AKR20261026108700008_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "국고채 금리 일제히 하락…3년물 연 3.789%",
+          "link": "https://www.yna.co.kr/view/AKR20261026143400008",
+          "summary": "(서울=연합뉴스) 26일 국고채 금리가 일제히 하락했다.",
+          "publishedAt": "2026-10-26T07:41:12.000Z",
+          "image": "",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "[단독] \"年 4% 금리가 어디냐\" 삼성전자도 예금 수조원 추가",
+          "link": "https://www.hankyung.com/article/202610265759i",
           "summary": "",
-          "publishedAt": "2026-10-25T21:45:56.000Z",
+          "publishedAt": "2026-10-26T07:40:04.000Z",
           "image": "",
           "sourceName": "한국경제",
           "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 4.5
         },
         {
-          "title": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고",
-          "link": "https://www.yna.co.kr/view/AKR20261025043600002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율이 1,320원대 초반으로 하락하면서 주요 교역국 통화와 비교한 원화의 명목실효환율이 약 2년 만...",
-          "publishedAt": "2026-10-25T20:55:00.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2025/04/18/06/PCM20250418000006990_P2.jpg",
+          "title": "KOFR 기반 금리 파생상품 청산 1년 새 10배로 증가",
+          "link": "https://www.yna.co.kr/view/AKR20261026114600008",
+          "summary": "(서울=연합뉴스) 김유아 기자 = 지난해 도입된 한국무위험지표금리(KOFR) 기반 장외파생상품(OIS) 중앙청산서비스의 일평균 청산 금액이 최근...",
+          "publishedAt": "2026-10-26T06:07:05.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/26/AKR20261026114600008_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
-        },
-        {
-          "title": "\"수출호황·확장재정에 수요측 물가압력↑…긴축 장기화 가능성\"",
-          "link": "https://www.yna.co.kr/view/AKR20261023177600002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 반도체 호황과 수출 증가세가 이어지는 가운데 정부의 재정지출 확대까지 맞물리면서 수요 측 물가 상승 압력이 커...",
-          "publishedAt": "2026-10-24T00:00:01.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/23/AKR20261023177600002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.5
+          "score": 4.5
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 174,
+      "poolSize": 201,
       "items": [
         {
           "title": "마곡사 군왕대제 입재…“반야 지혜 발원”",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "“올해 70일 남았다” 연말 모임 전 체중관리… 지금부터가 골든타임",
@@ -118,46 +118,46 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.4
-        },
-        {
-          "title": "10-1. ‘법문’의 유래",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338525",
-          "summary": "‘금강경’ 제13 여법수지분 첫머리엔 수보리가 부처님께 “세존이시여! 이 경을 어떻게 이름해야 하며, 저희들이 어떻게 받들어 지녀야 하옵니까?”라고 여쭙는 장면이 등장한다. 비록 인도는 신화와 역사가 뒤섞여 전해져서 대서사시 ‘마하바라따’의 저자 위야사가 자신의 작품 속에서 왕실 혈통의 선조로 둔갑하여 기록되는 등 혼란스런 모습이 예사롭지 않은 게 사실이라…",
-          "publishedAt": "2026-10-23T10:46:01.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
           "score": 3.2
         },
         {
-          "title": "[법인 스님의 문자 반야] 61. 체로금풍(體露金風)",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505989",
-          "summary": "가을 산은 눈부시다. 온갖 수목이 형형색색으로 물들어 펼쳐내는 단풍의 향연은 보는 이들의 탄성을 자아낸다. 소동파(1037~1101)가 “시냇물 소리는 부처의 설법이요, 산빛은 어찌 부처의 청정한 몸이 아니겠는가(溪聲便是廣長舌 山色豈非淸淨身)”라고 읊었듯, 산과 들은 그 자체로 부처의 진면목을 드러낸다. 그러나 찬 바람이 불면 무성하던 잎들은 이내 떨어지고…",
-          "publishedAt": "2026-10-23T10:17:09.000Z",
+          "title": "김해 불인사, 진경 스님 초청법회…6차 기도 입재",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506044",
+          "summary": "김해 불인사(주지 송산 스님)가 법화경 봉찬 천일기도의 원력을 이어가며 참된 자아를 성찰하고 수행의 의미를 되새기는 특별법회를 봉행했다.불인사는 10월 25일 거창 붓다선원장 진경 스님 초청 특별법회를 봉행하고, 법화경 봉찬 천일기도 가운데 제6차 100일 기도에 입재했다.진경 스님은 저서 제목이기도 한 ‘나로부터의 자유, 세상을 비추다’를 주제로 한 법문…",
+          "publishedAt": "2026-10-26T13:49:49.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3.1
         },
         {
-          "title": "[반야 참회로 여는 수행의 첫걸음] 20. 비겁함·비굴함 참회와 교만 참회",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=505987",
-          "summary": "비겁함·비굴함 참회중급 참회에서 다음 참회 대상은 비겁함과 비굴함이다. 이 둘은 서로 다른 용어이지만 구별하지 않고 사용하는 경우가 많으며 참회 방법이 같아 한 항목으로 분류했다.참회 대상비겁함 : 다음 몇 가지가 비겁함의 주요 참회 대상이 된다. 사안에 따라서는 중복될 수도 있다.•책임 회피: 자기가 책임져야 할 일을 회피하거나 다른 사람에게 미루는 마음…",
-          "publishedAt": "2026-10-23T10:14:05.000Z",
+          "title": "종림스님 “자아를 강조하는 한 자유는 없다… 비판불교는 타산지석”",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443530",
+          "summary": "고려대장경연구소 이사 종림스님이 본각사상을 겨냥한 비판불교의 문제 제기를 한국 선불교가 스스로를 돌아보는 ‘타산지석’으로 삼아야 한다고 밝혔다. 한국선학회(회장 향산스님)가 10월 22일 서울 한국불교역사문화기념관 국제회의장에서 ‘선불교와 윤리-본각사상과 관련하여’를 주제로 연 2026년 추계학술대회에서다.종림스님은 ‘선의 주체와 자유-본각사상 비판에 대한…",
+          "publishedAt": "2026-10-26T09:19:08.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3
+        },
+        {
+          "title": "논산 관촉사, 꽃비 속 음악으로 물들다",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506028",
+          "summary": "부처님께 차와 공양을 올리는 정성에 다채로운 음악이 어우러지며 비 내리는 산사를 찾은 불자와 시민들에게 가을의 추억을 선사했다.논산 관촉사(주지 종봉 스님)는 10월 24일 경내 특설무대에서 ‘반야산 관촉사 헌공다례 및 산사음악회’를 개최했다.관촉사가 주최하고 충청남도와 논산시가 후원한 이날 행사에는 주지 종봉 스님을 비롯한 지역 스님들과 백성현 논산시장,…",
+          "publishedAt": "2026-10-25T17:37:24.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 2.7
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 146,
+      "poolSize": 145,
       "items": [
         {
           "title": "국립순천대 인문학술원, UCLA서 ‘국면으로서의 1948’ 국제학술대회 공동 개최",
@@ -185,20 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.4
-        },
-        {
-          "title": "미셸 푸코 『말과 사물』 강의",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211587",
-          "summary": "『미셸 푸코 《말과 사물》 강의』는 한국 철학계에서 보기 드물게 하나의 철학 고전을 장기적이고 치밀하게 해설한 작업이다. 이 책은 철학아카데미에서 6학기 동안 진행된 강의를 바탕으로 하며, 『말과 사물』의 서문부터 마지막 문장까지를 따라가면서, 푸코 사유의 전체 지형도를 일관된 사유의 흐름 속에 재현하고 있다. 특히 단순한 주해와 해설을 넘어서, 동시대 철…",
-          "publishedAt": "2026-10-23T16:06:44.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 6.4
+          "score": 6.2
         },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -237,7 +224,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.5
+          "score": 5.3
+        },
+        {
+          "title": "New: “Why Teach Philosophy?”",
+          "link": "https://dailynous.com/2026/10/15/new-why-teach-philosophy/",
+          "summary": "Why Teach Philosophy is a new series of interviews with philosophers known for their teaching, their research on philosophy pedagogy, or their work on curriculum design. […] The post New: “Why Teach P…",
+          "publishedAt": "2026-10-15T14:34:35.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2019/09/lecture-hall-old-1.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
         }
       ]
     },
@@ -252,72 +252,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 182,
+      "poolSize": 184,
       "items": [
         {
-          "title": "폴란드 작가 눈에 비친 창원은…경남도립미술관 작가 창작 교류",
-          "link": "https://www.yna.co.kr/view/AKR20261023139800052",
-          "summary": "(창원=연합뉴스) 이정훈 기자 = 폴란드 작가 2명이 경남 창원시에 머물며 외국인의 눈으로 본 창원의 이미지를 작품으로 남긴다.",
-          "publishedAt": "2026-10-25T00:10:01.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/23/AKR20261023139800052_01_i_P2.jpg",
+          "title": "전주 우진문화재단 청년미술상에 김승주·임희성…500만원 지원",
+          "link": "https://www.yna.co.kr/view/AKR20261026128500055",
+          "summary": "(전주=연합뉴스) 백도인 기자 = 우진문화재단은 '2026 우진 청년미술상'에 김승주(조각)·임희성(평면회화) 작가를 선정했다고 26일 밝혔다.",
+          "publishedAt": "2026-10-26T06:42:32.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2015/11/24/01/C0A8CA3C0000015136FC56D80006DD7B_P2.jpeg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 7
+          "score": 6
         },
         {
-          "title": "한지로 그린 회화·조형·빛…원주한지테마파크, 네 작가 기획전",
-          "link": "https://www.yna.co.kr/view/AKR20261024011300062",
-          "summary": "(원주=연합뉴스) 임보연 기자 = 강원 원주한지테마파크에서 한지를 회화와 조형, 빛 등 다양한 예술 표현으로 재해석한 전시가 펼쳐진다.",
-          "publishedAt": "2026-10-23T22:35:40.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/24/AKR20261024011300062_01_i_P2.jpg",
+          "title": "굴업도 작은 성당에 온 성모 마리아…최종태 조각상 안치",
+          "link": "https://www.yna.co.kr/view/AKR20261026115400005",
+          "summary": "(서울=연합뉴스) 고미혜 기자 = '한국의 갈라파고스'이자 이젠 '백패킹 성지'가 된 인천 굴업도에서 최근 특별한 미사가 열렸다. 천주교 인천교...",
+          "publishedAt": "2026-10-26T06:04:12.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/26/AKR20261026115400005_04_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 6.5
+          "score": 4.5
         },
         {
-          "title": "서울시 시립박물관 유료 기획전시, 기후동행패스로 할인받는다",
-          "link": "https://www.yna.co.kr/view/AKR20261023139400004",
-          "summary": "(서울=연합뉴스) 김준태 기자 = 서울시의 대중교통 정기권 기후동행패스로 시립박물관 유료 기획전시를 할인받아 이용할 수 있게 된다.",
-          "publishedAt": "2026-10-24T20:55:02.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/23/AKR20261023139400004_01_i_P2.jpg",
+          "title": "SK하이닉스, 여의도 IFC몰서 기업광고 '초심' 전시회",
+          "link": "https://www.yna.co.kr/view/AKR20261026113500003",
+          "summary": "(서울=연합뉴스) 임성호 기자 = SK하이닉스는 지난 24일부터 다음 달 1일까지 서울 여의도 IFC몰 사우스 아트리움에서 기업광고 캠페인 전시...",
+          "publishedAt": "2026-10-26T05:55:04.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/26/AKR20261026113500003_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 4.4
         },
         {
-          "title": "부산 영도에서 경성의 식탁까지…버려진 그릇 조각이 걸어온 길",
-          "link": "https://www.yna.co.kr/view/AKR20261024018900005",
-          "summary": "(서울=연합뉴스) 김예나 기자 = 2009년 서울 성동구 행당동 일대. 도시 개발을 앞두고 발굴 조사가 한창이던 땅에서 그릇 파편이 잇달아 나왔...",
-          "publishedAt": "2026-10-24T01:30:01.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/24/AKR20261024018900005_09_i_P2.jpg",
+          "title": "'아트광주' 2년 연속 오픈런 인기…3만여명 방문",
+          "link": "https://www.yna.co.kr/view/AKR20261026111400054",
+          "summary": "(전남광주=연합뉴스) 장아름 기자 = '제17회 광주국제아트페어 아트광주'에 나흘간 3만명이 다녀가면서 호남 최대 미술시장으로서 입지를 공고히 ...",
+          "publishedAt": "2026-10-26T05:43:58.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/26/AKR20261026111400054_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 3.6
+          "score": 4.4
         },
         {
-          "title": "문체부, 유홍준 ‘셀프 출품’ 감사…전시품 관리·검증 전반 들여다본다",
-          "link": "https://www.khan.co.kr/article/202610231438001/",
-          "summary": "최휘영 문화체육관광부 장관이 23일 국회 문화체육관광위원회 종합감사에서 질의에 답하고 있다. 연합뉴스문화체육관광부가 유홍준 전 국립중앙박물관장의 개인 소장품 출품 논란을 포함해 전시품 관리·검증 절차 전반을 감사하겠다고 밝혔다.23일 국회 문화체육관광위원회의 종합 국정감사에서 정연욱 국민의힘 의원은 박물관이 문체부에 감사를 의뢰하면서 유 전 관장의 소장··…",
-          "publishedAt": "2026-10-23T05:38:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "[컬처&레저] 도자기에 담은 와인…佛 식음료 전시회",
+          "link": "https://www.yna.co.kr/view/AKR20261026108200542",
+          "summary": "(서울=연합뉴스) 이동경 기자 = 주한프랑스대사관 비즈니스프랑스는 26일 서울 서대문구 대사관저에서 프랑스 식음료 전문 전시회인 '푸드익스피리언...",
+          "publishedAt": "2026-10-26T05:35:33.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/26/AKR20261026108200542_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 3.1
+          "score": 4.4
         }
       ]
     }
