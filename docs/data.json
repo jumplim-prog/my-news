@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-27T08:34:18.573Z",
+  "builtAt": "2026-10-27T15:04:24.317Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 338,
+      "poolSize": 339,
       "items": [
         {
           "title": "원/달러 환율, 미 금리 결정 경계감 속 1,320원대 보합권",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "[외환] 원/달러 환율 0.6원 오른 1,323.7원(15:30 기준가)",
@@ -38,46 +38,46 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
-          "title": "[단독] “AI투자 꺾이면 수출 1천억달러 타격”…한은의 경고",
-          "link": "https://www.mk.co.kr/news/economy/12186073",
-          "summary": "내년 미국 빅테크 기업의 인공지능(AI) 투자가 둔화되면 한국의 반도체 수출액이 당초 전망보다 최대 1000억달러 줄어들 수 있다는 한국은행의 경고가 나왔다. 반도체가 전체 수출의..",
-          "publishedAt": "2026-10-26T08:32:11.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/26/news-p.v1.20261026.a3b57ae217594146b973d371571c1df7_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.5
-        },
-        {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12187311",
+          "title": "\"팔란티어 지금 사라\"…\"국채보다 단기 우량 회사채\"[박신영의 개장전 요것만]",
+          "link": "https://www.hankyung.com/article/202610279084i",
           "summary": "",
-          "publishedAt": "2026-10-27T08:18:40.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/28/20261028_01110112000007_L00.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "publishedAt": "2026-10-27T14:26:53.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
           "score": 4.5
         },
         {
-          "title": "코스피 반등에도 국고채 금리 일제히↓…3년물 2개월래 최저(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20261027157251008",
-          "summary": "(서울=연합뉴스) 김태종 기자 = 국고채 금리가 27일 국내 증시 급반등에도 일제히 하락 마감했다.",
-          "publishedAt": "2026-10-27T07:57:41.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2024/03/04/45/PCM20240304000145990_P2.jpg",
+          "title": "금융위, 초고금리 불법사금융 '징역 10년·벌금 5억'으로 강화",
+          "link": "https://www.yna.co.kr/view/AKR20261027178700002",
+          "summary": "(서울=연합뉴스) 강류나 기자 = 금융위원회가 연 60%를 초과하는 초고금리 불법사금융에 대한 형사처벌을 최대 징역 10년 또는 벌금 5억원으로...",
+          "publishedAt": "2026-10-27T10:13:10.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2026/10/02/94/PCM20261002000194990_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.5
+          "score": 4.4
+        },
+        {
+          "title": "3분기 GDP 1% '깜짝성장' … 한국은행 \"올 4%도 가능\"",
+          "link": "https://www.mk.co.kr/news/economy/12187424",
+          "summary": "반도체 수출과 설비투자 호조에 힘입어 3분기 한국 경제가 1.0% 성장했다. 4분기 성장률이 0%에 그치더라도 연간 성장률은 기존 전망치(3.3%)를 웃도는 3.6%에 이를 것으로..",
+          "publishedAt": "2026-10-27T08:43:45.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/28/20261028_01110101000005_S00.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.4
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 200,
+      "poolSize": 203,
       "items": [
         {
           "title": "마곡사 군왕대제 입재…“반야 지혜 발원”",
@@ -105,7 +105,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.5
+        },
+        {
+          "title": "논산 관촉사, 헌공다례·산사음악회로 화합",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115100",
+          "summary": "대한불교조계종 제6교구 논산 관촉사가 깊어가는 가을날 부처님 전에 헌공다례를 올리고, 산사음악회를 통해 지역 주민들과 소통하며 화합의 시간을 가졌습니다.관촉사는 지난 24일 경내 특설무대에서 주지 종봉 스님을 비롯해 백성현 논산시장, 이혜경 논산계룡교육지원청 교육장, 지역 스님들과 불자 등이 참석한 가운데 '반야산 관촉사 헌공다례·산사음악회'를 봉행했습니다…",
+          "publishedAt": "2026-10-27T18:55:43.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
         },
         {
           "title": "영화 스님 “경전 공부 넘어 수행으로”",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3
         },
         {
           "title": "논산 관촉사, 헌공다례와 산사음악회 개최",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.9
         },
         {
           "title": "청주 마야사, 월암당 이두대종사 열반 9주기 추모다례 봉행",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
-        },
-        {
-          "title": "김해 불인사, 진경 스님 초청법회…6차 기도 입재",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506044",
-          "summary": "김해 불인사(주지 송산 스님)가 법화경 봉찬 천일기도의 원력을 이어가며 참된 자아를 성찰하고 수행의 의미를 되새기는 특별법회를 봉행했다.불인사는 10월 25일 거창 붓다선원장 진경 스님 초청 특별법회를 봉행하고, 법화경 봉찬 천일기도 가운데 제6차 100일 기도에 입재했다.진경 스님은 저서 제목이기도 한 ‘나로부터의 자유, 세상을 비추다’를 주제로 한 법문…",
-          "publishedAt": "2026-10-26T13:49:49.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.6
+          "score": 2.9
         }
       ]
     },
@@ -211,7 +211,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.8
+          "score": 4.7
+        },
+        {
+          "title": "The Vanderbilt Report’s Sub-Report on Philosophy",
+          "link": "https://dailynous.com/2026/10/27/the-vanderbilt-reports-sub-report-on-philosophy/",
+          "summary": "“Academic philosophy is generally healthy in most respects relevant to the work of the Commission.” That commission is the group of ten scholars (including three […] The post The Vanderbilt Report’s S…",
+          "publishedAt": "2026-10-27T13:04:21.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/10/blurred-lines-riley-1024x532.jpg",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
         },
         {
           "title": "Aristotle’s Categories",
@@ -225,19 +238,6 @@
             "philosophy"
           ],
           "score": 4.5
-        },
-        {
-          "title": "Coordinating the Philosophy Profession’s Response to the Use of AI in Research",
-          "link": "https://dailynous.com/2026/10/26/coordinating-the-philosophy-professions-response-to-the-use-of-ai-in-research/",
-          "summary": "We have discussed in many posts here how artificial intelligence (AI) is affecting—and could affect—different aspects of academic philosophy’s research ecosystem. We have seen AI-written […] The post…",
-          "publishedAt": "2026-10-26T13:00:44.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/10/traffic-light-all-on-binary-background-1024x686.jpg",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.1
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 187,
+      "poolSize": 190,
       "items": [
         {
           "title": "'찾아가는 경남도립미술관' 순회전시에 도민 1만5천여명 발길",
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "함안박물관 기획전 '비상소집' 개막…소 주제 유물 50여점 전시",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "양주 '장흥 미술관 여행 통합권' 매진…500매 추가 판매",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "도심·자연에 녹아든 건축, 사람을 보다…수성국제비엔날레 개막",
@@ -304,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "준지, K팝 아티스트 48인 전시 '디페스타 디 오리진' 의상 협업",
@@ -317,7 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         }
       ]
     }
