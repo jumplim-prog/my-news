@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-26T15:43:45.037Z",
+  "builtAt": "2026-10-27T00:10:25.221Z",
   "cards": [
     {
       "id": "econ",
@@ -15,6 +15,19 @@
       "poolSize": 340,
       "items": [
         {
+          "title": "유가 하락에 금값 4000달러 회복…Fed 금리 결정 주목",
+          "link": "https://www.hankyung.com/article/202610276551i",
+          "summary": "",
+          "publishedAt": "2026-10-26T22:53:55.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
           "title": "비트코인 8만달러 붕괴…AI 불안·연준·美 중간선거 3중고",
           "link": "https://www.hankyung.com/article/202610266262i",
           "summary": "",
@@ -25,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "'고공행진' 佛 국채 금리, 회사채 역전",
@@ -38,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "원/달러 환율 1.5원 내린 1,323.1원…연중 저점 또 경신",
@@ -51,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "NH증권 \"연말까지 AAA급 채권 공급 부담 완화 전망\"",
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
-        },
-        {
-          "title": "[글로벌 마켓시황] FOMC에 빅테크 실적까지…선물 일제히 오름세",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814179",
-          "summary": "글로벌 시황입니다. 먼저 이번 주 뉴욕증시부터 살펴보겠습니다.27일부터 이틀간 미 FOMC회의가 진행되고 29일에는 9월 개인소비지출 PCE 물가지수가 발표됩니다.28일에는 알파벳과 마이크로소프트, 29일에는 아마존의 3분기 실적이 공개됩니다.10월 FOMC에서 금리 동결 가능성이 90% 안팎으로 우세한 가운데, 시장은 케빈 워시 연준 의장이 12월 추가…",
-          "publishedAt": "2026-10-25T22:57:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261026/202234749_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.2
+          "score": 7.1
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 185,
+      "poolSize": 179,
       "items": [
         {
           "title": "마곡사 군왕대제 입재…“반야 지혜 발원”",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.9
         },
         {
           "title": "김해 불인사, 진경 스님 초청법회…6차 기도 입재",
@@ -118,20 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
-        },
-        {
-          "title": "“올해 70일 남았다” 연말 모임 전 체중관리… 지금부터가 골든타임",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338551",
-          "summary": "올해도 어느덧 70일 남짓 남았다. 11월이 되면 송년회와 각종 모임, 회식이 이어지고 날씨까지 추워져 활동량이 줄면서 체중 관리가 가장 어려워지는 시기가 시작된다. 연말 모임을 앞두고 급하게 식사량을 줄이는 사람도 있지만 전문가들은 그런 방식이 오히려 역효과를 낼 수 있다고 말한다. 연말 시즌의 체중 증가는 하루 이틀의 과식보다 생활 리듬이 흐트러지는 데…",
-          "publishedAt": "2026-10-23T15:56:54.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3
+          "score": 2.8
         },
         {
           "title": "종림스님 “자아를 강조하는 한 자유는 없다… 비판불교는 타산지석”",
@@ -144,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.9
+          "score": 2.7
         },
         {
           "title": "논산 관촉사, 꽃비 속 음악으로 물들다",
@@ -157,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.5
+          "score": 2.4
         }
       ]
     },
@@ -172,7 +159,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 145,
+      "poolSize": 147,
       "items": [
         {
           "title": "국립순천대 인문학술원, UCLA서 ‘국면으로서의 1948’ 국제학술대회 공동 개최",
@@ -224,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.2
+          "score": 5
         },
         {
           "title": "Aristotle’s Categories",
@@ -252,7 +239,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 186,
+      "poolSize": 187,
       "items": [
         {
           "title": "전주 우진문화재단 청년미술상에 김승주·임희성…500만원 지원",
@@ -265,7 +252,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
+          "score": 5.6
+        },
+        {
+          "title": "롯데백화점, '포터' 브랜드사 '요시다 가방' 90주년 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261026155500030",
+          "summary": "(서울=연합뉴스) 정수연 기자 = 롯데백화점은 오는 31일부터 다음 달 15일까지 잠실 에비뉴엘 아트홀에서 가방 브랜드 '포터'를 전개하는 '요...",
+          "publishedAt": "2026-10-26T21:00:04.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/26/AKR20261026155500030_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "한국전쟁 이탈리아 의료지원단 미공개 사진 전시",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "굴업도 작은 성당에 온 성모 마리아…최종태 조각상 안치",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "SK하이닉스, 여의도 IFC몰서 기업광고 '초심' 전시회",
@@ -304,20 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
-        },
-        {
-          "title": "'아트광주' 2년 연속 오픈런 인기…3만여명 방문",
-          "link": "https://www.yna.co.kr/view/AKR20261026111400054",
-          "summary": "(전남광주=연합뉴스) 장아름 기자 = '제17회 광주국제아트페어 아트광주'에 나흘간 3만명이 다녀가면서 호남 최대 미술시장으로서 입지를 공고히 ...",
-          "publishedAt": "2026-10-26T05:43:58.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/26/AKR20261026111400054_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.3
+          "score": 4.1
         }
       ]
     }
