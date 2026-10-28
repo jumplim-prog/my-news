@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-28T00:12:35.640Z",
+  "builtAt": "2026-10-28T09:13:03.423Z",
   "cards": [
     {
       "id": "econ",
@@ -12,13 +12,13 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 339,
+      "poolSize": 329,
       "items": [
         {
-          "title": "[밤 사이 해외뉴스 영상] Fed '금리 동결' 전망에 사모펀드 3000억달러 빚 폭탄 경고",
-          "link": "https://www.hankyung.com/article/202610289436i",
+          "title": "국채금리 5% 육박해도 사모시장으로…보험사 돈이 몰린다 [김주완의 글로벌머니 X파일]",
+          "link": "https://www.hankyung.com/article/202610280080i",
           "summary": "",
-          "publishedAt": "2026-10-27T23:25:00.000Z",
+          "publishedAt": "2026-10-28T08:09:36.000Z",
           "image": "",
           "sourceName": "한국경제",
           "sourceId": "hankyung-economy",
@@ -28,56 +28,56 @@
           "score": 7.5
         },
         {
-          "title": "원/달러 환율, 미 금리 결정 경계감 속 1,320원대 보합권",
-          "link": "https://www.yna.co.kr/view/AKR20261027145700002",
-          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 27일 연방준비제도(Fed·연준)의 연방공개시장위원회(FOMC) 회의를 하루 앞둔 경계감 속에...",
-          "publishedAt": "2026-10-27T07:33:34.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/27/PYH2026102716970001300_P2.jpg",
+          "title": "미 FOMC 앞두고 국고채 금리 일제히 상승…3년물 연 3.799%(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20261028160651008",
+          "summary": "(서울=연합뉴스) 고은지 기자 = 미국 연방공개시장위원회(FOMC) 기준금리 결정을 하루 앞두고 국고채 금리가 28일 일제히 상승했다.",
+          "publishedAt": "2026-10-28T07:57:25.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2024/03/04/44/PCM20240304000144990_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.5
         },
         {
-          "title": "[외환] 원/달러 환율 0.6원 오른 1,323.7원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261027137300002",
+          "title": "원/달러 환율, 1,340원대로 상승…달러 매수세에 14원↑",
+          "link": "https://www.yna.co.kr/view/AKR20261028152100002",
+          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율이 지난 일주일 동안 1,320원대에 머무르다가 28일 1,340원대까지 상승했다.",
+          "publishedAt": "2026-10-28T07:15:03.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102803590001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "[외환] 원/달러 환율 14.0원 오른 1,337.7원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261028140700002",
           "summary": "(",
-          "publishedAt": "2026-10-27T06:35:16.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/27/AKR20261027137300002_01_i_P2.jpg",
+          "publishedAt": "2026-10-28T06:30:49.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/28/AKR20261028140700002_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 7.4
         },
         {
-          "title": "[밤 사이 해외뉴스]\"애플 폴더블 화면 깨졌다\" 파장…사모펀드 3000억달러 빚 대란 경고",
-          "link": "https://www.hankyung.com/article/202610289400i",
-          "summary": "",
-          "publishedAt": "2026-10-27T23:13:10.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "[금융, 사다리를 놓자] “금융을 보는 관점 새롭게…금리체계에 ‘공정도 등급’ 반영하자”",
-          "link": "https://www.khan.co.kr/article/202610280500021/",
-          "summary": "김자봉 은행법학회장이자 공정위 상임위원김자봉 공정거래위원회 상임위원이 지난 23일 세종정부청사에서 경향신문과 인터뷰를 하고 있다. 김창길 기자김자봉 공정거래위원회 상임위원이자 은행법학회장은 “금융을 보는 관점을 새롭게 가져갈 필요가 있다”며 대출 금리를 정할 때 소비자 입장에선 시스템 위험을 야기하는 위험도와 기업 관점에선 공정도 등급을 금리체계에 반영하자…",
-          "publishedAt": "2026-10-27T20:00:02.000Z",
+          "title": "지금은 달러를 살 때? 외화예금 1500억달러 돌파",
+          "link": "https://www.khan.co.kr/article/202610281521011/",
+          "summary": "28일 서울 중구 하나은행 본점에 원·달러 환율과 코스피, 코스닥 지수가 표시돼 있다. 연합뉴스반도체 호황에 따른 기업의 수출 대금 유입과 환율 하락에 달러를 사두려는 수요가 더해지면서 지난달 외화 예금이 석 달 연속 역대 최대 기록을 경신했다.한국은행이 28일 발표한 거주자 외화예금 동향에 따르면, 9월 말 기준 국내 외국환은행의 거주자 외화예금 잔액은…",
+          "publishedAt": "2026-10-28T06:21:01.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.4
+          "score": 7.4
         }
       ]
     },
@@ -92,20 +92,33 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 202,
+      "poolSize": 204,
       "items": [
         {
-          "title": "마곡사 군왕대제 입재…“반야 지혜 발원”",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506027",
-          "summary": "공주 마곡사(주지 원경 스님)는 10월 24일 영산전 일원에서 제13회 군왕대재 입재식을 봉행하고 지역과 가정의 평안을 기원했다.입재식은 총무국장 라훌 스님의 헌향·헌다를 시작으로 기획국장 호선 스님과 교무국장 용담 스님이 집전한 산신청, 산왕 성근시, 축원, 신현탁 보리수 회장의 발원문 낭독, 인사말 순으로 진행됐다.라훌 스님은 주지 원경 스님을 대신한…",
-          "publishedAt": "2026-10-25T17:23:18.000Z",
+          "title": "“AI가 명상 지도하고 법문까지…불교, 기술과 어떻게 공존할까”",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443694",
+          "summary": "인공지능(AI)이 개인의 마음 상태를 분석해 명상을 지도하고, 휴머노이드가 가르침을 전하는 시대가 열리고 있다. 세계 불교계가 AI를 수행과 포교의 새로운 ‘방편’으로 활용하기 시작한 가운데, 한국불교도 기술의 무조건적인 수용이나 거부를 넘어 불교적 가치와 전통을 지킬 수 있는 활용 원칙을 세워야 한다는 제언이 나왔다.조계종 총무원 사회부(사회부장 진경스님…",
+          "publishedAt": "2026-10-28T16:59:24.000Z",
           "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.4
+          "score": 4.7
+        },
+        {
+          "title": "심산스님 “작은 물방울이 바위를 뚫듯, 54년 신행의 힘은 꾸준한 정진”",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443631",
+          "summary": "부산불교거사림이 창립54주년을 맞아 지난 반세기 동안 이어온 법문 중심의 신행 전통을 되새기고, 새로운 도약을 다짐했다.부산불교거사림(회장 정익수)은 10월27일 부산불교신도회관 법계정사에서 '창립 제54주년 정기총회 및 기념대법회'를 봉행했다.이날 법회에는 홍법사 주지이자 한나래문화재단 이사장인 심산스님을 비롯해 정익수 회장과 역대 회장, 원로회원, 신도…",
+          "publishedAt": "2026-10-28T08:55:17.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3
         },
         {
           "title": "부산불교거사림, 창립 54주년 기념대법회 봉행",
@@ -118,33 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
-        },
-        {
-          "title": "부산불교거사림 '창립 54주년 기념법회'... \"화합과 재도약 발원\"",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115115",
-          "summary": "부산지역 대표적인 재가신행단체인 부산불교거사림이 27일 저녁 연산동 법계정사에서 '창립 54주년 기념법회'를 봉행하고 새로운 도약을 다짐했습니다.창립 기념법회는 거사림의 반세기 역사를 돌아보고, 창립 초기 단체를 이끌어온 원로 선배 거사들에게 감사의 뜻을 전하기 위해 마련됐습니다.또한, 부산 홍법사 주지 심산스님을 법사로 초청해 법문을 청해 듣고, 재가불자…",
-          "publishedAt": "2026-10-28T08:35:35.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.2
-        },
-        {
-          "title": "논산 관촉사, 헌공다례·산사음악회로 화합",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115100",
-          "summary": "대한불교조계종 제6교구 논산 관촉사가 깊어가는 가을날 부처님 전에 헌공다례를 올리고, 산사음악회를 통해 지역 주민들과 소통하며 화합의 시간을 가졌습니다.관촉사는 지난 24일 경내 특설무대에서 주지 종봉 스님을 비롯해 백성현 논산시장, 이혜경 논산계룡교육지원청 교육장, 지역 스님들과 불자 등이 참석한 가운데 '반야산 관촉사 헌공다례·산사음악회'를 봉행했습니다…",
-          "publishedAt": "2026-10-27T18:55:43.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.9
+          "score": 3
         },
         {
           "title": "영화 스님 “경전 공부 넘어 수행으로”",
@@ -157,7 +144,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.9
+          "score": 2.7
+        },
+        {
+          "title": "논산 관촉사, 헌공다례와 산사음악회 개최",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443597",
+          "summary": "천년고찰 논산 관촉사가 깊어가는 가을을 맞아 부처님께 공양을 올리고 아름다운 음악으로 시민들과 소통하는 뜻깊은 자리를 마련했다.관촉사(주지 종봉스님)는 10월24일 미륵대불 앞에서 불자와 지역주민들이 함께한 가운데 ‘반야산 관촉사 헌공다례 및 산사음악회’를 개최했다.이날 행사는 1부 헌공다례와 2부 산사음악회로 나눠 진행됐으며, 전통 불교의식과 다채로운 음…",
+          "publishedAt": "2026-10-27T10:40:10.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 2.5
         }
       ]
     },
@@ -201,6 +201,19 @@
           "score": 6
         },
         {
+          "title": "국립부경대, 동아시아 해양인문학 국제컨퍼런스 개최…한·중·일·대만 전문가 협력 논의",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211795",
+          "summary": "‘2026 동아시아 해양인문학 국제컨퍼런스’가 29일 오전 9시 30분 국립부경대 미래관 2층 소민홀에서 열린다. 이번 컨퍼런스에는 한국, 중국, 일본, 대만의 연구자와 전문가들이 참석한다. 행사는 ‘해양과 인간’을 주제로 동아시아 해양문명의 역사와 현재를 살펴보고 협력 방향을 논의한다. 부산광역시 ‘2026 부산인문학포럼 지원사업’의 일환이며, (사)인본…",
+          "publishedAt": "2026-10-28T17:24:21.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.7
+        },
+        {
           "title": "Kant’s Transcendental Arguments",
           "link": "https://plato.stanford.edu/entries/kant-transcendental/",
           "summary": "[Revised entry by Derk Pereboom on October 24, 2026. Changes to: Main text, Bibliography] Among Immanuel Kant's (1724 - 1804) most influential contributions to philosophy is his development of the tra…",
@@ -225,19 +238,6 @@
             "philosophy"
           ],
           "score": 4.5
-        },
-        {
-          "title": "New: Oxford Studies in Philosophy of AI and Computing",
-          "link": "https://dailynous.com/2026/10/27/new-oxford-studies-in-philosophy-of-ai-and-computing/",
-          "summary": "A new annual series and accompanying conference has been launched: Oxford Studies in Philosophy of AI and Computing (OSPAIC). The executive editor of OSPAIC is […] The post New: Oxford Studies in Phil…",
-          "publishedAt": "2026-10-27T16:16:23.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/10/oxford-studies-ai-computing.png",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.3
         }
       ]
     },
@@ -252,72 +252,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 193,
+      "poolSize": 192,
       "items": [
         {
-          "title": "무형유산 장인 30명의 명품 전시…부산 무형유산 아트페어",
-          "link": "https://www.yna.co.kr/view/AKR20261028019600051",
-          "summary": "(부산=연합뉴스) 김선호 기자 = 부산시는 오는 31일부터 다음 달 8일까지 부산 영화의전당 비프힐에서 제3회 부산 무형유산 아트페어를 개최한다...",
-          "publishedAt": "2026-10-27T23:13:56.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/28/AKR20261028019600051_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "유영국의 힘은 컸다···서울시립미술관, 역대 최다 관람객 기록",
+          "link": "https://www.khan.co.kr/article/202610281000001/",
+          "summary": "미술관 “역대 무료 전시 가운데 최다 관객수”5월부터 141일 전시 후 폐막서울시립미술관을 찾은 관람객들이 한국 추상미술 거장 고 유영국 작가의 작품을 감상하고 있다. 서울시립미술관 제공한국 추상미술의 거장 유영국 작가(1916~2002) 탄생 110주년을 맞아 서울시립미술관에서 지난 5월 19일부터 열었던 <유영국 : 산은 내 안에 있다> 전시···",
+          "publishedAt": "2026-10-28T01:00:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
-          "title": "함안박물관 기획전 '비상소집' 개막…소 주제 유물 50여점 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261027142800052",
-          "summary": "(함안=연합뉴스) 박영민 기자 = 경남 함안군은 오는 28일부터 내년 3월 28일까지 함안박물관에서 '비상소집: 비상한 소들의 모임' 기획전을 ...",
-          "publishedAt": "2026-10-27T06:49:17.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/27/AKR20261027142800052_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "“정치 바뀌었지만 불평등 여전”···부커상 작가가 말한 ‘절반의 혁명’",
+          "link": "https://www.khan.co.kr/article/202610281753001/",
+          "summary": "제15회 박경리문학상 수상아파르트헤이트 이후 남아공 ‘절반의 혁명’ 진단“정치제도는 평등해졌지만 불평등·부정의 여전”“인간은 역사와 사회에서 벗어나 존재할 수 없어”남아프리카공화국 소설가 데이먼 갤것이 28일 서울 중구 프레스센터에서 제15회 박경리문학상 수상작가 기자간담회를 하고 있다. 연합뉴스“저는 개인주의적이고, 정치에서 벗어나고 싶은 사람입니다. 하…",
+          "publishedAt": "2026-10-28T08:53:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 4.5
         },
         {
-          "title": "양주 '장흥 미술관 여행 통합권' 매진…500매 추가 판매",
-          "link": "https://www.yna.co.kr/view/AKR20261027130400060",
-          "summary": "(양주=연합뉴스) 노승혁 기자 = 경기 양주시는 19일부터 판매를 시작한 '장흥 미술관 여행 통합 이용권'이 나흘 만에 매진, 500매를 추가 ...",
-          "publishedAt": "2026-10-27T06:07:48.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/27/AKR20261027130400060_01_i_P2.jpg",
+          "title": "남아공 작가 갤것 \"권선징악 대신 질문 던지는 게 제 역할\"",
+          "link": "https://www.yna.co.kr/view/AKR20261028172700005",
+          "summary": "(서울=연합뉴스) 김기훈 기자 = \"저는 개인주의적인 사람이고, 정치에서 벗어나고 싶은 사람입니다. 하지만 인간이라는 존재는 역사를 벗어날 수 ...",
+          "publishedAt": "2026-10-28T08:37:01.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102818850001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 4.5
         },
         {
-          "title": "도심·자연에 녹아든 건축, 사람을 보다…수성국제비엔날레 개막",
-          "link": "https://www.yna.co.kr/view/AKR20261027085800053",
-          "summary": "(대구=연합뉴스) 윤관식 기자 = '짓는 비엔날레'를 지향하는 2026 수성국제비엔날레가 선선한 가을 날씨 속에 개막했다.",
-          "publishedAt": "2026-10-27T02:35:58.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/27/AKR20261027085800053_01_i_P2.jpg",
+          "title": "법무부, 서울대공원서 제55회 교정작품전시회",
+          "link": "https://www.yna.co.kr/view/AKR20261028136500004",
+          "summary": "(서울=연합뉴스) 최윤선 기자 = 법무부는 28일부터 내달 1일까지 경기 과천시 서울대공원 야외광장에서 '제55회 교정작품전시회'를 연다고 밝혔...",
+          "publishedAt": "2026-10-28T06:14:35.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/28/AKR20261028136500004_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 4.4
         },
         {
-          "title": "준지, K팝 아티스트 48인 전시 '디페스타 디 오리진' 의상 협업",
-          "link": "https://www.yna.co.kr/view/AKR20261027072300030",
-          "summary": "(서울=연합뉴스) 구정모 기자 = 삼성물산 패션부문의 디자이너 브랜드 준지는 K팝 아티스트 48인을 조명하는 전시인 '디페스타 디 오리진'에 참...",
-          "publishedAt": "2026-10-27T01:40:11.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/27/AKR20261027072300030_01_i_P2.jpg",
+          "title": "사진작가 이강산, 부다페스트 국제사진상 은상 수상",
+          "link": "https://www.yna.co.kr/view/AKR20261028126300005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 다큐멘터리 사진가 이강산이 헝가리 부다페스트 국제사진상(BIFA·Budapest International Fo...",
+          "publishedAt": "2026-10-28T05:43:37.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/28/AKR20261028126300005_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 4.4
         }
       ]
     }
