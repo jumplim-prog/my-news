@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-27T15:04:24.317Z",
+  "builtAt": "2026-10-28T00:12:35.640Z",
   "cards": [
     {
       "id": "econ",
@@ -15,6 +15,19 @@
       "poolSize": 339,
       "items": [
         {
+          "title": "[밤 사이 해외뉴스 영상] Fed '금리 동결' 전망에 사모펀드 3000억달러 빚 폭탄 경고",
+          "link": "https://www.hankyung.com/article/202610289436i",
+          "summary": "",
+          "publishedAt": "2026-10-27T23:25:00.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
           "title": "원/달러 환율, 미 금리 결정 경계감 속 1,320원대 보합권",
           "link": "https://www.yna.co.kr/view/AKR20261027145700002",
           "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 27일 연방준비제도(Fed·연준)의 연방공개시장위원회(FOMC) 회의를 하루 앞둔 경계감 속에...",
@@ -25,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "[외환] 원/달러 환율 0.6원 오른 1,323.7원(15:30 기준가)",
@@ -38,13 +51,13 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.1
         },
         {
-          "title": "\"팔란티어 지금 사라\"…\"국채보다 단기 우량 회사채\"[박신영의 개장전 요것만]",
-          "link": "https://www.hankyung.com/article/202610279084i",
+          "title": "[밤 사이 해외뉴스]\"애플 폴더블 화면 깨졌다\" 파장…사모펀드 3000억달러 빚 대란 경고",
+          "link": "https://www.hankyung.com/article/202610289400i",
           "summary": "",
-          "publishedAt": "2026-10-27T14:26:53.000Z",
+          "publishedAt": "2026-10-27T23:13:10.000Z",
           "image": "",
           "sourceName": "한국경제",
           "sourceId": "hankyung-economy",
@@ -54,26 +67,13 @@
           "score": 4.5
         },
         {
-          "title": "금융위, 초고금리 불법사금융 '징역 10년·벌금 5억'으로 강화",
-          "link": "https://www.yna.co.kr/view/AKR20261027178700002",
-          "summary": "(서울=연합뉴스) 강류나 기자 = 금융위원회가 연 60%를 초과하는 초고금리 불법사금융에 대한 형사처벌을 최대 징역 10년 또는 벌금 5억원으로...",
-          "publishedAt": "2026-10-27T10:13:10.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2026/10/02/94/PCM20261002000194990_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.4
-        },
-        {
-          "title": "3분기 GDP 1% '깜짝성장' … 한국은행 \"올 4%도 가능\"",
-          "link": "https://www.mk.co.kr/news/economy/12187424",
-          "summary": "반도체 수출과 설비투자 호조에 힘입어 3분기 한국 경제가 1.0% 성장했다. 4분기 성장률이 0%에 그치더라도 연간 성장률은 기존 전망치(3.3%)를 웃도는 3.6%에 이를 것으로..",
-          "publishedAt": "2026-10-27T08:43:45.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/28/20261028_01110101000005_S00.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "title": "[금융, 사다리를 놓자] “금융을 보는 관점 새롭게…금리체계에 ‘공정도 등급’ 반영하자”",
+          "link": "https://www.khan.co.kr/article/202610280500021/",
+          "summary": "김자봉 은행법학회장이자 공정위 상임위원김자봉 공정거래위원회 상임위원이 지난 23일 세종정부청사에서 경향신문과 인터뷰를 하고 있다. 김창길 기자김자봉 공정거래위원회 상임위원이자 은행법학회장은 “금융을 보는 관점을 새롭게 가져갈 필요가 있다”며 대출 금리를 정할 때 소비자 입장에선 시스템 위험을 야기하는 위험도와 기업 관점에선 공정도 등급을 금리체계에 반영하자…",
+          "publishedAt": "2026-10-27T20:00:02.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 203,
+      "poolSize": 202,
       "items": [
         {
           "title": "마곡사 군왕대제 입재…“반야 지혜 발원”",
@@ -105,7 +105,33 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
+          "score": 3.4
+        },
+        {
+          "title": "부산불교거사림, 창립 54주년 기념대법회 봉행",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338616",
+          "summary": "부산불교거사림(회장 정익수)이 창립 54주년을 맞아 10월 27일 부산 연제구 부산불교신도회관 6층 법계정사에서 창립 54주년 정기총회 및 기념대법회를 봉행했다.이날 법회에는 반세기 넘게 거사림을 지켜온 원로 회원들과 새로 입회한 젊은 불자들이 함께해 거사림의 화합과 재도약을 발원했다. 법회는 헌다와 삼귀의례, 보현행원, 반야심경 봉독에 이어 ‘부산불교거사…",
+          "publishedAt": "2026-10-28T08:47:45.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
+        },
+        {
+          "title": "부산불교거사림 '창립 54주년 기념법회'... \"화합과 재도약 발원\"",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115115",
+          "summary": "부산지역 대표적인 재가신행단체인 부산불교거사림이 27일 저녁 연산동 법계정사에서 '창립 54주년 기념법회'를 봉행하고 새로운 도약을 다짐했습니다.창립 기념법회는 거사림의 반세기 역사를 돌아보고, 창립 초기 단체를 이끌어온 원로 선배 거사들에게 감사의 뜻을 전하기 위해 마련됐습니다.또한, 부산 홍법사 주지 심산스님을 법사로 초청해 법문을 청해 듣고, 재가불자…",
+          "publishedAt": "2026-10-28T08:35:35.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
         },
         {
           "title": "논산 관촉사, 헌공다례·산사음악회로 화합",
@@ -118,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 2.9
         },
         {
           "title": "영화 스님 “경전 공부 넘어 수행으로”",
@@ -128,32 +154,6 @@
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3
-        },
-        {
-          "title": "논산 관촉사, 헌공다례와 산사음악회 개최",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443597",
-          "summary": "천년고찰 논산 관촉사가 깊어가는 가을을 맞아 부처님께 공양을 올리고 아름다운 음악으로 시민들과 소통하는 뜻깊은 자리를 마련했다.관촉사(주지 종봉스님)는 10월24일 미륵대불 앞에서 불자와 지역주민들이 함께한 가운데 ‘반야산 관촉사 헌공다례 및 산사음악회’를 개최했다.이날 행사는 1부 헌공다례와 2부 산사음악회로 나눠 진행됐으며, 전통 불교의식과 다채로운 음…",
-          "publishedAt": "2026-10-27T10:40:10.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.9
-        },
-        {
-          "title": "청주 마야사, 월암당 이두대종사 열반 9주기 추모다례 봉행",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443596",
-          "summary": "청주 마야사(주지 현진스님)는 10월26일 대웅전에서 월암당 이두대종사 열반 9주기를 맞아 추모다례를 봉행하고 큰스님의 수행정신과 가르침을 기렸다.이날 추모다례에는 법주사 선덕 함주대종사와 주지 정덕스님, 중앙종회의원 각연스님, 천은사 주지 동은스님, 여래사 주지 도암스님을 비롯해 문도스님과 신도들이 동참했다.추모다례는 대종사의 생전 법문 영상 시청과 추모…",
-          "publishedAt": "2026-10-27T10:38:56.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 146,
+      "poolSize": 145,
       "items": [
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -211,19 +211,6 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.7
-        },
-        {
-          "title": "The Vanderbilt Report’s Sub-Report on Philosophy",
-          "link": "https://dailynous.com/2026/10/27/the-vanderbilt-reports-sub-report-on-philosophy/",
-          "summary": "“Academic philosophy is generally healthy in most respects relevant to the work of the Commission.” That commission is the group of ten scholars (including three […] The post The Vanderbilt Report’s S…",
-          "publishedAt": "2026-10-27T13:04:21.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/10/blurred-lines-riley-1024x532.jpg",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
           "score": 4.5
         },
         {
@@ -238,6 +225,19 @@
             "philosophy"
           ],
           "score": 4.5
+        },
+        {
+          "title": "New: Oxford Studies in Philosophy of AI and Computing",
+          "link": "https://dailynous.com/2026/10/27/new-oxford-studies-in-philosophy-of-ai-and-computing/",
+          "summary": "A new annual series and accompanying conference has been launched: Oxford Studies in Philosophy of AI and Computing (OSPAIC). The executive editor of OSPAIC is […] The post New: Oxford Studies in Phil…",
+          "publishedAt": "2026-10-27T16:16:23.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/10/oxford-studies-ai-computing.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.3
         }
       ]
     },
@@ -252,20 +252,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 190,
+      "poolSize": 193,
       "items": [
         {
-          "title": "'찾아가는 경남도립미술관' 순회전시에 도민 1만5천여명 발길",
-          "link": "https://www.yna.co.kr/view/AKR20261027055300052",
-          "summary": "(창원=연합뉴스) 김선경 기자 = 경남도립미술관은 지난 4월부터 이달까지 도내 6개 시군에서 진행한 '2026 찾아가는 도립미술관' 사업을 마무...",
-          "publishedAt": "2026-10-27T01:07:18.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/27/AKR20261027055300052_01_i_P2.jpg",
+          "title": "무형유산 장인 30명의 명품 전시…부산 무형유산 아트페어",
+          "link": "https://www.yna.co.kr/view/AKR20261028019600051",
+          "summary": "(부산=연합뉴스) 김선호 기자 = 부산시는 오는 31일부터 다음 달 8일까지 부산 영화의전당 비프힐에서 제3회 부산 무형유산 아트페어를 개최한다...",
+          "publishedAt": "2026-10-27T23:13:56.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/28/AKR20261028019600051_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 7.2
+          "score": 7.5
         },
         {
           "title": "함안박물관 기획전 '비상소집' 개막…소 주제 유물 50여점 전시",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "양주 '장흥 미술관 여행 통합권' 매진…500매 추가 판매",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "도심·자연에 녹아든 건축, 사람을 보다…수성국제비엔날레 개막",
@@ -304,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
           "title": "준지, K팝 아티스트 48인 전시 '디페스타 디 오리진' 의상 협업",
@@ -317,7 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.2
+          "score": 4
         }
       ]
     }
