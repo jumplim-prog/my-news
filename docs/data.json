@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-30T00:32:41.709Z",
+  "builtAt": "2026-10-30T09:27:25.163Z",
   "cards": [
     {
       "id": "econ",
@@ -12,72 +12,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 337,
+      "poolSize": 335,
       "items": [
         {
-          "title": "미 연준 이어 ECB도 금리 동결…\"인플레·경기둔화 위험 여전\"(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20261029208552082",
-          "summary": "(베를린=연합뉴스) 김계연 특파원 = 유럽중앙은행(ECB)이 29일(현지시간) 3대 정책금리를 동결했다.",
-          "publishedAt": "2026-10-29T15:15:46.000Z",
-          "image": "https://img.yna.co.kr/photo/reuters/2026/10/29/PRU20261029399301009_P2.jpg",
+          "title": "프랑스 대란에 AI 신용위험 덮쳐…미국 국채 매력 커지며 뭉칫돈 몰린다 [신환종의 채권&자산배분]",
+          "link": "https://www.mk.co.kr/news/economy/12191831",
+          "summary": "비싸진 돈, 비싸진 AI미국 10년물 국채 금리는 올해 2월 3.96%에서 10월 초 5.3%대까지 올랐다. 2002년 이후 가장 높은 수준이다. 연준은 9월 16일 기준금리를 3..",
+          "publishedAt": "2026-10-30T08:58:43.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/30/news-p.v1.20260823.644888a83d01498f8543e7f4311c2365_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "국고채 금리 일제히 하락…위험회피 속 주요국 채권 강세",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823670",
+          "summary": "▲ 10월 국고채 3년·10년 금리 각각 30bp·40bp가량 하락국고채 금리가 오늘 일제히 하락했습니다.간밤 미국 증시가 기술주를 …",
+          "publishedAt": "2026-10-30T08:07:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20240328/201912440_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "원·달러 환율, 수출기업 달러 매도에 소폭 하락",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823661",
+          "summary": "▲ 코스피가 미국 기술주가 급락한 여파로 3% 넘게 하락한 30일 서울 중구 하나은행 딜링룸에서 직원이 업무를 보고 있다. 이날 코스…",
+          "publishedAt": "2026-10-30T08:00:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261030/202236451_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "[외환] 원/달러 환율 2.5원 내린 1,334.3원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261030130000002",
+          "summary": "(",
+          "publishedAt": "2026-10-30T06:30:41.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030130000002_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.4
         },
         {
-          "title": "미 연준 의장 “한국 경제에 각별한 관심”",
-          "link": "https://www.khan.co.kr/article/202610292031025/",
-          "summary": "‘첨단기술 제품 공급처’ 중요성 강조기준금리 동결…한국과 1%P 유지‘20년 인연’ 신현송엔 “유능한 친구”28일(현지시간) 미국 워싱턴 연방준비제도에서 케빈 워시 연준 의장이 이틀간의 FOMC 회의를 마친 뒤 기자회견장에 들어서고 있다. 로이터연합뉴스케빈 워시 미국 연방준비제도(Fed·연준) 의장이 28일(현지시간) “한국 경제에 무슨 일이 벌어지는지 각…",
-          "publishedAt": "2026-10-29T11:31:02.000Z",
+          "title": "일본, 기준금리 1.25% 동결···‘물가 목표 달성’에 추가 인상 가능성 주목",
+          "link": "https://www.khan.co.kr/article/202610301321001/",
+          "summary": "일본 도쿄에 있는 일본은행 건물 앞 신호등. 로이터연합뉴스일본 중앙은행인 일본은행이 기준금리인 단기 정책금리를 현행 1.25% 수준으로 동결했다.30일 교도통신에 따르면 일본은행은 전날부터 이틀간 열린 금융정책결정회의에서 정책위원 다수의 찬성으로 기준금리를 ‘1.25% 정도’로 유지하기로 했다. 시장의 예상에 부합하는 결정이다.일본은행은 이날 회의에서 일시…",
+          "publishedAt": "2026-10-30T04:21:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.2
-        },
-        {
-          "title": "국고채 금리, 美 금리 연동하며 하락…완화적 FOMC 소화(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20261029173951008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 29일 국고채 금리는 일제히 하락했다.",
-          "publishedAt": "2026-10-29T07:56:54.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029173951008_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.2
-        },
-        {
-          "title": "미 금리 동결에 원/달러 환율 소폭 하락",
-          "link": "https://www.yna.co.kr/view/AKR20261029163000002",
-          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 29일 미국 연방준비제도(Fed·연준) 금리 동결 이후 소폭 하락했다.",
-          "publishedAt": "2026-10-29T07:34:41.000Z",
-          "image": "https://img.yna.co.kr/photo/ap/2026/10/29/PAP20261029041601009_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.1
-        },
-        {
-          "title": "[외환] 원/달러 환율 0.9원 내린 1,336.8원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261029151400002",
-          "summary": "(",
-          "publishedAt": "2026-10-29T06:30:42.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029151400002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.1
+          "score": 7.4
         }
       ]
     },
@@ -92,8 +92,60 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 203,
+      "poolSize": 202,
       "items": [
+        {
+          "title": "법문사‧중국불교 종파 태동 도량 참배 신라 고승 구법‧수행 정진 발자취 탐방",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338686",
+          "summary": "중국 불교의 찬란한 역사와 한국 불교의 뿌리를 살펴보는 성지순례가 마련된다. 대승마야투어는 11월 16일부터 21일까지 5박 6일 일정으로 중국 서안(西安)과 법문사, 종남산, 화산 등을 순례한다. 부처님 진신사리가 봉안된 법문사를 비롯해 중국 불교의 주요 종파가 태동한 도량을 참배하고, 신라 고승들이 구법과 수행에 정진했던 발자취도 따라가는 여정이다.중국…",
+          "publishedAt": "2026-10-30T10:49:59.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "[법인 스님의 문자 반야] 62. 공적영지(空寂靈智)",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506132",
+          "summary": "우리는 습관적으로 자신을 부족하고 미혹된 존재로 여긴다. “나는 번뇌가 많아”, “지혜가 부족해”라며 스스로를 낮추고, 내면의 참된 모습을 깨닫지 못한 채 진리를 밖에서만 구하려 한다. 스승을 찾고 경전을 읽으면서도, 가르침의 참뜻이 자기 안의 본래 밝은 성품을 깨우는 데 있음을 잊고, 외적인 권위와 조건에 의지한다.그러나 대승의 심성론은 이러한 자기 부정…",
+          "publishedAt": "2026-10-30T10:25:12.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "[사찰벽화 명작순례] 20. 양산 통도사 극락보전 반야용선도",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506129",
+          "summary": "태풍에 하단부 휩쓸려 나간 벽화100년 이상 된 고색의 반야용선도 벽화는 전국에 걸쳐 다섯 곳에 현존한다. 양산 통도사 극락보전 외벽, 파주 보광사 대웅전 외부 판벽, 제천 신륵사 극락전 외벽, 구미 수다사 명부전 외벽, 그리고 안성 청룡사 대웅전 내벽이다. 서사적 내용 구성은 안성 청룡사 대웅전 반야용선도가 가장 극적이고, 예술적 아름다움은 통도사 극락보…",
+          "publishedAt": "2026-10-30T10:17:45.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "38. 기생 암바팔리의 망고동산 시주와 깨달음의 성취",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338671",
+          "summary": "초기불교가 자리를 잡는 데 있어 고정 수행처인 승원이 마련된 것은 일대 전환이라고 하겠다. 이번 호는 인도 바이샬리(Vaisali, 毘舍離)에 세워진 망고승원(망고동산)에 관한 이야기이다. 망고승원은 바이샬리의 유명한 기생 암바팔리(Ambapali)가 시주해 창건됐다. 니까야 ‘대반열반경’에 나오는 암바팔리는 매춘부 또는 창녀로 번역되어 소개되는데, 문화권…",
+          "publishedAt": "2026-10-30T10:17:44.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
+        },
         {
           "title": "여섯 갈래 길에서 깨달음을 묻다",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506116",
@@ -105,59 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
-        },
-        {
-          "title": "“AI가 명상 지도하고 법문까지…불교, 기술과 어떻게 공존할까”",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443694",
-          "summary": "인공지능(AI)이 개인의 마음 상태를 분석해 명상을 지도하고, 휴머노이드가 가르침을 전하는 시대가 열리고 있다. 세계 불교계가 AI를 수행과 포교의 새로운 ‘방편’으로 활용하기 시작한 가운데, 한국불교도 기술의 무조건적인 수용이나 거부를 넘어 불교적 가치와 전통을 지킬 수 있는 활용 원칙을 세워야 한다는 제언이 나왔다.조계종 총무원 사회부(사회부장 진경스님…",
-          "publishedAt": "2026-10-28T16:59:24.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.8
-        },
-        {
-          "title": "기후부, 해상풍력 하반기 경쟁입찰 2.2GW 공고…올해 총 4GW 규모",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115698",
-          "summary": "기후에너지환경부가 올해 하반기 해상풍력 경쟁입찰을 통해 2.2기가와트(GW) 규모의 사업자를 선정합니다.기후부는 30일 한국에너지공단 누리집을 통해 2026년도 하반기 해상풍력 고정가격계약 경쟁입찰을 공고한다고 밝혔습니다.이번 입찰 물량은 고정식 해상풍력 천 700메가와트(MW)와 부유식 해상풍력 500MW 등 모두 2.2GW 규모입니다.고정식 해상풍력은…",
-          "publishedAt": "2026-10-30T09:09:38.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.2
-        },
-        {
-          "title": "마음을 쉬는 영어 법구경",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506114",
-          "summary": "“진실하고 진리에 따라 살며 남을 해치지 않고 절제하며 자신을 다스리는 이. 늘 깨어 마음의 때가 없는 이를 진정한 어른이라 부른다.”〈법구경〉은 불교를 잘 모르는 사람에게도 익숙한 경전이다. 짧은 게송으로 욕망과 집착을 돌아보게 하고 고정관념에서 벗어나도록 이끈다.〈담마빠다〉는 초기불교 경전의 번역과 보급에 힘써 온 호주 출신 수자토 스님의 〈법구경〉 영…",
-          "publishedAt": "2026-10-29T19:52:02.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.9
-        },
-        {
-          "title": "심산스님 “작은 물방울이 바위를 뚫듯, 54년 신행의 힘은 꾸준한 정진”",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443631",
-          "summary": "부산불교거사림이 창립54주년을 맞아 지난 반세기 동안 이어온 법문 중심의 신행 전통을 되새기고, 새로운 도약을 다짐했다.부산불교거사림(회장 정익수)은 10월27일 부산불교신도회관 법계정사에서 '창립 제54주년 정기총회 및 기념대법회'를 봉행했다.이날 법회에는 홍법사 주지이자 한나래문화재단 이사장인 심산스님을 비롯해 정익수 회장과 역대 회장, 원로회원, 신도…",
-          "publishedAt": "2026-10-28T08:55:17.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.2
+          "score": 4.2
         }
       ]
     },
@@ -174,6 +174,32 @@
       "scoredBy": "keyword",
       "poolSize": 146,
       "items": [
+        {
+          "title": "시대횡단: 안티-코나투스의 존재론",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211840",
+          "summary": "진정성과 생존주의를 탐구해 온 사회학자 김홍중 서울대 교수가 미학과 신학의 시선으로 근대 문명의 규범적 토대를 되묻는다. 자기보존과 자기강화를 존재의 원리로 삼아 온 서구 근대의 인간관을 비판하고, 그 대안으로 자기를 축소하고 비우는 ‘케노시스’의 존재론을 제시한다. 저자는 시대가 전환되는 순간 등장하는 주체를 ‘시대횡단자’라 부르며 한강·박찬욱·이창동·양…",
+          "publishedAt": "2026-10-30T14:15:30.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 6.1
+        },
+        {
+          "title": "절제에 관하여",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211839",
+          "summary": "칸트·아리스토텔레스 연구의 권위자인 독일 철학자 오트프리트 회페 튀빙겐대 명예교수가 ‘절제’와 ‘포기’의 가치를 철학사와 오늘의 현실 속에서 다시 읽는다. 저자는 절제를 다섯 유형으로 나눠 인간다움을 가능케 하는 덕목에서 출발해 금욕·청빈 같은 이상적 삶, 자유를 지키려 자유를 제한하는 법의 세계로 논의를 넓힌다. 이어 금융·난민·에너지 위기와 기후 문제…",
+          "publishedAt": "2026-10-30T14:15:30.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 6.1
+        },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
           "link": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/22/ancient-philosophy-apocalypse",
@@ -211,33 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.8
-        },
-        {
-          "title": "공자의 ‘말씀하셨다’를 ‘스승이 말했다’로 옮긴 까닭",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211632",
-          "summary": "[역자가 말하다_『제임스 레게의 논어 역주』(전4권)]",
-          "publishedAt": "2026-10-30T09:04:49.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.7
-        },
-        {
-          "title": "Kant’s Transcendental Arguments",
-          "link": "https://plato.stanford.edu/entries/kant-transcendental/",
-          "summary": "[Revised entry by Derk Pereboom on October 24, 2026. Changes to: Main text, Bibliography] Among Immanuel Kant's (1724 - 1804) most influential contributions to philosophy is his development of the tra…",
-          "publishedAt": "2026-10-25T01:07:48.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.5
+          "score": 5.6
         }
       ]
     },
@@ -252,8 +252,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 206,
+      "poolSize": 215,
       "items": [
+        {
+          "title": "미술관 가는 길에 놓인 예술…작가 듀오 로와정 설치·영상 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261030054000005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 미술관으로 향하는 길과 건축물 외부에서 예술을 만나는 전시가 마련된다.",
+          "publishedAt": "2026-10-30T00:59:51.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030054000005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.3
+        },
         {
           "title": "국립현대미술관 ‘올해의 작가상’ 최종 수상자에 홍진훤",
           "link": "https://www.khan.co.kr/article/202610292018055/",
@@ -265,59 +278,46 @@
           "candidates": [
             "art"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
-          "title": "유영국의 힘은 컸다···서울시립미술관, 역대 최다 관람객 기록",
-          "link": "https://www.khan.co.kr/article/202610281000001/",
-          "summary": "미술관 “역대 무료 전시 가운데 최다 관객수”5월부터 141일 전시 후 폐막서울시립미술관을 찾은 관람객들이 한국 추상미술 거장 고 유영국 작가의 작품을 감상하고 있다. 서울시립미술관 제공한국 추상미술의 거장 유영국 작가(1916~2002) 탄생 110주년을 맞아 서울시립미술관에서 지난 5월 19일부터 열었던 <유영국 : 산은 내 안에 있다> 전시···",
-          "publishedAt": "2026-10-28T01:00:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 6.5
-        },
-        {
-          "title": "두바이 문화예술청장 만난 최휘영 \"관광·문화 협력 확대 희망\"",
-          "link": "https://www.yna.co.kr/view/AKR20261029175700005",
-          "summary": "(서울=연합뉴스) 임순현 기자 = 최휘영 문화체육관광부 장관은 29일 서울 종로구 국립현대미술관 서울관에서 셰이카 라티파 아랍에미리트(UAE) ...",
-          "publishedAt": "2026-10-29T07:50:02.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029175700005_01_i_P2.jpg",
+          "title": "日법원, 유명 작가 性정체성 '아우팅' 정치인에 손해배상 명령",
+          "link": "https://www.yna.co.kr/view/AKR20261030137200009",
+          "summary": "(서울=연합뉴스) 김병규 기자 = 일본 법원이 소셜미디어(SNS)에 유명 작가의 성전환 사실을 '아우팅'(본인 의사에 반한 성적 지향·성 정체성...",
+          "publishedAt": "2026-10-30T07:11:33.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030137200009_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.2
+          "score": 4.5
         },
         {
-          "title": "중소기업전시회 '지페어' 개막…추미애 \"상담이 계약되길\"",
-          "link": "https://www.yna.co.kr/view/AKR20261029165300061",
-          "summary": "(수원=연합뉴스) 최종호 기자 = 국내 최대 규모의 중소기업 우수상품 종합전시회인 '지페어 코리아(G-FAIR KOREA) 2026'이 29일 ...",
-          "publishedAt": "2026-10-29T07:18:17.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029165300061_01_i_P2.jpg",
+          "title": "여수 예울마루 창작스튜디오 입주 작가전 '그 사이의 울림들'",
+          "link": "https://www.yna.co.kr/view/AKR20261030111100054",
+          "summary": "(여수=연합뉴스) 손상원 기자 = GS칼텍스 사회 공헌 사업인 예울마루 창작스튜디오 입주 작가가 섬, 사람, 공장 등 여수의 이야기를 소리와 영...",
+          "publishedAt": "2026-10-30T05:21:36.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030111100054_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 4.4
         },
         {
-          "title": "‘허삼관 매혈기’ 작가 “인류는 잘못을 저지르기에 위대···AI가 작가 대체할 가능성 걱정 안 해”",
-          "link": "https://www.khan.co.kr/article/202610290600021/",
-          "summary": "출판인회의 웹진 ‘아시아 출판 인사이트’ 11월 3~6일 ‘2026 아시아 출판 주간’ 열려중국 작가 위화. 한국출판인회의 제공인공지능(AI)은 좀처럼 잘못을 저지르지 않는다. 거짓 정보를 진짜처럼 말하는 할루시네이션을 일으킨다 해도 인간과 논쟁하지는 않는다. 반면 인간은 잘못을 지적당하면 곧바로 수정하는 대신 다투고 논쟁한다. 고집 센 인간은 AI보다 열…",
-          "publishedAt": "2026-10-28T21:00:02.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "유니버설뮤직, 내달 재즈 레이블 70주년 기념 팝업 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261030047400005",
+          "summary": "(서울=연합뉴스) 김선우 기자 = 유니버설뮤직은 다음 달 17∼29일 서울 용산구 페즈에서 재즈 레이블 버브 레코드 창립 70주년을 기념하는 팝...",
+          "publishedAt": "2026-10-30T00:51:16.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030047400005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 3.9
+          "score": 4.3
         }
       ]
     }
