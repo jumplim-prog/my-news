@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-31T00:18:35.591Z",
+  "builtAt": "2026-10-31T09:11:24.549Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 336,
+      "poolSize": 337,
       "items": [
         {
           "title": "프랑스 대란에 AI 신용위험 덮쳐…미국 국채 매력 커지며 뭉칫돈 몰린다 [신환종의 채권&자산배분]",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "국고채 금리 일제히 하락…위험회피 속 주요국 채권 강세",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "원·달러 환율, 수출기업 달러 매도에 소폭 하락",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "[외환] 원/달러 환율 2.5원 내린 1,334.3원(15:30 기준가)",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.9
         },
         {
           "title": "일본, 기준금리 1.25% 동결···‘물가 목표 달성’에 추가 인상 가능성 주목",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.9
         }
       ]
     },
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
           "title": "[법인 스님의 문자 반야] 62. 공적영지(空寂靈智)",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
           "title": "[사찰벽화 명작순례] 20. 양산 통도사 극락보전 반야용선도",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
           "title": "38. 기생 암바팔리의 망고동산 시주와 깨달음의 성취",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
           "title": "여섯 갈래 길에서 깨달음을 묻다",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.9
+          "score": 3.7
         }
       ]
     },
@@ -186,7 +186,7 @@
             "philosophy",
             "art"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -225,7 +225,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.8
+          "score": 5.6
         },
         {
           "title": "절제에 관하여",
@@ -238,7 +238,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.8
+          "score": 5.6
         }
       ]
     },
@@ -256,19 +256,6 @@
       "poolSize": 215,
       "items": [
         {
-          "title": "미술관 가는 길에 놓인 예술…작가 듀오 로와정 설치·영상 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261030054000005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 미술관으로 향하는 길과 건축물 외부에서 예술을 만나는 전시가 마련된다.",
-          "publishedAt": "2026-10-30T00:59:51.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030054000005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 7
-        },
-        {
           "title": "국립현대미술관 ‘올해의 작가상’ 최종 수상자에 홍진훤",
           "link": "https://www.khan.co.kr/article/202610292018055/",
           "summary": "국립현대미술관은 ‘올해의 작가상 2026’ 최종 수상자로 홍진훤 작가(사진)를 선정했다고 29일 밝혔다.홍진훤은 사진과 영상, 웹 프로그래밍 등 다양한 매체를 활용해 이미지에 내재한 사회적·정치적 권력관계를 탐구해온 작가다. 외신기자 출신인 그는 자신이 목격해온 집회와 투쟁의 현장이 이미지로 변모하는 과정에 주목하며, 서로 다른 이미지·사운드를 병치하는 작…",
@@ -279,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.7
+          "score": 6.5
         },
         {
           "title": "'대전에만 없다개'…대전시, 반려동물 장례식·화장장 신설 추진",
@@ -292,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "\"국화·단풍 보며 가을 정취 즐기세요\"…대구수목원 국화전시회",
@@ -305,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
           "title": "日법원, 유명 작가 性정체성 '아우팅' 정치인에 손해배상 명령",
@@ -318,7 +305,20 @@
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 4
+        },
+        {
+          "title": "여수 예울마루 창작스튜디오 입주 작가전 '그 사이의 울림들'",
+          "link": "https://www.yna.co.kr/view/AKR20261030111100054",
+          "summary": "(여수=연합뉴스) 손상원 기자 = GS칼텍스 사회 공헌 사업인 예울마루 창작스튜디오 입주 작가가 섬, 사람, 공장 등 여수의 이야기를 소리와 영...",
+          "publishedAt": "2026-10-30T05:21:36.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030111100054_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 3.9
         }
       ]
     }
