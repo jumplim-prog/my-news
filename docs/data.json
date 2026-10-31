@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-31T09:11:24.549Z",
+  "builtAt": "2026-10-31T23:54:04.466Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 337,
+      "poolSize": 341,
       "items": [
         {
           "title": "프랑스 대란에 AI 신용위험 덮쳐…미국 국채 매력 커지며 뭉칫돈 몰린다 [신환종의 채권&자산배분]",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7
+          "score": 6.7
         },
         {
           "title": "국고채 금리 일제히 하락…위험회피 속 주요국 채권 강세",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7
+          "score": 6.7
         },
         {
           "title": "원·달러 환율, 수출기업 달러 매도에 소폭 하락",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7
+          "score": 6.7
         },
         {
           "title": "[외환] 원/달러 환율 2.5원 내린 1,334.3원(15:30 기준가)",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.9
+          "score": 6.6
         },
         {
           "title": "일본, 기준금리 1.25% 동결···‘물가 목표 달성’에 추가 인상 가능성 주목",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.9
+          "score": 6.6
         }
       ]
     },
@@ -92,8 +92,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 200,
+      "poolSize": 177,
       "items": [
+        {
+          "title": "국경과 경계를 허문 '차향(茶香)'의 여운...제2회 안동국제무아차회 성황리 막 내려",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115956",
+          "summary": "세대와 경계를 넘어 차 한 잔으로 평화를 나누는 특별한 교류의 장이 안동의 고즈넉한 산사에서 깊은 감동을 남기며 마무리됐습니다. 사단법인 한국차인연합회 선다문화원이 주최·주관한 '제2회 안동국제무아차회(無我茶會)'가 오늘(31일) 오후 안동시 남후면 보경사에서 성황리에 개최됐습니다. '차로 비우고, 인연으로 채우다'를 주제로 열린 이번 행사에는 중국, 튀르…",
+          "publishedAt": "2026-10-31T19:11:04.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.4
+        },
         {
           "title": "법문사‧중국불교 종파 태동 도량 참배 신라 고승 구법‧수행 정진 발자취 탐방",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=338686",
@@ -105,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.7
         },
         {
           "title": "[법인 스님의 문자 반야] 62. 공적영지(空寂靈智)",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.7
         },
         {
           "title": "[사찰벽화 명작순례] 20. 양산 통도사 극락보전 반야용선도",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.7
         },
         {
           "title": "38. 기생 암바팔리의 망고동산 시주와 깨달음의 성취",
@@ -141,19 +154,6 @@
           "image": "",
           "sourceName": "법보신문",
           "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4
-        },
-        {
-          "title": "여섯 갈래 길에서 깨달음을 묻다",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506116",
-          "summary": "과학기술이 발달할수록 인간 소외와 정보 격차 등 사회·윤리적 그늘도 짙어지고 있다. 이러한 시대에 불교 수행은 인간의 괴로움을 어떻게 성찰하고 삶의 변화를 이끌어 낼 수 있을까?〈불교 수행의 스펙트럼〉은 여섯 명의 학자가 초기불교에서 인도대승불교와 밀교, 중국불교를 거쳐 한국불교에 이르기까지 수행의 주요 쟁점과 특징을 짚은 책이다. 2024년 11월 8일…",
-          "publishedAt": "2026-10-29T19:54:31.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
@@ -186,7 +186,7 @@
             "philosophy",
             "art"
           ],
-          "score": 7.2
+          "score": 6.9
         },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -225,7 +225,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.6
+          "score": 5.3
         },
         {
           "title": "절제에 관하여",
@@ -238,7 +238,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.6
+          "score": 5.3
         }
       ]
     },
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 215,
+      "poolSize": 210,
       "items": [
         {
           "title": "국립현대미술관 ‘올해의 작가상’ 최종 수상자에 홍진훤",
@@ -266,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.5
+          "score": 6.2
         },
         {
           "title": "'대전에만 없다개'…대전시, 반려동물 장례식·화장장 신설 추진",
@@ -279,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "\"국화·단풍 보며 가을 정취 즐기세요\"…대구수목원 국화전시회",
@@ -292,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "日법원, 유명 작가 性정체성 '아우팅' 정치인에 손해배상 명령",
@@ -305,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 3.7
         },
         {
           "title": "여수 예울마루 창작스튜디오 입주 작가전 '그 사이의 울림들'",
@@ -318,7 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 3.9
+          "score": 3.6
         }
       ]
     }
