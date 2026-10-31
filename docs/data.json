@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-30T09:27:25.163Z",
+  "builtAt": "2026-10-31T00:18:35.591Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 335,
+      "poolSize": 336,
       "items": [
         {
           "title": "프랑스 대란에 AI 신용위험 덮쳐…미국 국채 매력 커지며 뭉칫돈 몰린다 [신환종의 채권&자산배분]",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "국고채 금리 일제히 하락…위험회피 속 주요국 채권 강세",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "원·달러 환율, 수출기업 달러 매도에 소폭 하락",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "[외환] 원/달러 환율 2.5원 내린 1,334.3원(15:30 기준가)",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "일본, 기준금리 1.25% 동결···‘물가 목표 달성’에 추가 인상 가능성 주목",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 202,
+      "poolSize": 200,
       "items": [
         {
           "title": "법문사‧중국불교 종파 태동 도량 참배 신라 고승 구법‧수행 정진 발자취 탐방",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "[법인 스님의 문자 반야] 62. 공적영지(空寂靈智)",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "[사찰벽화 명작순례] 20. 양산 통도사 극락보전 반야용선도",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "38. 기생 암바팔리의 망고동산 시주와 깨달음의 성취",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "여섯 갈래 길에서 깨달음을 묻다",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 3.9
         }
       ]
     },
@@ -175,30 +175,18 @@
       "poolSize": 146,
       "items": [
         {
-          "title": "시대횡단: 안티-코나투스의 존재론",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211840",
-          "summary": "진정성과 생존주의를 탐구해 온 사회학자 김홍중 서울대 교수가 미학과 신학의 시선으로 근대 문명의 규범적 토대를 되묻는다. 자기보존과 자기강화를 존재의 원리로 삼아 온 서구 근대의 인간관을 비판하고, 그 대안으로 자기를 축소하고 비우는 ‘케노시스’의 존재론을 제시한다. 저자는 시대가 전환되는 순간 등장하는 주체를 ‘시대횡단자’라 부르며 한강·박찬욱·이창동·양…",
-          "publishedAt": "2026-10-30T14:15:30.000Z",
+          "title": "Moral Conflict & Kant – Bernard Williams",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/10/moral-conflict-kant-bernard-williams.html",
+          "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
+          "publishedAt": "2026-10-30T20:51:27.000Z",
           "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
+          "sourceName": "3 Quarks Daily",
+          "sourceId": "3quarks",
           "candidates": [
-            "philosophy"
+            "philosophy",
+            "art"
           ],
-          "score": 6.1
-        },
-        {
-          "title": "절제에 관하여",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211839",
-          "summary": "칸트·아리스토텔레스 연구의 권위자인 독일 철학자 오트프리트 회페 튀빙겐대 명예교수가 ‘절제’와 ‘포기’의 가치를 철학사와 오늘의 현실 속에서 다시 읽는다. 저자는 절제를 다섯 유형으로 나눠 인간다움을 가능케 하는 덕목에서 출발해 금욕·청빈 같은 이상적 삶, 자유를 지키려 자유를 제한하는 법의 세계로 논의를 넓힌다. 이어 금융·난민·에너지 위기와 기후 문제…",
-          "publishedAt": "2026-10-30T14:15:30.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 6.1
+          "score": 7.4
         },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -227,17 +215,30 @@
           "score": 6
         },
         {
-          "title": "When Philosophers Reinvent The Wheel",
-          "link": "https://dailynous.com/2026/10/29/when-philosophers-reinvent-the-wheel/",
-          "summary": "You may not believe this, but philosophers sometimes work in ignorance of research programs, bodies of literature, methodologies, and findings outside of philosophy that could […] The post When Philos…",
-          "publishedAt": "2026-10-29T13:33:17.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/10/square-wheel-bike.jpg",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
+          "title": "시대횡단: 안티-코나투스의 존재론",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211840",
+          "summary": "진정성과 생존주의를 탐구해 온 사회학자 김홍중 서울대 교수가 미학과 신학의 시선으로 근대 문명의 규범적 토대를 되묻는다. 자기보존과 자기강화를 존재의 원리로 삼아 온 서구 근대의 인간관을 비판하고, 그 대안으로 자기를 축소하고 비우는 ‘케노시스’의 존재론을 제시한다. 저자는 시대가 전환되는 순간 등장하는 주체를 ‘시대횡단자’라 부르며 한강·박찬욱·이창동·양…",
+          "publishedAt": "2026-10-30T14:15:30.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 5.6
+          "score": 5.8
+        },
+        {
+          "title": "절제에 관하여",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211839",
+          "summary": "칸트·아리스토텔레스 연구의 권위자인 독일 철학자 오트프리트 회페 튀빙겐대 명예교수가 ‘절제’와 ‘포기’의 가치를 철학사와 오늘의 현실 속에서 다시 읽는다. 저자는 절제를 다섯 유형으로 나눠 인간다움을 가능케 하는 덕목에서 출발해 금욕·청빈 같은 이상적 삶, 자유를 지키려 자유를 제한하는 법의 세계로 논의를 넓힌다. 이어 금융·난민·에너지 위기와 기후 문제…",
+          "publishedAt": "2026-10-30T14:15:30.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 5.8
         }
       ]
     },
@@ -265,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
+          "score": 7
         },
         {
           "title": "국립현대미술관 ‘올해의 작가상’ 최종 수상자에 홍진훤",
@@ -278,7 +279,33 @@
           "candidates": [
             "art"
           ],
-          "score": 7
+          "score": 6.7
+        },
+        {
+          "title": "'대전에만 없다개'…대전시, 반려동물 장례식·화장장 신설 추진",
+          "link": "https://www.yna.co.kr/view/AKR20261030127100063",
+          "summary": "(대전=연합뉴스) 박주영 기자 = 대전시가 전국 광역단체에서 대전에만 없는 반려동물 장례식장 신설을 추진한다.",
+          "publishedAt": "2026-10-30T22:00:02.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030127100063_06_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "\"국화·단풍 보며 가을 정취 즐기세요\"…대구수목원 국화전시회",
+          "link": "https://www.yna.co.kr/view/AKR20261030111000053",
+          "summary": "(대구=연합뉴스) 이강일 기자 = '제25회 대구수목원 국화전시회'가 다음달 6∼15일 열린다.",
+          "publishedAt": "2026-10-30T21:34:02.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030111000053_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "日법원, 유명 작가 性정체성 '아우팅' 정치인에 손해배상 명령",
@@ -291,33 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
-        },
-        {
-          "title": "여수 예울마루 창작스튜디오 입주 작가전 '그 사이의 울림들'",
-          "link": "https://www.yna.co.kr/view/AKR20261030111100054",
-          "summary": "(여수=연합뉴스) 손상원 기자 = GS칼텍스 사회 공헌 사업인 예울마루 창작스튜디오 입주 작가가 섬, 사람, 공장 등 여수의 이야기를 소리와 영...",
-          "publishedAt": "2026-10-30T05:21:36.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030111100054_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
-        },
-        {
-          "title": "유니버설뮤직, 내달 재즈 레이블 70주년 기념 팝업 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261030047400005",
-          "summary": "(서울=연합뉴스) 김선우 기자 = 유니버설뮤직은 다음 달 17∼29일 서울 용산구 페즈에서 재즈 레이블 버브 레코드 창립 70주년을 기념하는 팝...",
-          "publishedAt": "2026-10-30T00:51:16.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030047400005_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.3
+          "score": 4.1
         }
       ]
     }
