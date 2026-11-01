@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-31T23:54:04.466Z",
+  "builtAt": "2026-11-01T09:57:56.760Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 341,
+      "poolSize": 327,
       "items": [
+        {
+          "title": "고금리·고물가·주식 급락에 꽉 닫힌 지갑···‘역대급 호황’에도 덜 먹고, 덜 사고, 이사도 안한다",
+          "link": "https://www.khan.co.kr/article/202611011738001/",
+          "summary": "지난달 마지막 거래일인 30일 서울 중구 하나은행 딜링룸에 코스피 종가가 표시돼 있다. 연합뉴스고금리·고물가에 증시 급락과 주거비 상승이 겹친 지난 3분기 소비가 크게 꺾인 것으로 나타났다. 소매판매는 5분기 만에 전년 대비 감소했고, 외식 지출 등도 크게 줄었다. 반도체 호황과 달리 서민들의 소비 여력과 체감경기는 좀처럼 나아지지 않고 있어 정부 대책이…",
+          "publishedAt": "2026-11-01T08:38:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "프랑스 대란에 AI 신용위험 덮쳐…미국 국채 매력 커지며 뭉칫돈 몰린다 [신환종의 채권&자산배분]",
           "link": "https://www.mk.co.kr/news/economy/12191831",
@@ -25,46 +38,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.7
+          "score": 6.5
         },
         {
-          "title": "국고채 금리 일제히 하락…위험회피 속 주요국 채권 강세",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823670",
-          "summary": "▲ 10월 국고채 3년·10년 금리 각각 30bp·40bp가량 하락국고채 금리가 오늘 일제히 하락했습니다.간밤 미국 증시가 기술주를 …",
-          "publishedAt": "2026-10-30T08:07:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20240328/201912440_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.7
-        },
-        {
-          "title": "원·달러 환율, 수출기업 달러 매도에 소폭 하락",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823661",
-          "summary": "▲ 코스피가 미국 기술주가 급락한 여파로 3% 넘게 하락한 30일 서울 중구 하나은행 딜링룸에서 직원이 업무를 보고 있다. 이날 코스…",
-          "publishedAt": "2026-10-30T08:00:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261030/202236451_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.7
-        },
-        {
-          "title": "[외환] 원/달러 환율 2.5원 내린 1,334.3원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261030130000002",
-          "summary": "(",
-          "publishedAt": "2026-10-30T06:30:41.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030130000002_01_i_P2.jpg",
+          "title": "국고채 금리 일제히 하락…위험회피 속 주요국 채권 강세(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20261030149151008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 30일 국고채 금리가 일제히 하락했다.",
+          "publishedAt": "2026-10-30T07:56:34.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030149151008_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6.6
+          "score": 6.5
+        },
+        {
+          "title": "원/달러 환율, 수출기업 달러 매도에 소폭 하락",
+          "link": "https://www.yna.co.kr/view/AKR20261030142000002",
+          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 30일 달러 지수 하락과 수출업체 달러 매도 속에 소폭 하락했다.",
+          "publishedAt": "2026-10-30T07:50:27.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/30/PYH2026103013810001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6.5
         },
         {
           "title": "일본, 기준금리 1.25% 동결···‘물가 목표 달성’에 추가 인상 가능성 주목",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.6
+          "score": 6.4
         }
       ]
     },
@@ -92,20 +92,33 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 177,
+      "poolSize": 174,
       "items": [
         {
-          "title": "국경과 경계를 허문 '차향(茶香)'의 여운...제2회 안동국제무아차회 성황리 막 내려",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115956",
-          "summary": "세대와 경계를 넘어 차 한 잔으로 평화를 나누는 특별한 교류의 장이 안동의 고즈넉한 산사에서 깊은 감동을 남기며 마무리됐습니다. 사단법인 한국차인연합회 선다문화원이 주최·주관한 '제2회 안동국제무아차회(無我茶會)'가 오늘(31일) 오후 안동시 남후면 보경사에서 성황리에 개최됐습니다. '차로 비우고, 인연으로 채우다'를 주제로 열린 이번 행사에는 중국, 튀르…",
-          "publishedAt": "2026-10-31T19:11:04.000Z",
+          "title": "대한불교 유식종 원법사 창건 26주년…”자리이타행을 실천하자”",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4116040",
+          "summary": "대한불교 유식종 원법사는 오늘(1일) 창건 26주년을 맞아 경내 약사전 앞마당에서 개산재를 봉행하고, 창건의 의미를 되새겼습니다.지난해 제2창종을 선포하면서, 올해 26주년은 유식종으로 맞는 첫 번째 개산재입니다.대한불교 유식종 종정 운보스님은 “지금의 원법사가 유식도량으로 거듭날 수 있었던 원동력이 타인과 세상을 이롭게 하는 마음에 있다”라며 ‘자리이타행…",
+          "publishedAt": "2026-11-01T16:54:05.000Z",
           "image": "",
           "sourceName": "BBS 불교방송",
           "sourceId": "bbs-news",
           "candidates": [
             "buddhism"
           ],
-          "score": 4.4
+          "score": 4.6
+        },
+        {
+          "title": "양평 불광정사에 반야바라밀 깃든 '광덕스님 사리탑' 우뚝",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443782",
+          "summary": "대립과 경계를 넘어 진리로 인도하는 지혜를 말하는 광덕스님의 반야바라밀 운동. 그 정신을 실천하는 수행도량, 양평 불광정사(주지 지암스님)가 관세음보살입상을 봉안하고, 광덕스님 5층사리탑을 모시고 선지식의 가르침을 계승했다. 수도권 수행포교사찰이자 반야사상 근본도량으로 잘 알려진 불광정사가 10월31일 경내에서 창립 19주년 기념일을 맞아 관세음보살 점안식…",
+          "publishedAt": "2026-11-01T16:49:46.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.6
         },
         {
           "title": "법문사‧중국불교 종파 태동 도량 참배 신라 고승 구법‧수행 정진 발자취 탐방",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.5
         },
         {
           "title": "[법인 스님의 문자 반야] 62. 공적영지(空寂靈智)",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.5
         },
         {
           "title": "[사찰벽화 명작순례] 20. 양산 통도사 극락보전 반야용선도",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
-        },
-        {
-          "title": "38. 기생 암바팔리의 망고동산 시주와 깨달음의 성취",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338671",
-          "summary": "초기불교가 자리를 잡는 데 있어 고정 수행처인 승원이 마련된 것은 일대 전환이라고 하겠다. 이번 호는 인도 바이샬리(Vaisali, 毘舍離)에 세워진 망고승원(망고동산)에 관한 이야기이다. 망고승원은 바이샬리의 유명한 기생 암바팔리(Ambapali)가 시주해 창건됐다. 니까야 ‘대반열반경’에 나오는 암바팔리는 매춘부 또는 창녀로 번역되어 소개되는데, 문화권…",
-          "publishedAt": "2026-10-30T10:17:44.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.7
+          "score": 3.5
         }
       ]
     },
@@ -186,7 +186,7 @@
             "philosophy",
             "art"
           ],
-          "score": 6.9
+          "score": 6.7
         },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -225,7 +225,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.3
+          "score": 5.1
         },
         {
           "title": "절제에 관하여",
@@ -238,7 +238,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.3
+          "score": 5.1
         }
       ]
     },
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 210,
+      "poolSize": 206,
       "items": [
         {
           "title": "국립현대미술관 ‘올해의 작가상’ 최종 수상자에 홍진훤",
@@ -266,7 +266,33 @@
           "candidates": [
             "art"
           ],
-          "score": 6.2
+          "score": 6
+        },
+        {
+          "title": "분장예술인협회, 마곡서 '뷰티 아트페어'…13개국 1천300명 참석",
+          "link": "https://www.yna.co.kr/view/AKR20261101026400030",
+          "summary": "(서울=연합뉴스) 이상서 기자 = 사단법인 한국분장예술인협회는 지난달 31일 서울 강서구 르웨스트홀에서 열린 '제25회 2026 인터내셔널 뷰티...",
+          "publishedAt": "2026-11-01T05:18:15.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/01/AKR20261101026400030_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "KF, 한불 수교 140주년 '디지털 노벰버'서 한국 VR 작품 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261030161400371",
+          "summary": "(서울=연합뉴스) 성도현 기자 = 한국국제교류재단(KF·이사장 송기도)이 한불 수교 140주년을 기념하는 글로벌 디지털 창작 프로젝트 '2026...",
+          "publishedAt": "2026-11-01T00:00:21.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030161400371_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
         },
         {
           "title": "'대전에만 없다개'…대전시, 반려동물 장례식·화장장 신설 추진",
@@ -279,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 3.8
         },
         {
           "title": "\"국화·단풍 보며 가을 정취 즐기세요\"…대구수목원 국화전시회",
@@ -292,33 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4
-        },
-        {
-          "title": "日법원, 유명 작가 性정체성 '아우팅' 정치인에 손해배상 명령",
-          "link": "https://www.yna.co.kr/view/AKR20261030137200009",
-          "summary": "(서울=연합뉴스) 김병규 기자 = 일본 법원이 소셜미디어(SNS)에 유명 작가의 성전환 사실을 '아우팅'(본인 의사에 반한 성적 지향·성 정체성...",
-          "publishedAt": "2026-10-30T07:11:33.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030137200009_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
           "score": 3.7
-        },
-        {
-          "title": "여수 예울마루 창작스튜디오 입주 작가전 '그 사이의 울림들'",
-          "link": "https://www.yna.co.kr/view/AKR20261030111100054",
-          "summary": "(여수=연합뉴스) 손상원 기자 = GS칼텍스 사회 공헌 사업인 예울마루 창작스튜디오 입주 작가가 섬, 사람, 공장 등 여수의 이야기를 소리와 영...",
-          "publishedAt": "2026-10-30T05:21:36.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030111100054_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.6
         }
       ]
     }
