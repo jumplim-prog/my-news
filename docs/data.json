@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-02T00:08:55.518Z",
+  "builtAt": "2026-11-02T10:26:28.870Z",
   "cards": [
     {
       "id": "econ",
@@ -15,69 +15,69 @@
       "poolSize": 334,
       "items": [
         {
-          "title": "고금리·고물가·주식 급락에 꽉 닫힌 지갑···‘역대급 호황’에도 덜 먹고, 덜 사고, 이사도 안한다",
-          "link": "https://www.khan.co.kr/article/202611011738001/",
-          "summary": "지난달 마지막 거래일인 30일 서울 중구 하나은행 딜링룸에 코스피 종가가 표시돼 있다. 연합뉴스고금리·고물가에 증시 급락과 주거비 상승이 겹친 지난 3분기 소비가 크게 꺾인 것으로 나타났다. 소매판매는 5분기 만에 전년 대비 감소했고, 외식 지출 등도 크게 줄었다. 반도체 호황과 달리 서민들의 소비 여력과 체감경기는 좀처럼 나아지지 않고 있어 정부 대책이…",
-          "publishedAt": "2026-11-01T08:38:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.2
-        },
-        {
-          "title": "프랑스 대란에 AI 신용위험 덮쳐…미국 국채 매력 커지며 뭉칫돈 몰린다 [신환종의 채권&자산배분]",
-          "link": "https://www.mk.co.kr/news/economy/12191831",
-          "summary": "비싸진 돈, 비싸진 AI미국 10년물 국채 금리는 올해 2월 3.96%에서 10월 초 5.3%대까지 올랐다. 2002년 이후 가장 높은 수준이다. 연준은 9월 16일 기준금리를 3..",
-          "publishedAt": "2026-10-30T08:58:43.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/30/news-p.v1.20260823.644888a83d01498f8543e7f4311c2365_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.2
-        },
-        {
-          "title": "은행 부실채권 1년 만에 1.3조 늘었다",
-          "link": "https://www.khan.co.kr/article/202611011548001/",
-          "summary": "1년 전 대비 20% 증가…8년6개월 만에 최대치연합뉴스금리 인상기를 맞아 대출금리가 고공행진을 이어가면서 주요 시중은행의 부실채권이 1년 만에 1조3000억원 급증한 것으로 나타났다.1일 금융권에 따르면 5대 시중은행(KB국민·신한·하나·우리·NH농협)의 고정이하여신은 지난 9월 말 기준 총 7조6133억원으로 집계됐다. 1년 전보다 20.3%(1조284…",
-          "publishedAt": "2026-11-01T06:48:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.6
-        },
-        {
-          "title": "[친절한 경제] 반도체 날개 달고 '쑥'…연간 수출 '1조 달러' 눈앞",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825382",
-          "summary": "월요일 친절한 경제 한지연 기자 나와 있습니다. 한 기자, 반도체 덕분에 수출 규모가 엄청나게 늘었더라고요. 이달 들어서 연간 수출 1조 달러를 돌파할 전망인데요.미국, 중국, 독일에 이어서 세계 네 번째입니다.어제 나온 10월 성적부터 볼까요.한 달 수출이 역대 두 번째로 많았는데요.1등은 언제냐면 바로 전달인 9월입니다.우리 수출이 1천억 달러에서 7천…",
-          "publishedAt": "2026-11-02T00:05:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261102/202236891_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "증권가, '3분기 환율 부담' 에이피알에 \"해외 성장 지속\"",
-          "link": "https://www.yna.co.kr/view/AKR20261102025200008",
-          "summary": "(서울=연합뉴스) 정회인 기자 = 증권가는 원화 강세의 영향으로 에이피알[278470]의 3분기 수익성이 기대에 못 미쳤지만, 미국과 유럽을 중...",
-          "publishedAt": "2026-11-01T23:55:40.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2024/02/19/60/PCM20240219000060008_P2.jpg",
+          "title": "원/달러 환율 1,340원대로 상승…약 2주 만에 최고",
+          "link": "https://www.yna.co.kr/view/AKR20261102136800002",
+          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율이 2일 1,340원대로 상승하며 약 2주 만에 가장 높은 수준에 달했다.",
+          "publishedAt": "2026-11-02T07:42:27.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/02/PYH2026110218610001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
+          "score": 7.4
+        },
+        {
+          "title": "[외환] 원/달러 환율 9.5원 오른 1,343.8원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261102130100002",
+          "summary": "(",
+          "publishedAt": "2026-11-02T06:30:47.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102130100002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "금리 7% 눈앞인데…한 달 새 대출 2조8000억원 늘었다",
+          "link": "https://www.hankyung.com/article/202611020910i",
+          "summary": "",
+          "publishedAt": "2026-11-02T08:40:22.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
           "score": 4.5
+        },
+        {
+          "title": "[표] 외국환율고시표",
+          "link": "https://www.mk.co.kr/news/economy/12193731",
+          "summary": "",
+          "publishedAt": "2026-11-02T08:20:44.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/03/20261103_01110111000005_L00.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "국고채 금리 일제히 상승…3년물 연 3.740%(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20261102148851008",
+          "summary": "(서울=연합뉴스) 김태종 기자 = 11월 첫 거래일인 2일 국고채 금리가 일제히 상승 마감했다.",
+          "publishedAt": "2026-11-02T07:55:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102148851008_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.4
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 163,
+      "poolSize": 195,
       "items": [
         {
           "title": "제16회 반야학술대상 시상식…오용석 교수 “가장 어려운 철학은 인생철학”",
@@ -105,20 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
-        },
-        {
-          "title": "대한불교 유식종 원법사 창건 26주년…”자리이타행을 실천하자”",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4116040",
-          "summary": "대한불교 유식종 원법사는 오늘(1일) 창건 26주년을 맞아 경내 약사전 앞마당에서 개산재를 봉행하고, 창건의 의미를 되새겼습니다.지난해 제2창종을 선포하면서, 올해 26주년은 유식종으로 맞는 첫 번째 개산재입니다.대한불교 유식종 종정 운보스님은 “지금의 원법사가 유식도량으로 거듭날 수 있었던 원동력이 타인과 세상을 이롭게 하는 마음에 있다”라며 ‘자리이타행…",
-          "publishedAt": "2026-11-01T16:54:05.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.3
+          "score": 4.5
         },
         {
           "title": "양평 불광정사에 반야바라밀 깃든 '광덕스님 사리탑' 우뚝",
@@ -131,33 +118,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
-          "title": "한국스리랑카불교사원 ‘카티나 핀카마’ 봉행..부처님도 새로 봉안",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4116073",
-          "summary": "경북 영천시 고경면에 자리한 한국스리랑카불교사원은 어제(1일) ‘2026 카티나 핀카마’ 법회를 봉행했습니다.‘카티나 핀카마’는 3개월간의 안거 수행을 마친 스님들에게 가사와 공양을 올리며 법문을 듣는 상좌부 불교계의 전통 행사로, 스리랑카와 태국 등에서는 매년 성대하게 개최하고 있습니다.행사는 주지 완사스님을 비롯한 참석자들이 모두 동참한 가운데 부처님…",
-          "publishedAt": "2026-11-02T08:49:58.000Z",
+          "title": "불교는 어떻게 우리 삶이 됐을까",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443799",
+          "summary": "불교를 공부하다 보면 아는 게 점점 많아진다. 모든 게 서로 의존해 생겨난다는 연기, 고정된 ‘나’는 없다는 무아, 괴로움의 원인과 소멸을 밝힌 사성제에 이르기까지. 팔정도와 열반, 수행에 대해서도 저마다의 설명을 접한다. 그런데 이렇게 하나하나 알고 나서도 중요한 질문은 남는다. “붓다는 어떻게 이 모든 것에 이르렀을까? 이것들은 어떻게 연결되어 있으며,…",
+          "publishedAt": "2026-11-02T09:07:58.000Z",
           "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
-        },
-        {
-          "title": "법문사‧중국불교 종파 태동 도량 참배 신라 고승 구법‧수행 정진 발자취 탐방",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338686",
-          "summary": "중국 불교의 찬란한 역사와 한국 불교의 뿌리를 살펴보는 성지순례가 마련된다. 대승마야투어는 11월 16일부터 21일까지 5박 6일 일정으로 중국 서안(西安)과 법문사, 종남산, 화산 등을 순례한다. 부처님 진신사리가 봉안된 법문사를 비롯해 중국 불교의 주요 종파가 태동한 도량을 참배하고, 신라 고승들이 구법과 수행에 정진했던 발자취도 따라가는 여정이다.중국…",
-          "publishedAt": "2026-10-30T10:49:59.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.2
+          "score": 3
         }
       ]
     },
@@ -172,7 +146,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 147,
+      "poolSize": 146,
       "items": [
         {
           "title": "Moral Conflict & Kant – Bernard Williams",
@@ -186,7 +160,7 @@
             "philosophy",
             "art"
           ],
-          "score": 6.4
+          "score": 6.2
         },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -215,30 +189,30 @@
           "score": 6
         },
         {
-          "title": "시대횡단: 안티-코나투스의 존재론",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211840",
-          "summary": "진정성과 생존주의를 탐구해 온 사회학자 김홍중 서울대 교수가 미학과 신학의 시선으로 근대 문명의 규범적 토대를 되묻는다. 자기보존과 자기강화를 존재의 원리로 삼아 온 서구 근대의 인간관을 비판하고, 그 대안으로 자기를 축소하고 비우는 ‘케노시스’의 존재론을 제시한다. 저자는 시대가 전환되는 순간 등장하는 주체를 ‘시대횡단자’라 부르며 한강·박찬욱·이창동·양…",
-          "publishedAt": "2026-10-30T14:15:30.000Z",
+          "title": "한신대, '탈종교 시대 K-영성' 주제로 한국기독교학회 학술대회 개최",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211947",
+          "summary": "한신대는 지난 10월 31일 경기캠퍼스에서 제55차 한국기독교학회 공동학술대회를 열었다. 이번 학술대회는 '탈종교 시대, K-영성과 K-신학의 탐색'을 주제로 진행됐다. 한국기독교학회가 주최한 이번 행사에는 200여 명이 참석했다. 학술대회에서는 종교 인구 감소와 교회 이탈, 종교에 대한 사회적 불신 등 현실을 진단하고, 한국 사회의 역사와 문화 속에서 형…",
+          "publishedAt": "2026-11-02T17:41:41.000Z",
           "image": "",
           "sourceName": "교수신문",
           "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.8
+          "score": 4.7
         },
         {
-          "title": "절제에 관하여",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211839",
-          "summary": "칸트·아리스토텔레스 연구의 권위자인 독일 철학자 오트프리트 회페 튀빙겐대 명예교수가 ‘절제’와 ‘포기’의 가치를 철학사와 오늘의 현실 속에서 다시 읽는다. 저자는 절제를 다섯 유형으로 나눠 인간다움을 가능케 하는 덕목에서 출발해 금욕·청빈 같은 이상적 삶, 자유를 지키려 자유를 제한하는 법의 세계로 논의를 넓힌다. 이어 금융·난민·에너지 위기와 기후 문제…",
-          "publishedAt": "2026-10-30T14:15:30.000Z",
+          "title": "서울대, 'AI 시대 인문학자가 살아가는 법' 심포지엄 연다",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=211894",
+          "summary": "서울대 인문대학이 11월 6일 오전 10시부터 오후 6시까지 인문대학 4동 302호 국제회의실에서 'AI 시대, 인문학자가 살아가는 법'을 주제로 인문학 심포지엄을 연다. 이번 심포지엄은 8년째 이어지고 있다. 인공지능이 연구와 교육 환경을 빠르게 변화시키는 상황에서 인문학자가 AI를 어떻게 바라보고 활용하는지 다양한 관점에서 논의한다. 인문학자들의 AI…",
+          "publishedAt": "2026-11-02T17:02:05.000Z",
           "image": "",
           "sourceName": "교수신문",
           "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.8
+          "score": 4.6
         }
       ]
     },
@@ -253,72 +227,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 185,
+      "poolSize": 174,
       "items": [
         {
-          "title": "국립현대미술관, AI와 예술의 관계 모색하는 국제심포지엄",
-          "link": "https://www.yna.co.kr/view/AKR20261102009400005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관은 오는 13일 서울관 다원공간에서 국제심포지엄 '핸드메이드 AI'를 개최한다.",
-          "publishedAt": "2026-11-01T23:11:27.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102009400005_01_i_P2.jpg",
+          "title": "지역 거장 화가 그림 1점 소재 불분명…대전시립미술관 특별감사",
+          "link": "https://www.yna.co.kr/view/AKR20261102144300063",
+          "summary": "(대전=연합뉴스) 이주형 기자 = 대전시립미술관에 기증된 대전지역 거장 화가의 작품 1점의 행방이 묘연한 것으로 확인돼 대전시가 특별감사를 벌이...",
+          "publishedAt": "2026-11-02T07:44:01.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2026/11/02/60/PCM20261102000060990_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
-          "title": "신라 유적 발굴부터 전시까지…대학생들이 꾸린 특별전",
-          "link": "https://www.yna.co.kr/view/AKR20261102013300005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 국가유산청 국립문화유산연구원 국립경주문화유산연구소는 동국대학교 WISE캠퍼스와 함께 3일부터 내년 5월 30일...",
-          "publishedAt": "2026-11-02T00:00:01.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102013300005_01_i_P2.jpg",
+          "title": "'울주 웅촌 작가 이동전시관' 개최…곳곳이 문화예술 공간",
+          "link": "https://www.yna.co.kr/view/AKR20261102115700057",
+          "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 웅촌면에서 5일까지 지역 작가들의 다채로운 작품을 만날 수 있는 '2026 울주 웅촌 작가 이동...",
+          "publishedAt": "2026-11-02T05:53:59.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102115700057_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 7.4
         },
         {
-          "title": "'사극 대가' 정하연 작가 별세…'왕과 비'·'명성황후' 등 집필",
-          "link": "https://www.yna.co.kr/view/AKR20261101051300005",
-          "summary": "(서울=연합뉴스) 장진리 기자 = '왕과 비'와 '명성황후' 등 굵직한 사극 드라마를 쓴 정하연 작가가 1일 별세했다. 향년 82세.",
-          "publishedAt": "2026-11-01T14:12:06.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/01/AKR20261101051300005_03_i_P2.jpg",
+          "title": "전시 포스터부터 김환기까지…서울옥션, 2주간 '옥션쇼' 개최",
+          "link": "https://www.yna.co.kr/view/AKR20261102120400005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 2주 동안 전시 포스터부터 김환기의 미공개 전면점화까지 1천여 점의 수집품과 미술 작품이 거의 매일 경매에 부...",
+          "publishedAt": "2026-11-02T06:02:14.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102120400005_08_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 5.9
         },
         {
-          "title": "분장예술인협회, 마곡서 '뷰티 아트페어'…13개국 1천300명 참석",
-          "link": "https://www.yna.co.kr/view/AKR20261101026400030",
-          "summary": "(서울=연합뉴스) 이상서 기자 = 사단법인 한국분장예술인협회는 지난달 31일 서울 강서구 르웨스트홀에서 열린 '제25회 2026 인터내셔널 뷰티...",
-          "publishedAt": "2026-11-01T05:18:15.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/01/AKR20261101026400030_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "“Art냐, Mart냐”···토탈미술관 50주년, 한국미술을 ‘0년’에서 다시 쓴다",
+          "link": "https://www.khan.co.kr/article/202611021501001/",
+          "summary": "토탈미술관 ‘한국미술 0년: 42개의 이야기’ 전시장 입구에 놓인 곽덕준의 ‘계량기와 돌’. 토탈미술관 제공0은 아무것도 없음을 뜻한다. 동시에 모든 것이 시작되는 원점이기도 하다. 한국미술의 역사를 ‘0년’에서 돌아보는 것은 지나온 시간을 지우는 대신, 그 시간을 읽어온 익숙한 눈금을 새로 맞추는 일이다.서울 평창동 토탈미술관 개관 50주년 특별전 ‘··…",
+          "publishedAt": "2026-11-02T06:01:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 5.9
         },
         {
-          "title": "KF, 한불 수교 140주년 '디지털 노벰버'서 한국 VR 작품 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261030161400371",
-          "summary": "(서울=연합뉴스) 성도현 기자 = 한국국제교류재단(KF·이사장 송기도)이 한불 수교 140주년을 기념하는 글로벌 디지털 창작 프로젝트 '2026...",
-          "publishedAt": "2026-11-01T00:00:21.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030161400371_01_i_P2.jpg",
+          "title": "'자연을 보는 세 시선'…청송서 지역 작가 3인전 개최",
+          "link": "https://www.yna.co.kr/view/AKR20261102121300053",
+          "summary": "(청송=연합뉴스) 김용민 기자 = 청송문화관광재단은 오는 4일부터 25일까지 남관생활문화센터 1층 작은미술관에서 지역 작가 3인전 '자연의 결,...",
+          "publishedAt": "2026-11-02T05:57:20.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102121300053_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 5.9
         }
       ]
     }
