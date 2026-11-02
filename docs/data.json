@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-01T09:57:56.760Z",
+  "builtAt": "2026-11-02T00:08:55.518Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 327,
+      "poolSize": 334,
       "items": [
         {
           "title": "고금리·고물가·주식 급락에 꽉 닫힌 지갑···‘역대급 호황’에도 덜 먹고, 덜 사고, 이사도 안한다",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "프랑스 대란에 AI 신용위험 덮쳐…미국 국채 매력 커지며 뭉칫돈 몰린다 [신환종의 채권&자산배분]",
@@ -38,46 +38,46 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.5
+          "score": 6.2
         },
         {
-          "title": "국고채 금리 일제히 하락…위험회피 속 주요국 채권 강세(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20261030149151008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 30일 국고채 금리가 일제히 하락했다.",
-          "publishedAt": "2026-10-30T07:56:34.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030149151008_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.5
-        },
-        {
-          "title": "원/달러 환율, 수출기업 달러 매도에 소폭 하락",
-          "link": "https://www.yna.co.kr/view/AKR20261030142000002",
-          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 30일 달러 지수 하락과 수출업체 달러 매도 속에 소폭 하락했다.",
-          "publishedAt": "2026-10-30T07:50:27.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/30/PYH2026103013810001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.5
-        },
-        {
-          "title": "일본, 기준금리 1.25% 동결···‘물가 목표 달성’에 추가 인상 가능성 주목",
-          "link": "https://www.khan.co.kr/article/202610301321001/",
-          "summary": "일본 도쿄에 있는 일본은행 건물 앞 신호등. 로이터연합뉴스일본 중앙은행인 일본은행이 기준금리인 단기 정책금리를 현행 1.25% 수준으로 동결했다.30일 교도통신에 따르면 일본은행은 전날부터 이틀간 열린 금융정책결정회의에서 정책위원 다수의 찬성으로 기준금리를 ‘1.25% 정도’로 유지하기로 했다. 시장의 예상에 부합하는 결정이다.일본은행은 이날 회의에서 일시…",
-          "publishedAt": "2026-10-30T04:21:00.000Z",
+          "title": "은행 부실채권 1년 만에 1.3조 늘었다",
+          "link": "https://www.khan.co.kr/article/202611011548001/",
+          "summary": "1년 전 대비 20% 증가…8년6개월 만에 최대치연합뉴스금리 인상기를 맞아 대출금리가 고공행진을 이어가면서 주요 시중은행의 부실채권이 1년 만에 1조3000억원 급증한 것으로 나타났다.1일 금융권에 따르면 5대 시중은행(KB국민·신한·하나·우리·NH농협)의 고정이하여신은 지난 9월 말 기준 총 7조6133억원으로 집계됐다. 1년 전보다 20.3%(1조284…",
+          "publishedAt": "2026-11-01T06:48:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6.4
+          "score": 5.6
+        },
+        {
+          "title": "[친절한 경제] 반도체 날개 달고 '쑥'…연간 수출 '1조 달러' 눈앞",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825382",
+          "summary": "월요일 친절한 경제 한지연 기자 나와 있습니다. 한 기자, 반도체 덕분에 수출 규모가 엄청나게 늘었더라고요. 이달 들어서 연간 수출 1조 달러를 돌파할 전망인데요.미국, 중국, 독일에 이어서 세계 네 번째입니다.어제 나온 10월 성적부터 볼까요.한 달 수출이 역대 두 번째로 많았는데요.1등은 언제냐면 바로 전달인 9월입니다.우리 수출이 1천억 달러에서 7천…",
+          "publishedAt": "2026-11-02T00:05:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261102/202236891_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "증권가, '3분기 환율 부담' 에이피알에 \"해외 성장 지속\"",
+          "link": "https://www.yna.co.kr/view/AKR20261102025200008",
+          "summary": "(서울=연합뉴스) 정회인 기자 = 증권가는 원화 강세의 영향으로 에이피알[278470]의 3분기 수익성이 기대에 못 미쳤지만, 미국과 유럽을 중...",
+          "publishedAt": "2026-11-01T23:55:40.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2024/02/19/60/PCM20240219000060008_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
         }
       ]
     },
@@ -92,8 +92,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 174,
+      "poolSize": 163,
       "items": [
+        {
+          "title": "제16회 반야학술대상 시상식…오용석 교수 “가장 어려운 철학은 인생철학”",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338725",
+          "summary": "(사)반야불교문화연구원(원장 지안 스님)이 제16회 반야학술대상 시상식을 열고 오용석 인제대 화쟁인문학연구소 연구교수에게 상을 수여했다.시상식은 11월 1일 영축총림 통도사 반야암에서 강경구 반야불교문화연구원 부원장의 사회로 열렸다. 개회, 삼귀의례, 경과보고, 원장 인사, 축사, 심사평, 시상, 수상소감 및 강연 순으로 진행됐다. 경과보고에 따르면 올해…",
+          "publishedAt": "2026-11-02T08:24:09.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
+        },
         {
           "title": "대한불교 유식종 원법사 창건 26주년…”자리이타행을 실천하자”",
           "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4116040",
@@ -105,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.3
         },
         {
           "title": "양평 불광정사에 반야바라밀 깃든 '광덕스님 사리탑' 우뚝",
@@ -118,7 +131,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.3
+        },
+        {
+          "title": "한국스리랑카불교사원 ‘카티나 핀카마’ 봉행..부처님도 새로 봉안",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4116073",
+          "summary": "경북 영천시 고경면에 자리한 한국스리랑카불교사원은 어제(1일) ‘2026 카티나 핀카마’ 법회를 봉행했습니다.‘카티나 핀카마’는 3개월간의 안거 수행을 마친 스님들에게 가사와 공양을 올리며 법문을 듣는 상좌부 불교계의 전통 행사로, 스리랑카와 태국 등에서는 매년 성대하게 개최하고 있습니다.행사는 주지 완사스님을 비롯한 참석자들이 모두 동참한 가운데 부처님…",
+          "publishedAt": "2026-11-02T08:49:58.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
         },
         {
           "title": "법문사‧중국불교 종파 태동 도량 참배 신라 고승 구법‧수행 정진 발자취 탐방",
@@ -131,33 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
-        },
-        {
-          "title": "[법인 스님의 문자 반야] 62. 공적영지(空寂靈智)",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506132",
-          "summary": "우리는 습관적으로 자신을 부족하고 미혹된 존재로 여긴다. “나는 번뇌가 많아”, “지혜가 부족해”라며 스스로를 낮추고, 내면의 참된 모습을 깨닫지 못한 채 진리를 밖에서만 구하려 한다. 스승을 찾고 경전을 읽으면서도, 가르침의 참뜻이 자기 안의 본래 밝은 성품을 깨우는 데 있음을 잊고, 외적인 권위와 조건에 의지한다.그러나 대승의 심성론은 이러한 자기 부정…",
-          "publishedAt": "2026-10-30T10:25:12.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.5
-        },
-        {
-          "title": "[사찰벽화 명작순례] 20. 양산 통도사 극락보전 반야용선도",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506129",
-          "summary": "태풍에 하단부 휩쓸려 나간 벽화100년 이상 된 고색의 반야용선도 벽화는 전국에 걸쳐 다섯 곳에 현존한다. 양산 통도사 극락보전 외벽, 파주 보광사 대웅전 외부 판벽, 제천 신륵사 극락전 외벽, 구미 수다사 명부전 외벽, 그리고 안성 청룡사 대웅전 내벽이다. 서사적 내용 구성은 안성 청룡사 대웅전 반야용선도가 가장 극적이고, 예술적 아름다움은 통도사 극락보…",
-          "publishedAt": "2026-10-30T10:17:45.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.5
+          "score": 3.2
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 146,
+      "poolSize": 147,
       "items": [
         {
           "title": "Moral Conflict & Kant – Bernard Williams",
@@ -186,7 +186,7 @@
             "philosophy",
             "art"
           ],
-          "score": 6.7
+          "score": 6.4
         },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -225,7 +225,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.1
+          "score": 4.8
         },
         {
           "title": "절제에 관하여",
@@ -238,7 +238,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.1
+          "score": 4.8
         }
       ]
     },
@@ -253,20 +253,46 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 206,
+      "poolSize": 185,
       "items": [
         {
-          "title": "국립현대미술관 ‘올해의 작가상’ 최종 수상자에 홍진훤",
-          "link": "https://www.khan.co.kr/article/202610292018055/",
-          "summary": "국립현대미술관은 ‘올해의 작가상 2026’ 최종 수상자로 홍진훤 작가(사진)를 선정했다고 29일 밝혔다.홍진훤은 사진과 영상, 웹 프로그래밍 등 다양한 매체를 활용해 이미지에 내재한 사회적·정치적 권력관계를 탐구해온 작가다. 외신기자 출신인 그는 자신이 목격해온 집회와 투쟁의 현장이 이미지로 변모하는 과정에 주목하며, 서로 다른 이미지·사운드를 병치하는 작…",
-          "publishedAt": "2026-10-29T11:18:05.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "국립현대미술관, AI와 예술의 관계 모색하는 국제심포지엄",
+          "link": "https://www.yna.co.kr/view/AKR20261102009400005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관은 오는 13일 서울관 다원공간에서 국제심포지엄 '핸드메이드 AI'를 개최한다.",
+          "publishedAt": "2026-11-01T23:11:27.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102009400005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 6
+          "score": 7.5
+        },
+        {
+          "title": "신라 유적 발굴부터 전시까지…대학생들이 꾸린 특별전",
+          "link": "https://www.yna.co.kr/view/AKR20261102013300005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 국가유산청 국립문화유산연구원 국립경주문화유산연구소는 동국대학교 WISE캠퍼스와 함께 3일부터 내년 5월 30일...",
+          "publishedAt": "2026-11-02T00:00:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102013300005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "'사극 대가' 정하연 작가 별세…'왕과 비'·'명성황후' 등 집필",
+          "link": "https://www.yna.co.kr/view/AKR20261101051300005",
+          "summary": "(서울=연합뉴스) 장진리 기자 = '왕과 비'와 '명성황후' 등 굵직한 사극 드라마를 쓴 정하연 작가가 1일 별세했다. 향년 82세.",
+          "publishedAt": "2026-11-01T14:12:06.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/01/AKR20261101051300005_03_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
         },
         {
           "title": "분장예술인협회, 마곡서 '뷰티 아트페어'…13개국 1천300명 참석",
@@ -279,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.1
         },
         {
           "title": "KF, 한불 수교 140주년 '디지털 노벰버'서 한국 VR 작품 전시",
@@ -292,33 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
-        },
-        {
-          "title": "'대전에만 없다개'…대전시, 반려동물 장례식·화장장 신설 추진",
-          "link": "https://www.yna.co.kr/view/AKR20261030127100063",
-          "summary": "(대전=연합뉴스) 박주영 기자 = 대전시가 전국 광역단체에서 대전에만 없는 반려동물 장례식장 신설을 추진한다.",
-          "publishedAt": "2026-10-30T22:00:02.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030127100063_06_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.8
-        },
-        {
-          "title": "\"국화·단풍 보며 가을 정취 즐기세요\"…대구수목원 국화전시회",
-          "link": "https://www.yna.co.kr/view/AKR20261030111000053",
-          "summary": "(대구=연합뉴스) 이강일 기자 = '제25회 대구수목원 국화전시회'가 다음달 6∼15일 열린다.",
-          "publishedAt": "2026-10-30T21:34:02.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030111000053_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.7
+          "score": 4
         }
       ]
     }
