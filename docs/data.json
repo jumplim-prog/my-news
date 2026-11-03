@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-02T10:26:28.870Z",
+  "builtAt": "2026-11-03T02:44:00.532Z",
   "cards": [
     {
       "id": "econ",
@@ -12,53 +12,40 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 334,
+      "poolSize": 338,
       "items": [
         {
-          "title": "원/달러 환율 1,340원대로 상승…약 2주 만에 최고",
-          "link": "https://www.yna.co.kr/view/AKR20261102136800002",
-          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율이 2일 1,340원대로 상승하며 약 2주 만에 가장 높은 수준에 달했다.",
-          "publishedAt": "2026-11-02T07:42:27.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/02/PYH2026110218610001300_P2.jpg",
+          "title": "국채 금리 내릴 때 CP 금리 상승…연말 단기자금 경색 신호일까",
+          "link": "https://www.yna.co.kr/view/AKR20261103053600008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 최근 한 달여간 국고채 금리는 큰 폭으로 내렸지만, 기업어음(CP) 금리는 꾸준히 오르면서 지난달 말에는 국고...",
+          "publishedAt": "2026-11-03T00:47:39.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103053600008_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.5
         },
         {
-          "title": "[외환] 원/달러 환율 9.5원 오른 1,343.8원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261102130100002",
-          "summary": "(",
-          "publishedAt": "2026-11-02T06:30:47.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102130100002_01_i_P2.jpg",
+          "title": "한은 \"11월 물가상승률 2%대 후반 수준 이어갈 것\"",
+          "link": "https://www.yna.co.kr/view/AKR20261103052200002",
+          "summary": "(서울=연합뉴스) 한지훈 기자 = 한국은행은 3일 \"11월 소비자물가 상승률은 근원물가의 높은 오름세를 감안할 때 2%대 후반 수준을 이어갈 것...",
+          "publishedAt": "2026-11-03T00:45:03.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103052200002_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 6
         },
         {
-          "title": "금리 7% 눈앞인데…한 달 새 대출 2조8000억원 늘었다",
-          "link": "https://www.hankyung.com/article/202611020910i",
-          "summary": "",
-          "publishedAt": "2026-11-02T08:40:22.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12193731",
-          "summary": "",
-          "publishedAt": "2026-11-02T08:20:44.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/03/20261103_01110111000005_L00.jpg",
+          "title": "내년 나올 청년 전월세대출, 지방엔 금리혜택 1%P 더 준다",
+          "link": "https://www.mk.co.kr/news/economy/12194497",
+          "summary": "정부 ‘청년 전월세결합보증’ 지방 청년에 대출 우대금리 “실주거비 부담도 고려해야”정부가 내년 출시하는 청년 전월세결합보증 상품에서 지방 청년에게 수도권보다 1%포인트 높은 금리 ..",
+          "publishedAt": "2026-11-03T02:14:25.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/03/news-p.v1.20261103.066850b137c4400cbcfc0fc84c90e97c_R.png",
           "sourceName": "매일경제",
           "sourceId": "mk-economy",
           "candidates": [
@@ -67,17 +54,30 @@
           "score": 4.5
         },
         {
-          "title": "국고채 금리 일제히 상승…3년물 연 3.740%(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20261102148851008",
-          "summary": "(서울=연합뉴스) 김태종 기자 = 11월 첫 거래일인 2일 국고채 금리가 일제히 상승 마감했다.",
-          "publishedAt": "2026-11-02T07:55:01.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102148851008_01_i_P2.jpg",
+          "title": "코스피, 2%대 하락 출발…코스닥도 710선으로 밀려",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827655",
+          "summary": "▲ 코스피가 하락 출발한 3일 서울 중구 하나은행 딜링룸 현황판에 코스피와 코스닥, 원/달러 환율이 표시되고 있다.오늘 코스피가 하락…",
+          "publishedAt": "2026-11-03T01:33:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261103/202237331_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "가공식품·외식비 상승에 10월 물가 2.8%↑…반년째 3% 안팎(종합2보)",
+          "link": "https://www.yna.co.kr/view/AKR20261103019353002",
+          "summary": "(세종=연합뉴스) 김수현 안채원 송정은 기자 = 가공식품과 외식 물가가 오름폭을 키우면서 소비자 물가 상승률이 반년째 3% 안팎을 기록하고 있다...",
+          "publishedAt": "2026-11-03T01:22:45.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100404550001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.4
+          "score": 4.5
         }
       ]
     },
@@ -92,8 +92,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 195,
+      "poolSize": 185,
       "items": [
+        {
+          "title": "반야학술대상에 오용석 교수…간화선의 현대적 의미 조명",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443877",
+          "summary": "간화선을 중도의 관점에서 새롭게 해석하고, 현대인의 삶 속에서 실천할 수 있는 수행의 길을 모색한 오용석 인제대 화쟁인문학연구소 연구교수가 제16회 반야학술대상을 받았다.사단법인 반야불교문화연구원(원장 지안스님, 이사장 김성태)은 11월 1일 영축총림 통도사 반야암에서 제16회 반야학술대상 시상식을 봉행했다. 수상 저서는 (2025)이다. 오 교수에게는 상…",
+          "publishedAt": "2026-11-03T10:33:07.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.7
+        },
         {
           "title": "제16회 반야학술대상 시상식…오용석 교수 “가장 어려운 철학은 인생철학”",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=338725",
@@ -105,33 +118,46 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
-        },
-        {
-          "title": "양평 불광정사에 반야바라밀 깃든 '광덕스님 사리탑' 우뚝",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443782",
-          "summary": "대립과 경계를 넘어 진리로 인도하는 지혜를 말하는 광덕스님의 반야바라밀 운동. 그 정신을 실천하는 수행도량, 양평 불광정사(주지 지암스님)가 관세음보살입상을 봉안하고, 광덕스님 5층사리탑을 모시고 선지식의 가르침을 계승했다. 수도권 수행포교사찰이자 반야사상 근본도량으로 잘 알려진 불광정사가 10월31일 경내에서 창립 19주년 기념일을 맞아 관세음보살 점안식…",
-          "publishedAt": "2026-11-01T16:49:46.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
           "score": 4.1
         },
         {
-          "title": "불교는 어떻게 우리 삶이 됐을까",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443799",
-          "summary": "불교를 공부하다 보면 아는 게 점점 많아진다. 모든 게 서로 의존해 생겨난다는 연기, 고정된 ‘나’는 없다는 무아, 괴로움의 원인과 소멸을 밝힌 사성제에 이르기까지. 팔정도와 열반, 수행에 대해서도 저마다의 설명을 접한다. 그런데 이렇게 하나하나 알고 나서도 중요한 질문은 남는다. “붓다는 어떻게 이 모든 것에 이르렀을까? 이것들은 어떻게 연결되어 있으며,…",
-          "publishedAt": "2026-11-02T09:07:58.000Z",
+          "title": "김상욱 취임후 첫 해외순방 나서",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4116384",
+          "summary": "김상욱 시장이 취임후 첫 해외 순방에 나섭니다. 울산시는 김시장이 오는 5일부터 8일까지 3박4일간의 일정으로 중국 광둥성 중산시와 양장시, 선전시를 방문해 부유식 해상풍력과 친환경 수소산업동향, 자율주행 서비스의 도심 적용 사례를 조사한다고 밝혔습니다. 김시장의 이번 중국 방문은 취임 이후 첫 해외 산업현장 방문으로 지난 9월 울산을 찾았던 중국 풍력기업…",
+          "publishedAt": "2026-11-03T10:11:23.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
+        },
+        {
+          "title": "춘천 청평사, 선다·추모 다례재 봉행…세 선고의 가르침 기려",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4116383",
+          "summary": "천년고찰 춘천 청평사가 선다(禪茶)의 정신을 계승하고 역대 선고들의 가르침을 기리는 추모 다례재를 봉행했습니다.청평사는 지난 1일 경내 대웅전에서 주지 묘담스님을 비롯한 사부대중이 동참한 가운데 '불기 2570년 청평사 선다 추모 다례재'를 봉행했습니다.이번 다례재는 조선불교 중흥의 대공덕주인 허응당 보우대사와 유·불·도 삼교를 통합하고 중생 속으로 들어간…",
+          "publishedAt": "2026-11-03T10:05:00.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
+        },
+        {
+          "title": "“내설악 체로금풍…본래 부처임을 수행으로 확인하라”",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443863",
+          "summary": "“완벽한 가난, 가난하다는 것은 번뇌가 없다는 뜻이다. 설악에 가을이 오면 바람이 불 때마다 낙엽이 지는데 그러면 그 전엔 안보이던 산이 보이고 길이 보인다. 이것은 체로금풍(體露金風)이다. 선불교 공안집 제27칙에 나오는 말로 가을바람에 잎이 다 떨어져 나무의 본래 모습이 드러난다는 뜻이다. 수행자로서 공부가 깊이 들어간 경지를 말한다.”11월2일 초겨울…",
+          "publishedAt": "2026-11-02T23:25:13.000Z",
           "image": "",
           "sourceName": "불교신문",
           "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.9
         }
       ]
     },
@@ -146,22 +172,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 146,
+      "poolSize": 147,
       "items": [
-        {
-          "title": "Moral Conflict & Kant – Bernard Williams",
-          "link": "https://3quarksdaily.com/3quarksdaily/2026/10/moral-conflict-kant-bernard-williams.html",
-          "summary": "Enjoying the content on 3QD? Help keep us going by donating now.",
-          "publishedAt": "2026-10-30T20:51:27.000Z",
-          "image": "",
-          "sourceName": "3 Quarks Daily",
-          "sourceId": "3quarks",
-          "candidates": [
-            "philosophy",
-            "art"
-          ],
-          "score": 6.2
-        },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
           "link": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/22/ancient-philosophy-apocalypse",
@@ -189,6 +201,32 @@
           "score": 6
         },
         {
+          "title": "When Philosophers Reinvent The Wheel",
+          "link": "https://dailynous.com/2026/10/29/when-philosophers-reinvent-the-wheel/",
+          "summary": "You may not believe this, but philosophers sometimes work in ignorance of research programs, bodies of literature, methodologies, and findings outside of philosophy that could […] The post When Philos…",
+          "publishedAt": "2026-10-29T13:33:17.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/10/square-wheel-bike.jpg",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "Kant’s Transcendental Arguments",
+          "link": "https://plato.stanford.edu/entries/kant-transcendental/",
+          "summary": "[Revised entry by Derk Pereboom on October 24, 2026. Changes to: Main text, Bibliography] Among Immanuel Kant's (1724 - 1804) most influential contributions to philosophy is his development of the tra…",
+          "publishedAt": "2026-10-25T01:07:48.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
+        },
+        {
           "title": "한신대, '탈종교 시대 K-영성' 주제로 한국기독교학회 학술대회 개최",
           "link": "https://www.kyosu.net/news/articleView.html?idxno=211947",
           "summary": "한신대는 지난 10월 31일 경기캠퍼스에서 제55차 한국기독교학회 공동학술대회를 열었다. 이번 학술대회는 '탈종교 시대, K-영성과 K-신학의 탐색'을 주제로 진행됐다. 한국기독교학회가 주최한 이번 행사에는 200여 명이 참석했다. 학술대회에서는 종교 인구 감소와 교회 이탈, 종교에 대한 사회적 불신 등 현실을 진단하고, 한국 사회의 역사와 문화 속에서 형…",
@@ -199,20 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.7
-        },
-        {
-          "title": "서울대, 'AI 시대 인문학자가 살아가는 법' 심포지엄 연다",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211894",
-          "summary": "서울대 인문대학이 11월 6일 오전 10시부터 오후 6시까지 인문대학 4동 302호 국제회의실에서 'AI 시대, 인문학자가 살아가는 법'을 주제로 인문학 심포지엄을 연다. 이번 심포지엄은 8년째 이어지고 있다. 인공지능이 연구와 교육 환경을 빠르게 변화시키는 상황에서 인문학자가 AI를 어떻게 바라보고 활용하는지 다양한 관점에서 논의한다. 인문학자들의 AI…",
-          "publishedAt": "2026-11-02T17:02:05.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.6
+          "score": 4.3
         }
       ]
     },
@@ -227,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 174,
+      "poolSize": 188,
       "items": [
         {
           "title": "지역 거장 화가 그림 1점 소재 불분명…대전시립미술관 특별감사",
@@ -240,33 +265,20 @@
           "candidates": [
             "art"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
-          "title": "'울주 웅촌 작가 이동전시관' 개최…곳곳이 문화예술 공간",
-          "link": "https://www.yna.co.kr/view/AKR20261102115700057",
-          "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 웅촌면에서 5일까지 지역 작가들의 다채로운 작품을 만날 수 있는 '2026 울주 웅촌 작가 이동...",
-          "publishedAt": "2026-11-02T05:53:59.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102115700057_01_i_P2.jpg",
+          "title": "나전작가 김영준 초대전 10일 치악예술관서…33년 작품세계 조명",
+          "link": "https://www.yna.co.kr/view/AKR20261103046900062",
+          "summary": "(원주=연합뉴스) 임보연 기자 = 전통 나전과 옻칠을 현대미술로 확장해 온 김영준 작가의 33년 작품세계를 조명하는 전시가 강원 원주에서 열린다...",
+          "publishedAt": "2026-11-03T00:25:49.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103046900062_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 7.4
-        },
-        {
-          "title": "전시 포스터부터 김환기까지…서울옥션, 2주간 '옥션쇼' 개최",
-          "link": "https://www.yna.co.kr/view/AKR20261102120400005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 2주 동안 전시 포스터부터 김환기의 미공개 전면점화까지 1천여 점의 수집품과 미술 작품이 거의 매일 경매에 부...",
-          "publishedAt": "2026-11-02T06:02:14.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102120400005_08_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 5.9
+          "score": 6
         },
         {
           "title": "“Art냐, Mart냐”···토탈미술관 50주년, 한국미술을 ‘0년’에서 다시 쓴다",
@@ -279,20 +291,33 @@
           "candidates": [
             "art"
           ],
-          "score": 5.9
+          "score": 5.6
         },
         {
-          "title": "'자연을 보는 세 시선'…청송서 지역 작가 3인전 개최",
-          "link": "https://www.yna.co.kr/view/AKR20261102121300053",
-          "summary": "(청송=연합뉴스) 김용민 기자 = 청송문화관광재단은 오는 4일부터 25일까지 남관생활문화센터 1층 작은미술관에서 지역 작가 3인전 '자연의 결,...",
-          "publishedAt": "2026-11-02T05:57:20.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102121300053_01_i_P2.jpg",
+          "title": "'2026 경기도자비엔날레' 폐막…45일간 32만4천여명 방문",
+          "link": "https://www.yna.co.kr/view/AKR20261103068100061",
+          "summary": "(수원=연합뉴스) 최종호 기자 = 경기도는 이달 1일 폐막한 '2026 경기도자비엔날레'에 32만4천여명의 관람객이 방문했다고 3일 밝혔다.",
+          "publishedAt": "2026-11-03T01:24:30.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103068100061_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 5.9
+          "score": 4.5
+        },
+        {
+          "title": "이응노미술관, AI 기반 4개 국어 스마트 도슨트 도입",
+          "link": "https://www.yna.co.kr/view/AKR20261103057700063",
+          "summary": "(대전=연합뉴스) 이주형 기자 = 대전고암미술문화재단은 이응노미술관 관람객을 위한 AI 기반 다국어 스마트 도슨트 서비스를 시범 도입 중이라고 ...",
+          "publishedAt": "2026-11-03T00:52:47.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2023/01/16/PYH2023011616860006300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
         }
       ]
     }
