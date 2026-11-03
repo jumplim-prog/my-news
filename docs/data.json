@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-03T02:44:00.532Z",
+  "builtAt": "2026-11-03T10:23:25.579Z",
   "cards": [
     {
       "id": "econ",
@@ -12,40 +12,40 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 338,
+      "poolSize": 343,
       "items": [
         {
-          "title": "국채 금리 내릴 때 CP 금리 상승…연말 단기자금 경색 신호일까",
-          "link": "https://www.yna.co.kr/view/AKR20261103053600008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 최근 한 달여간 국고채 금리는 큰 폭으로 내렸지만, 기업어음(CP) 금리는 꾸준히 오르면서 지난달 말에는 국고...",
-          "publishedAt": "2026-11-03T00:47:39.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103053600008_01_i_P2.jpg",
+          "title": "원/달러 환율, 2.8원 내린 1,341원…미 중간선거 앞두고 관망세",
+          "link": "https://www.yna.co.kr/view/AKR20261103144300002",
+          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 미국 중간선거를 앞두고 1,340원대 전후에서 등락했다.",
+          "publishedAt": "2026-11-03T07:05:15.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/03/PYH2026110318100001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
-          "title": "한은 \"11월 물가상승률 2%대 후반 수준 이어갈 것\"",
-          "link": "https://www.yna.co.kr/view/AKR20261103052200002",
-          "summary": "(서울=연합뉴스) 한지훈 기자 = 한국은행은 3일 \"11월 소비자물가 상승률은 근원물가의 높은 오름세를 감안할 때 2%대 후반 수준을 이어갈 것...",
-          "publishedAt": "2026-11-03T00:45:03.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103052200002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "10월에도 2% 후반 고물가…‘금리인상’으로 기우는 무게추",
+          "link": "https://www.hani.co.kr/arti/economy/economy_general/1285573.html",
+          "summary": "",
+          "publishedAt": null,
+          "image": "",
+          "sourceName": "한겨레",
+          "sourceId": "hani-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6
+          "score": 6.5
         },
         {
-          "title": "내년 나올 청년 전월세대출, 지방엔 금리혜택 1%P 더 준다",
-          "link": "https://www.mk.co.kr/news/economy/12194497",
-          "summary": "정부 ‘청년 전월세결합보증’ 지방 청년에 대출 우대금리 “실주거비 부담도 고려해야”정부가 내년 출시하는 청년 전월세결합보증 상품에서 지방 청년에게 수도권보다 1%포인트 높은 금리 ..",
-          "publishedAt": "2026-11-03T02:14:25.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/03/news-p.v1.20261103.066850b137c4400cbcfc0fc84c90e97c_R.png",
+          "title": "고금리 보장 상품에 보험사 '발목'",
+          "link": "https://www.mk.co.kr/news/economy/12195151",
+          "summary": "과거 고금리와 폭넓은 보장을 앞세워 판매한 보험상품이 수조 원대 손실로 돌아오며 보험업계의 발목을 잡고 있다. 3일 보험업계에 따르면 국내 대형 생보사 3곳(삼성·한화·교보생명)..",
+          "publishedAt": "2026-11-03T08:46:51.000Z",
+          "image": "",
           "sourceName": "매일경제",
           "sourceId": "mk-economy",
           "candidates": [
@@ -54,26 +54,26 @@
           "score": 4.5
         },
         {
-          "title": "코스피, 2%대 하락 출발…코스닥도 710선으로 밀려",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827655",
-          "summary": "▲ 코스피가 하락 출발한 3일 서울 중구 하나은행 딜링룸 현황판에 코스피와 코스닥, 원/달러 환율이 표시되고 있다.오늘 코스피가 하락…",
-          "publishedAt": "2026-11-03T01:33:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261103/202237331_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
+          "title": "[표] 외국환율고시표",
+          "link": "https://www.mk.co.kr/news/economy/12195116",
+          "summary": "",
+          "publishedAt": "2026-11-03T08:42:24.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/04/20261104_01110110000009_L00.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
           "score": 4.5
         },
         {
-          "title": "가공식품·외식비 상승에 10월 물가 2.8%↑…반년째 3% 안팎(종합2보)",
-          "link": "https://www.yna.co.kr/view/AKR20261103019353002",
-          "summary": "(세종=연합뉴스) 김수현 안채원 송정은 기자 = 가공식품과 외식 물가가 오름폭을 키우면서 소비자 물가 상승률이 반년째 3% 안팎을 기록하고 있다...",
-          "publishedAt": "2026-11-03T01:22:45.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100404550001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "석유값·외식비 올라 … 10월 물가 2.8% 상승",
+          "link": "https://www.mk.co.kr/news/economy/12195113",
+          "summary": "올해 10월 소비자물가가 두 달 연속 2%대 후반을 기록했다. 가공식품과 외식 물가 오름폭이 커지면서 좀처럼 상승폭이 떨어지지 않고 있다. 국가데이터처가 3일 발표한 '10월 소비..",
+          "publishedAt": "2026-11-03T08:42:22.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/04/20261104_01110110000006_S00.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
@@ -92,8 +92,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 185,
+      "poolSize": 194,
       "items": [
+        {
+          "title": "창원 반야사, 제10회 산신대재로 국태민안 발원",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506191",
+          "summary": "창원 화개산 반야사가 가을 산신대재를 열고 국태민안과 불자 가정의 화목을 발원했다.창원 반야사(주지 혜명 스님)는 11월 1일 ‘병오년 가을 산신대재’를 봉행했다. 올해 산신대재는 10회째를 맞아 그간 불자들의 신행 원력과 기도 공덕을 되새기는 뜻깊은 법석으로 마련됐다.법회에는 주지 혜명 스님을 비롯해 경상남도의회 진상락 의원, 창원시의회 남재욱 의원, 신…",
+          "publishedAt": "2026-11-03T13:53:05.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.6
+        },
         {
           "title": "반야학술대상에 오용석 교수…간화선의 현대적 의미 조명",
           "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443877",
@@ -105,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "제16회 반야학술대상 시상식…오용석 교수 “가장 어려운 철학은 인생철학”",
@@ -118,33 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.1
-        },
-        {
-          "title": "김상욱 취임후 첫 해외순방 나서",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4116384",
-          "summary": "김상욱 시장이 취임후 첫 해외 순방에 나섭니다. 울산시는 김시장이 오는 5일부터 8일까지 3박4일간의 일정으로 중국 광둥성 중산시와 양장시, 선전시를 방문해 부유식 해상풍력과 친환경 수소산업동향, 자율주행 서비스의 도심 적용 사례를 조사한다고 밝혔습니다. 김시장의 이번 중국 방문은 취임 이후 첫 해외 산업현장 방문으로 지난 9월 울산을 찾았던 중국 풍력기업…",
-          "publishedAt": "2026-11-03T10:11:23.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.2
-        },
-        {
-          "title": "춘천 청평사, 선다·추모 다례재 봉행…세 선고의 가르침 기려",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4116383",
-          "summary": "천년고찰 춘천 청평사가 선다(禪茶)의 정신을 계승하고 역대 선고들의 가르침을 기리는 추모 다례재를 봉행했습니다.청평사는 지난 1일 경내 대웅전에서 주지 묘담스님을 비롯한 사부대중이 동참한 가운데 '불기 2570년 청평사 선다 추모 다례재'를 봉행했습니다.이번 다례재는 조선불교 중흥의 대공덕주인 허응당 보우대사와 유·불·도 삼교를 통합하고 중생 속으로 들어간…",
-          "publishedAt": "2026-11-03T10:05:00.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.2
+          "score": 4
         },
         {
           "title": "“내설악 체로금풍…본래 부처임을 수행으로 확인하라”",
@@ -157,7 +144,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.9
+          "score": 2.8
+        },
+        {
+          "title": "불교는 어떻게 우리 삶이 됐을까",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443799",
+          "summary": "불교를 공부하다 보면 아는 게 점점 많아진다. 모든 게 서로 의존해 생겨난다는 연기, 고정된 ‘나’는 없다는 무아, 괴로움의 원인과 소멸을 밝힌 사성제에 이르기까지. 팔정도와 열반, 수행에 대해서도 저마다의 설명을 접한다. 그런데 이렇게 하나하나 알고 나서도 중요한 질문은 남는다. “붓다는 어떻게 이 모든 것에 이르렀을까? 이것들은 어떻게 연결되어 있으며,…",
+          "publishedAt": "2026-11-02T09:07:58.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 2.5
         }
       ]
     },
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.3
+          "score": 4.2
         }
       ]
     },
@@ -252,34 +252,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 188,
+      "poolSize": 190,
       "items": [
-        {
-          "title": "지역 거장 화가 그림 1점 소재 불분명…대전시립미술관 특별감사",
-          "link": "https://www.yna.co.kr/view/AKR20261102144300063",
-          "summary": "(대전=연합뉴스) 이주형 기자 = 대전시립미술관에 기증된 대전지역 거장 화가의 작품 1점의 행방이 묘연한 것으로 확인돼 대전시가 특별감사를 벌이...",
-          "publishedAt": "2026-11-02T07:44:01.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2026/11/02/60/PCM20261102000060990_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 7.1
-        },
-        {
-          "title": "나전작가 김영준 초대전 10일 치악예술관서…33년 작품세계 조명",
-          "link": "https://www.yna.co.kr/view/AKR20261103046900062",
-          "summary": "(원주=연합뉴스) 임보연 기자 = 전통 나전과 옻칠을 현대미술로 확장해 온 김영준 작가의 33년 작품세계를 조명하는 전시가 강원 원주에서 열린다...",
-          "publishedAt": "2026-11-03T00:25:49.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103046900062_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 6
-        },
         {
           "title": "“Art냐, Mart냐”···토탈미술관 50주년, 한국미술을 ‘0년’에서 다시 쓴다",
           "link": "https://www.khan.co.kr/article/202611021501001/",
@@ -291,14 +265,14 @@
           "candidates": [
             "art"
           ],
-          "score": 5.6
+          "score": 5.4
         },
         {
-          "title": "'2026 경기도자비엔날레' 폐막…45일간 32만4천여명 방문",
-          "link": "https://www.yna.co.kr/view/AKR20261103068100061",
-          "summary": "(수원=연합뉴스) 최종호 기자 = 경기도는 이달 1일 폐막한 '2026 경기도자비엔날레'에 32만4천여명의 관람객이 방문했다고 3일 밝혔다.",
-          "publishedAt": "2026-11-03T01:24:30.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103068100061_01_i_P2.jpg",
+          "title": "전북지사 만난 최휘영 \"올림픽 유치 서울시와 조속히 합의하길\"",
+          "link": "https://www.yna.co.kr/view/AKR20261103146500005",
+          "summary": "(서울=연합뉴스) 임순현 기자 = 최휘영 문화체육관광부 장관은 3일 오후 서울 종로구 국립현대미술관 서울관에서 이원택 전북특별자치도지사를 만나 ...",
+          "publishedAt": "2026-11-03T09:30:00.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/04/PYH2026090417570005500_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -307,17 +281,43 @@
           "score": 4.5
         },
         {
-          "title": "이응노미술관, AI 기반 4개 국어 스마트 도슨트 도입",
-          "link": "https://www.yna.co.kr/view/AKR20261103057700063",
-          "summary": "(대전=연합뉴스) 이주형 기자 = 대전고암미술문화재단은 이응노미술관 관람객을 위한 AI 기반 다국어 스마트 도슨트 서비스를 시범 도입 중이라고 ...",
-          "publishedAt": "2026-11-03T00:52:47.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2023/01/16/PYH2023011616860006300_P2.jpg",
+          "title": "“말해지지 못한 슬픔, 도시의 몸이 되다”… 대학로 일대 거대한 무대로",
+          "link": "https://www.khan.co.kr/article/202611031633001/",
+          "summary": "현대미술 축제 ‘SAD BOOK 다시 쓰기’ 개막국내외 작가 6인 참여…8일까지 마로니에공원 등서 전시퍼포먼스·사운드·영상 설치 통해 ‘‘위로와 연대’ 모색<SAD BOOK 다시 쓰기: 몸으로서의 도시> 포스터, 2026. 더 그레잇 커미션 제공기록되지 못한 역사 속 슬픔과 기술 발전의 화려함 뒤에 가려진 인간의 소외, 그리고 개인의 고통을 예술···",
+          "publishedAt": "2026-11-03T07:33:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "'인문 도시' 남양주시, 조정래·김초혜 작가 특별전",
+          "link": "https://www.yna.co.kr/view/AKR20261103141600060",
+          "summary": "(남양주=연합뉴스) 김도윤 기자 = 경기 남양주시는 3∼30일 정약용 도서관에서 소설가 조정래·시인 김초혜 부부 특별전을 연다.",
+          "publishedAt": "2026-11-03T06:50:44.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103141600060_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.4
+        },
+        {
+          "title": "김애란 작가, 익산서 '인생문답' 강연…\"삶의 의미 공유\"",
+          "link": "https://www.yna.co.kr/view/AKR20261103121700055",
+          "summary": "(익산=연합뉴스) 김진방 기자 = 소설가 김애란 작가가 전북 익산에서 문학을 통해 삶을 돌아보는 강연을 연다.",
+          "publishedAt": "2026-11-03T05:40:52.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103121700055_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         }
       ]
     }
