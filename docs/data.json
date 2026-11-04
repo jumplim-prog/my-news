@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-03T10:23:25.579Z",
+  "builtAt": "2026-11-04T00:59:47.422Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 343,
+      "poolSize": 340,
       "items": [
+        {
+          "title": "국채·달러로 몰리는 피난 자금…금은 왜 외면받나",
+          "link": "https://www.hankyung.com/article/202611044266i",
+          "summary": "",
+          "publishedAt": "2026-11-03T22:59:53.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "원/달러 환율, 2.8원 내린 1,341원…미 중간선거 앞두고 관망세",
           "link": "https://www.yna.co.kr/view/AKR20261103144300002",
@@ -25,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "10월에도 2% 후반 고물가…‘금리인상’으로 기우는 무게추",
@@ -41,39 +54,26 @@
           "score": 6.5
         },
         {
-          "title": "고금리 보장 상품에 보험사 '발목'",
-          "link": "https://www.mk.co.kr/news/economy/12195151",
-          "summary": "과거 고금리와 폭넓은 보장을 앞세워 판매한 보험상품이 수조 원대 손실로 돌아오며 보험업계의 발목을 잡고 있다. 3일 보험업계에 따르면 국내 대형 생보사 3곳(삼성·한화·교보생명)..",
-          "publishedAt": "2026-11-03T08:46:51.000Z",
-          "image": "",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "title": "10월 외환보유액 4천432억 달러로 늘어…국제 순위 9위로↑",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829539",
+          "summary": "▲ 달러를 정리하는 은행 직원지난달 외화자산 운용 수익 등의 영향으로 우리나라 외환보유액이 두 달 만에 늘어났습니다.외환보유액 나라별…",
+          "publishedAt": "2026-11-03T23:52:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261104/202237756_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
           "score": 4.5
         },
         {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12195116",
+          "title": "\"2조 달러는 안 돼\"…앤트로픽, IPO 앞두고 몸값 논란",
+          "link": "https://www.hankyung.com/article/202611044364i",
           "summary": "",
-          "publishedAt": "2026-11-03T08:42:24.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/04/20261104_01110110000009_L00.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "석유값·외식비 올라 … 10월 물가 2.8% 상승",
-          "link": "https://www.mk.co.kr/news/economy/12195113",
-          "summary": "올해 10월 소비자물가가 두 달 연속 2%대 후반을 기록했다. 가공식품과 외식 물가 오름폭이 커지면서 좀처럼 상승폭이 떨어지지 않고 있다. 국가데이터처가 3일 발표한 '10월 소비..",
-          "publishedAt": "2026-11-03T08:42:22.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/04/20261104_01110110000006_S00.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "publishedAt": "2026-11-03T23:36:25.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 194,
+      "poolSize": 196,
       "items": [
         {
           "title": "창원 반야사, 제10회 산신대재로 국태민안 발원",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.3
         },
         {
           "title": "반야학술대상에 오용석 교수…간화선의 현대적 의미 조명",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "제16회 반야학술대상 시상식…오용석 교수 “가장 어려운 철학은 인생철학”",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.7
         },
         {
           "title": "“내설악 체로금풍…본래 부처임을 수행으로 확인하라”",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
+          "score": 2.5
         },
         {
           "title": "불교는 어떻게 우리 삶이 됐을까",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.5
+          "score": 2.2
         }
       ]
     },
@@ -201,6 +201,19 @@
           "score": 6
         },
         {
+          "title": "New Philosophy Journal Rankings by Citations in SEP in IEP",
+          "link": "https://dailynous.com/2026/11/03/new-philosophy-journal-rankings-by-citations-in-sep-in-iep/",
+          "summary": "A philosopher who has “long been skeptical of journal rankings” based on polls or Scopus data has developed a new way of assessing philosophy journals: […] The post New Philosophy Journal Rankings by…",
+          "publishedAt": "2026-11-03T13:17:30.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/11/Ciecierski-Journal-Rankings-SEP-IEP-1900-2026-344x1024.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 5.8
+        },
+        {
           "title": "When Philosophers Reinvent The Wheel",
           "link": "https://dailynous.com/2026/10/29/when-philosophers-reinvent-the-wheel/",
           "summary": "You may not believe this, but philosophers sometimes work in ignorance of research programs, bodies of literature, methodologies, and findings outside of philosophy that could […] The post When Philos…",
@@ -225,19 +238,6 @@
             "philosophy"
           ],
           "score": 4.5
-        },
-        {
-          "title": "한신대, '탈종교 시대 K-영성' 주제로 한국기독교학회 학술대회 개최",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=211947",
-          "summary": "한신대는 지난 10월 31일 경기캠퍼스에서 제55차 한국기독교학회 공동학술대회를 열었다. 이번 학술대회는 '탈종교 시대, K-영성과 K-신학의 탐색'을 주제로 진행됐다. 한국기독교학회가 주최한 이번 행사에는 200여 명이 참석했다. 학술대회에서는 종교 인구 감소와 교회 이탈, 종교에 대한 사회적 불신 등 현실을 진단하고, 한국 사회의 역사와 문화 속에서 형…",
-          "publishedAt": "2026-11-02T17:41:41.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.2
         }
       ]
     },
@@ -252,8 +252,35 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 190,
+      "poolSize": 201,
       "items": [
+        {
+          "title": "[게시판] 하나은행, 조각가 문신 특별전서 150여점 작품 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261104050300002",
+          "summary": "▲ 하나은행은 이달 6일부터 12월 6일까지 서울 강남구 삼성동 하나은행 클럽1 PB센터 지하 1층 '하나아트뱅크 갤러리'에서 조각가 문신(19...",
+          "publishedAt": "2026-11-04T00:47:26.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/04/AKR20261104050300002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ",
+            "art"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "음악과 이미지의 즉흥 변주…국립현대미술관 'MMCA 나잇'",
+          "link": "https://www.yna.co.kr/view/AKR20261104046500005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관(MMCA) 대표 야간 문화행사 'MMCA 나잇'이 18일 오후 6시 서울관에서 열린다.",
+          "publishedAt": "2026-11-04T00:36:13.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/04/AKR20261104046500005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.5
+        },
         {
           "title": "“Art냐, Mart냐”···토탈미술관 50주년, 한국미술을 ‘0년’에서 다시 쓴다",
           "link": "https://www.khan.co.kr/article/202611021501001/",
@@ -265,14 +292,14 @@
           "candidates": [
             "art"
           ],
-          "score": 5.4
+          "score": 5.1
         },
         {
-          "title": "전북지사 만난 최휘영 \"올림픽 유치 서울시와 조속히 합의하길\"",
-          "link": "https://www.yna.co.kr/view/AKR20261103146500005",
-          "summary": "(서울=연합뉴스) 임순현 기자 = 최휘영 문화체육관광부 장관은 3일 오후 서울 종로구 국립현대미술관 서울관에서 이원택 전북특별자치도지사를 만나 ...",
-          "publishedAt": "2026-11-03T09:30:00.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/04/PYH2026090417570005500_P2.jpg",
+          "title": "원주한지로 만나는 세계 기후와 삶…'기후를 품다' 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261104038200062",
+          "summary": "(원주=연합뉴스) 임보연 기자 = 강원 원주기후변화홍보관이 원주한지를 활용해 세계 여러 기후대의 삶과 문화를 보여주는 기획전시를 선보인다.",
+          "publishedAt": "2026-11-04T00:15:31.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/04/AKR20261104038200062_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -281,37 +308,11 @@
           "score": 4.5
         },
         {
-          "title": "“말해지지 못한 슬픔, 도시의 몸이 되다”… 대학로 일대 거대한 무대로",
-          "link": "https://www.khan.co.kr/article/202611031633001/",
-          "summary": "현대미술 축제 ‘SAD BOOK 다시 쓰기’ 개막국내외 작가 6인 참여…8일까지 마로니에공원 등서 전시퍼포먼스·사운드·영상 설치 통해 ‘‘위로와 연대’ 모색<SAD BOOK 다시 쓰기: 몸으로서의 도시> 포스터, 2026. 더 그레잇 커미션 제공기록되지 못한 역사 속 슬픔과 기술 발전의 화려함 뒤에 가려진 인간의 소외, 그리고 개인의 고통을 예술···",
-          "publishedAt": "2026-11-03T07:33:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
-        },
-        {
-          "title": "'인문 도시' 남양주시, 조정래·김초혜 작가 특별전",
-          "link": "https://www.yna.co.kr/view/AKR20261103141600060",
-          "summary": "(남양주=연합뉴스) 김도윤 기자 = 경기 남양주시는 3∼30일 정약용 도서관에서 소설가 조정래·시인 김초혜 부부 특별전을 연다.",
-          "publishedAt": "2026-11-03T06:50:44.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103141600060_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
-        },
-        {
-          "title": "김애란 작가, 익산서 '인생문답' 강연…\"삶의 의미 공유\"",
-          "link": "https://www.yna.co.kr/view/AKR20261103121700055",
-          "summary": "(익산=연합뉴스) 김진방 기자 = 소설가 김애란 작가가 전북 익산에서 문학을 통해 삶을 돌아보는 강연을 연다.",
-          "publishedAt": "2026-11-03T05:40:52.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103121700055_01_i_P2.jpg",
+          "title": "서울식물원 전시온실, 연말까지 총 열흘간 '야간개장'",
+          "link": "https://www.yna.co.kr/view/AKR20261103170800004",
+          "summary": "(서울=연합뉴스) 김동규 기자 = 서울식물원은 오는 13일부터 12월 27일까지 총 10일간 전시 온실을 야간에도 개장한다고 4일 밝혔다.",
+          "publishedAt": "2026-11-03T21:00:05.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103170800004_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
