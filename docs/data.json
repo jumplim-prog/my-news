@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-05T01:14:39.739Z",
+  "builtAt": "2026-11-05T10:12:45.829Z",
   "cards": [
     {
       "id": "econ",
@@ -12,38 +12,38 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 339,
+      "poolSize": 338,
       "items": [
         {
-          "title": "블루웨이브에 美 국채 강세…韓 채권시장 영향 주목",
-          "link": "https://www.yna.co.kr/view/AKR20261105043000008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 미국 민주당이 이번 중간선거에서 상원과 하원을 모두 장악(블루웨이브)한 뒤 미 국채가 강세로 마감하면서 국내 ...",
-          "publishedAt": "2026-11-05T00:59:37.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105043000008_01_i_P2.jpg",
+          "title": "[외환] 원/달러 환율 0.6원 오른 1,342.1원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261105132300002",
+          "summary": "(",
+          "publishedAt": "2026-11-05T06:30:53.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105132300002_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
-          "title": "코스피 뛸 때, 원·달러 환율도 같이 뛰었다",
-          "link": "https://www.hankyung.com/article/2026110463211",
-          "summary": "",
-          "publishedAt": "2026-11-04T09:13:01.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
+          "title": "'블루웨이브' 속 외국인 3조 순매도…환율 0.6원 오른 1,342.1원",
+          "link": "https://www.yna.co.kr/view/AKR20261105138400002",
+          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 5일 미국 중간선거에서 민주당 압승 후 소폭 상승했다.",
+          "publishedAt": "2026-11-05T07:07:45.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/05/PYH2026110515020001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 5.9
         },
         {
-          "title": "월간 경상흑자 600억달러 사상 첫 돌파…반도체 수출 260% ‘껑충’",
+          "title": "‘9월 경상 흑자’ 사상 첫 600억달러 돌파…올해 4500억달러 넘을 듯",
           "link": "https://www.khan.co.kr/article/202611050818001/",
-          "summary": "한은 국제수지 잠정통계 발표지난 9월6일 경기도 평택항에 컨테이너가 쌓여있는 모습. 연합뉴스한국의 9월 경상수지 흑자가 600억달러를 넘어 월간 기준 사상 최대를 기록했다. 올해 들어 누적 흑자는 3400억달러를 넘었다.한국은행이 5일 발표한 국제수지 잠정 통계에 따르면 올해 9월 경상수지는 614억6000만달러(약 82조5000억원) 흑자로 집계됐다. 월…",
+          "summary": "한국은행 ‘국제수지 잠정통계’ 발표반도체 등 상품 수지 흑자가 이끌어지난 9월6일 경기도 평택항에 컨테이너가 쌓여있는 모습. 연합뉴스반도체 수출 호조로 한국의 9월 경상수지 흑자가 600억달러를 넘어 월간 기준 사상 최대를 기록했다. 올해 3분기까지 누적 흑자 규모는 지난해 연간 기록의 4배를 넘어섰다. 한국은행은 이로써 올해 경상수지 흑자 규모가 4500…",
           "publishedAt": "2026-11-04T23:18:00.000Z",
           "image": "",
           "sourceName": "경향신문",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6
+          "score": 5.8
         },
         {
           "title": "[속보] 반도체 호황…9월 경상수지 614억6000만달러 흑자, 역대 1위",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6
+          "score": 5.8
         },
         {
           "title": "부채한도 충돌 땐 금융시장 충격파…변수 커진 한국 경제",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.7
+          "score": 5.5
         }
       ]
     },
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.8
+          "score": 3.6
         },
         {
           "title": "반야학술대상에 오용석 교수…간화선의 현대적 의미 조명",
@@ -118,20 +118,33 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.5
         },
         {
-          "title": "“내설악 체로금풍…본래 부처임을 수행으로 확인하라”",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443863",
-          "summary": "“완벽한 가난, 가난하다는 것은 번뇌가 없다는 뜻이다. 설악에 가을이 오면 바람이 불 때마다 낙엽이 지는데 그러면 그 전엔 안보이던 산이 보이고 길이 보인다. 이것은 체로금풍(體露金風)이다. 선불교 공안집 제27칙에 나오는 말로 가을바람에 잎이 다 떨어져 나무의 본래 모습이 드러난다는 뜻이다. 수행자로서 공부가 깊이 들어간 경지를 말한다.”11월2일 초겨울…",
-          "publishedAt": "2026-11-02T23:25:13.000Z",
+          "title": "[새로 나온 책]",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506236",
+          "summary": "“관념에 속지 말라”86세 경봉 스님의 법문‘십팔불공법’ 등도 담아근현대 선지식 경봉 스님(1892~ 1982)의 유발상좌인 저자가 스님이 86세에 설한 법문을 풀어 엮었다. 저자는 “법문을 들은 이들이 ‘경봉 스님 법문을 한 시간 들으면 한 시간 동안 도인이 되는 듯했다’고 회고할 정도로, 당시 스님은 쩌렁쩌렁한 음성으로 다양한 비유를 들어 법문했다”고…",
+          "publishedAt": "2026-11-05T17:29:08.000Z",
           "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 2
+          "score": 3.2
+        },
+        {
+          "title": "조계종 직할교구신도회, 경북·충북지역 사찰 순례로 화합 도모",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338802",
+          "summary": "조계종 직할교구신도회(회장 김학규)가 경북 상주와 충북 영동지역 사찰을 순례하며 임원 간 화합을 도모했다.직할교구신도회는 11월 3일 경북 상주 동해사와 남장사, 충북 영동 반야사에서 ‘2026년 임원 성지순례’를 진행했다. 임원 간 소통과 화합을 도모하고 신심을 다지기 위해 마련된 이번 순례에는 김학규 직할교구신도회장을 비롯해 이은임 수석부회장, 이동복·…",
+          "publishedAt": "2026-11-05T16:56:54.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
         }
       ]
     },
@@ -146,8 +159,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 148,
+      "poolSize": 147,
       "items": [
+        {
+          "title": "AI시대에 고전을 공부하는 이유…전통문화연구회, ‘AI 시대의 고전번역’ 국회서 학술대회",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212091",
+          "summary": "인공지능 대전환 시대를 맞아 전통 한문학과 고전번역 분야의 새로운 도약 방향을 모색하는 대규모 학술대회가 열린다.사단법인 전통문화연구회(회장 김현)는 오는 13일 오후 2시 국회 의원회관 제1소회의실에서 ‘2026년 AI시대의 고전번역의 모색’을 주제로 학술대회를 개최한다고 밝혔다. 이번 행사는 김형동 의원이 주최하고, 사단법인 전통문화연구회가 주관하며,…",
+          "publishedAt": "2026-11-05T12:03:48.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 7.5
+        },
         {
           "title": "건국대 모빌리티인문학 연구원, 기후·모빌리티 세계학술대회 열어…15개국 50여 명 참가",
           "link": "https://www.kyosu.net/news/articleView.html?idxno=212052",
@@ -159,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -198,20 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.8
-        },
-        {
-          "title": "AI시대, 인문학에 미래교육을 묻다",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212057",
-          "summary": "[신간_『AI시대, 인문학에 미래교육을 묻다』]",
-          "publishedAt": "2026-11-04T10:25:57.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 5.7
+          "score": 5.6
         }
       ]
     },
@@ -226,40 +239,27 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 208,
+      "poolSize": 206,
       "items": [
         {
-          "title": "현대차, 용인·상파울루 미술관서 '트랜스로컬 시리즈' 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261104135900003",
-          "summary": "(서울=연합뉴스) 김윤구 기자 = 현대자동차는 한국과 브라질의 미술관이 공동 기획한 '현대 트랜스로컬 시리즈: 하늘의 잔물결을 따라' 전시를 개...",
-          "publishedAt": "2026-11-04T06:47:40.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/04/AKR20261104135900003_01_i_P2.jpg",
+          "title": "광주비엔날레 전시관 신축 부지서 유물 59점 출토",
+          "link": "https://www.yna.co.kr/view/AKR20261105117500054",
+          "summary": "(전남광주=연합뉴스) 정다움 기자 = 광주비엔날레 전시관을 새로 짓는 부지에서 청동기시대부터 조선시대까지의 유물 59점이 출토됐다.",
+          "publishedAt": "2026-11-05T05:36:42.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105117500054_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 7.1
+          "score": 7.4
         },
         {
-          "title": "“Art냐, Mart냐”···토탈미술관 50주년, 한국미술을 ‘0년’에서 다시 쓴다",
-          "link": "https://www.khan.co.kr/article/202611021501001/",
-          "summary": "토탈미술관 ‘한국미술 0년: 42개의 이야기’ 전시장 입구에 놓인 곽덕준의 ‘계량기와 돌’. 토탈미술관 제공0은 아무것도 없음을 뜻한다. 동시에 모든 것이 시작되는 원점이기도 하다. 한국미술의 역사를 ‘0년’에서 돌아보는 것은 지나온 시간을 지우는 대신, 그 시간을 읽어온 익숙한 눈금을 새로 맞추는 일이다.서울 평창동 토탈미술관 개관 50주년 특별전 ‘··…",
-          "publishedAt": "2026-11-02T06:01:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.6
-        },
-        {
-          "title": "원주 중소기업 전시판매장 개장 1주년…전 품목 40% 할인",
-          "link": "https://www.yna.co.kr/view/AKR20261105044100062",
-          "summary": "(원주=연합뉴스) 임보연 기자 = 강원 원주시는 중소기업 제품 전시판매장 개장 1주년을 맞아 5∼8일 전 품목을 40% 할인하는 행사를 연다.",
-          "publishedAt": "2026-11-05T00:37:32.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105044100062_01_i_P2.jpg",
+          "title": "제천시립미술관 건립 없던 일로…\"운영비 과다\"",
+          "link": "https://www.yna.co.kr/view/AKR20261105169800064",
+          "summary": "(제천=연합뉴스) 천경환 기자 = 충북 제천시는 전임 시장 시절 의림지 일원에 추진한 300억원 규모의 시립미술관 건립을 백지화한다고 5일 밝혔...",
+          "publishedAt": "2026-11-05T09:28:33.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105169800064_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -268,30 +268,44 @@
           "score": 4.5
         },
         {
-          "title": "[대전소식] 대전시립박물관, '조선 선비 인생게임' 특별전 개막",
-          "link": "https://www.yna.co.kr/view/AKR20261105040000063",
-          "summary": "(대전=연합뉴스) 대전시립박물관은 5일 소장 유물을 통해 조선 선비의 일생을 조명하는 특별전 '조선 선비 인생게임'을 개막했다.",
-          "publishedAt": "2026-11-05T00:22:07.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105040000063_01_i_P2.jpg",
+          "title": "전남광주 대형 문화시설사업 잇단 차질…\"사전 검토 철저\"",
+          "link": "https://www.yna.co.kr/view/AKR20261105146400054",
+          "summary": "(전남광주=연합뉴스) 장덕종 기자 = 아시아 예술융복합창작센터 조성사업, 광주비엔날레 전시관 신축 등 전남광주통합특별시의 주요 문화사업이 중단되...",
+          "publishedAt": "2026-11-05T07:30:27.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2025/12/16/PYH2025121616090005400_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.4
         },
         {
-          "title": "한세엠케이 NBA, 라인프렌즈와 협업해 '브라운 컬렉션' 출시",
-          "link": "https://www.yna.co.kr/view/AKR20261105037100030",
-          "summary": "(서울=연합뉴스) 이상서 기자 = 한세엠케이[069640]의 패션 브랜드 NBA는 '라인프렌즈'와 협업해 'NBA 브라운 컬렉션'을 출시했다고 ...",
-          "publishedAt": "2026-11-05T00:06:58.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105037100030_01_i_P2.jpg",
+          "title": "김선향 북한대학원대 이사장 시 '그날 그 꽃', 창작가곡으로",
+          "link": "https://www.yna.co.kr/view/AKR20261105099000052",
+          "summary": "(창원=연합뉴스) 박영민 기자 = 김선향 북한대학원대학교 이사장의 시 '그날 그 꽃'이 창작가곡으로 만들어져 무대에 올랐다.",
+          "publishedAt": "2026-11-05T04:42:27.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105099000052_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.4
+        },
+        {
+          "title": "LX하우시스, 서울건축박람회 참가…겨울철 고단열 창호 등 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261105093000003",
+          "summary": "(서울=연합뉴스) 임성호 기자 = LX하우시스는 오는 8일까지 나흘간 서울 강남구 세텍(SETEC)에서 열리는 '2026 서울건축박람회'에 참가...",
+          "publishedAt": "2026-11-05T03:01:43.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105093000003_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ",
+            "art"
+          ],
+          "score": 4.4
         }
       ]
     }
