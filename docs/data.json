@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-04T00:59:47.422Z",
+  "builtAt": "2026-11-05T01:14:39.739Z",
   "cards": [
     {
       "id": "econ",
@@ -12,72 +12,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 340,
+      "poolSize": 339,
       "items": [
         {
-          "title": "국채·달러로 몰리는 피난 자금…금은 왜 외면받나",
-          "link": "https://www.hankyung.com/article/202611044266i",
-          "summary": "",
-          "publishedAt": "2026-11-03T22:59:53.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
+          "title": "블루웨이브에 美 국채 강세…韓 채권시장 영향 주목",
+          "link": "https://www.yna.co.kr/view/AKR20261105043000008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 미국 민주당이 이번 중간선거에서 상원과 하원을 모두 장악(블루웨이브)한 뒤 미 국채가 강세로 마감하면서 국내 ...",
+          "publishedAt": "2026-11-05T00:59:37.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105043000008_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
           "score": 7.5
         },
         {
-          "title": "원/달러 환율, 2.8원 내린 1,341원…미 중간선거 앞두고 관망세",
-          "link": "https://www.yna.co.kr/view/AKR20261103144300002",
-          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 미국 중간선거를 앞두고 1,340원대 전후에서 등락했다.",
-          "publishedAt": "2026-11-03T07:05:15.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/03/PYH2026110318100001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.1
-        },
-        {
-          "title": "10월에도 2% 후반 고물가…‘금리인상’으로 기우는 무게추",
-          "link": "https://www.hani.co.kr/arti/economy/economy_general/1285573.html",
+          "title": "코스피 뛸 때, 원·달러 환율도 같이 뛰었다",
+          "link": "https://www.hankyung.com/article/2026110463211",
           "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레",
-          "sourceId": "hani-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.5
-        },
-        {
-          "title": "10월 외환보유액 4천432억 달러로 늘어…국제 순위 9위로↑",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829539",
-          "summary": "▲ 달러를 정리하는 은행 직원지난달 외화자산 운용 수익 등의 영향으로 우리나라 외환보유액이 두 달 만에 늘어났습니다.외환보유액 나라별…",
-          "publishedAt": "2026-11-03T23:52:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261104/202237756_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "\"2조 달러는 안 돼\"…앤트로픽, IPO 앞두고 몸값 논란",
-          "link": "https://www.hankyung.com/article/202611044364i",
-          "summary": "",
-          "publishedAt": "2026-11-03T23:36:25.000Z",
+          "publishedAt": "2026-11-04T09:13:01.000Z",
           "image": "",
           "sourceName": "한국경제",
           "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.5
+          "score": 7.2
+        },
+        {
+          "title": "월간 경상흑자 600억달러 사상 첫 돌파…반도체 수출 260% ‘껑충’",
+          "link": "https://www.khan.co.kr/article/202611050818001/",
+          "summary": "한은 국제수지 잠정통계 발표지난 9월6일 경기도 평택항에 컨테이너가 쌓여있는 모습. 연합뉴스한국의 9월 경상수지 흑자가 600억달러를 넘어 월간 기준 사상 최대를 기록했다. 올해 들어 누적 흑자는 3400억달러를 넘었다.한국은행이 5일 발표한 국제수지 잠정 통계에 따르면 올해 9월 경상수지는 614억6000만달러(약 82조5000억원) 흑자로 집계됐다. 월…",
+          "publishedAt": "2026-11-04T23:18:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6
+        },
+        {
+          "title": "[속보] 반도체 호황…9월 경상수지 614억6000만달러 흑자, 역대 1위",
+          "link": "https://www.mk.co.kr/news/economy/12197749",
+          "summary": "한국은행, 9월 국제수지 발표 반도체 중심으로 수출 증가세우리나라의 경상수지가 반도체 수출 호황을 이어가며 지난 9월에도 흑자 흐름을 이어갔다. 흑자 규모로는 역대 1위다. 한국..",
+          "publishedAt": "2026-11-04T23:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/05/news-p.v1.20261105.b1fe06d998f347d2b94ae3a7077a808b_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6
+        },
+        {
+          "title": "부채한도 충돌 땐 금융시장 충격파…변수 커진 한국 경제",
+          "link": "https://www.khan.co.kr/article/202611042112035/",
+          "summary": "민주당 과반 의회 갈등 격화 우려셧다운 땐 금리·환율 급등 ‘위험’AI 규제에 반도체 수요 줄 수도장중 4% 출렁…어질어질 코스피 코스피가 내내 출렁이다 강보합으로 마감한 4일 서울 중구 우리은행 딜링룸 현황판에 코스피와 코스닥, 원·달러 환율 등이 표시돼 있다. 미국 반도체주 반등에 힘입어 강세로 출발했던 국내 주식시장은 장중 4% 넘게 급락했다가 낙폭을…",
+          "publishedAt": "2026-11-04T12:12:03.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.7
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 196,
+      "poolSize": 201,
       "items": [
         {
           "title": "창원 반야사, 제10회 산신대재로 국태민안 발원",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 3.8
         },
         {
           "title": "반야학술대상에 오용석 교수…간화선의 현대적 의미 조명",
@@ -115,19 +115,6 @@
           "image": "",
           "sourceName": "불교신문",
           "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.2
-        },
-        {
-          "title": "제16회 반야학술대상 시상식…오용석 교수 “가장 어려운 철학은 인생철학”",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338725",
-          "summary": "(사)반야불교문화연구원(원장 지안 스님)이 제16회 반야학술대상 시상식을 열고 오용석 인제대 화쟁인문학연구소 연구교수에게 상을 수여했다.시상식은 11월 1일 영축총림 통도사 반야암에서 강경구 반야불교문화연구원 부원장의 사회로 열렸다. 개회, 삼귀의례, 경과보고, 원장 인사, 축사, 심사평, 시상, 수상소감 및 강연 순으로 진행됐다. 경과보고에 따르면 올해…",
-          "publishedAt": "2026-11-02T08:24:09.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
@@ -144,20 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.5
-        },
-        {
-          "title": "불교는 어떻게 우리 삶이 됐을까",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443799",
-          "summary": "불교를 공부하다 보면 아는 게 점점 많아진다. 모든 게 서로 의존해 생겨난다는 연기, 고정된 ‘나’는 없다는 무아, 괴로움의 원인과 소멸을 밝힌 사성제에 이르기까지. 팔정도와 열반, 수행에 대해서도 저마다의 설명을 접한다. 그런데 이렇게 하나하나 알고 나서도 중요한 질문은 남는다. “붓다는 어떻게 이 모든 것에 이르렀을까? 이것들은 어떻게 연결되어 있으며,…",
-          "publishedAt": "2026-11-02T09:07:58.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.2
+          "score": 2
         }
       ]
     },
@@ -172,8 +146,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 147,
+      "poolSize": 148,
       "items": [
+        {
+          "title": "건국대 모빌리티인문학 연구원, 기후·모빌리티 세계학술대회 열어…15개국 50여 명 참가",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212052",
+          "summary": "건국대 모빌리티인문학 연구원은 10월 29일부터 31일까지 건국대 법학관에서 ‘2026 모빌리티인문학 세계학술대회’를 개최했다. 이번 학술대회는 싱가포르국립대 아시아연구소와 공동으로 열렸다. 학술대회에는 15개국에서 50여 명의 연구자가 참가했다. 참가자들은 ‘기후, 모빌리티, 인프라’를 주제로 기조강연 2회와 14개의 학술 세션에서 연구 성과를 발표했다.…",
+          "publishedAt": "2026-11-04T18:41:50.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 7.4
+        },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
           "link": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/22/ancient-philosophy-apocalypse",
@@ -201,11 +188,11 @@
           "score": 6
         },
         {
-          "title": "New Philosophy Journal Rankings by Citations in SEP in IEP",
-          "link": "https://dailynous.com/2026/11/03/new-philosophy-journal-rankings-by-citations-in-sep-in-iep/",
-          "summary": "A philosopher who has “long been skeptical of journal rankings” based on polls or Scopus data has developed a new way of assessing philosophy journals: […] The post New Philosophy Journal Rankings by…",
-          "publishedAt": "2026-11-03T13:17:30.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/11/Ciecierski-Journal-Rankings-SEP-IEP-1900-2026-344x1024.png",
+          "title": "Philosopher-led Team Nets $2.91 Million in Grants for Project on Safeguards of Liberalism",
+          "link": "https://dailynous.com/2026/11/04/philosopher-led-team-nets-2-91-million-in-grants-for-project-on-safeguards-of-liberalism/",
+          "summary": "A team of researchers led by Purdue University associate professor of philosophy J.P. Messina has been awarded a nearly $2.91 million in funding for its […] The post Philosopher-led Team Nets $2.91 Mi…",
+          "publishedAt": "2026-11-04T13:47:56.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/11/jp-messina-jesse-crosson-brian-kogelmann-and-logan-strother-1024x577.jpg",
           "sourceName": "Daily Nous",
           "sourceId": "dailynous",
           "candidates": [
@@ -214,30 +201,17 @@
           "score": 5.8
         },
         {
-          "title": "When Philosophers Reinvent The Wheel",
-          "link": "https://dailynous.com/2026/10/29/when-philosophers-reinvent-the-wheel/",
-          "summary": "You may not believe this, but philosophers sometimes work in ignorance of research programs, bodies of literature, methodologies, and findings outside of philosophy that could […] The post When Philos…",
-          "publishedAt": "2026-10-29T13:33:17.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/10/square-wheel-bike.jpg",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "Kant’s Transcendental Arguments",
-          "link": "https://plato.stanford.edu/entries/kant-transcendental/",
-          "summary": "[Revised entry by Derk Pereboom on October 24, 2026. Changes to: Main text, Bibliography] Among Immanuel Kant's (1724 - 1804) most influential contributions to philosophy is his development of the tra…",
-          "publishedAt": "2026-10-25T01:07:48.000Z",
+          "title": "AI시대, 인문학에 미래교육을 묻다",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212057",
+          "summary": "[신간_『AI시대, 인문학에 미래교육을 묻다』]",
+          "publishedAt": "2026-11-04T10:25:57.000Z",
           "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.5
+          "score": 5.7
         }
       ]
     },
@@ -252,34 +226,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 201,
+      "poolSize": 208,
       "items": [
         {
-          "title": "[게시판] 하나은행, 조각가 문신 특별전서 150여점 작품 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261104050300002",
-          "summary": "▲ 하나은행은 이달 6일부터 12월 6일까지 서울 강남구 삼성동 하나은행 클럽1 PB센터 지하 1층 '하나아트뱅크 갤러리'에서 조각가 문신(19...",
-          "publishedAt": "2026-11-04T00:47:26.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/04/AKR20261104050300002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ",
-            "art"
-          ],
-          "score": 7.5
-        },
-        {
-          "title": "음악과 이미지의 즉흥 변주…국립현대미술관 'MMCA 나잇'",
-          "link": "https://www.yna.co.kr/view/AKR20261104046500005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관(MMCA) 대표 야간 문화행사 'MMCA 나잇'이 18일 오후 6시 서울관에서 열린다.",
-          "publishedAt": "2026-11-04T00:36:13.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/04/AKR20261104046500005_01_i_P2.jpg",
+          "title": "현대차, 용인·상파울루 미술관서 '트랜스로컬 시리즈' 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261104135900003",
+          "summary": "(서울=연합뉴스) 김윤구 기자 = 현대자동차는 한국과 브라질의 미술관이 공동 기획한 '현대 트랜스로컬 시리즈: 하늘의 잔물결을 따라' 전시를 개...",
+          "publishedAt": "2026-11-04T06:47:40.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/04/AKR20261104135900003_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 7.5
+          "score": 7.1
         },
         {
           "title": "“Art냐, Mart냐”···토탈미술관 50주년, 한국미술을 ‘0년’에서 다시 쓴다",
@@ -292,14 +252,14 @@
           "candidates": [
             "art"
           ],
-          "score": 5.1
+          "score": 4.6
         },
         {
-          "title": "원주한지로 만나는 세계 기후와 삶…'기후를 품다' 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261104038200062",
-          "summary": "(원주=연합뉴스) 임보연 기자 = 강원 원주기후변화홍보관이 원주한지를 활용해 세계 여러 기후대의 삶과 문화를 보여주는 기획전시를 선보인다.",
-          "publishedAt": "2026-11-04T00:15:31.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/04/AKR20261104038200062_01_i_P2.jpg",
+          "title": "원주 중소기업 전시판매장 개장 1주년…전 품목 40% 할인",
+          "link": "https://www.yna.co.kr/view/AKR20261105044100062",
+          "summary": "(원주=연합뉴스) 임보연 기자 = 강원 원주시는 중소기업 제품 전시판매장 개장 1주년을 맞아 5∼8일 전 품목을 40% 할인하는 행사를 연다.",
+          "publishedAt": "2026-11-05T00:37:32.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105044100062_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -308,17 +268,30 @@
           "score": 4.5
         },
         {
-          "title": "서울식물원 전시온실, 연말까지 총 열흘간 '야간개장'",
-          "link": "https://www.yna.co.kr/view/AKR20261103170800004",
-          "summary": "(서울=연합뉴스) 김동규 기자 = 서울식물원은 오는 13일부터 12월 27일까지 총 10일간 전시 온실을 야간에도 개장한다고 4일 밝혔다.",
-          "publishedAt": "2026-11-03T21:00:05.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103170800004_01_i_P2.jpg",
+          "title": "[대전소식] 대전시립박물관, '조선 선비 인생게임' 특별전 개막",
+          "link": "https://www.yna.co.kr/view/AKR20261105040000063",
+          "summary": "(대전=연합뉴스) 대전시립박물관은 5일 소장 유물을 통해 조선 선비의 일생을 조명하는 특별전 '조선 선비 인생게임'을 개막했다.",
+          "publishedAt": "2026-11-05T00:22:07.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105040000063_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.5
+        },
+        {
+          "title": "한세엠케이 NBA, 라인프렌즈와 협업해 '브라운 컬렉션' 출시",
+          "link": "https://www.yna.co.kr/view/AKR20261105037100030",
+          "summary": "(서울=연합뉴스) 이상서 기자 = 한세엠케이[069640]의 패션 브랜드 NBA는 '라인프렌즈'와 협업해 'NBA 브라운 컬렉션'을 출시했다고 ...",
+          "publishedAt": "2026-11-05T00:06:58.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105037100030_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
         }
       ]
     }
