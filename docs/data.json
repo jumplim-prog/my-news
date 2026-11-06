@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-05T10:12:45.829Z",
+  "builtAt": "2026-11-06T01:18:53.927Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,47 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 338,
+      "poolSize": 337,
       "items": [
+        {
+          "title": "이란 전쟁에 유로존 물가 4% 급등…ECB 추가 금리인상 관측",
+          "link": "https://www.hankyung.com/article/202611069883i",
+          "summary": "",
+          "publishedAt": "2026-11-05T23:55:47.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "'금리동결 반대' 연준 위원 \"긴축 필요…작고 잦은 조정 선호\"",
+          "link": "https://www.yna.co.kr/view/AKR20261106006000072",
+          "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 베스 해맥 미국 클리블랜드 연방준비은행(연은) 총재는 인플레이션을 연방준비제도(Fed·연준)의 목표치로 되돌...",
+          "publishedAt": "2026-11-05T19:57:16.000Z",
+          "image": "https://img.yna.co.kr/photo/reuters/2026/11/05/PRU20261105308501009_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "英 물가 치솟자…기준금리 연 4%로 인상",
+          "link": "https://www.hankyung.com/article/2026110594621",
+          "summary": "",
+          "publishedAt": "2026-11-05T14:06:46.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
         {
           "title": "[외환] 원/달러 환율 0.6원 오른 1,342.1원(15:30 기준가)",
           "link": "https://www.yna.co.kr/view/AKR20261105132300002",
@@ -25,59 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
-          "title": "'블루웨이브' 속 외국인 3조 순매도…환율 0.6원 오른 1,342.1원",
-          "link": "https://www.yna.co.kr/view/AKR20261105138400002",
-          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 5일 미국 중간선거에서 민주당 압승 후 소폭 상승했다.",
-          "publishedAt": "2026-11-05T07:07:45.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/05/PYH2026110515020001300_P2.jpg",
+          "title": "영국, 3년만에 금리 인상…BOE 총재 \"추가 인상도 가능\"(종합2보)",
+          "link": "https://www.yna.co.kr/view/AKR20261105179053085",
+          "summary": "(런던=연합뉴스) 김지연 특파원 = 영국 중앙은행인 잉글랜드은행(BOE)이 5일(현지시간) 통화정책위원회에서 기준금리를 연 4.00%로 0.25...",
+          "publishedAt": "2026-11-05T16:04:14.000Z",
+          "image": "https://img.yna.co.kr/photo/etc/epa/2026/11/05/PEP20261105250601009_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5.9
-        },
-        {
-          "title": "‘9월 경상 흑자’ 사상 첫 600억달러 돌파…올해 4500억달러 넘을 듯",
-          "link": "https://www.khan.co.kr/article/202611050818001/",
-          "summary": "한국은행 ‘국제수지 잠정통계’ 발표반도체 등 상품 수지 흑자가 이끌어지난 9월6일 경기도 평택항에 컨테이너가 쌓여있는 모습. 연합뉴스반도체 수출 호조로 한국의 9월 경상수지 흑자가 600억달러를 넘어 월간 기준 사상 최대를 기록했다. 올해 3분기까지 누적 흑자 규모는 지난해 연간 기록의 4배를 넘어섰다. 한국은행은 이로써 올해 경상수지 흑자 규모가 4500…",
-          "publishedAt": "2026-11-04T23:18:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
           "score": 5.8
-        },
-        {
-          "title": "[속보] 반도체 호황…9월 경상수지 614억6000만달러 흑자, 역대 1위",
-          "link": "https://www.mk.co.kr/news/economy/12197749",
-          "summary": "한국은행, 9월 국제수지 발표 반도체 중심으로 수출 증가세우리나라의 경상수지가 반도체 수출 호황을 이어가며 지난 9월에도 흑자 흐름을 이어갔다. 흑자 규모로는 역대 1위다. 한국..",
-          "publishedAt": "2026-11-04T23:00:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/05/news-p.v1.20261105.b1fe06d998f347d2b94ae3a7077a808b_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.8
-        },
-        {
-          "title": "부채한도 충돌 땐 금융시장 충격파…변수 커진 한국 경제",
-          "link": "https://www.khan.co.kr/article/202611042112035/",
-          "summary": "민주당 과반 의회 갈등 격화 우려셧다운 땐 금리·환율 급등 ‘위험’AI 규제에 반도체 수요 줄 수도장중 4% 출렁…어질어질 코스피 코스피가 내내 출렁이다 강보합으로 마감한 4일 서울 중구 우리은행 딜링룸 현황판에 코스피와 코스닥, 원·달러 환율 등이 표시돼 있다. 미국 반도체주 반등에 힘입어 강세로 출발했던 국내 주식시장은 장중 4% 넘게 급락했다가 낙폭을…",
-          "publishedAt": "2026-11-04T12:12:03.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.5
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 201,
+      "poolSize": 195,
       "items": [
         {
           "title": "창원 반야사, 제10회 산신대재로 국태민안 발원",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.6
+          "score": 3.3
         },
         {
           "title": "반야학술대상에 오용석 교수…간화선의 현대적 의미 조명",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
+          "score": 3.2
         },
         {
           "title": "[새로 나온 책]",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 2.8
         },
         {
           "title": "조계종 직할교구신도회, 경북·충북지역 사찰 순례로 화합 도모",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 2.8
         }
       ]
     },
@@ -159,8 +159,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 147,
+      "poolSize": 148,
       "items": [
+        {
+          "title": "Bioethics and Moral Reasoning",
+          "link": "https://plato.stanford.edu/entries/bioethics-moral-reasoning/",
+          "summary": "[New Entry by Jennifer Flynn on November 5, 2026.] [Editor's Note: The following entry replaces and is based on the former entry titled Theory and Bioethics.] Bioethics refers to a branch of applied e…",
+          "publishedAt": "2026-11-06T02:10:57.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 7.5
+        },
         {
           "title": "AI시대에 고전을 공부하는 이유…전통문화연구회, ‘AI 시대의 고전번역’ 국회서 학술대회",
           "link": "https://www.kyosu.net/news/articleView.html?idxno=212091",
@@ -172,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "건국대 모빌리티인문학 연구원, 기후·모빌리티 세계학술대회 열어…15개국 50여 명 참가",
@@ -185,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.2
+          "score": 6.9
         },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -212,19 +225,6 @@
             "philosophy"
           ],
           "score": 6
-        },
-        {
-          "title": "Philosopher-led Team Nets $2.91 Million in Grants for Project on Safeguards of Liberalism",
-          "link": "https://dailynous.com/2026/11/04/philosopher-led-team-nets-2-91-million-in-grants-for-project-on-safeguards-of-liberalism/",
-          "summary": "A team of researchers led by Purdue University associate professor of philosophy J.P. Messina has been awarded a nearly $2.91 million in funding for its […] The post Philosopher-led Team Nets $2.91 Mi…",
-          "publishedAt": "2026-11-04T13:47:56.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/11/jp-messina-jesse-crosson-brian-kogelmann-and-logan-strother-1024x577.jpg",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 5.6
         }
       ]
     },
@@ -239,7 +239,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 206,
+      "poolSize": 215,
       "items": [
         {
           "title": "광주비엔날레 전시관 신축 부지서 유물 59점 출토",
@@ -252,7 +252,33 @@
           "candidates": [
             "art"
           ],
-          "score": 7.4
+          "score": 7.1
+        },
+        {
+          "title": "제1회 김학철문학상 대상 황정은…중국동포 전춘화 작가도 본상",
+          "link": "https://www.yna.co.kr/view/AKR20261106030200371",
+          "summary": "(서울=연합뉴스) 성도현 기자 = 독립운동가이자 작가인 김학철(1916∼2001) 선생을 기리는 '제1회 김학철문학상' 대상에 황정은 작가의 '...",
+          "publishedAt": "2026-11-05T23:59:05.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106030200371_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "어린이박물관 서울상상나라, 체험형 상설전시 선보인다",
+          "link": "https://www.yna.co.kr/view/AKR20261105148400004",
+          "summary": "(서울=연합뉴스) 유한주 기자 = 서울시 어린이박물관 서울상상나라는 기존 상설전시 공간을 8년 만에 전면 개편하고, 새 상설전시 '매일의 다정함...",
+          "publishedAt": "2026-11-05T21:00:04.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105148400004_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "제천시립미술관 건립 없던 일로…\"운영비 과다\"",
@@ -265,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "전남광주 대형 문화시설사업 잇단 차질…\"사전 검토 철저\"",
@@ -278,34 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
-        },
-        {
-          "title": "김선향 북한대학원대 이사장 시 '그날 그 꽃', 창작가곡으로",
-          "link": "https://www.yna.co.kr/view/AKR20261105099000052",
-          "summary": "(창원=연합뉴스) 박영민 기자 = 김선향 북한대학원대학교 이사장의 시 '그날 그 꽃'이 창작가곡으로 만들어져 무대에 올랐다.",
-          "publishedAt": "2026-11-05T04:42:27.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105099000052_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
-        },
-        {
-          "title": "LX하우시스, 서울건축박람회 참가…겨울철 고단열 창호 등 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261105093000003",
-          "summary": "(서울=연합뉴스) 임성호 기자 = LX하우시스는 오는 8일까지 나흘간 서울 강남구 세텍(SETEC)에서 열리는 '2026 서울건축박람회'에 참가...",
-          "publishedAt": "2026-11-05T03:01:43.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105093000003_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ",
-            "art"
-          ],
-          "score": 4.4
+          "score": 4.1
         }
       ]
     }
