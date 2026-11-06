@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-06T01:18:53.927Z",
+  "builtAt": "2026-11-06T10:16:20.262Z",
   "cards": [
     {
       "id": "econ",
@@ -12,27 +12,27 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 337,
+      "poolSize": 334,
       "items": [
         {
-          "title": "이란 전쟁에 유로존 물가 4% 급등…ECB 추가 금리인상 관측",
-          "link": "https://www.hankyung.com/article/202611069883i",
-          "summary": "",
-          "publishedAt": "2026-11-05T23:55:47.000Z",
+          "title": "‘블루웨이브’ 여파로 원·달러 환율 한달 만에 1360원대 터치",
+          "link": "https://www.khan.co.kr/article/202611061634001/",
+          "summary": "14.5원 급등해 1356.6원 마감…반년 만에 최대폭6일 서울 중구 하나은행 본점 딜링룸에 코스피와 코스닥 지수와 원/달러 환율이 표시돼 있다. 연합뉴스원·달러 환율이 한 달 만에 1360원대를 찍고 1356원대로 마감했다. 미국 중간선거에서 민주당이 상·하원을 동시에 장악한 ‘블루 웨이브’가 인공지능(AI) 산업 규제 우려로 번지면서 외국인의 국내 주식…",
+          "publishedAt": "2026-11-06T07:34:00.000Z",
           "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
-          "title": "'금리동결 반대' 연준 위원 \"긴축 필요…작고 잦은 조정 선호\"",
-          "link": "https://www.yna.co.kr/view/AKR20261106006000072",
-          "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 베스 해맥 미국 클리블랜드 연방준비은행(연은) 총재는 인플레이션을 연방준비제도(Fed·연준)의 목표치로 되돌...",
-          "publishedAt": "2026-11-05T19:57:16.000Z",
-          "image": "https://img.yna.co.kr/photo/reuters/2026/11/05/PRU20261105308501009_P2.jpg",
+          "title": "[외환] 원/달러 환율 14.5원 오른 1,356.6원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261106128400002",
+          "summary": "(",
+          "publishedAt": "2026-11-06T06:31:19.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106128400002_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
@@ -41,43 +41,43 @@
           "score": 7.4
         },
         {
-          "title": "英 물가 치솟자…기준금리 연 4%로 인상",
-          "link": "https://www.hankyung.com/article/2026110594621",
-          "summary": "",
-          "publishedAt": "2026-11-05T14:06:46.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
-        },
-        {
-          "title": "[외환] 원/달러 환율 0.6원 오른 1,342.1원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261105132300002",
-          "summary": "(",
-          "publishedAt": "2026-11-05T06:30:53.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105132300002_01_i_P2.jpg",
+          "title": "씨티 \"코스피 급락에도 11월 금리 인상 전망 유지\"",
+          "link": "https://www.yna.co.kr/view/AKR20261106149800002",
+          "summary": "(서울=연합뉴스) 한지훈 기자 = 한국씨티은행(이하 씨티)은 6일 \"코스피 하락에도 한국은행이 올해 11월과 내년 2월 0.25%포인트(p)씩 ...",
+          "publishedAt": "2026-11-06T07:44:06.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/22/PYH2026102204930001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 5.9
         },
         {
-          "title": "영국, 3년만에 금리 인상…BOE 총재 \"추가 인상도 가능\"(종합2보)",
-          "link": "https://www.yna.co.kr/view/AKR20261105179053085",
-          "summary": "(런던=연합뉴스) 김지연 특파원 = 영국 중앙은행인 잉글랜드은행(BOE)이 5일(현지시간) 통화정책위원회에서 기준금리를 연 4.00%로 0.25...",
-          "publishedAt": "2026-11-05T16:04:14.000Z",
-          "image": "https://img.yna.co.kr/photo/etc/epa/2026/11/05/PEP20261105250601009_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "9월 경상수지 614억 6천만 달러 흑자…\"사상 최대\"",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833537",
+          "summary": "반도체 수출 호조에 힘입어 9월 경상수지 흑자가 사상 처음 600억 달러를 넘었습니다.한국은행에 따르면 9월 경상수지는 614억 6천만 달러 흑…",
+          "publishedAt": "2026-11-06T01:24:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261106/202238527_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
           "score": 5.8
+        },
+        {
+          "title": "월간 경상수지 흑자, 600억달러 첫 돌파",
+          "link": "https://www.khan.co.kr/article/202611052042005/",
+          "summary": "반도체 호조…수출 92.4% 급증3분기 누적, 지난해 연간의 ‘4배’반도체 수출 호조로 한국의 9월 경상수지 흑자가 600억달러를 넘어 월간 기준 사상 최대를 기록했다. 올해 3분기까지 누적 흑자 규모는 지난해 연간 기록의 4배를 넘어섰다.한국은행이 5일 발표한 국제수지 잠정 통계에 따르면 올해 9월 경상수지는 614억6000만달러(약 82조5000억원)…",
+          "publishedAt": "2026-11-05T11:42:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.5
         }
       ]
     },
@@ -92,59 +92,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 195,
+      "poolSize": 199,
       "items": [
         {
-          "title": "창원 반야사, 제10회 산신대재로 국태민안 발원",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506191",
-          "summary": "창원 화개산 반야사가 가을 산신대재를 열고 국태민안과 불자 가정의 화목을 발원했다.창원 반야사(주지 혜명 스님)는 11월 1일 ‘병오년 가을 산신대재’를 봉행했다. 올해 산신대재는 10회째를 맞아 그간 불자들의 신행 원력과 기도 공덕을 되새기는 뜻깊은 법석으로 마련됐다.법회에는 주지 혜명 스님을 비롯해 경상남도의회 진상락 의원, 창원시의회 남재욱 의원, 신…",
-          "publishedAt": "2026-11-03T13:53:05.000Z",
+          "title": "울산시, 중국 양장시서 부유식 해상풍력 공급망·지원 체계 점검",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4117171",
+          "summary": "울산시는 김상욱 시장이 오늘(6일) 중국의 해상풍력 핵심거점인 광둥성 양장시를 방문해, 해상풍력 산업 현장을 둘러보고, 위진푸 양장시장과 만나 협력방안을 논의했다고 밝혔습니다.울산시 방문단은 대규모 해상풍력 발전단지와 16.6메가와트급 실증설비, 터빈 핵심 부품 생산기지를 둘러보며, 생산부터 항만 출하까지의 공급망을 시찰했습니다. 이어 양장시장과의 면담을…",
+          "publishedAt": "2026-11-06T17:01:24.000Z",
           "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.3
+          "score": 4.6
         },
         {
-          "title": "반야학술대상에 오용석 교수…간화선의 현대적 의미 조명",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=443877",
-          "summary": "간화선을 중도의 관점에서 새롭게 해석하고, 현대인의 삶 속에서 실천할 수 있는 수행의 길을 모색한 오용석 인제대 화쟁인문학연구소 연구교수가 제16회 반야학술대상을 받았다.사단법인 반야불교문화연구원(원장 지안스님, 이사장 김성태)은 11월 1일 영축총림 통도사 반야암에서 제16회 반야학술대상 시상식을 봉행했다. 수상 저서는 (2025)이다. 오 교수에게는 상…",
-          "publishedAt": "2026-11-03T10:33:07.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.2
-        },
-        {
-          "title": "[새로 나온 책]",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506236",
-          "summary": "“관념에 속지 말라”86세 경봉 스님의 법문‘십팔불공법’ 등도 담아근현대 선지식 경봉 스님(1892~ 1982)의 유발상좌인 저자가 스님이 86세에 설한 법문을 풀어 엮었다. 저자는 “법문을 들은 이들이 ‘경봉 스님 법문을 한 시간 들으면 한 시간 동안 도인이 되는 듯했다’고 회고할 정도로, 당시 스님은 쩌렁쩌렁한 음성으로 다양한 비유를 들어 법문했다”고…",
-          "publishedAt": "2026-11-05T17:29:08.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.8
-        },
-        {
-          "title": "조계종 직할교구신도회, 경북·충북지역 사찰 순례로 화합 도모",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338802",
-          "summary": "조계종 직할교구신도회(회장 김학규)가 경북 상주와 충북 영동지역 사찰을 순례하며 임원 간 화합을 도모했다.직할교구신도회는 11월 3일 경북 상주 동해사와 남장사, 충북 영동 반야사에서 ‘2026년 임원 성지순례’를 진행했다. 임원 간 소통과 화합을 도모하고 신심을 다지기 위해 마련된 이번 순례에는 김학규 직할교구신도회장을 비롯해 이은임 수석부회장, 이동복·…",
-          "publishedAt": "2026-11-05T16:56:54.000Z",
+          "title": "2600년 불교 사상과 역사에 담긴 깨달음의 길",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338830",
+          "summary": "불교란 무엇이며, 무엇을 가르치는가. 부처님의 가르침은 인도에서 시작해 중국과 한국으로 전해지는 동안 어떻게 발전했을까. 평생 불교학 연구와 전법에 힘써온 정병조 동국대 명예교수가 2600년을 이어온 불교 사상과 역사를 집대성한 ‘정병조의 불교사상 강의’를 펴냈다. 초기불교의 근본 교리부터 대승불교의 형성, 동아시아 불교의 전개와 한국불교의 미래까지 아우른…",
+          "publishedAt": "2026-11-06T11:04:44.000Z",
           "image": "",
           "sourceName": "법보신문",
           "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
+          "score": 4.5
+        },
+        {
+          "title": "[법인 스님의 문자 반야] 63. 무위진인(無位眞人)",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506261",
+          "summary": "우리는 남에게 어떻게 보이는지, 얼마나 이루었는지에 따라 자신의 가치를 가늠하며 살아간다. 남의 눈치를 보며 자신을 작게 만들기도 하고, 학력과 직함, 재산과 성취를 내세워 우월감을 드러내기도 한다. 위축과 과시는 상반된 모습이지만, 그 뿌리에는 타인에게 인정받고 싶은 욕망과 존재에 대한 불안이 자리한다. 철학자 한병철의 지적처럼, 우리는 누군가의 강요가…",
+          "publishedAt": "2026-11-06T10:40:44.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "44. ‘장자(莊子)’의 몽자재(夢自在) 법문 -오매일여(寤寐一如)의 원전은 ‘장자’의 꿈 이야기이다.-",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338820",
+          "summary": "한자로 세계의 세(世)는 시간, 계(界)는 공간이니, 세계는 지상이 아니라 시공간(時空間)이다.[우주도 마찬가지다. 우(宇)는 공간, 주(宙)는 시간을 뜻한다.] 세계는 눈에 보여서 밖에 있고 마음에 나타나서 안에 있다. 그렇지만 육신이 활동하는 공간을 통상 세계라 하므로, 대개 세계는 마음 밖에 있다고만 생각한다.세계는 마음 밖에 있다고 주장할 가장 명확…",
+          "publishedAt": "2026-11-06T10:30:46.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "[반야 참회로 여는 수행의 첫걸음] 21. 열등감 참회와 불안·걱정·두려움 참회",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506256",
+          "summary": "열등감 참회이제부터는 고급 단계의 반야 참회를 설명한다. 고급 단계는 초・중급 참회가 제대로 안 되면 진행이 어려울 수 있다. 고급 참회의 첫 번째는 열등감 참회이다.참회 대상열등감이란 자신이 남보다 못하다고 생각했을 때 느끼는 수치심, 부끄러움 등의 감정을 말한다. 열등감의 원인이 되는 사례는 다음과 같다.예를 들면, 나는 남보다 얼굴이 못생겼다, 가난하…",
+          "publishedAt": "2026-11-06T10:23:22.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
         }
       ]
     },
@@ -172,33 +185,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
-          "title": "AI시대에 고전을 공부하는 이유…전통문화연구회, ‘AI 시대의 고전번역’ 국회서 학술대회",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212091",
-          "summary": "인공지능 대전환 시대를 맞아 전통 한문학과 고전번역 분야의 새로운 도약 방향을 모색하는 대규모 학술대회가 열린다.사단법인 전통문화연구회(회장 김현)는 오는 13일 오후 2시 국회 의원회관 제1소회의실에서 ‘2026년 AI시대의 고전번역의 모색’을 주제로 학술대회를 개최한다고 밝혔다. 이번 행사는 김형동 의원이 주최하고, 사단법인 전통문화연구회가 주관하며,…",
-          "publishedAt": "2026-11-05T12:03:48.000Z",
+          "title": "AI시대, 인문학에 미래교육을 묻다",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212158",
+          "summary": "생성형 AI가 몇 초 만에 답을 내놓는 시대, 학교는 무엇을 가르쳐야 하는가를 기술이 아닌 인문학의 자리에서 묻는다. 저자는 문해력 저하, 판단과 사고를 AI에 넘기는 ‘지적 외주화’, 알고리즘의 영향력, 데이터 소유와 디지털 공간의 기억 왜곡 등을 짚는다. 『프랑켄슈타인』과 『멋진 신세계』 같은 고전, 역사와 기억, 화해와 연대의 문제를 거쳐 신뢰라는 사…",
+          "publishedAt": "2026-11-06T12:47:33.000Z",
           "image": "",
           "sourceName": "교수신문",
           "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 7.2
-        },
-        {
-          "title": "건국대 모빌리티인문학 연구원, 기후·모빌리티 세계학술대회 열어…15개국 50여 명 참가",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212052",
-          "summary": "건국대 모빌리티인문학 연구원은 10월 29일부터 31일까지 건국대 법학관에서 ‘2026 모빌리티인문학 세계학술대회’를 개최했다. 이번 학술대회는 싱가포르국립대 아시아연구소와 공동으로 열렸다. 학술대회에는 15개국에서 50여 명의 연구자가 참가했다. 참가자들은 ‘기후, 모빌리티, 인프라’를 주제로 기조강연 2회와 14개의 학술 세션에서 연구 성과를 발표했다.…",
-          "publishedAt": "2026-11-04T18:41:50.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 6.9
+          "score": 6.1
         },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -225,6 +225,19 @@
             "philosophy"
           ],
           "score": 6
+        },
+        {
+          "title": "Philosopher-led Team Nets $2.91 Million in Grants for Project on Safeguards of Liberalism",
+          "link": "https://dailynous.com/2026/11/04/philosopher-led-team-nets-2-91-million-in-grants-for-project-on-safeguards-of-liberalism/",
+          "summary": "A team of researchers led by Purdue University associate professor of philosophy J.P. Messina has been awarded a nearly $2.91 million in funding for its […] The post Philosopher-led Team Nets $2.91 Mi…",
+          "publishedAt": "2026-11-04T13:47:56.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/11/jp-messina-jesse-crosson-brian-kogelmann-and-logan-strother-1024x577.jpg",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 5.1
         }
       ]
     },
@@ -239,20 +252,59 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 215,
+      "poolSize": 214,
       "items": [
         {
-          "title": "광주비엔날레 전시관 신축 부지서 유물 59점 출토",
-          "link": "https://www.yna.co.kr/view/AKR20261105117500054",
-          "summary": "(전남광주=연합뉴스) 정다움 기자 = 광주비엔날레 전시관을 새로 짓는 부지에서 청동기시대부터 조선시대까지의 유물 59점이 출토됐다.",
-          "publishedAt": "2026-11-05T05:36:42.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105117500054_01_i_P2.jpg",
+          "title": "원주 한지문화재단, 발달장애 청소년 '한지 톡! TALK!' 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261106112800062",
+          "summary": "(원주=연합뉴스) 임보연 기자 = 강원 원주 한지문화재단이 발달장애 청소년들이 한지를 매개로 자신을 표현하고 서로의 생각을 나눈 문화예술교육 성...",
+          "publishedAt": "2026-11-06T05:54:58.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106112800062_02_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 7.1
+          "score": 4.4
+        },
+        {
+          "title": "LG생건 피지오겔, '이이오' 작가와 협업해 기획세트 4종 출시",
+          "link": "https://www.yna.co.kr/view/AKR20261106083300030",
+          "summary": "(서울=연합뉴스) 이상서 기자 = LG생활건강[051900]의 '피지오겔'은 연말을 앞두고 일러스트레이터 '이이오' 작가와 협업해 한정판 기획세...",
+          "publishedAt": "2026-11-06T02:20:48.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106083300030_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
+        },
+        {
+          "title": "19세기 지도에 담긴 독도의 동도·서도…'조선동해안도' 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261106076400005",
+          "summary": "(서울=연합뉴스) 김예나 기자 = 170여 년 전 러시아 해군의 탐사 자료를 바탕으로 독도를 두 개의 섬으로 표현한 옛 지도가 공개된다.",
+          "publishedAt": "2026-11-06T01:57:18.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106076400005_02_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
+        },
+        {
+          "title": "남원 도예문화의 재해석…12일까지 함파우관광지서 전시회",
+          "link": "https://www.yna.co.kr/view/AKR20261106072400055",
+          "summary": "(남원=연합뉴스) 백도인 기자 = 제3회 전북 남원시 도예가협회전 '담다'가 6일 남원 함파우 관광지의 &amp;K갤러리에서 개막했다.",
+          "publishedAt": "2026-11-06T01:47:23.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106072400055_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
         },
         {
           "title": "제1회 김학철문학상 대상 황정은…중국동포 전춘화 작가도 본상",
@@ -265,46 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
-        },
-        {
-          "title": "어린이박물관 서울상상나라, 체험형 상설전시 선보인다",
-          "link": "https://www.yna.co.kr/view/AKR20261105148400004",
-          "summary": "(서울=연합뉴스) 유한주 기자 = 서울시 어린이박물관 서울상상나라는 기존 상설전시 공간을 8년 만에 전면 개편하고, 새 상설전시 '매일의 다정함...",
-          "publishedAt": "2026-11-05T21:00:04.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105148400004_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
-        },
-        {
-          "title": "제천시립미술관 건립 없던 일로…\"운영비 과다\"",
-          "link": "https://www.yna.co.kr/view/AKR20261105169800064",
-          "summary": "(제천=연합뉴스) 천경환 기자 = 충북 제천시는 전임 시장 시절 의림지 일원에 추진한 300억원 규모의 시립미술관 건립을 백지화한다고 5일 밝혔...",
-          "publishedAt": "2026-11-05T09:28:33.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105169800064_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.2
-        },
-        {
-          "title": "전남광주 대형 문화시설사업 잇단 차질…\"사전 검토 철저\"",
-          "link": "https://www.yna.co.kr/view/AKR20261105146400054",
-          "summary": "(전남광주=연합뉴스) 장덕종 기자 = 아시아 예술융복합창작센터 조성사업, 광주비엔날레 전시관 신축 등 전남광주통합특별시의 주요 문화사업이 중단되...",
-          "publishedAt": "2026-11-05T07:30:27.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2025/12/16/PYH2025121616090005400_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.1
+          "score": 4.3
         }
       ]
     }
