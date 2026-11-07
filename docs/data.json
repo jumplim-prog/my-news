@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-06T10:16:20.262Z",
+  "builtAt": "2026-11-07T00:34:13.263Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 334,
+      "poolSize": 313,
       "items": [
         {
           "title": "‘블루웨이브’ 여파로 원·달러 환율 한달 만에 1360원대 터치",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "[외환] 원/달러 환율 14.5원 오른 1,356.6원(15:30 기준가)",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "씨티 \"코스피 급락에도 11월 금리 인상 전망 유지\"",
@@ -51,20 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.9
-        },
-        {
-          "title": "9월 경상수지 614억 6천만 달러 흑자…\"사상 최대\"",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833537",
-          "summary": "반도체 수출 호조에 힘입어 9월 경상수지 흑자가 사상 처음 600억 달러를 넘었습니다.한국은행에 따르면 9월 경상수지는 614억 6천만 달러 흑…",
-          "publishedAt": "2026-11-06T01:24:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261106/202238527_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.8
+          "score": 5.6
         },
         {
           "title": "월간 경상수지 흑자, 600억달러 첫 돌파",
@@ -77,7 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.5
+          "score": 5.2
+        },
+        {
+          "title": "부산 화장품 수출 9월까지 3억달러…작년보다 1.5배 증가",
+          "link": "https://www.yna.co.kr/view/AKR20261106030800051",
+          "summary": "(부산=연합뉴스) 오수희 기자 = 올해 부산 화장품 수출실적이 글로벌 K-뷰티 시장의 성장세에 힘입어 큰 폭으로 늘어난 것으로 나타났다.",
+          "publishedAt": "2026-11-06T23:30:01.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/06/19/PYH2026061917970005100_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 199,
+      "poolSize": 188,
       "items": [
         {
           "title": "울산시, 중국 양장시서 부유식 해상풍력 공급망·지원 체계 점검",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.3
         },
         {
           "title": "2600년 불교 사상과 역사에 담긴 깨달음의 길",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "[법인 스님의 문자 반야] 63. 무위진인(無位眞人)",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "44. ‘장자(莊子)’의 몽자재(夢自在) 법문 -오매일여(寤寐一如)의 원전은 ‘장자’의 꿈 이야기이다.-",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 21. 열등감 참회와 불안·걱정·두려움 참회",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.2
         }
       ]
     },
@@ -185,20 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.3
-        },
-        {
-          "title": "AI시대, 인문학에 미래교육을 묻다",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212158",
-          "summary": "생성형 AI가 몇 초 만에 답을 내놓는 시대, 학교는 무엇을 가르쳐야 하는가를 기술이 아닌 인문학의 자리에서 묻는다. 저자는 문해력 저하, 판단과 사고를 AI에 넘기는 ‘지적 외주화’, 알고리즘의 영향력, 데이터 소유와 디지털 공간의 기억 왜곡 등을 짚는다. 『프랑켄슈타인』과 『멋진 신세계』 같은 고전, 역사와 기억, 화해와 연대의 문제를 거쳐 신뢰라는 사…",
-          "publishedAt": "2026-11-06T12:47:33.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 6.1
+          "score": 7
         },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -227,6 +214,19 @@
           "score": 6
         },
         {
+          "title": "AI시대, 인문학에 미래교육을 묻다",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212158",
+          "summary": "생성형 AI가 몇 초 만에 답을 내놓는 시대, 학교는 무엇을 가르쳐야 하는가를 기술이 아닌 인문학의 자리에서 묻는다. 저자는 문해력 저하, 판단과 사고를 AI에 넘기는 ‘지적 외주화’, 알고리즘의 영향력, 데이터 소유와 디지털 공간의 기억 왜곡 등을 짚는다. 『프랑켄슈타인』과 『멋진 신세계』 같은 고전, 역사와 기억, 화해와 연대의 문제를 거쳐 신뢰라는 사…",
+          "publishedAt": "2026-11-06T12:47:33.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 5.8
+        },
+        {
           "title": "Philosopher-led Team Nets $2.91 Million in Grants for Project on Safeguards of Liberalism",
           "link": "https://dailynous.com/2026/11/04/philosopher-led-team-nets-2-91-million-in-grants-for-project-on-safeguards-of-liberalism/",
           "summary": "A team of researchers led by Purdue University associate professor of philosophy J.P. Messina has been awarded a nearly $2.91 million in funding for its […] The post Philosopher-led Team Nets $2.91 Mi…",
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.1
+          "score": 4.8
         }
       ]
     },
@@ -252,8 +252,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 214,
+      "poolSize": 212,
       "items": [
+        {
+          "title": "둥글고 기이하면서 유쾌한 조각에 담은 동양 철학…리첸 개인전",
+          "link": "https://www.yna.co.kr/view/AKR20261106135900005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 열두 개의 팔을 벌린 조각상의 얼굴에는 이목구비가 없다. 얼굴은 윤곽만 남긴 채 흐릿하고, 손들은 불교의 수인...",
+          "publishedAt": "2026-11-06T21:01:00.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106135900005_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
+        },
         {
           "title": "원주 한지문화재단, 발달장애 청소년 '한지 톡! TALK!' 전시",
           "link": "https://www.yna.co.kr/view/AKR20261106112800062",
@@ -265,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.1
         },
         {
           "title": "LG생건 피지오겔, '이이오' 작가와 협업해 기획세트 4종 출시",
@@ -278,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "19세기 지도에 담긴 독도의 동도·서도…'조선동해안도' 전시",
@@ -291,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "남원 도예문화의 재해석…12일까지 함파우관광지서 전시회",
@@ -304,20 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
-        },
-        {
-          "title": "제1회 김학철문학상 대상 황정은…중국동포 전춘화 작가도 본상",
-          "link": "https://www.yna.co.kr/view/AKR20261106030200371",
-          "summary": "(서울=연합뉴스) 성도현 기자 = 독립운동가이자 작가인 김학철(1916∼2001) 선생을 기리는 '제1회 김학철문학상' 대상에 황정은 작가의 '...",
-          "publishedAt": "2026-11-05T23:59:05.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106030200371_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.3
+          "score": 4
         }
       ]
     }
