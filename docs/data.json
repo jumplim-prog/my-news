@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-07T00:34:13.263Z",
+  "builtAt": "2026-11-07T09:30:53.970Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 313,
+      "poolSize": 334,
       "items": [
         {
           "title": "‘블루웨이브’ 여파로 원·달러 환율 한달 만에 1360원대 터치",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 7
         },
         {
           "title": "[외환] 원/달러 환율 14.5원 오른 1,356.6원(15:30 기준가)",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.9
         },
         {
           "title": "씨티 \"코스피 급락에도 11월 금리 인상 전망 유지\"",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.6
+          "score": 5.5
         },
         {
           "title": "월간 경상수지 흑자, 600억달러 첫 돌파",
@@ -64,20 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.2
+          "score": 5
         },
         {
-          "title": "부산 화장품 수출 9월까지 3억달러…작년보다 1.5배 증가",
-          "link": "https://www.yna.co.kr/view/AKR20261106030800051",
-          "summary": "(부산=연합뉴스) 오수희 기자 = 올해 부산 화장품 수출실적이 글로벌 K-뷰티 시장의 성장세에 힘입어 큰 폭으로 늘어난 것으로 나타났다.",
-          "publishedAt": "2026-11-06T23:30:01.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/06/19/PYH2026061917970005100_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "“속만 타는 주식, 이제 손 떼고 싶어요”…수천억 뭉칫돈 몰린 고금리 예금",
+          "link": "https://www.mk.co.kr/news/economy/12201465",
+          "summary": "농협 특판예금 7000억 조기 완판 신한 고금리 예금 8400억원 판매 확정금리·단기예금·파킹통장까지 은행권 고금리상품 고객유치 경쟁증시 변동성이 커지면서 안정적인 이자수익을 확보..",
+          "publishedAt": "2026-11-07T06:33:29.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/07/news-p.v1.20261102.dfc313003d044cf38366b15cc937b0d1_R.png",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.5
+          "score": 4.4
         }
       ]
     },
@@ -92,21 +92,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 188,
+      "poolSize": 187,
       "items": [
-        {
-          "title": "울산시, 중국 양장시서 부유식 해상풍력 공급망·지원 체계 점검",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4117171",
-          "summary": "울산시는 김상욱 시장이 오늘(6일) 중국의 해상풍력 핵심거점인 광둥성 양장시를 방문해, 해상풍력 산업 현장을 둘러보고, 위진푸 양장시장과 만나 협력방안을 논의했다고 밝혔습니다.울산시 방문단은 대규모 해상풍력 발전단지와 16.6메가와트급 실증설비, 터빈 핵심 부품 생산기지를 둘러보며, 생산부터 항만 출하까지의 공급망을 시찰했습니다. 이어 양장시장과의 면담을…",
-          "publishedAt": "2026-11-06T17:01:24.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.3
-        },
         {
           "title": "2600년 불교 사상과 역사에 담긴 깨달음의 길",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=338830",
@@ -118,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
           "title": "[법인 스님의 문자 반야] 63. 무위진인(無位眞人)",
@@ -131,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
           "title": "44. ‘장자(莊子)’의 몽자재(夢自在) 법문 -오매일여(寤寐一如)의 원전은 ‘장자’의 꿈 이야기이다.-",
@@ -144,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 21. 열등감 참회와 불안·걱정·두려움 참회",
@@ -157,7 +144,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4
+        },
+        {
+          "title": "‘대승기신론’ 사상·후대 해석 조명 학술대회 개최",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338849",
+          "summary": "대승불교 대표 논서 ‘대승기신론’의 사상과 후대의 다양한 해석을 종합적으로 검토하고, 새로운 논점을 제시하는 학술대회가 열린다.불교학연구회(회장 김원명)는 11월 14일 오후 1시 서울 한국외대 대학원 226호 BRICS강의실에서 ‘대승기신론의 형성과 사상 그리고 해석’을 주제로 추계 학술대회를 개최한다. 인제대 화쟁인문학연구소(소장 박태원) HK3.0사업…",
+          "publishedAt": "2026-11-06T16:21:27.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 2.6
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7
+          "score": 6.8
         },
         {
           "title": "How to face the end of the world – according to Plato and the Stoics",
@@ -224,20 +224,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.8
+          "score": 5.6
         },
         {
-          "title": "Philosopher-led Team Nets $2.91 Million in Grants for Project on Safeguards of Liberalism",
-          "link": "https://dailynous.com/2026/11/04/philosopher-led-team-nets-2-91-million-in-grants-for-project-on-safeguards-of-liberalism/",
-          "summary": "A team of researchers led by Purdue University associate professor of philosophy J.P. Messina has been awarded a nearly $2.91 million in funding for its […] The post Philosopher-led Team Nets $2.91 Mi…",
-          "publishedAt": "2026-11-04T13:47:56.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/11/jp-messina-jesse-crosson-brian-kogelmann-and-logan-strother-1024x577.jpg",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
+          "title": "조르주 바타유",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212174",
+          "summary": "쓸모의 사슬을 끊고 순간을 껴안다금기 넘어선 에로티슴과 소모로 읽은 바타유 사유차지연 교수가 풀어낸 '주권' 되찾는 위반의 철학우리는 늘 쓸모를 따진다. 공부도 일도 관계도 무엇에 도움이 되는지부터 묻는다. 프랑스의 작가이자 사상가 조르주 바타유(1897∼1962)는 바로 이 '유용성의 지배'에서 벗어나야 인간이 스스로의 주인, 곧 '주권'을 되찾을 수 있…",
+          "publishedAt": "2026-11-07T15:31:20.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.8
+          "score": 4.6
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 212,
+      "poolSize": 206,
       "items": [
         {
           "title": "둥글고 기이하면서 유쾌한 조각에 담은 동양 철학…리첸 개인전",
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.2
         },
         {
           "title": "원주 한지문화재단, 발달장애 청소년 '한지 톡! TALK!' 전시",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 3.9
         },
         {
           "title": "LG생건 피지오겔, '이이오' 작가와 협업해 기획세트 4종 출시",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 3.9
         },
         {
           "title": "19세기 지도에 담긴 독도의 동도·서도…'조선동해안도' 전시",
@@ -304,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 3.8
         },
         {
           "title": "남원 도예문화의 재해석…12일까지 함파우관광지서 전시회",
@@ -317,7 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 3.8
         }
       ]
     }
