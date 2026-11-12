@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-12T02:05:21.829Z",
+  "builtAt": "2026-11-12T10:33:23.371Z",
   "cards": [
     {
       "id": "econ",
@@ -12,72 +12,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 336,
+      "poolSize": 338,
       "items": [
         {
-          "title": "공정위 과징금·외인 선물 매도 겹친 채권시장…약세로 돌아설까",
-          "link": "https://www.yna.co.kr/view/AKR20261112045300008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 공정거래위원회의 국고채 입찰 담합 과징금 부과와 미국발 금리 상승, 외국인 국채선물 매도가 겹치면서 채권시장이...",
-          "publishedAt": "2026-11-12T00:52:02.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/11/PYH2026111105490001300_P2.jpg",
+          "title": "환율, 수출업체 달러매도 등에 보름 만에 1,320원대로 하락",
+          "link": "https://www.yna.co.kr/view/AKR20261112140600002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율은 수출업체의 달러 매도와 위험선호심리 확대에 따른 외국인 주식 순매수세 등에 장중 1,320원대...",
+          "publishedAt": "2026-11-12T07:13:34.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/12/PYH2026111216850001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
-          "title": "달러 가치 19개월 만에 최고",
-          "link": "https://www.yna.co.kr/view/AKR20261112033600009",
-          "summary": "(서울=연합뉴스) 정주호 기자 = 미국 물가가 예상보다 가파르게 오르면서 연방준비제도(연준·Fed)의 공격적인 금리 인상 전망이 커지자 달러 가...",
-          "publishedAt": "2026-11-11T23:55:22.000Z",
-          "image": "https://img.yna.co.kr/photo/ap/2026/08/20/PAP20260820083301009_P2.jpg",
+          "title": "[외환] 원/달러 환율 2.9원 내린 1,330.7원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261112136000002",
+          "summary": "(",
+          "publishedAt": "2026-11-12T06:33:57.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/12/AKR20261112136000002_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.4
         },
         {
-          "title": "물가불안에 빅스텝까지...연준 월러 “12월 0.5%p 인상”",
-          "link": "https://www.mk.co.kr/news/economy/12204627",
-          "summary": "10월 CPI 전달보다 0.4% 페드워치, 12월 인상 100%미국 내 유가발 인플레이션 우려가 여전한 데다 최근 고용 시장이 안정되면서 12월 추가 금리 인상 전망이 힘을 얻고 ..",
-          "publishedAt": "2026-11-10T16:19:56.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/11/news-p.v1.20261111.a45127d0cc734657ad12180792f36f42_R.jpg",
+          "title": "기아, 인도에 20억 달러 들여 공장 신설",
+          "link": "https://www.hankyung.com/article/2026111236861",
+          "summary": "",
+          "publishedAt": "2026-11-12T09:08:04.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "[표] 외국환율고시표",
+          "link": "https://www.mk.co.kr/news/economy/12206723",
+          "summary": "",
+          "publishedAt": "2026-11-12T08:39:59.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/13/20261113_01110112000009_L00.jpg",
           "sourceName": "매일경제",
           "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6.8
+          "score": 4.5
         },
         {
-          "title": "미 물가·금리 우려에도 코스피 2.6% 상승…코스닥 5.6% 급등",
-          "link": "https://www.hani.co.kr/arti/economy/economy_general/1286819.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레",
-          "sourceId": "hani-economy",
+          "title": "'체스 천재' 경제 석학 … 스티글리츠와 설전도",
+          "link": "https://www.mk.co.kr/news/economy/12206700",
+          "summary": "세계적 석학 케네스 로고프 하버드대 교수는 통화정책과 화폐 분야 최고 권위자로 꼽힌다. 중앙은행의 독립성과 물가안정 목표를 강조해온 로고프 교수는 각국 정부가 선거를 의식해 경기를..",
+          "publishedAt": "2026-11-12T08:39:06.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/13/20261113_01160110000003_L00.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6.5
-        },
-        {
-          "title": "국내 증시, 미 물가·금리 부담 속 오름세",
-          "link": "https://www.hani.co.kr/arti/economy/economy_general/1286761.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레",
-          "sourceId": "hani-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.5
+          "score": 4.5
         }
       ]
     },
@@ -105,33 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.6
-        },
-        {
-          "title": "전국비구니회, 육군훈련소 호국연무사 수계법회",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444037",
-          "summary": "조계종 전국비구니회(회장 광용스님)는 11월7일 육군훈련소 호국연무사에서 대한민국을 수호하는 정예신병이 되기 위해 심신을 단련하고 있는 훈련병들을 대상으로 수계법회를 봉행했다.수계법회는 전국비구니회 회장 광용스님을 계사로 삼귀의와 반야심경 봉독, 청성, 청법가, 청사, 개도 및 법문, 참회와 연비, 발원, 계첩 수여, 후원금 전달, 사홍서원 등의 순으로 진…",
-          "publishedAt": "2026-11-10T08:59:36.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.6
-        },
-        {
-          "title": "이재명 대통령, 아세안·APEC 순방…시진핑 주최 만찬 참석",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4118156",
-          "summary": "이재명 대통령이 오는 16일부터 나흘간 아세안과 APEC 정상회의 참석을 위해 필리핀과 중국을 차례로 방문합니다.특히 시진핑 중국 국가주석 내외가 주최하는 환영 만찬에서 한중관계 개선을 위한 어떤 메시지가 나올지 주목됩니다.보도에 정영석 기자입니다. 이재명 대통령이 오는 16일부터 19일까지 아세안과 APEC 정상회의 참석을 위해 순방길에 오릅니다.이번 순…",
-          "publishedAt": "2026-11-12T10:20:31.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.2
+          "score": 3.5
         },
         {
           "title": "조계사, 삼존불 개금불사 두 번째 회향…약사여래불 점안법회 봉행",
@@ -144,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.9
+          "score": 2.7
         },
         {
           "title": "향산 스님, 한국선학회 제14대 회장 연임",
@@ -157,7 +131,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.7
+          "score": 2.5
+        },
+        {
+          "title": "전북 대불련, 금산사서 수계법회…54명 오계 실천 서원",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444055",
+          "summary": "새벽예불로 하루를 연 대학생 법우들이 오후에는 금산사 대적광전에서 오계를 받았다. 진표율사의 점찰 수행을 체험하고 화엄산림 법문을 들은 법우들은 수계로 불교의 가르침을 일상에서 실천하겠다는 뜻을 세웠다.한국대학생불교연합회 전북지부(지부장 오태준)는 11월7일 오후 1시 조계종 제17교구본사 김제 금산사(주지 화평스님) 대적광전에서 수계법회를 봉행했다. 이날…",
+          "publishedAt": "2026-11-11T09:54:08.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 2.5
         }
       ]
     },
@@ -172,8 +159,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 148,
+      "poolSize": 147,
       "items": [
+        {
+          "title": "철학과 현실 (계간): 가을호(2026)",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212419",
+          "summary": "이번 호는 ‘K-사상'을 정면으로 묻는다. 한류가 세계의 대중문화를 흔드는 지금, 그 밑바닥에 사상이라 부를 만한 것이 있는가. 특별좌담 「’K-사상'을 찾아서」에서는 프랑스철학회 회장을 지낸 김상환 서울대 명예교수, 철학문화연구소 소장인 김원명 한국외대 교수, 한국헤겔학회 회장인 나종석 연세대 교수, 기후인문학연구소 소장인 조성환 원광대 교수가 이 물음을…",
+          "publishedAt": "2026-11-12T18:40:33.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 7.7
+        },
         {
           "title": "Bioethics and Moral Reasoning",
           "link": "https://plato.stanford.edu/entries/bioethics-moral-reasoning/",
@@ -201,43 +201,30 @@
           "score": 6
         },
         {
-          "title": "Philosopher-led Team Nets $2.91 Million in Grants for Project on Safeguards of Liberalism",
-          "link": "https://dailynous.com/2026/11/04/philosopher-led-team-nets-2-91-million-in-grants-for-project-on-safeguards-of-liberalism/",
-          "summary": "A team of researchers led by Purdue University associate professor of philosophy J.P. Messina has been awarded a nearly $2.91 million in funding for its […] The post Philosopher-led Team Nets $2.91 Mi…",
-          "publishedAt": "2026-11-04T13:47:56.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/11/jp-messina-jesse-crosson-brian-kogelmann-and-logan-strother-1024x577.jpg",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "“대필 말고 논문끼리 대화시켜라”…서울대 교수가 찾은 ‘인문학’ AI 활용법",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212354",
-          "summary": "[서울대 인문대학, 11일 브라운백 미팅서 박진호 교수 발표] 인문학의 위기 속에서 인공지능(AI)은 돌파구가 될 수 있을까. 인공지능(AI)을 활용해 방대한 문헌에서 의미 있는 정보를 추출하고, 선행연구 간 논점과 해석의 차이를 분석해 새로운 질문으로 연결하는 방식이 부상한다. AI를 논문 대필 수단으로 악용하지 않고, 연구의 출발점과 방법론을 바꾸는 도…",
-          "publishedAt": "2026-11-11T18:15:43.000Z",
+          "title": "대구한의대, 영주서 ‘AI 시대, 질문하는 인문학’ 인문주간 개최",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212389",
+          "summary": "대구한의대 인문사회연구소가 지난달 27일부터 31일까지 경북 영주시 일원에서 ‘2026 제21회 인문주간–영주 유의와 함께하는 치유의 마당놀이’를 개최했다. 이번 행사는 ‘AI 시대, 질문하는 인문학’을 주제로 열렸다. 대구한의대와 영주시가 공동 주관했으며, 148아트스퀘어, 영주문화원, 영주문화예술회관, 소백산 자락길 등에서 닷새간 진행됐다. 시민 300…",
+          "publishedAt": "2026-11-12T18:41:23.000Z",
           "image": "",
           "sourceName": "교수신문",
           "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.3
+          "score": 4.7
         },
         {
-          "title": "한국외대 러시아연구소, 한·러 관계와 동북아 정세 국제학술대회 연다",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212366",
-          "summary": "한국외대 러시아연구소는 11월 12일 오후 1시 20분 서울캠퍼스 사이버관 대강당에서 '새로운 도전 시대, 한·러 관계와 동북아시아 정세'를 주제로 국제학술대회를 연다. 이번 학술대회는 최근 미국 중간선거와 북·러 관계 변화 등 국제정세 속에서 동북아 외교·안보 환경을 진단하고, 한·러 관계 발전 방향과 한반도 평화 공존을 위한 협력방안을 논의하기 위해 마…",
-          "publishedAt": "2026-11-11T17:58:01.000Z",
+          "title": "한국외대, 태국학과 창설 60주년 기념행사…6개국 200명 국제학술대회 개최",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212415",
+          "summary": "한국외대는 지난 11월 5일부터 6일까지 서울캠퍼스와 롯데호텔월드에서 태국학과 창설 60주년을 기념하는 국제학술대회, 학술경연대회, 문화예술제, 홈커밍데이 등 행사를 열었다. 한국외대는 이번 행사를 통해 1966년 창설된 태국학과의 교육과 연구 성과를 돌아보고, 태국학의 미래 발전 방향과 한·태 양국 간 학술·문화 교류 확대 방안을 논의했다고 밝혔다. 국제…",
+          "publishedAt": "2026-11-12T17:22:00.000Z",
           "image": "",
           "sourceName": "교수신문",
           "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.3
+          "score": 4.6
         }
       ]
     },
@@ -252,8 +239,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 204,
+      "poolSize": 201,
       "items": [
+        {
+          "title": "30만명이 찾은 ‘행복한 화가’…이대원전, 덕수궁관 최다 관람객",
+          "link": "https://www.khan.co.kr/article/202611121802001/",
+          "summary": "국립현대미술관 덕수궁에서 열린 ‘이대원: 당신을 슬프게 하는 것은 하나도 없다’ 전시 관람 모습. 국립현대미술관 제공국립현대미술관 덕수궁에서 최근 막을 내린 ‘이대원: 당신을 슬프게 하는 것은 하나도 없다’가 덕수궁관 역대 최다 관람객을 기록했다.국립현대미술관은 지난 8월6일부터 11월8일까지 열린 이대원 전시의 누적 관람객이 30만572명을 기록해 ···",
+          "publishedAt": "2026-11-12T09:02:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 6
+        },
+        {
+          "title": "'D-3' 광주비엔날레 누적 관람객 41만명",
+          "link": "https://www.yna.co.kr/view/AKR20261112166300054",
+          "summary": "(전남광주=연합뉴스) 장아름 기자 = 오는 15일 72일간의 전시 여정을 마무리하고 폐막을 앞둔 제16회 광주비엔날레에 41만명이 방문했다.",
+          "publishedAt": "2026-11-12T08:40:25.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/12/AKR20261112166300054_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 6
+        },
         {
           "title": "관계의 본질을 묻다···신재돈 ‘뒤엉킨/약속들’ 개인전",
           "link": "https://www.khan.co.kr/article/202611111610001/",
@@ -265,27 +278,14 @@
           "candidates": [
             "art"
           ],
-          "score": 5.6
+          "score": 5.4
         },
         {
-          "title": "대전시, MICE 연계해 제빵·황톳길 걷기·역사관광 코스 개발",
-          "link": "https://www.yna.co.kr/view/AKR20261112070900063",
-          "summary": "(대전=연합뉴스) 박주영 기자 = 대전시는 대전컨벤션센터(DCC) 일원을 찾는 회의 참가자들을 중심으로 마이스(MICE) 산업 연계 관광 프로그...",
-          "publishedAt": "2026-11-12T01:34:47.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/12/AKR20261112070900063_02_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "서촌의 건축·예술·골목을 걷는다…박노수미술관 답사프로그램",
-          "link": "https://www.yna.co.kr/view/AKR20261112026500004",
-          "summary": "(서울=연합뉴스) 정준영 기자 = 서울 종로구(구청장 유찬종)는 오는 14일, 21일, 28일에 종로구립 박노수미술관을 중심으로 서촌의 역사와 ...",
-          "publishedAt": "2026-11-11T23:15:14.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/12/AKR20261112026500004_02_i_P2.jpg",
+          "title": "춘천미래동행재단, 조윤정 작가 초청 시민특강 개최",
+          "link": "https://www.yna.co.kr/view/AKR20261112150400062",
+          "summary": "(춘천=연합뉴스) 이상학 기자 = 춘천미래동행재단은 12일 춘천시립도서관에서 조윤정 작가를 초청해 시민특강을 열었다.",
+          "publishedAt": "2026-11-12T07:35:00.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/12/AKR20261112150400062_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -294,30 +294,17 @@
           "score": 4.4
         },
         {
-          "title": "석 달 넘게 버틴 6ｍ 모래조각…바닷바람도 못 무너뜨린 비결은",
-          "link": "https://www.yna.co.kr/view/AKR20261111159700062",
-          "summary": "(속초=연합뉴스) 류호준 기자 = 지난여름 강원 속초 청호해수욕장에 세워진 대형 모래조각이 석 달 넘게 원형을 유지하며 이색 볼거리가 되고 있다...",
-          "publishedAt": "2026-11-11T22:00:03.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/11/AKR20261111159700062_02_i_P2.jpg",
+          "title": "해남군, 14일 '한국문학 탄생, 100년 작가 심포지엄' 개최",
+          "link": "https://www.yna.co.kr/view/AKR20261112127200054",
+          "summary": "(해남=연합뉴스) 조근영 기자 = 전남광주통합특별시 해남군이 오는 14일 송지초등학교에서 한국 근대문학을 대표하는 문인들의 업적과 역사적 명작들...",
+          "publishedAt": "2026-11-12T06:03:03.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/12/AKR20261112127200054_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
           "score": 4.4
-        },
-        {
-          "title": "무주군, 올해의 책에 '너를 아끼며 살아라' 등 3권 선정",
-          "link": "https://www.yna.co.kr/view/AKR20261112066000055",
-          "summary": "(무주=연합뉴스) 최영수 기자 = 전북 무주군은 올해의 책에 나태주 작가의 '너를 아끼며 살아라' 등 3권을 선정했다고 12일 밝혔다.",
-          "publishedAt": "2026-11-12T01:22:58.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2022/11/02/PYH2022110214690052800_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3
         }
       ]
     }
