@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-11T10:10:34.331Z",
+  "builtAt": "2026-11-12T02:05:21.829Z",
   "cards": [
     {
       "id": "econ",
@@ -15,56 +15,30 @@
       "poolSize": 336,
       "items": [
         {
-          "title": "미 금리 '빅스텝' 인상 우려에도…환율 3.9원 내린 1,333.6원",
-          "link": "https://www.yna.co.kr/view/AKR20261111139100002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 미국 금리인상 기대가 커졌지만 달러 매도세에 원/달러 환율이 1,330원대 초반으로 하락했다.",
-          "publishedAt": "2026-11-11T07:21:17.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/02/PYH2026110218600001300_P2.jpg",
+          "title": "공정위 과징금·외인 선물 매도 겹친 채권시장…약세로 돌아설까",
+          "link": "https://www.yna.co.kr/view/AKR20261112045300008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 공정거래위원회의 국고채 입찰 담합 과징금 부과와 미국발 금리 상승, 외국인 국채선물 매도가 겹치면서 채권시장이...",
+          "publishedAt": "2026-11-12T00:52:02.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/11/PYH2026111105490001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.5
         },
         {
-          "title": "\"경상수지 흑자 지속·美재정건전성 지속시 원달러 환율 현수준 가능성\"",
-          "link": "https://www.yna.co.kr/view/AKR20261111132600008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 한국기업평가[034950]는 11일 올해 7월 이후 원/달러 환율이 내려간 배경으로 수출기업의 환전 확대와 외...",
-          "publishedAt": "2026-11-11T06:46:35.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/11/AKR20261111132600008_01_i_P2.jpg",
+          "title": "달러 가치 19개월 만에 최고",
+          "link": "https://www.yna.co.kr/view/AKR20261112033600009",
+          "summary": "(서울=연합뉴스) 정주호 기자 = 미국 물가가 예상보다 가파르게 오르면서 연방준비제도(연준·Fed)의 공격적인 금리 인상 전망이 커지자 달러 가...",
+          "publishedAt": "2026-11-11T23:55:22.000Z",
+          "image": "https://img.yna.co.kr/photo/ap/2026/08/20/PAP20260820083301009_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.4
-        },
-        {
-          "title": "[외환] 원/달러 환율 3.9원 내린 1,333.6원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261111132800002",
-          "summary": "(",
-          "publishedAt": "2026-11-11T06:30:45.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/11/AKR20261111132800002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "[글로벌 마켓시황] 물가 부담 속 금리인상 언급…뉴욕증시 하락",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840004",
-          "summary": "먼저 뉴욕증시부터 살펴보겠습니다.뉴욕증시 3대 지수가 일제히 하락 마감했습니다.특히 나스닥이 0.7%대, S&P 500이 0.3% 넘게 하락하며…",
-          "publishedAt": "2026-11-10T22:50:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261111/202239900_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
+          "score": 7.5
         },
         {
           "title": "물가불안에 빅스텝까지...연준 월러 “12월 0.5%p 인상”",
@@ -77,7 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.8
+        },
+        {
+          "title": "미 물가·금리 우려에도 코스피 2.6% 상승…코스닥 5.6% 급등",
+          "link": "https://www.hani.co.kr/arti/economy/economy_general/1286819.html",
+          "summary": "",
+          "publishedAt": null,
+          "image": "",
+          "sourceName": "한겨레",
+          "sourceId": "hani-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6.5
+        },
+        {
+          "title": "국내 증시, 미 물가·금리 부담 속 오름세",
+          "link": "https://www.hani.co.kr/arti/economy/economy_general/1286761.html",
+          "summary": "",
+          "publishedAt": null,
+          "image": "",
+          "sourceName": "한겨레",
+          "sourceId": "hani-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6.5
         }
       ]
     },
@@ -95,19 +95,6 @@
       "poolSize": 205,
       "items": [
         {
-          "title": "‘멈추고 바라보는 수행, 지관' AI로 현대적 재해석",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506272",
-          "summary": "마음을 다스리는 수행은 단순한 고요함이나 통찰 어느 한쪽에 머물지 않는다. 마음을 가라앉히는 ‘멈춤(止·사마타)’과 명확히 비추어보는 ‘봄(觀·위빠사나)’은 불교 수행을 떠받치는 두 기둥이다. 초기불교부터 중국 천태의 지관겸수, 한국 보조지눌의 정혜쌍수와 간화선, 티베트의 시네·락통, 일본의 임제·조동에 이르기까지 수행은 한 질문을 향해 있었다. “지와 관…",
-          "publishedAt": "2026-11-08T14:21:40.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.6
-        },
-        {
           "title": "〈백일법문〉 통해 본 성철 스님의 중도사상 조명",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506300",
           "summary": "동아시아불교문화학회(회장 최연주)는 11월 21일 오후 1시 부산 고심정사에서 〈백일법문〉을 통해 본 성철 스님의 중도사상’을 주제로 2026년 동계학술대회를 개최한다.〈백일법문〉은 성철 스님이 1967년 해인총림 초대 방장으로 추대된 후 첫 동안거에서 100일간 대중에 강설한 법문을 엮은 책이다. 이날 학술대회에서는 성철 스님의 중도사상을 다각도로 심층…",
@@ -118,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.6
         },
         {
           "title": "전국비구니회, 육군훈련소 호국연무사 수계법회",
@@ -131,7 +118,33 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.6
+        },
+        {
+          "title": "이재명 대통령, 아세안·APEC 순방…시진핑 주최 만찬 참석",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4118156",
+          "summary": "이재명 대통령이 오는 16일부터 나흘간 아세안과 APEC 정상회의 참석을 위해 필리핀과 중국을 차례로 방문합니다.특히 시진핑 중국 국가주석 내외가 주최하는 환영 만찬에서 한중관계 개선을 위한 어떤 메시지가 나올지 주목됩니다.보도에 정영석 기자입니다. 이재명 대통령이 오는 16일부터 19일까지 아세안과 APEC 정상회의 참석을 위해 순방길에 오릅니다.이번 순…",
+          "publishedAt": "2026-11-12T10:20:31.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
+        },
+        {
+          "title": "조계사, 삼존불 개금불사 두 번째 회향…약사여래불 점안법회 봉행",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=338925",
+          "summary": "조계종 총본산 조계사가 11월 11일 대웅전에서 약사여래불 점안법회를 봉행했다. 이번 법회는 3년에 걸쳐 진행하는 대웅전 삼존불 개금불사의 두 번째 회향 법석으로, 조계종 총무원장 진우 스님이 증명법사로 참석해 점안의식을 주재하고 법문을 설했다.조계사는 2006년 대웅전 삼존불 조성불사를 원만히 마쳤다. 당시 ‘시대 중생이 큰 부처님 앞에 조복돼 화합하리라…",
+          "publishedAt": "2026-11-11T20:08:42.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 2.9
         },
         {
           "title": "향산 스님, 한국선학회 제14대 회장 연임",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
-        },
-        {
-          "title": "전북 대불련, 금산사서 수계법회…54명 오계 실천 서원",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444055",
-          "summary": "새벽예불로 하루를 연 대학생 법우들이 오후에는 금산사 대적광전에서 오계를 받았다. 진표율사의 점찰 수행을 체험하고 화엄산림 법문을 들은 법우들은 수계로 불교의 가르침을 일상에서 실천하겠다는 뜻을 세웠다.한국대학생불교연합회 전북지부(지부장 오태준)는 11월7일 오후 1시 조계종 제17교구본사 김제 금산사(주지 화평스님) 대적광전에서 수계법회를 봉행했다. 이날…",
-          "publishedAt": "2026-11-11T09:54:08.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3
+          "score": 2.7
         }
       ]
     },
@@ -201,6 +201,19 @@
           "score": 6
         },
         {
+          "title": "Philosopher-led Team Nets $2.91 Million in Grants for Project on Safeguards of Liberalism",
+          "link": "https://dailynous.com/2026/11/04/philosopher-led-team-nets-2-91-million-in-grants-for-project-on-safeguards-of-liberalism/",
+          "summary": "A team of researchers led by Purdue University associate professor of philosophy J.P. Messina has been awarded a nearly $2.91 million in funding for its […] The post Philosopher-led Team Nets $2.91 Mi…",
+          "publishedAt": "2026-11-04T13:47:56.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/11/jp-messina-jesse-crosson-brian-kogelmann-and-logan-strother-1024x577.jpg",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
+        },
+        {
           "title": "“대필 말고 논문끼리 대화시켜라”…서울대 교수가 찾은 ‘인문학’ AI 활용법",
           "link": "https://www.kyosu.net/news/articleView.html?idxno=212354",
           "summary": "[서울대 인문대학, 11일 브라운백 미팅서 박진호 교수 발표] 인문학의 위기 속에서 인공지능(AI)은 돌파구가 될 수 있을까. 인공지능(AI)을 활용해 방대한 문헌에서 의미 있는 정보를 추출하고, 선행연구 간 논점과 해석의 차이를 분석해 새로운 질문으로 연결하는 방식이 부상한다. AI를 논문 대필 수단으로 악용하지 않고, 연구의 출발점과 방법론을 바꾸는 도…",
@@ -211,7 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.7
+          "score": 4.3
         },
         {
           "title": "한국외대 러시아연구소, 한·러 관계와 동북아 정세 국제학술대회 연다",
@@ -224,20 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.7
-        },
-        {
-          "title": "극동대 변지현 학생, ‘다르다고 도깨비는 아니야’로 충북도지사상 수상",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212339",
-          "summary": "극동대는 만화애니메이션학과 변지현 학생이 지난 6일부터 7일까지 충북도청 일원에서 열린 '2026 콘텐츠 충북 스토리페어'에서 충북도지사상(최우수상)을 받았다고 11일 밝혔다. 이번 행사는 충북 도내 7개 대학이 참여해 지난 4월부터 진행한 '스토리크루' 활동의 성과를 공유하고, 지역 고유의 문화와 자원을 활용한 콘텐츠를 선보이기 위해 마련됐다. 변지현 학…",
-          "publishedAt": "2026-11-11T17:24:27.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.7
+          "score": 4.3
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 209,
+      "poolSize": 204,
       "items": [
         {
           "title": "관계의 본질을 묻다···신재돈 ‘뒤엉킨/약속들’ 개인전",
@@ -265,14 +265,27 @@
           "candidates": [
             "art"
           ],
-          "score": 5.9
+          "score": 5.6
         },
         {
-          "title": "울산중부경찰서, 인스타툰 작가 김퇴사와 사기 예방 웹툰 제작",
-          "link": "https://www.yna.co.kr/view/AKR20261111109700057",
-          "summary": "(울산=연합뉴스) 김근주 기자 = 울산 중부경찰서는 투자리딩방(투자추천방) 사기 예방을 위한 웹툰을 제작했다고 11일 밝혔다.",
-          "publishedAt": "2026-11-11T05:11:27.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/11/AKR20261111109700057_01_i_P2.jpg",
+          "title": "대전시, MICE 연계해 제빵·황톳길 걷기·역사관광 코스 개발",
+          "link": "https://www.yna.co.kr/view/AKR20261112070900063",
+          "summary": "(대전=연합뉴스) 박주영 기자 = 대전시는 대전컨벤션센터(DCC) 일원을 찾는 회의 참가자들을 중심으로 마이스(MICE) 산업 연계 관광 프로그...",
+          "publishedAt": "2026-11-12T01:34:47.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/12/AKR20261112070900063_02_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "서촌의 건축·예술·골목을 걷는다…박노수미술관 답사프로그램",
+          "link": "https://www.yna.co.kr/view/AKR20261112026500004",
+          "summary": "(서울=연합뉴스) 정준영 기자 = 서울 종로구(구청장 유찬종)는 오는 14일, 21일, 28일에 종로구립 박노수미술관을 중심으로 서촌의 역사와 ...",
+          "publishedAt": "2026-11-11T23:15:14.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/12/AKR20261112026500004_02_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -281,43 +294,30 @@
           "score": 4.4
         },
         {
-          "title": "제4회 문학수첩 신인 작가상에 정유나·서소현 등",
-          "link": "https://www.yna.co.kr/view/AKR20261111075200005",
-          "summary": "(서울=연합뉴스) 김기훈 기자 = 제4회 문학수첩 신인 작가상에 정유나의 중편소설 '스페이스 리프' 등이 선정됐다고 문학수첩 출판사가 11일 밝...",
-          "publishedAt": "2026-11-11T01:56:04.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/11/AKR20261111075200005_01_i_P2.jpg",
+          "title": "석 달 넘게 버틴 6ｍ 모래조각…바닷바람도 못 무너뜨린 비결은",
+          "link": "https://www.yna.co.kr/view/AKR20261111159700062",
+          "summary": "(속초=연합뉴스) 류호준 기자 = 지난여름 강원 속초 청호해수욕장에 세워진 대형 모래조각이 석 달 넘게 원형을 유지하며 이색 볼거리가 되고 있다...",
+          "publishedAt": "2026-11-11T22:00:03.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/11/AKR20261111159700062_02_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.4
         },
         {
-          "title": "동화 같은 삶은 아니었지만···‘명랑’과 ‘기세’로 살아낸 두 작가의 이야기",
-          "link": "https://www.khan.co.kr/article/202611081942001/",
-          "summary": "유인실의 첫 산문집 <나의 명랑한 생존기>(왼쪽)과 이현의 첫 산문집 <오늘의 기세>.아동청소년문학 작가로 20여 년 간 독자의 마음을 울리는 작품을 써 온 유은실과 이현이 첫 에세이를 냈다. 각각 <나의 명랑한 생존기>(비룡소)와 <오늘의 기세>(창비)다. 책 속에서 작가들은 비록 동화처럼 아름답지 않더라도 ‘명···",
-          "publishedAt": "2026-11-08T10:42:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "무주군, 올해의 책에 '너를 아끼며 살아라' 등 3권 선정",
+          "link": "https://www.yna.co.kr/view/AKR20261112066000055",
+          "summary": "(무주=연합뉴스) 최영수 기자 = 전북 무주군은 올해의 책에 나태주 작가의 '너를 아끼며 살아라' 등 3권을 선정했다고 12일 밝혔다.",
+          "publishedAt": "2026-11-12T01:22:58.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2022/11/02/PYH2022110214690052800_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
           "score": 3
-        },
-        {
-          "title": "“시집은 표지만 봐도 출판사를 안다”···시보다 먼저 눈길 끄는 시집의 비밀",
-          "link": "https://www.khan.co.kr/article/202611111558001/",
-          "summary": "문학동네 시인선 15주년 기념 ‘표지’ 전시회문지·창비·민음사 모두 고유 디자인 있어시집 디자인은 출판사 시인선의 ‘정체성’문학동네 시인선 15주년 기념 전시 ‘백시도’ 현장. 수류산방 제공문학동네 시인선 15주년을 기념하는 전시가 오는 15일까지 서울 인사동의 한 전시장에서 열린다. 인상적인 시구가 전시된 공간을 떠올린다면 기대와 다를 것이다. 11일 찾…",
-          "publishedAt": "2026-11-11T06:58:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 2.9
         }
       ]
     }
