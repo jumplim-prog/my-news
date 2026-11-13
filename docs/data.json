@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-12T10:33:23.371Z",
+  "builtAt": "2026-11-13T01:37:41.101Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 338,
+      "poolSize": 341,
       "items": [
+        {
+          "title": "환율·유가 동반 하락에 10월 수입물가 1.8%↓",
+          "link": "https://www.yna.co.kr/view/AKR20261112167900002",
+          "summary": "(서울=연합뉴스) 채새롬 기자 = 지난달 원/달러 환율과 국제유가가 함께 하락하면서 수입물가지수가 한 달 만에 하락 전환했다.",
+          "publishedAt": "2026-11-12T21:00:03.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/01/PYH2026090110410005100_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "환율, 수출업체 달러매도 등에 보름 만에 1,320원대로 하락",
           "link": "https://www.yna.co.kr/view/AKR20261112140600002",
@@ -25,23 +38,36 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
-          "title": "[외환] 원/달러 환율 2.9원 내린 1,330.7원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261112136000002",
-          "summary": "(",
-          "publishedAt": "2026-11-12T06:33:57.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/12/AKR20261112136000002_01_i_P2.jpg",
+          "title": "KB증권, 목표가↓…\"환율 변동성 따른 불확실성 반영\"",
+          "link": "https://www.yna.co.kr/view/AKR20261113029000008",
+          "summary": "(서울=연합뉴스) 고은지 기자 = KB증권은 13일 달바글로벌[483650]에 대해 \"환율 변동성에 따른 불확실성을 반영했다\"며 목표주가를 기존...",
+          "publishedAt": "2026-11-12T23:33:27.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2025/04/30/42/PCM20250430000042990_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 4.5
         },
         {
-          "title": "기아, 인도에 20억 달러 들여 공장 신설",
+          "title": "\"집값 하락기 신호…금리 오르면 더 떨어져\"",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843992",
+          "summary": "이번 주 서울 아파트 가격은 92주째 오르고 있지만, 이미 하락하고 있는 강남 3구에 더해 강동구와 성동구까지 아파트 가격이 떨어진 것으로 나타…",
+          "publishedAt": "2026-11-12T21:25:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261113/202240576_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.4
+        },
+        {
+          "title": "기아, 인도에 20억달러 들여 공장 신설",
           "link": "https://www.hankyung.com/article/2026111236861",
           "summary": "",
           "publishedAt": "2026-11-12T09:08:04.000Z",
@@ -51,33 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 4.5
-        },
-        {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12206723",
-          "summary": "",
-          "publishedAt": "2026-11-12T08:39:59.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/13/20261113_01110112000009_L00.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "'체스 천재' 경제 석학 … 스티글리츠와 설전도",
-          "link": "https://www.mk.co.kr/news/economy/12206700",
-          "summary": "세계적 석학 케네스 로고프 하버드대 교수는 통화정책과 화폐 분야 최고 권위자로 꼽힌다. 중앙은행의 독립성과 물가안정 목표를 강조해온 로고프 교수는 각국 정부가 선거를 의식해 경기를..",
-          "publishedAt": "2026-11-12T08:39:06.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/13/20261113_01160110000003_L00.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.5
+          "score": 4.2
         }
       ]
     },
@@ -95,17 +95,30 @@
       "poolSize": 205,
       "items": [
         {
-          "title": "〈백일법문〉 통해 본 성철 스님의 중도사상 조명",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506300",
-          "summary": "동아시아불교문화학회(회장 최연주)는 11월 21일 오후 1시 부산 고심정사에서 〈백일법문〉을 통해 본 성철 스님의 중도사상’을 주제로 2026년 동계학술대회를 개최한다.〈백일법문〉은 성철 스님이 1967년 해인총림 초대 방장으로 추대된 후 첫 동안거에서 100일간 대중에 강설한 법문을 엮은 책이다. 이날 학술대회에서는 성철 스님의 중도사상을 다각도로 심층…",
-          "publishedAt": "2026-11-10T09:00:48.000Z",
+          "title": "원로 학자의 ‘불교 나침반’",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506357",
+          "summary": "불교는 무엇을 가르치는 종교인가. 부처님의 가르침을 안다는 것은 무엇이며, 그 가르침은 오늘 우리의 삶을 어떻게 변화시킬 수 있는가.정병조 동국대 명예교수는 초기불교에서 대승불교로, 인도에서 중국과 한국으로 이어지는 2600년 불교의 역사와 사상을 한 권에 담아내면서 불교의 본질과 실천적 가치를 되짚는다. 책은 저자가 조계종 포교사단에서 2년 동안 진행한…",
+          "publishedAt": "2026-11-12T20:57:48.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
+          "score": 4.4
+        },
+        {
+          "title": "요구르트를 사다가도 깨달을 수 있다",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444087",
+          "summary": "남해 금산 보리암에 가니 때마침 법산스님 법문이 있네. 스님은 수행의 마음가짐에 대해서 한말씀 하시고는 세상 만물이 다 수행한다고 하셨지. 법문 끝에 시 한 수를 들려주셨는데 제목이 이야. 보리 이삭 끝에 달린 톱날 같은 가시를 수행자의 태도에 비유한 노래지, 알곡을 보호하는 가시, 타협하지 않은 까칠함이 보리를 건강하게 한다는 거야. 수행자는 마땅히 그런…",
+          "publishedAt": "2026-11-13T09:08:20.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
         },
         {
           "title": "조계사, 삼존불 개금불사 두 번째 회향…약사여래불 점안법회 봉행",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.7
+          "score": 2.4
         },
         {
           "title": "향산 스님, 한국선학회 제14대 회장 연임",
@@ -131,20 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.5
-        },
-        {
-          "title": "전북 대불련, 금산사서 수계법회…54명 오계 실천 서원",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444055",
-          "summary": "새벽예불로 하루를 연 대학생 법우들이 오후에는 금산사 대적광전에서 오계를 받았다. 진표율사의 점찰 수행을 체험하고 화엄산림 법문을 들은 법우들은 수계로 불교의 가르침을 일상에서 실천하겠다는 뜻을 세웠다.한국대학생불교연합회 전북지부(지부장 오태준)는 11월7일 오후 1시 조계종 제17교구본사 김제 금산사(주지 화평스님) 대적광전에서 수계법회를 봉행했다. 이날…",
-          "publishedAt": "2026-11-11T09:54:08.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.5
+          "score": 2.2
         }
       ]
     },
@@ -172,7 +172,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.7
+          "score": 7.4
         },
         {
           "title": "Bioethics and Moral Reasoning",
@@ -182,19 +182,6 @@
           "image": "",
           "sourceName": "Stanford Encyclopedia",
           "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 6
-        },
-        {
-          "title": "How to face the end of the world – according to Plato and the Stoics",
-          "link": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/22/ancient-philosophy-apocalypse",
-          "summary": "<p>Fearing future catastrophe is nothing new – ancient Greek and Roman philosophers all visualized the apocalypse</p><p>Do your feelings of existential dread extend beyond your own personal mortality?…",
-          "publishedAt": "2026-10-22T16:00:43.000Z",
-          "image": "https://i.guim.co.uk/img/media/cd5fb2090871d05d5eab2e9de4735f2fae4b4ca7/0_618_2744_2194/master/2744.jpg?width=140&quality=85&auto=format&fit=max&s=d87f865d852b2ef0fb88ac57ea138a93",
-          "sourceName": "The Guardian",
-          "sourceId": "guardian-philosophy",
           "candidates": [
             "philosophy"
           ],
@@ -211,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.7
+          "score": 4.4
         },
         {
           "title": "한국외대, 태국학과 창설 60주년 기념행사…6개국 200명 국제학술대회 개최",
@@ -224,7 +211,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.6
+          "score": 4.3
+        },
+        {
+          "title": "조선대, 우리철학연구센터 개소…K-철학 세계화 추진",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212398",
+          "summary": "조선대는 지난 11월 6일 교내 본관 4층에서 '우리철학연구센터' 개소식을 열었다. 조선대 인문학연구원 우리철학연구소는 2026년 한국연구재단 인문사회연구소지원사업에 선정된 것을 계기로 연구센터를 출범시켰다. 우리철학연구센터는 앞으로 6년간 '21세기형 우리철학 정립을 위한 이론적 토대 구축'을 주제로 연구를 진행할 계획이다. 이날 행사에는 강희숙 조선대…",
+          "publishedAt": "2026-11-12T15:43:34.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 3.8
         }
       ]
     },
@@ -239,8 +239,47 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 201,
+      "poolSize": 208,
       "items": [
+        {
+          "title": "국립현대미술관 신임 관장 기혜경…\"잘 작동하는 미술관 만들것\"(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20261113053051005",
+          "summary": "(서울=연합뉴스) 임순현 박의래 기자 = 최휘영 문화체육관광부 장관은 13일 국립현대미술관 신임 관장에 기혜경(62) 홍익대 미술대학원 교수를 ...",
+          "publishedAt": "2026-11-13T01:02:53.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2023/10/16/PYH2023101621960001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "국립현대미술관 신임 관장에 기혜경 홍익대 교수",
+          "link": "https://www.yna.co.kr/view/AKR20261113053000005",
+          "summary": "(서울=연합뉴스) 임순현 기자 = 최휘영 문화체육관광부 장관은 13일 국립현대미술관 신임 관장에 기혜경(62) 홍익대 미술대학원 교수를 임명했다...",
+          "publishedAt": "2026-11-13T00:52:37.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2023/10/16/PYH2023101621960001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "나라 요시토모 그림·김창열 물방울 등 경매에",
+          "link": "https://www.yna.co.kr/view/AKR20261109125500005",
+          "summary": "(서울=연합뉴스) 박의래 기자 = 일본 현대미술을 대표하는 작가 나라 요시토모와 물방울 작가 김창열의 작품 등이 경매에 나온다.",
+          "publishedAt": "2026-11-13T00:09:04.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/09/AKR20261109125500005_06_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 6
+        },
         {
           "title": "30만명이 찾은 ‘행복한 화가’…이대원전, 덕수궁관 최다 관람객",
           "link": "https://www.khan.co.kr/article/202611121802001/",
@@ -252,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6
+          "score": 5.7
         },
         {
           "title": "'D-3' 광주비엔날레 누적 관람객 41만명",
@@ -265,46 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6
-        },
-        {
-          "title": "관계의 본질을 묻다···신재돈 ‘뒤엉킨/약속들’ 개인전",
-          "link": "https://www.khan.co.kr/article/202611111610001/",
-          "summary": "신재돈 작 ‘PA26-002M_뒤엉킨/약속들’ 스페이스결 제공.강렬한 색채와 단순화한 형태로 인간의 관계와 본질을 탐구해 온 신재돈 작가의 개인전 ‘뒤엉킨/약속들’(Intertwined/Promises)이 서울 종로구 팔판동 스페이스결에서 10일부터 개막해 관람객들을 맞이하고 있다.이번 전시에서 작가는 서로 맞닿고 뒤엉킨 인간들의 모습을 다채로운 회화 연작…",
-          "publishedAt": "2026-11-11T07:10:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 5.4
-        },
-        {
-          "title": "춘천미래동행재단, 조윤정 작가 초청 시민특강 개최",
-          "link": "https://www.yna.co.kr/view/AKR20261112150400062",
-          "summary": "(춘천=연합뉴스) 이상학 기자 = 춘천미래동행재단은 12일 춘천시립도서관에서 조윤정 작가를 초청해 시민특강을 열었다.",
-          "publishedAt": "2026-11-12T07:35:00.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/12/AKR20261112150400062_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
-        },
-        {
-          "title": "해남군, 14일 '한국문학 탄생, 100년 작가 심포지엄' 개최",
-          "link": "https://www.yna.co.kr/view/AKR20261112127200054",
-          "summary": "(해남=연합뉴스) 조근영 기자 = 전남광주통합특별시 해남군이 오는 14일 송지초등학교에서 한국 근대문학을 대표하는 문인들의 업적과 역사적 명작들...",
-          "publishedAt": "2026-11-12T06:03:03.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/12/AKR20261112127200054_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
+          "score": 5.6
         }
       ]
     }
