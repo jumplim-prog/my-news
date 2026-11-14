@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-14T01:11:04.467Z",
+  "builtAt": "2026-11-14T09:44:05.958Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 333,
+      "poolSize": 336,
       "items": [
         {
           "title": "환율, 달러 강세에 닷새 만에 반등…6.0원 오른 1,336.7원",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.9
         },
         {
           "title": "미일 금리격차 전망에 다시 출렁이는 엔화…달러당 160엔선 위협",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7
+          "score": 6.9
         },
         {
           "title": "환율·유가 하락에 10월 수입물가 내림세 전환",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.6
+          "score": 5.5
         },
         {
           "title": "[표] 외국환율고시표",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 4.2
+          "score": 4
         }
       ]
     },
@@ -105,7 +105,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 7.2
+          "score": 7
+        },
+        {
+          "title": "국토진흥원, 해상 부유식 인프라 기술로 우수구조물상 수상",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4118552",
+          "summary": "국토교통과학기술진흥원(국토진흥원)이 해상 부유식 인프라 건설기술의 우수성을 인정받아 2026년 우수구조물상 창의 부문 특별상을 수상했습니다.국토진흥원은 13일 한국교량및구조공학회가 주관한 공모전에서 '다목적 해상 부유식 인프라 건설기술 테스트베드 구조물'로 수상했다고 밝혔습니다.케이블브릿지와 서울대 부유식인프라연구단과 공동으로 수상했습니다.이 기술은 국토교…",
+          "publishedAt": "2026-11-14T11:12:35.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
         },
         {
           "title": "[법인 스님의 문자 반야] 64. 향엄격죽(香嚴擊竹)",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
           "title": "원로 학자의 ‘불교 나침반’",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.9
+          "score": 3.7
         },
         {
           "title": "[길을 묻는 이에게] 업의 소굴 속에서 나의 청정한 마음은 훌쩍 벗어나야 됩니다",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.7
-        },
-        {
-          "title": "관점의 전환, 괴로움 실체 꿰뚫어 보는 지혜",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338972",
-          "summary": "“색즉시공 공즉시색(色卽是空 空卽是色).” 불자라면 누구나 익숙한 ‘반야심경’의 구절이다. 사찰의 각종 의식에서 빠지지 않고 독송되는 경전이지만 그 의미를 온전히 이해하기는 쉽지 않다. 불교학자 자현 스님이 펴낸 ‘마음이 흔들릴 때 반야심경 공부’는 익숙한 경문에 담긴 깊은 지혜를 역사와 철학, 문화적 맥락에서 새롭게 조명한 책이다.‘반야심경’은 600권에…",
-          "publishedAt": "2026-11-13T10:52:11.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.7
+          "score": 2.5
         }
       ]
     },
@@ -185,20 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.3
-        },
-        {
-          "title": "철학과 현실 (계간): 가을호(2026)",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212419",
-          "summary": "이번 호는 ‘K-사상'을 정면으로 묻는다. 한류가 세계의 대중문화를 흔드는 지금, 그 밑바닥에 사상이라 부를 만한 것이 있는가. 특별좌담 「’K-사상'을 찾아서」에서는 프랑스철학회 회장을 지낸 김상환 서울대 명예교수, 철학문화연구소 소장인 김원명 한국외대 교수, 한국헤겔학회 회장인 나종석 연세대 교수, 기후인문학연구소 소장인 조성환 원광대 교수가 이 물음을…",
-          "publishedAt": "2026-11-12T18:40:33.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 6.9
+          "score": 7.1
         },
         {
           "title": "Bioethics and Moral Reasoning",
@@ -214,6 +201,32 @@
           "score": 6
         },
         {
+          "title": "제20회 유영번역상에 ‘궤도’ 옮긴 송예슬 씨...우주정거장의 고요를 한국어로",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212492",
+          "summary": "올해로 20회를 맞은 유영번역상이 영국 소설가 서맨사 하비의 『궤도』(서해문집, 2025)를 옮긴 송예슬 번역가에게 돌아갔다. 유영학술재단(이사장 유혁수)은 지난 13일 이같이 밝혔다. 『궤도』는 2024년 부커상과 호손덴상을 받았고, 버락 오바마 전 미국 대통령이 ‘2024년 가장 좋았던 책’으로 꼽은 작품이다.소설의 무대는 지구 궤도를 도는 우주정거장이…",
+          "publishedAt": "2026-11-14T13:57:03.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.6
+        },
+        {
+          "title": "원칙의 문제",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212491",
+          "summary": "[신간_『원칙의 문제: 법과 도덕, 정의에 관한 철학적 탐구』",
+          "publishedAt": "2026-11-14T13:44:51.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.6
+        },
+        {
           "title": "Open Plato Project Releases First Dialogue",
           "link": "https://dailynous.com/2026/11/13/open-plato-project-releases-first-dialogue/",
           "summary": "A new, open access, annotated edition of Plato’s Alcibiades is now available online. The dialogue is the first release from the Open Plato Project, whose […] The post Open Plato Project Releases First…",
@@ -224,20 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.3
-        },
-        {
-          "title": "세계 철학의 날 맞아 2026 한국철학주간 개최",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212452",
-          "summary": "유네스코는 2002년부터 매년 11월 셋째주 목요일을 세계 철학의 날로 지정해 각국의 철학적 유산을 공유하고 인류의 문제를 함께 성찰하고 토론하도록 독려하고 있다.한국철학회 철학대중화위원회(위원장 박정하)는 올해 철학의 날인 11월 19일을 맞아 철학에 대한 관심을 전국적으로 환기하기 위해서 오는 14일(토)부터 28일(토)까지를 2026 한국철학주간으로…",
-          "publishedAt": "2026-11-13T15:45:14.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.3
+          "score": 4.1
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 207,
+      "poolSize": 203,
       "items": [
         {
           "title": "기혜경 홍익대 교수, 신임 국립현대미술관 관장에 임명",
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7
+          "score": 6.8
         },
         {
           "title": "국립현대미술관 신임 관장 기혜경…\"잘 작동하는 미술관 만들것\"(종합)",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7
+          "score": 6.8
         },
         {
           "title": "30만명이 찾은 ‘행복한 화가’…이대원전, 덕수궁관 최다 관람객",
@@ -291,20 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.2
-        },
-        {
-          "title": "관계의 본질을 묻다···신재돈 ‘뒤엉킨/약속들’ 개인전",
-          "link": "https://www.khan.co.kr/article/202611111610001/",
-          "summary": "신재돈 작 ‘PA26-002M_뒤엉킨/약속들’ 스페이스결 제공.강렬한 색채와 단순화한 형태로 인간의 관계와 본질을 탐구해 온 신재돈 작가의 개인전 ‘뒤엉킨/약속들’(Intertwined/Promises)이 서울 종로구 팔판동 스페이스결에서 10일부터 개막해 관람객들을 맞이하고 있다.이번 전시에서 작가는 서로 맞닿고 뒤엉킨 인간들의 모습을 다채로운 회화 연작…",
-          "publishedAt": "2026-11-11T07:10:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.6
+          "score": 5
         },
         {
           "title": "공공디자인위원회 위원 11명 위촉…종합계획·진흥책 심의",
@@ -317,7 +304,20 @@
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 4
+        },
+        {
+          "title": "제16회 윤석중문학상에 이경순 작가",
+          "link": "https://www.yna.co.kr/view/AKR20261113120300005",
+          "summary": "(서울=연합뉴스) 김기훈 기자 = 제16회 윤석중문학상에 이경순 작가가 선정됐다고 사단법인 새싹회가 13일 밝혔다.",
+          "publishedAt": "2026-11-13T06:09:17.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113120300005_02_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 3.9
         }
       ]
     }
