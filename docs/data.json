@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-13T10:26:30.238Z",
+  "builtAt": "2026-11-14T01:11:04.467Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 302,
+      "poolSize": 333,
       "items": [
         {
           "title": "환율, 달러 강세에 닷새 만에 반등…6.0원 오른 1,336.7원",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "미일 금리격차 전망에 다시 출렁이는 엔화…달러당 160엔선 위협",
@@ -38,7 +38,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7
+        },
+        {
+          "title": "환율·유가 하락에 10월 수입물가 내림세 전환",
+          "link": "https://www.hani.co.kr/arti/economy/economy_general/1287146.html",
+          "summary": "",
+          "publishedAt": null,
+          "image": "",
+          "sourceName": "한겨레",
+          "sourceId": "hani-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6.5
         },
         {
           "title": "국고채 금리 상승…10년물, 열흘만에 다시 4%대로(종합)",
@@ -51,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.9
+          "score": 5.6
         },
         {
           "title": "[표] 외국환율고시표",
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 4.5
-        },
-        {
-          "title": "'복합 악재'에 비트코인 6만8천달러대로 급락…2조원 청산",
-          "link": "https://www.yna.co.kr/view/AKR20261113113100002",
-          "summary": "(서울=연합뉴스) 박수현 기자 = 비트코인이 복합적인 악재의 영향으로 7% 가까이 급락해 6만8천달러대로 떨어졌다.",
-          "publishedAt": "2026-11-13T05:51:22.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/08/21/PYH2026082104880001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.4
+          "score": 4.2
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 203,
+      "poolSize": 201,
       "items": [
         {
           "title": "신순숙(우빽카·72) 사마타·위빠사나 수행 - 상",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 7.5
+          "score": 7.2
         },
         {
           "title": "[법인 스님의 문자 반야] 64. 향엄격죽(香嚴擊竹)",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "원로 학자의 ‘불교 나침반’",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 3.9
         },
         {
           "title": "[길을 묻는 이에게] 업의 소굴 속에서 나의 청정한 마음은 훌쩍 벗어나야 됩니다",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.7
         },
         {
           "title": "관점의 전환, 괴로움 실체 꿰뚫어 보는 지혜",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.7
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 146,
+      "poolSize": 145,
       "items": [
         {
           "title": "식탁 위의 인문학",
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.6
+          "score": 7.3
         },
         {
           "title": "철학과 현실 (계간): 가을호(2026)",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.2
+          "score": 6.9
         },
         {
           "title": "Bioethics and Moral Reasoning",
@@ -214,6 +214,19 @@
           "score": 6
         },
         {
+          "title": "Open Plato Project Releases First Dialogue",
+          "link": "https://dailynous.com/2026/11/13/open-plato-project-releases-first-dialogue/",
+          "summary": "A new, open access, annotated edition of Plato’s Alcibiades is now available online. The dialogue is the first release from the Open Plato Project, whose […] The post Open Plato Project Releases First…",
+          "publishedAt": "2026-11-13T16:07:13.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/11/Francois-Andre-Vincent-Alcibades-being-taught-by-Socrates-1024x777.jpg",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.3
+        },
+        {
           "title": "세계 철학의 날 맞아 2026 한국철학주간 개최",
           "link": "https://www.kyosu.net/news/articleView.html?idxno=212452",
           "summary": "유네스코는 2002년부터 매년 11월 셋째주 목요일을 세계 철학의 날로 지정해 각국의 철학적 유산을 공유하고 인류의 문제를 함께 성찰하고 토론하도록 독려하고 있다.한국철학회 철학대중화위원회(위원장 박정하)는 올해 철학의 날인 11월 19일을 맞아 철학에 대한 관심을 전국적으로 환기하기 위해서 오는 14일(토)부터 28일(토)까지를 2026 한국철학주간으로…",
@@ -224,20 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.6
-        },
-        {
-          "title": "인도-한국 포럼, 국제학술대회 2026 성료",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212450",
-          "summary": "인도-한국 포럼(IKF)은 지난 10월 23일부터 25일까지 온라인으로 인도–한국 국제학술대회 2026(IKIC 2026)을 개최했다. 이번 학술대회에는 12개 국가·지역의 학자, 연구자, 학생, 전문가들이 참여했으며, 24개 주제별 세션에서 150편 이상의 학술발표가 진행됐다.대회는 \"신흥기술, 새로운 지정학과 사회적 전환: 미래지향적 인도–한국 파트너십…",
-          "publishedAt": "2026-11-13T15:43:40.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.6
+          "score": 4.3
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 210,
+      "poolSize": 207,
       "items": [
         {
           "title": "기혜경 홍익대 교수, 신임 국립현대미술관 관장에 임명",
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
+          "score": 7
         },
         {
           "title": "국립현대미술관 신임 관장 기혜경…\"잘 작동하는 미술관 만들것\"(종합)",
@@ -278,20 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
-        },
-        {
-          "title": "나라 요시토모 그림·김창열 물방울 등 경매에",
-          "link": "https://www.yna.co.kr/view/AKR20261109125500005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 일본 현대미술을 대표하는 작가 나라 요시토모와 물방울 작가 김창열의 작품 등이 경매에 나온다.",
-          "publishedAt": "2026-11-13T00:09:04.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/09/AKR20261109125500005_06_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 5.8
+          "score": 7
         },
         {
           "title": "30만명이 찾은 ‘행복한 화가’…이대원전, 덕수궁관 최다 관람객",
@@ -304,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.5
+          "score": 5.2
         },
         {
           "title": "관계의 본질을 묻다···신재돈 ‘뒤엉킨/약속들’ 개인전",
@@ -317,7 +304,20 @@
           "candidates": [
             "art"
           ],
-          "score": 4.9
+          "score": 4.6
+        },
+        {
+          "title": "공공디자인위원회 위원 11명 위촉…종합계획·진흥책 심의",
+          "link": "https://www.yna.co.kr/view/AKR20261113135400005",
+          "summary": "(서울=연합뉴스) 임순현 기자 = 최휘영 문화체육관광부 장관은 13일 오후 서울 종로구 국립현대미술관 서울관에서 '제3기 공공디자인위원회' 위원...",
+          "publishedAt": "2026-11-13T08:00:02.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2020/12/23/63/PCM20201223000063990_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.1
         }
       ]
     }
