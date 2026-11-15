@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-15T00:37:35.683Z",
+  "builtAt": "2026-11-15T10:17:02.628Z",
   "cards": [
     {
       "id": "econ",
@@ -12,33 +12,33 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 337,
+      "poolSize": 332,
       "items": [
         {
-          "title": "환율, 달러 강세에 닷새 만에 반등…6.0원 오른 1,336.7원",
-          "link": "https://www.yna.co.kr/view/AKR20261113137600002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 13일 원/달러 환율이 5거래일 만에 상승했다.",
-          "publishedAt": "2026-11-13T07:18:31.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/13/PYH2026111312310001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "전월세 4년 만에 최대 상승인데 고금리까지···주거비 부담에 가계 허리 휜다",
+          "link": "https://www.khan.co.kr/article/202611151548001/",
+          "summary": "10월 서울 종로구 한 부동산 중개업소에 붙은 매물표 모습. 연합뉴스지난달 전월세 가격이 약 4년 만에 가장 큰 폭으로 오른 것으로 나타났다. 전월세 가격 상승에 고금리도 겹치면서 대출을 통해 보증금을 마련하는 전월세 가구 대다수의 주거비 부담은 커졌을 것으로 분석된다.15일 국가통계포털(KOSIS) 통계를 보면, 지난달 전월세 소비자물가지수는 1년 전보다…",
+          "publishedAt": "2026-11-15T06:48:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6.6
+          "score": 5.9
         },
         {
-          "title": "환율·유가 하락에 10월 수입물가 내림세 전환",
-          "link": "https://www.hani.co.kr/arti/economy/economy_general/1287146.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레",
-          "sourceId": "hani-economy",
+          "title": "지난달 전월세 물가 1.4%↑…3년 10개월 만에 최대폭",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846429",
+          "summary": "▲ 서울의 한 부동산지난달 전월세가 약 4년 만에 가장 큰 폭으로 상승한 것으로 나타났습니다.금리가 오르는데 전월세 상승까지 맞물리면…",
+          "publishedAt": "2026-11-15T01:58:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261016/202231869_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6.5
+          "score": 5.8
         },
         {
           "title": "국고채 금리 상승…10년물, 열흘만에 다시 4%대로(종합)",
@@ -51,33 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.2
+          "score": 5
         },
         {
-          "title": "“신용대출, 빨리 철회해도 연 12% 금리”…시중은행, 이자로 18억 벌었다",
-          "link": "https://www.mk.co.kr/news/economy/12209081",
-          "summary": "신용대출을 받았다가 빠른 시일 안에 철회해도 많게는 연 12% 금리가 부과되는 것으로 나타났다. 주요 시중은행이 청약 철회된 대출을 통해 벌어들인 이자는 최근 5년간 약 18억원에..",
-          "publishedAt": "2026-11-15T00:14:04.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/15/news-p.v1.20261113.39efd140fa7b42518c3baa2d830a4677_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "title": "이형일 부총리, 경제현안간담회서 물가 관리 방안 논의",
+          "link": "https://www.yna.co.kr/view/AKR20261115046600002",
+          "summary": "(세종=연합뉴스) 이대희 기자 = 이형일 부총리 겸 재정경제부 장관은 15일 경제현안간담회를 개최하고 물가 관리 방안을 논의했다고 재경부가 밝혔...",
+          "publishedAt": "2026-11-15T09:58:23.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/11/PYH2026111114830001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
           "score": 4.5
         },
         {
-          "title": "물가 잡으려 묶어둔 석유·전기·가스요금…커지는 청구서",
-          "link": "https://www.yna.co.kr/view/AKR20261113178000003",
-          "summary": "(서울=연합뉴스) 신창용 기자 = 정부가 물가 안정을 위해 시행한 석유 최고가격제와 전기·가스요금 동결 조치가 막대한 청구서로 돌아오고 있다.",
-          "publishedAt": "2026-11-14T21:17:00.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/13/PYH2026111307740001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "이번주 '수출 1조달러' 넘는다",
+          "link": "https://www.hankyung.com/article/2026111575421",
+          "summary": "",
+          "publishedAt": "2026-11-15T08:49:09.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.4
+          "score": 4.5
         }
       ]
     },
@@ -105,20 +105,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 6.7
+          "score": 6.5
         },
         {
-          "title": "국토진흥원, 해상 부유식 인프라 기술로 우수구조물상 수상",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4118552",
-          "summary": "국토교통과학기술진흥원(국토진흥원)이 해상 부유식 인프라 건설기술의 우수성을 인정받아 2026년 우수구조물상 창의 부문 특별상을 수상했습니다.국토진흥원은 13일 한국교량및구조공학회가 주관한 공모전에서 '다목적 해상 부유식 인프라 건설기술 테스트베드 구조물'로 수상했다고 밝혔습니다.케이블브릿지와 서울대 부유식인프라연구단과 공동으로 수상했습니다.이 기술은 국토교…",
-          "publishedAt": "2026-11-14T11:12:35.000Z",
+          "title": "서울시, 동파 취약시설 집중관리...수도계량기 '동파' 절반은 복도식 아파트",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4118650",
+          "summary": "서울시가 겨울철 한파에 대비해 동파 취약시설에 대해 계량기를 교체하는 등 집중 관리에 나섭니다.서울시는 복도식 아파트 등 동파 취약시설 30만 세대를 대상으로 디지털 계량기 교체와 맞춤형 보온조치를 강화할 방침이라고 오늘 밝혔습니다.시는 올해 10월까지 11만1천192세대의 계량기를 교체한데 이어 내년까지 복도식 아파트 총 27만4천407세대의 계량기를 순…",
+          "publishedAt": "2026-11-15T14:20:35.000Z",
           "image": "",
           "sourceName": "BBS 불교방송",
           "sourceId": "bbs-news",
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4.6
         },
         {
           "title": "[법인 스님의 문자 반야] 64. 향엄격죽(香嚴擊竹)",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.5
         },
         {
           "title": "원로 학자의 ‘불교 나침반’",
@@ -144,20 +144,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.4
+          "score": 3.2
         },
         {
-          "title": "내가 만난 백팔선지식 <22> 동산스님, 효봉스님",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444191",
-          "summary": "청소를 하면 황금이 나오고문을 열면웃음 복 들어온다# 동산스님동산혜일(東山慧日, 1890~1965)스님은 퇴락한 조선불교의 정체성을 회복하고 교단을 다시 일으켜 세우는데 누구보다 앞장서신 분입니다.절에서 대중생활을 하다보면 공양과 예불과 울력의 하루일과 만큼 소중한 수행이 없음을 몸으로 느끼게 됩니다. 승려에게 공양과 예불과 울력은 정진의 척도이기도 합니다…",
-          "publishedAt": "2026-11-15T09:31:02.000Z",
+          "title": "제21교구본사 송광사, 국사 승탑 국가유산 지정 위한 학술대회 개최",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444189",
+          "summary": "승보종찰 송광사가 16국사의 수행정신과 한국 선불교의 역사를 간직한 국사 승탑의 국가유산 지정을 위한 본격적인 학술적 논의에 나섰다.조계총림 송광사(주지 무자스님)는 11월14일 경내 선호당에서 ‘송광사 국사 승탑의 국가유산 지정을 위한 학술대회’를 개최했다.이번 학술대회는 송광사에 현존하는 국사 승탑의 역사적·학술적·예술적 가치를 종합적으로 규명하고, 국…",
+          "publishedAt": "2026-11-15T14:37:48.000Z",
           "image": "",
           "sourceName": "불교신문",
           "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3.1
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "식탁 위의 인문학",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.8
+          "score": 6.6
         },
         {
           "title": "Bioethics and Moral Reasoning",
@@ -224,7 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "원칙의 문제",
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.3
+          "score": 4.1
         }
       ]
     },
@@ -265,20 +265,20 @@
           "candidates": [
             "art"
           ],
-          "score": 6.5
+          "score": 6.3
         },
         {
-          "title": "30만명이 찾은 ‘행복한 화가’…이대원전, 덕수궁관 최다 관람객",
-          "link": "https://www.khan.co.kr/article/202611121802001/",
-          "summary": "국립현대미술관 덕수궁에서 열린 ‘이대원: 당신을 슬프게 하는 것은 하나도 없다’ 전시 관람 모습. 국립현대미술관 제공국립현대미술관 덕수궁에서 최근 막을 내린 ‘이대원: 당신을 슬프게 하는 것은 하나도 없다’가 덕수궁관 역대 최다 관람객을 기록했다.국립현대미술관은 지난 8월6일부터 11월8일까지 열린 이대원 전시의 누적 관람객이 30만572명을 기록해 ···",
-          "publishedAt": "2026-11-12T09:02:00.000Z",
+          "title": "나라 요시토모 ‘칼든 아이’ 17억원부터···김창열·김환기 작품도 경매 출품",
+          "link": "https://www.khan.co.kr/article/202611151047001/",
+          "summary": "나라 요시토모 ‘Slash with a Knife’(1998) 케이옥션 제공케이옥션 11월 경매일본 현대미술 작가 나라 요시토모의 작품과 김창열·김환기 등 한국 주요 작가들의 작품이 케이옥션 11월 경매에 나온다.케이옥션은 오는 25일 서울 강남구 신사동 본사에서 추정가 총 126억원 상당의 미술품 118점을 경매한다고 13일 밝혔다.이번 경매 대표작인··…",
+          "publishedAt": "2026-11-15T01:47:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.7
+          "score": 5.8
         },
         {
           "title": "공공디자인위원회 위원 11명 위촉…종합계획·진흥책 심의",
@@ -291,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 3.7
+          "score": 3.5
         },
         {
           "title": "제16회 윤석중문학상에 이경순 작가",
@@ -304,20 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 3.6
-        },
-        {
-          "title": "겨울에도 꽃 피는 온실정원 보러오세요…서울식물원 겨울 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261113034700004",
-          "summary": "(서울=연합뉴스) 김준태 기자 = 서울식물원은 겨울을 맞아 전시온실과 씨앗도서관, 정원지원실에서 다양한 전시를 선보인다고 13일 밝혔다.",
-          "publishedAt": "2026-11-13T02:15:02.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113034700004_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.5
+          "score": 3.4
         }
       ]
     }
