@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-14T09:44:05.958Z",
+  "builtAt": "2026-11-15T00:37:35.683Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 336,
+      "poolSize": 337,
       "items": [
         {
           "title": "환율, 달러 강세에 닷새 만에 반등…6.0원 오른 1,336.7원",
@@ -25,20 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.9
-        },
-        {
-          "title": "미일 금리격차 전망에 다시 출렁이는 엔화…달러당 160엔선 위협",
-          "link": "https://www.yna.co.kr/view/AKR20261113089700073",
-          "summary": "(도쿄=연합뉴스) 조성미 특파원 = 미국의 금리 인상 가속화 전망에 일본과 금리 차가 벌어질 것이라는 예상이 나오면서 엔화 가치가 약 2개월 만...",
-          "publishedAt": "2026-11-13T03:26:05.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2020/06/10/28/PCM20200610000028073_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.9
+          "score": 6.6
         },
         {
           "title": "환율·유가 하락에 10월 수입물가 내림세 전환",
@@ -64,20 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.5
+          "score": 5.2
         },
         {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12208288",
-          "summary": "",
-          "publishedAt": "2026-11-13T08:46:47.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/14/20261114_01110108000001_L00.jpg",
+          "title": "“신용대출, 빨리 철회해도 연 12% 금리”…시중은행, 이자로 18억 벌었다",
+          "link": "https://www.mk.co.kr/news/economy/12209081",
+          "summary": "신용대출을 받았다가 빠른 시일 안에 철회해도 많게는 연 12% 금리가 부과되는 것으로 나타났다. 주요 시중은행이 청약 철회된 대출을 통해 벌어들인 이자는 최근 5년간 약 18억원에..",
+          "publishedAt": "2026-11-15T00:14:04.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/15/news-p.v1.20261113.39efd140fa7b42518c3baa2d830a4677_R.jpg",
           "sourceName": "매일경제",
           "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4
+          "score": 4.5
+        },
+        {
+          "title": "물가 잡으려 묶어둔 석유·전기·가스요금…커지는 청구서",
+          "link": "https://www.yna.co.kr/view/AKR20261113178000003",
+          "summary": "(서울=연합뉴스) 신창용 기자 = 정부가 물가 안정을 위해 시행한 석유 최고가격제와 전기·가스요금 동결 조치가 막대한 청구서로 돌아오고 있다.",
+          "publishedAt": "2026-11-14T21:17:00.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/13/PYH2026111307740001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.4
         }
       ]
     },
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 7
+          "score": 6.7
         },
         {
           "title": "국토진흥원, 해상 부유식 인프라 기술로 우수구조물상 수상",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "[법인 스님의 문자 반야] 64. 향엄격죽(香嚴擊竹)",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.7
         },
         {
           "title": "원로 학자의 ‘불교 나침반’",
@@ -144,20 +144,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.4
         },
         {
-          "title": "[길을 묻는 이에게] 업의 소굴 속에서 나의 청정한 마음은 훌쩍 벗어나야 됩니다",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506377",
-          "summary": "절에 갈 시간이 없어서질문 마음공부를 하고 싶은데 먹고살기에 바빠서 절에 갈 시간이 없습니다. 나름 유튜브 법문은 듣고 있는데 그래도 절 도량을 자주 밟지 못하는 게 아쉽습니다.답변 이 지구가 말입니다, 일 분 일 초에 지구가 7바퀴 반씩 돌아가요. 어때요? 내가 조금 보탰나요? 보태기도 했을는지 모르죠. 그러니 지금 사람 한 생각이 변동이 얼마나 많은지,…",
-          "publishedAt": "2026-11-13T11:09:27.000Z",
+          "title": "내가 만난 백팔선지식 <22> 동산스님, 효봉스님",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444191",
+          "summary": "청소를 하면 황금이 나오고문을 열면웃음 복 들어온다# 동산스님동산혜일(東山慧日, 1890~1965)스님은 퇴락한 조선불교의 정체성을 회복하고 교단을 다시 일으켜 세우는데 누구보다 앞장서신 분입니다.절에서 대중생활을 하다보면 공양과 예불과 울력의 하루일과 만큼 소중한 수행이 없음을 몸으로 느끼게 됩니다. 승려에게 공양과 예불과 울력은 정진의 척도이기도 합니다…",
+          "publishedAt": "2026-11-15T09:31:02.000Z",
           "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.5
+          "score": 3.2
         }
       ]
     },
@@ -175,6 +175,19 @@
       "poolSize": 145,
       "items": [
         {
+          "title": "Leibniz’s Influence on Kant",
+          "link": "https://plato.stanford.edu/entries/kant-leibniz/",
+          "summary": "[Revised entry by Catherine Wilson on November 14, 2026. Changes to: Main text, Bibliography] Kant's interest in the physics, metaphysics, epistemology, and theology of his predecessor G.W. Leibniz is…",
+          "publishedAt": "2026-11-15T00:31:54.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 7.5
+        },
+        {
           "title": "식탁 위의 인문학",
           "link": "https://www.kyosu.net/news/articleView.html?idxno=212448",
           "summary": "먹거리가 인류 진화와 문명 형성을 이끈 기폭제였다는 '유식론(唯食論)'으로 역사의 이면을 풀어낸 인문 교양서다. 소금, 쌀, 밀, 옥수수, 돼지, 소, 닭 등 7가지 식재료를 따라 철학·역사·과학·문학·예술을 넘나든다. 프랑스 대혁명과 러시아 혁명, 임오군란의 이면에 놓인 먹거리 문제를 짚고, 공자의 정치론과 사마천의 역사관에서 통치와 민심의 근간을 읽는다…",
@@ -185,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.1
+          "score": 6.8
         },
         {
           "title": "Bioethics and Moral Reasoning",
@@ -211,7 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.6
+          "score": 4.3
         },
         {
           "title": "원칙의 문제",
@@ -224,20 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.6
-        },
-        {
-          "title": "Open Plato Project Releases First Dialogue",
-          "link": "https://dailynous.com/2026/11/13/open-plato-project-releases-first-dialogue/",
-          "summary": "A new, open access, annotated edition of Plato’s Alcibiades is now available online. The dialogue is the first release from the Open Plato Project, whose […] The post Open Plato Project Releases First…",
-          "publishedAt": "2026-11-13T16:07:13.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/11/Francois-Andre-Vincent-Alcibades-being-taught-by-Socrates-1024x777.jpg",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.1
+          "score": 4.3
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 203,
+      "poolSize": 199,
       "items": [
         {
           "title": "기혜경 홍익대 교수, 신임 국립현대미술관 관장에 임명",
@@ -265,20 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.8
-        },
-        {
-          "title": "국립현대미술관 신임 관장 기혜경…\"잘 작동하는 미술관 만들것\"(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20261113053051005",
-          "summary": "(서울=연합뉴스) 임순현 박의래 기자 = 최휘영 문화체육관광부 장관은 13일 국립현대미술관 신임 관장에 기혜경(62) 홍익대 미술대학원 교수를 ...",
-          "publishedAt": "2026-11-13T01:02:53.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/13/PYH2026111306880001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 6.8
+          "score": 6.5
         },
         {
           "title": "30만명이 찾은 ‘행복한 화가’…이대원전, 덕수궁관 최다 관람객",
@@ -291,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5
+          "score": 4.7
         },
         {
           "title": "공공디자인위원회 위원 11명 위촉…종합계획·진흥책 심의",
@@ -304,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 3.7
         },
         {
           "title": "제16회 윤석중문학상에 이경순 작가",
@@ -317,7 +304,20 @@
           "candidates": [
             "art"
           ],
-          "score": 3.9
+          "score": 3.6
+        },
+        {
+          "title": "겨울에도 꽃 피는 온실정원 보러오세요…서울식물원 겨울 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261113034700004",
+          "summary": "(서울=연합뉴스) 김준태 기자 = 서울식물원은 겨울을 맞아 전시온실과 씨앗도서관, 정원지원실에서 다양한 전시를 선보인다고 13일 밝혔다.",
+          "publishedAt": "2026-11-13T02:15:02.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113034700004_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 3.5
         }
       ]
     }
