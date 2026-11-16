@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-16T00:37:59.820Z",
+  "builtAt": "2026-11-16T10:31:07.813Z",
   "cards": [
     {
       "id": "econ",
@@ -12,72 +12,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 333,
+      "poolSize": 339,
       "items": [
         {
-          "title": "전월세 4년 만에 최대 상승인데 고금리까지···주거비 부담에 가계 허리 휜다",
-          "link": "https://www.khan.co.kr/article/202611151548001/",
-          "summary": "10월 서울 종로구 한 부동산 중개업소에 붙은 매물표 모습. 연합뉴스지난달 전월세 가격이 약 4년 만에 가장 큰 폭으로 오른 것으로 나타났다. 전월세 가격 상승에 고금리도 겹치면서 대출을 통해 보증금을 마련하는 전월세 가구 대다수의 주거비 부담은 커졌을 것으로 분석된다.15일 국가통계포털(KOSIS) 통계를 보면, 지난달 전월세 소비자물가지수는 1년 전보다…",
-          "publishedAt": "2026-11-15T06:48:00.000Z",
+          "title": "롯데손보, 3분기 순손실 937억원…금리·환율변동에 투자손실",
+          "link": "https://www.yna.co.kr/view/AKR20261116161400002",
+          "summary": "(서울=연합뉴스) 강수련 기자 = 롯데손해보험[000400]은 투자영업이 적자로 전환하며 올해 3분기 당기순손실 937억원을 기록했다고 16일 ...",
+          "publishedAt": "2026-11-16T08:41:15.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2023/11/23/41/PCM20231123000141002_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "‘블루쓰나미’ 후 급락한 미 국채 금리와 유가, 다시 슬금슬금 오른다",
+          "link": "https://www.khan.co.kr/article/202611161734001/",
+          "summary": "지난 5일 서울 중구 하나은행 딜링룸에 서부텍사스산 원유(WTI) 선물 가격이 표시돼 있다. 연합뉴스미국 중간선거 후 하락했던 미국 국채금리와 국제유가가 다시 오르고 있다. ‘블루 쓰나미’(민주당 완승)의 금리·유가 인하 효과가 찰나에 그치고 ‘되돌림’ 현상이 나타나면서 금융시장에 불확실성이 더 커진 형국이다. 시장에서는 한국은행이 11월 기준금리를 인상할…",
+          "publishedAt": "2026-11-16T08:34:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5.6
+          "score": 7.5
         },
         {
-          "title": "테슬라는 왜 ‘3만달러 사이버캡’ 판다고 나섰나…답은 ‘구독’ 때문?",
-          "link": "https://www.khan.co.kr/article/202611160600081/",
-          "summary": "차값·구독료 ‘이중 수익’…개인 판매로 노려요금·운행구역 바꿀 권한은 테슬라가 쥐어‘소유냐 이용권이냐’…소비자 보호 기준 숙제미국 텍사스에서 시험 운행 중인 테슬라 로보택시 ‘사이버캡’. AP 연합뉴스테슬라가 핸들과 페달이 없는 자율주행차 ‘사이버캡’을 개인에게 팔기 시작했다. 차값을 먼저 받고 자율주행 이용료까지 매달 받는 구조다. 차를 산 소비자가 정작…",
-          "publishedAt": "2026-11-15T21:00:08.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.4
-        },
-        {
-          "title": "연말 재테크 전략은…은행권 PB들 \"유동성 확보하고 자산 분산\"",
-          "link": "https://www.yna.co.kr/view/AKR20261115036000002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 주요 시중은행의 자산관리 전문가들은 연말 자산관리의 핵심으로 유동성 확보와 자산별 분산투자를 꼽았다.",
-          "publishedAt": "2026-11-15T20:59:01.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2021/11/16/15/PCM20211116000015990_P2.jpg",
+          "title": "원/달러 환율, 강달러·증시 급락에도 하락…1,330원대 중반",
+          "link": "https://www.yna.co.kr/view/AKR20261116130500002",
+          "summary": "(서울=연합뉴스) 채새롬 기자 = 16일 원/달러 환율이 중동 불안과 미국의 추가 긴축 경계심리에도 하락했다.",
+          "publishedAt": "2026-11-16T07:23:51.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/04/PYH2026110404620001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.4
+          "score": 7.4
         },
         {
-          "title": "지난달 전월세 물가 1.4%↑…3년 10개월 만에 최대폭",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846774",
-          "summary": "지난달 소비자물가 조사 중에 전월세가 1년 전보다 1.4% 올라서 3년 10개월 만에 가장 큰 폭으로 뛰었습니다.지역별 전월세 상승률은 울산이 …",
-          "publishedAt": "2026-11-15T13:10:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261115/202241142_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.3
-        },
-        {
-          "title": "이형일 부총리, 경제현안간담회서 물가 관리 방안 논의",
-          "link": "https://www.yna.co.kr/view/AKR20261115046600002",
-          "summary": "(세종=연합뉴스) 이대희 기자 = 이형일 부총리 겸 재정경제부 장관은 15일 경제현안간담회를 개최하고 물가 관리 방안을 논의했다고 재경부가 밝혔...",
-          "publishedAt": "2026-11-15T09:58:23.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/11/PYH2026111114830001300_P2.jpg",
+          "title": "[외환] 원/달러 환율 1.0원 내린 1,335.7원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261116126500002",
+          "summary": "(",
+          "publishedAt": "2026-11-16T06:34:24.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116126500002_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.2
+          "score": 7.4
+        },
+        {
+          "title": "한국 포도 수출 1억달러 돌파…신선 농산물 단일 품목 최초",
+          "link": "https://www.yna.co.kr/view/AKR20261116155900030",
+          "summary": "(서울=연합뉴스) 홍국기 기자 = 한국 포도 수출액이 신선 농산물 단일 품목으로는 처음으로 1억달러를 넘어섰다.",
+          "publishedAt": "2026-11-16T09:00:01.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111616940005300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
         }
       ]
     },
@@ -92,34 +92,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 187,
+      "poolSize": 193,
       "items": [
-        {
-          "title": "신순숙(우빽카·72) 사마타·위빠사나 수행 - 상",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=338980",
-          "summary": "나와 부처님의 첫 인연은 초등학교 수학여행 때였다. 석굴암에서 부처님을 처음 마주한 순간, 온화하고 자비로운 모습과 설명하기 어려운 신비로운 기운에 압도돼 한참을 바라봤다. 그 모습은 지금도 마음에 뚜렷이 남아 있다. 근심이 생기거나 마음이 우울할 때면 석굴암 부처님을 떠올린다. 그러면 어느새 마음이 한결 평온해진다.성인이 된 뒤에는 자연스럽게 불교에 관심…",
-          "publishedAt": "2026-11-13T11:05:54.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 6.2
-        },
-        {
-          "title": "서울시, 동파 취약시설 집중관리...수도계량기 '동파' 절반은 복도식 아파트",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4118650",
-          "summary": "서울시가 겨울철 한파에 대비해 동파 취약시설에 대해 계량기를 교체하는 등 집중 관리에 나섭니다.서울시는 복도식 아파트 등 동파 취약시설 30만 세대를 대상으로 디지털 계량기 교체와 맞춤형 보온조치를 강화할 방침이라고 오늘 밝혔습니다.시는 올해 10월까지 11만1천192세대의 계량기를 교체한데 이어 내년까지 복도식 아파트 총 27만4천407세대의 계량기를 순…",
-          "publishedAt": "2026-11-15T14:20:35.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.3
-        },
         {
           "title": "[법인 스님의 문자 반야] 64. 향엄격죽(香嚴擊竹)",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506376",
@@ -131,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3
         },
         {
           "title": "“포크레인 몰며 도량정비, 인부들과 라면 먹으며 가람수호”",
@@ -144,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.8
         },
         {
           "title": "제21교구본사 송광사, 국사 승탑 국가유산 지정 위한 학술대회 개최",
@@ -157,7 +131,33 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.8
+          "score": 2.6
+        },
+        {
+          "title": "“청담 대종사 정화 정신과 마음의 철학 되살리겠다”",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=339013",
+          "summary": "불교정화운동에 앞장서고 조계종의 기틀을 세운 청담 대종사의 열반 55주기를 맞아 문도와 사부대중이 서울 삼각산 도선사에 모였다. 대중은 대종사의 생전 육성 법문을 들으며 청정한 수행 가풍을 되살리고 불법을 널리 전하고자 했던 원력을 되새겼다.도선사(주지 도심 스님)는 11월 15일 경내에서 ‘청담 대종사 열반 55주기 추모다례재’를 봉행했다. 다례재에는 조…",
+          "publishedAt": "2026-11-15T14:34:32.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 2.6
+        },
+        {
+          "title": "내가 만난 백팔선지식 <22> 동산스님, 효봉스님",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444191",
+          "summary": "청소를 하면 황금이 나오고문을 열면웃음 복 들어온다# 동산스님동산혜일(東山慧日, 1890~1965)스님은 퇴락한 조선불교의 정체성을 회복하고 교단을 다시 일으켜 세우는데 누구보다 앞장서신 분입니다.절에서 대중생활을 하다보면 공양과 예불과 울력의 하루일과 만큼 소중한 수행이 없음을 몸으로 느끼게 됩니다. 승려에게 공양과 예불과 울력은 정진의 척도이기도 합니다…",
+          "publishedAt": "2026-11-15T09:31:02.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 2.5
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 145,
+      "poolSize": 143,
       "items": [
         {
           "title": "Leibniz’s Influence on Kant",
@@ -185,20 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7
-        },
-        {
-          "title": "식탁 위의 인문학",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212448",
-          "summary": "먹거리가 인류 진화와 문명 형성을 이끈 기폭제였다는 '유식론(唯食論)'으로 역사의 이면을 풀어낸 인문 교양서다. 소금, 쌀, 밀, 옥수수, 돼지, 소, 닭 등 7가지 식재료를 따라 철학·역사·과학·문학·예술을 넘나든다. 프랑스 대혁명과 러시아 혁명, 임오군란의 이면에 놓인 먹거리 문제를 짚고, 공자의 정치론과 사마천의 역사관에서 통치와 민심의 근간을 읽는다…",
-          "publishedAt": "2026-11-13T15:34:19.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 6.3
+          "score": 6.8
         },
         {
           "title": "Bioethics and Moral Reasoning",
@@ -214,30 +201,43 @@
           "score": 6
         },
         {
-          "title": "제20회 유영번역상에 ‘궤도’ 옮긴 송예슬 씨...우주정거장의 고요를 한국어로",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212492",
-          "summary": "올해로 20회를 맞은 유영번역상이 영국 소설가 서맨사 하비의 『궤도』(서해문집, 2025)를 옮긴 송예슬 번역가에게 돌아갔다. 유영학술재단(이사장 유혁수)은 지난 13일 이같이 밝혔다. 『궤도』는 2024년 부커상과 호손덴상을 받았고, 버락 오바마 전 미국 대통령이 ‘2024년 가장 좋았던 책’으로 꼽은 작품이다.소설의 무대는 지구 궤도를 도는 우주정거장이…",
-          "publishedAt": "2026-11-14T13:57:03.000Z",
+          "title": "건국대 건강고령사회연구원, 세계행정학회와 공동으로 학술대회 개최",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212519",
+          "summary": "건국대 건강고령사회연구원이 세계행정학회와 공동으로 주최하는 국제학술대회가 17일부터 20일까지 건국대 서울캠퍼스와 대한상공회의소에서 열린다. 세계행정학회가 서울에서 국제학술대회를 여는 것은 2004년 이후 22년 만이다. ‘IIAS 2026 서울 컨퍼런스’ 조직위원회에 따르면 이번 행사에는 40여 개국에서 약 300명이 참석할 예정이다. 참가자들은 정부,…",
+          "publishedAt": "2026-11-16T12:01:19.000Z",
           "image": "",
           "sourceName": "교수신문",
           "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 3.8
+          "score": 4.5
         },
         {
-          "title": "원칙의 문제",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212491",
-          "summary": "[신간_『원칙의 문제: 법과 도덕, 정의에 관한 철학적 탐구』",
-          "publishedAt": "2026-11-14T13:44:51.000Z",
+          "title": "“기획학의 탄생, 인문학을 잇다”... ‘제1회 현대기획학 포럼’ 내년 2월 의정부서 개최",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212518",
+          "summary": "댄허코리아가 주최하고 2027년 설립 예정인 현대기획학연구소가 주관하는 ‘제1회 현대기획학 포럼(THE 1ST FORUM ON MODERN PLANNING STUDIES)’이 오는 2027년 2월 17일(수) 오후 7시 의정부문화역-이음(모둠홀)에서 개최된다.‘기획학의 탄생, 인문학을 잇다(The Birth of Planning Studies: Inheri…",
+          "publishedAt": "2026-11-16T10:08:58.000Z",
           "image": "",
           "sourceName": "교수신문",
           "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 3.8
+          "score": 4.5
+        },
+        {
+          "title": "Online Philosophy Resources Weekly Update",
+          "link": "https://dailynous.com/2026/11/16/online-philosophy-resources-weekly-update-448/",
+          "summary": "New and revised entries at online philosophy resources, new reviews of philosophy books, new podcast episodes, recently published open access philosophy books, and more… . […] The post Online Philosop…",
+          "publishedAt": "2026-11-16T10:00:00.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/09/weekly-update-logo-2023.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 189,
+      "poolSize": 183,
       "items": [
         {
           "title": "국립현대미술관장에 기혜경 교수",
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.2
+          "score": 7
         },
         {
           "title": "나라 요시토모 ‘칼든 아이’ 17억원부터···김창열·김환기 작품도 경매 출품",
@@ -278,33 +278,46 @@
           "candidates": [
             "art"
           ],
-          "score": 5.5
+          "score": 5.3
         },
         {
-          "title": "공공디자인위원회 위원 11명 위촉…종합계획·진흥책 심의",
-          "link": "https://www.yna.co.kr/view/AKR20261113135400005",
-          "summary": "(서울=연합뉴스) 임순현 기자 = 최휘영 문화체육관광부 장관은 13일 오후 서울 종로구 국립현대미술관 서울관에서 '제3기 공공디자인위원회' 위원...",
-          "publishedAt": "2026-11-13T08:00:02.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2020/12/23/63/PCM20201223000063990_P2.jpg",
+          "title": "그림으로 만나는 멸종위기종…덕유산국립공원 창작작품 전시회",
+          "link": "https://www.yna.co.kr/view/AKR20261116120200055",
+          "summary": "(무주=연합뉴스) 최영수 기자 = 덕유산국립공원사무소는 멸종위기종을 주제로 한 미술전 '함께 지켜가는 생명' 특별전시회를 오는 12월 31일까지...",
+          "publishedAt": "2026-11-16T06:17:16.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116120200055_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 3.2
+          "score": 4.4
         },
         {
-          "title": "[붓 끝의 美학]눈물 흠뻑 적신 붓으로 캄캄한 삶에 등불 걸다",
-          "link": "https://www.khan.co.kr/article/202611152028015/",
-          "summary": "(18) 심사정 ‘강상야박도’심사정의 ‘강상야박도(江上夜泊圖·밤에 배를 대어놓고)’(1747). 국립중앙박물관 제공대역죄인의 손자로 태어난 작가 벼슬·출세 기대 않고 예술 집중 비단에 옅은 먹물 적셔 어둠 표현아침 기다리는 사공은 ‘인고’ 뜻해첫눈에 컴컴한 그림이다. 가만히 보노라면 어둠에 눈이 익으며 사위가 서서히 드러난다. 화가는 물기 많은 먹물로 비단…",
-          "publishedAt": "2026-11-15T11:28:01.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "중랑천으로 살펴보는 서울의 역사…청계천박물관 기획전시",
+          "link": "https://www.yna.co.kr/view/AKR20261116041700004",
+          "summary": "(서울=연합뉴스) 김준태 기자 = 서울역사박물관 분관 청계천박물관은 중랑천에 새겨진 서울의 역사를 조명하는 하반기 기획전시 '도시의 경계, 중랑...",
+          "publishedAt": "2026-11-16T02:15:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116041700004_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 2.7
+          "score": 4.3
+        },
+        {
+          "title": "제주비엔날레 83일간 대장정 마무리…관람객 역대 최다",
+          "link": "https://www.yna.co.kr/view/AKR20261116066800056",
+          "summary": "(제주=연합뉴스) 변지철 기자 = 제5회 제주비엔날레가 역대 가장 많은 15만3천여명의 관람객을 기록하며 막을 내렸다.",
+          "publishedAt": "2026-11-16T02:00:25.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116066800056_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
         }
       ]
     }
