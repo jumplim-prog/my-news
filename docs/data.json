@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-15T10:17:02.628Z",
+  "builtAt": "2026-11-16T00:37:59.820Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 332,
+      "poolSize": 333,
       "items": [
         {
           "title": "전월세 4년 만에 최대 상승인데 고금리까지···주거비 부담에 가계 허리 휜다",
@@ -25,33 +25,46 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.9
+          "score": 5.6
         },
         {
-          "title": "지난달 전월세 물가 1.4%↑…3년 10개월 만에 최대폭",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846429",
-          "summary": "▲ 서울의 한 부동산지난달 전월세가 약 4년 만에 가장 큰 폭으로 상승한 것으로 나타났습니다.금리가 오르는데 전월세 상승까지 맞물리면…",
-          "publishedAt": "2026-11-15T01:58:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261016/202231869_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
+          "title": "테슬라는 왜 ‘3만달러 사이버캡’ 판다고 나섰나…답은 ‘구독’ 때문?",
+          "link": "https://www.khan.co.kr/article/202611160600081/",
+          "summary": "차값·구독료 ‘이중 수익’…개인 판매로 노려요금·운행구역 바꿀 권한은 테슬라가 쥐어‘소유냐 이용권이냐’…소비자 보호 기준 숙제미국 텍사스에서 시험 운행 중인 테슬라 로보택시 ‘사이버캡’. AP 연합뉴스테슬라가 핸들과 페달이 없는 자율주행차 ‘사이버캡’을 개인에게 팔기 시작했다. 차값을 먼저 받고 자율주행 이용료까지 매달 받는 구조다. 차를 산 소비자가 정작…",
+          "publishedAt": "2026-11-15T21:00:08.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5.8
+          "score": 4.4
         },
         {
-          "title": "국고채 금리 상승…10년물, 열흘만에 다시 4%대로(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20261113146751008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 13일 국고채 금리는 주요국 금리 상승과 외국인 국채선물 매도 속에 오름세로 마감했다.",
-          "publishedAt": "2026-11-13T07:53:47.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113146751008_01_i_P2.jpg",
+          "title": "연말 재테크 전략은…은행권 PB들 \"유동성 확보하고 자산 분산\"",
+          "link": "https://www.yna.co.kr/view/AKR20261115036000002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 주요 시중은행의 자산관리 전문가들은 연말 자산관리의 핵심으로 유동성 확보와 자산별 분산투자를 꼽았다.",
+          "publishedAt": "2026-11-15T20:59:01.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2021/11/16/15/PCM20211116000015990_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5
+          "score": 4.4
+        },
+        {
+          "title": "지난달 전월세 물가 1.4%↑…3년 10개월 만에 최대폭",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846774",
+          "summary": "지난달 소비자물가 조사 중에 전월세가 1년 전보다 1.4% 올라서 3년 10개월 만에 가장 큰 폭으로 뛰었습니다.지역별 전월세 상승률은 울산이 …",
+          "publishedAt": "2026-11-15T13:10:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261115/202241142_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.3
         },
         {
           "title": "이형일 부총리, 경제현안간담회서 물가 관리 방안 논의",
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 4.5
-        },
-        {
-          "title": "이번주 '수출 1조달러' 넘는다",
-          "link": "https://www.hankyung.com/article/2026111575421",
-          "summary": "",
-          "publishedAt": "2026-11-15T08:49:09.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.5
+          "score": 4.2
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 201,
+      "poolSize": 187,
       "items": [
         {
           "title": "신순숙(우빽카·72) 사마타·위빠사나 수행 - 상",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 6.5
+          "score": 6.2
         },
         {
           "title": "서울시, 동파 취약시설 집중관리...수도계량기 '동파' 절반은 복도식 아파트",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.3
         },
         {
           "title": "[법인 스님의 문자 반야] 64. 향엄격죽(香嚴擊竹)",
@@ -131,20 +131,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
+          "score": 3.2
         },
         {
-          "title": "원로 학자의 ‘불교 나침반’",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506357",
-          "summary": "불교는 무엇을 가르치는 종교인가. 부처님의 가르침을 안다는 것은 무엇이며, 그 가르침은 오늘 우리의 삶을 어떻게 변화시킬 수 있는가.정병조 동국대 명예교수는 초기불교에서 대승불교로, 인도에서 중국과 한국으로 이어지는 2600년 불교의 역사와 사상을 한 권에 담아내면서 불교의 본질과 실천적 가치를 되짚는다. 책은 저자가 조계종 포교사단에서 2년 동안 진행한…",
-          "publishedAt": "2026-11-12T20:57:48.000Z",
+          "title": "“포크레인 몰며 도량정비, 인부들과 라면 먹으며 가람수호”",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444199",
+          "summary": "“관음전 불사 중에, 우리 스님께서 사중이 어렵다는 말을 어디서 들으셨는지 어느날 부르시더니 돈을 7억을 주시는 겁니다. 이걸로 빨리 불사를 완공하라고…. 한평생 관음기도 하시고 법문비 기도비에 신도들이 준 용돈까지 깨알같이 모은 큰 돈을 선뜻 주신 겁니다. 덕분에 관음전을 무사히 완공하고 스님이 따듯하고 안전하게 머무실 황토방도 정성을 다해 만들었건만,…",
+          "publishedAt": "2026-11-16T00:36:48.000Z",
           "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3
         },
         {
           "title": "제21교구본사 송광사, 국사 승탑 국가유산 지정 위한 학술대회 개최",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 2.8
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.3
+          "score": 7
         },
         {
           "title": "식탁 위의 인문학",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.6
+          "score": 6.3
         },
         {
           "title": "Bioethics and Moral Reasoning",
@@ -224,7 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.1
+          "score": 3.8
         },
         {
           "title": "원칙의 문제",
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.1
+          "score": 3.8
         }
       ]
     },
@@ -252,20 +252,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 199,
+      "poolSize": 189,
       "items": [
         {
-          "title": "기혜경 홍익대 교수, 신임 국립현대미술관 관장에 임명",
-          "link": "https://www.khan.co.kr/article/202611131125001/",
-          "summary": "13일 국립현대미술관 서울관에서 기혜경 신임 관장이 최휘영 문화체육관광부 장관에게 임명장을 받은 뒤 기념촬영을 하고 있다. 문화체육관광부 제공기혜경 홍익대 교수가 국립현대미술관 관장에 임명됐다.문화체육관광부는 13일 국립현대미술관 신임 관장에 기혜경 교수를 임명했다고 밝혔다. 임기는 3년이다.기 신임 관장은 국공립 미술관 현장 경험을 쌓고 한국 근현대미술·…",
-          "publishedAt": "2026-11-13T02:25:00.000Z",
+          "title": "국립현대미술관장에 기혜경 교수",
+          "link": "https://www.khan.co.kr/article/202611152013005/",
+          "summary": "기혜경 홍익대 교수(사진)가 국립현대미술관 관장에 임명됐다. 문화체육관광부는 지난 13일 국립현대미술관 신임 관장에 기혜경 교수를 임명했다고 밝혔다. 임기는 3년이다.기 신임 관장은 국공립 미술관 현장 경험을 쌓고 한국 근현대미술사를 연구해온 전시기획자다. 국립현대미술관 학예연구사로 13년간 재직하며 덕수궁관, 학예연구실, 서울관 특별전담팀 등을 거쳤다.…",
+          "publishedAt": "2026-11-15T11:13:00.000Z",
           "image": "",
           "sourceName": "경향신문",
           "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 6.3
+          "score": 7.2
         },
         {
           "title": "나라 요시토모 ‘칼든 아이’ 17억원부터···김창열·김환기 작품도 경매 출품",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
+          "score": 5.5
         },
         {
           "title": "공공디자인위원회 위원 11명 위촉…종합계획·진흥책 심의",
@@ -291,20 +291,20 @@
           "candidates": [
             "art"
           ],
-          "score": 3.5
+          "score": 3.2
         },
         {
-          "title": "제16회 윤석중문학상에 이경순 작가",
-          "link": "https://www.yna.co.kr/view/AKR20261113120300005",
-          "summary": "(서울=연합뉴스) 김기훈 기자 = 제16회 윤석중문학상에 이경순 작가가 선정됐다고 사단법인 새싹회가 13일 밝혔다.",
-          "publishedAt": "2026-11-13T06:09:17.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113120300005_02_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "[붓 끝의 美학]눈물 흠뻑 적신 붓으로 캄캄한 삶에 등불 걸다",
+          "link": "https://www.khan.co.kr/article/202611152028015/",
+          "summary": "(18) 심사정 ‘강상야박도’심사정의 ‘강상야박도(江上夜泊圖·밤에 배를 대어놓고)’(1747). 국립중앙박물관 제공대역죄인의 손자로 태어난 작가 벼슬·출세 기대 않고 예술 집중 비단에 옅은 먹물 적셔 어둠 표현아침 기다리는 사공은 ‘인고’ 뜻해첫눈에 컴컴한 그림이다. 가만히 보노라면 어둠에 눈이 익으며 사위가 서서히 드러난다. 화가는 물기 많은 먹물로 비단…",
+          "publishedAt": "2026-11-15T11:28:01.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 3.4
+          "score": 2.7
         }
       ]
     }
