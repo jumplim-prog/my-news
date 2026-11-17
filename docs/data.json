@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-17T03:21:02.839Z",
+  "builtAt": "2026-11-17T18:03:30.400Z",
   "cards": [
     {
       "id": "econ",
@@ -12,20 +12,33 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 338,
+      "poolSize": 335,
       "items": [
         {
-          "title": "미 연준 \"대형은행 AI 위험노출액 1조달러\"…손실확산 경고",
-          "link": "https://www.yna.co.kr/view/AKR20261117064100009",
-          "summary": "(서울=연합뉴스) 임화섭 기자 = 미국 연방준비제도(연준)가 최근 '금융 안정 보고서'에서 미국 대형 은행의 인공지능(AI) 관련 위험노출액(익...",
-          "publishedAt": "2026-11-17T01:39:14.000Z",
-          "image": "https://img.yna.co.kr/photo/reuters/2026/10/29/PRU20261029300501009_P2.jpg",
+          "title": "달러 19개월 만에 최고치 또 경신…환율 1,330원대 후반으로 상승",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850138",
+          "summary": "▲ 17일 서울 중구 하나은행 딜링룸 전광판에 코스피 등이 표시돼 있다. 이날 코스피는 4거래일 연속 내리며 전장보다 132.02포인…",
+          "publishedAt": "2026-11-17T07:08:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261117/202241733_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
+        {
+          "title": "[외환] 원/달러 환율 2.5원 오른 1,338.2원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261117127100002",
+          "summary": "(",
+          "publishedAt": "2026-11-17T06:30:47.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/17/AKR20261117127100002_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "미 국채 금리·유가 반등…불확실성 확대",
@@ -38,46 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 6.9
         },
         {
-          "title": "‘블루쓰나미’ 후 급락한 미 국채 금리와 유가, 다시 슬금슬금 오른다",
-          "link": "https://www.khan.co.kr/article/202611161734001/",
-          "summary": "지난 5일 서울 중구 하나은행 딜링룸에 서부텍사스산 원유(WTI) 선물 가격이 표시돼 있다. 연합뉴스미국 중간선거 후 하락했던 미국 국채금리와 국제유가가 다시 오르고 있다. ‘블루 쓰나미’(민주당 완승)의 금리·유가 인하 효과가 찰나에 그치고 ‘되돌림’ 현상이 나타나면서 금융시장에 불확실성이 더 커진 형국이다. 시장에서는 한국은행이 11월 기준금리를 인상할…",
-          "publishedAt": "2026-11-16T08:34:00.000Z",
+          "title": "IMF “한국 3분기 실적 기대 이상”…‘2%대 상회’ 고물가에 “추가 긴축을”",
+          "link": "https://www.hani.co.kr/arti/economy/economy_general/1287794.html",
+          "summary": "",
+          "publishedAt": null,
           "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
+          "sourceName": "한겨레",
+          "sourceId": "hani-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.5
         },
         {
-          "title": "젠슨황·앤트로픽·금리…'삼중고'에 짓눌린 코스피",
-          "link": "https://www.yna.co.kr/view/AKR20261117065400008",
-          "summary": "(서울=연합뉴스) 임은진 기자 = 젠슨 황 스캔들, 앤트로픽 상장, 미국 국채 금리.",
-          "publishedAt": "2026-11-17T01:41:20.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/17/PYH2026111702820001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6
-        },
-        {
-          "title": "새출발할 수 있게 빚 깎아줬는데…소상공인 상환율 ‘절반 수준’으로 추락",
-          "link": "https://www.mk.co.kr/news/economy/12210635",
-          "summary": "중개형 채권 상환율 절반으로 연체 예방 사후관리도 ‘구멍’코로나19로 빚더미에 오른 소상공인들의 채무 부담을 덜어주기 위해 도입된 새출발기금의 상환 실적이 해마다 악화하고 있다...",
-          "publishedAt": "2026-11-16T20:38:10.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/17/news-p.v1.20251216.d8d8814ca0a5480d96365ae07127605f_R.png",
+          "title": "IMF, 韓성장률 3.9%로 상향 …\"통화·재정긴축 필요\"",
+          "link": "https://www.mk.co.kr/news/economy/12211478",
+          "summary": "국제통화기금(IMF)이 인공지능(AI) 호황과 반도체 수출이 한국 경제를 이끌고 있다며 올해와 내년 성장률 전망치를 대폭 높였다. 다만 반도체 호황으로 경기가 달아오르며 물가가 목..",
+          "publishedAt": "2026-11-17T08:44:42.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/18/20261118_01160110000003_L00.jpg",
           "sourceName": "매일경제",
           "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5.9
+          "score": 5.8
         }
       ]
     },
@@ -92,52 +92,26 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 153,
+      "poolSize": 178,
       "items": [
+        {
+          "title": "선문답과 법문 담은 '연등회요 2' 출간",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4119168",
+          "summary": "송나라 선사 회옹오명의 '종문연등회요'를 국내 처음으로 완역하는 작업의 두 번째 책 '연등회요 2'가 출간됐습니다.담앤북스는 2024년 7월 첫 책에 이어 두 번째 책 '연등회요-선문답과 법문 공안집'을 선보였다고 오늘 밝혔습니다.'연등회요-선문답과 법문 공안집'은 모두 30권으로 편찬된 '종문연등회요'를 5권씩 나눠 총 6책으로 출간하는 기획입니다.이번…",
+          "publishedAt": "2026-11-17T16:41:04.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
+        },
         {
           "title": "“포크레인 몰며 도량정비, 인부들과 라면 먹으며 가람수호”",
           "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444199",
           "summary": "“관음전 불사 중에, 우리 스님께서 사중이 어렵다는 말을 어디서 들으셨는지 어느날 부르시더니 돈을 7억을 주시는 겁니다. 이걸로 빨리 불사를 완공하라고…. 한평생 관음기도 하시고 법문비 기도비에 신도들이 준 용돈까지 깨알같이 모은 큰 돈을 선뜻 주신 겁니다. 덕분에 관음전을 무사히 완공하고 스님이 따듯하고 안전하게 머무실 황토방도 정성을 다해 만들었건만,…",
           "publishedAt": "2026-11-16T00:36:48.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.4
-        },
-        {
-          "title": "제21교구본사 송광사, 국사 승탑 국가유산 지정 위한 학술대회 개최",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444189",
-          "summary": "승보종찰 송광사가 16국사의 수행정신과 한국 선불교의 역사를 간직한 국사 승탑의 국가유산 지정을 위한 본격적인 학술적 논의에 나섰다.조계총림 송광사(주지 무자스님)는 11월14일 경내 선호당에서 ‘송광사 국사 승탑의 국가유산 지정을 위한 학술대회’를 개최했다.이번 학술대회는 송광사에 현존하는 국사 승탑의 역사적·학술적·예술적 가치를 종합적으로 규명하고, 국…",
-          "publishedAt": "2026-11-15T14:37:48.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.2
-        },
-        {
-          "title": "“청담 대종사 정화 정신과 마음의 철학 되살리겠다”",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=339013",
-          "summary": "불교정화운동에 앞장서고 조계종의 기틀을 세운 청담 대종사의 열반 55주기를 맞아 문도와 사부대중이 서울 삼각산 도선사에 모였다. 대중은 대종사의 생전 육성 법문을 들으며 청정한 수행 가풍을 되살리고 불법을 널리 전하고자 했던 원력을 되새겼다.도선사(주지 도심 스님)는 11월 15일 경내에서 ‘청담 대종사 열반 55주기 추모다례재’를 봉행했다. 다례재에는 조…",
-          "publishedAt": "2026-11-15T14:34:32.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.2
-        },
-        {
-          "title": "내가 만난 백팔선지식 <22> 동산스님, 효봉스님",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444191",
-          "summary": "청소를 하면 황금이 나오고문을 열면웃음 복 들어온다# 동산스님동산혜일(東山慧日, 1890~1965)스님은 퇴락한 조선불교의 정체성을 회복하고 교단을 다시 일으켜 세우는데 누구보다 앞장서신 분입니다.절에서 대중생활을 하다보면 공양과 예불과 울력의 하루일과 만큼 소중한 수행이 없음을 몸으로 느끼게 됩니다. 승려에게 공양과 예불과 울력은 정진의 척도이기도 합니다…",
-          "publishedAt": "2026-11-15T09:31:02.000Z",
           "image": "",
           "sourceName": "불교신문",
           "sourceId": "ibulgyo",
@@ -172,20 +146,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.4
+          "score": 6.1
         },
         {
-          "title": "Bioethics and Moral Reasoning",
-          "link": "https://plato.stanford.edu/entries/bioethics-moral-reasoning/",
-          "summary": "[New Entry by Jennifer Flynn on November 5, 2026.] [Editor's Note: The following entry replaces and is based on the former entry titled Theory and Bioethics.] Bioethics refers to a branch of applied e…",
-          "publishedAt": "2026-11-06T02:10:57.000Z",
+          "title": "경북대, 7개국 참여 '연결의 인문학' 국제학술대회 개최",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212578",
+          "summary": "경북대 인문대학이 개교 80주년을 맞아 국제학술대회 '연결의 인문학'을 개최했다고 17일 밝혔다. 이번 학술대회는 지난 12일부터 이틀간 경북대 인문한국진흥관 등에서 열렸다. 한국, 대만, 스위스, 우크라이나, 일본, 중국, 프랑스 등 7개국 인문학자들이 참여했다. 참가자들은 기술 발전과 지정학적 갈등 속에서 단절과 고립을 극복할 인문학적 해법을 논의했다.…",
+          "publishedAt": "2026-11-17T15:59:16.000Z",
           "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 6
+          "score": 5.5
         },
         {
           "title": "Philosophy Department Bans AI Use",
@@ -198,33 +172,33 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.2
+          "score": 3.9
         },
         {
-          "title": "건국대 건강고령사회연구원, 세계행정학회와 공동으로 학술대회 개최",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212519",
-          "summary": "건국대 건강고령사회연구원이 세계행정학회와 공동으로 주최하는 국제학술대회가 17일부터 20일까지 건국대 서울캠퍼스와 대한상공회의소에서 열린다. 세계행정학회가 서울에서 국제학술대회를 여는 것은 2004년 이후 22년 만이다. ‘IIAS 2026 서울 컨퍼런스’ 조직위원회에 따르면 이번 행사에는 40여 개국에서 약 300명이 참석할 예정이다. 참가자들은 정부,…",
-          "publishedAt": "2026-11-16T12:01:19.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
+          "title": "Philosophers Among Recent ERC Starting Grant Winners",
+          "link": "https://dailynous.com/2026/11/16/philosophers-among-recent-erc-starting-grant-winners/",
+          "summary": "A few philosophers were among the winners of the European Research Council (ERC) Starting Grants announced earlier this season. They are: Piotr Bystranowski (Jagiellonian University)NormasNescio: […]…",
+          "publishedAt": "2026-11-16T11:00:00.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2023/01/erc-2-1024x801.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.2
+          "score": 3.9
         },
         {
-          "title": "“기획학의 탄생, 인문학을 잇다”... ‘제1회 현대기획학 포럼’ 내년 2월 의정부서 개최",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212518",
-          "summary": "댄허코리아가 주최하고 2027년 설립 예정인 현대기획학연구소가 주관하는 ‘제1회 현대기획학 포럼(THE 1ST FORUM ON MODERN PLANNING STUDIES)’이 오는 2027년 2월 17일(수) 오후 7시 의정부문화역-이음(모둠홀)에서 개최된다.‘기획학의 탄생, 인문학을 잇다(The Birth of Planning Studies: Inheri…",
-          "publishedAt": "2026-11-16T10:08:58.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
+          "title": "Online Philosophy Resources Weekly Update",
+          "link": "https://dailynous.com/2026/11/16/online-philosophy-resources-weekly-update-448/",
+          "summary": "New and revised entries at online philosophy resources, new reviews of philosophy books, new podcast episodes, recently published open access philosophy books, and more… . […] The post Online Philosop…",
+          "publishedAt": "2026-11-16T10:00:00.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/09/weekly-update-logo-2023.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
           "candidates": [
             "philosophy"
           ],
-          "score": 4.1
+          "score": 3.8
         }
       ]
     },
@@ -239,7 +213,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 191,
+      "poolSize": 203,
       "items": [
         {
           "title": "국립현대미술관장에 기혜경 교수",
@@ -252,7 +226,46 @@
           "candidates": [
             "art"
           ],
-          "score": 6.7
+          "score": 6.4
+        },
+        {
+          "title": "익숙한 것을 다시 보기 ‘모더니즘의 주역’ 오키프",
+          "link": "https://www.khan.co.kr/article/202611172038005/",
+          "summary": "국현 과천관 ‘조지아 오키프…’전‘파랑과 초록음악’(1919~1921), 캔버스에 유채, 58.4×48.3㎝. 시카고미술관 앨프리드 스티글리츠 컬렉션남편 스티글리츠의 명성에 가려져 ‘여성성’ 틀 대신 독자적 세계 조명화면 가득 확대한 꽃, 이 도상이 여성의 성기를 상징한다는 해석. 조지아 오키프(1887~1986)의 익숙한 이미지다. 남성 비평가들은 오키·…",
+          "publishedAt": "2026-11-17T11:38:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 5.9
+        },
+        {
+          "title": "꽃을 그렸다고 여성성을 말한 건 아니다···미국 모더니즘의 주역, 조지아 오키프",
+          "link": "https://www.khan.co.kr/article/202611171635001/",
+          "summary": "조지아 오키프 ‘옥양목 꽃이 있는 소의 두개골’(1931), 캔버스에 유채, 91.4×61㎝. 시카고미술관 알프레드 스티글리츠 컬렉션.화면 가득 확대한 꽃, 이 도상이 여성의 성기를 상징한다는 해석. 조지아 오키프(1887~1986)의 익숙한 이미지다. 남성 비평가들은 오키프의 작업을 여성성의 틀에 가뒀고, 그의 이름 앞에는 현대 사진의 선구자이자 미국 ·…",
+          "publishedAt": "2026-11-17T07:35:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 5.8
+        },
+        {
+          "title": "'인천아트쇼 2026' 19∼22일 송도서 개최…5천여점 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261117107900065",
+          "summary": "(인천=연합뉴스) 신민재 기자 = 국내외 유명 작가의 미술 작품을 관람·구매할 수 있는 '인천아트쇼 2026'이 오는 19∼22일 인천 송도컨벤...",
+          "publishedAt": "2026-11-17T05:18:38.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/17/AKR20261117107900065_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 5.7
         },
         {
           "title": "공연 속 독립운동가 되어볼까… AI로 만나는 체험전시 ‘독립여정’",
@@ -265,46 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.9
-        },
-        {
-          "title": "나라 요시토모 ‘칼든 아이’ 17억원부터···김창열·김환기 작품도 경매 출품",
-          "link": "https://www.khan.co.kr/article/202611151047001/",
-          "summary": "나라 요시토모 ‘Slash with a Knife’(1998) 케이옥션 제공케이옥션 11월 경매일본 현대미술 작가 나라 요시토모의 작품과 김창열·김환기 등 한국 주요 작가들의 작품이 케이옥션 11월 경매에 나온다.케이옥션은 오는 25일 서울 강남구 신사동 본사에서 추정가 총 126억원 상당의 미술품 118점을 경매한다고 13일 밝혔다.이번 경매 대표작인··…",
-          "publishedAt": "2026-11-15T01:47:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 5
-        },
-        {
-          "title": "신세계면세점, 이어령 '디지로그' 재해석한 미디어아트 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261117072700030",
-          "summary": "(서울=연합뉴스) 조민정 기자 = 신세계면세점은 한국 문학과 디지털 기술을 결합한 미디어아트 작품 '어금니로 깨문 우주'를 선보인다고 17일 밝...",
-          "publishedAt": "2026-11-17T02:11:19.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/17/AKR20261117072700030_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "삼척문학상 공모…대상 500만원·작가상 200만원",
-          "link": "https://www.yna.co.kr/view/AKR20261117052200062",
-          "summary": "(삼척=연합뉴스) 유형재 기자 = 강원 삼척시가 지역 문학 발전과 작가들의 창작 활동을 지원하고자 '제7회 삼척문학상' 작품을 오는 28일까지 ...",
-          "publishedAt": "2026-11-17T00:51:05.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/17/AKR20261117052200062_02_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
+          "score": 5.6
         }
       ]
     }
