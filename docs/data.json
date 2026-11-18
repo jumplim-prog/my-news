@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-17T18:03:30.400Z",
+  "builtAt": "2026-11-18T02:41:34.474Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 335,
+      "poolSize": 343,
       "items": [
+        {
+          "title": "금값 1년 만에 최저…美 국채금리·달러 강세 직격",
+          "link": "https://www.hankyung.com/article/202611183493i",
+          "summary": "",
+          "publishedAt": "2026-11-17T23:32:10.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "달러 19개월 만에 최고치 또 경신…환율 1,330원대 후반으로 상승",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850138",
@@ -25,33 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
-        },
-        {
-          "title": "[외환] 원/달러 환율 2.5원 오른 1,338.2원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261117127100002",
-          "summary": "(",
-          "publishedAt": "2026-11-17T06:30:47.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/17/AKR20261117127100002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
-        },
-        {
-          "title": "미 국채 금리·유가 반등…불확실성 확대",
-          "link": "https://www.khan.co.kr/article/202611162038045/",
-          "summary": "‘블루 쓰나미’ 인하 효과 끝한은 ‘금리 인상’에 무게추미국 중간선거 후 하락했던 미국 국채금리와 국제유가가 다시 오르고 있다. ‘블루 쓰나미’(민주당 완승)의 금리·유가 인하 효과가 찰나에 그치고 ‘되돌림’ 현상이 나타나면서 금융시장의 불확실성이 더 커진 형국이다. 세계 채권금리의 기준인 미국 10년물 국채금리는 지난 13일(현지시간) 전날보다 0.02%…",
-          "publishedAt": "2026-11-16T11:38:04.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.9
+          "score": 7.1
         },
         {
           "title": "IMF “한국 3분기 실적 기대 이상”…‘2%대 상회’ 고물가에 “추가 긴축을”",
@@ -67,6 +54,19 @@
           "score": 6.5
         },
         {
+          "title": "기업 달러 들어오자…4대은행 외화 대응력 역대 최고",
+          "link": "https://www.mk.co.kr/news/economy/12212145",
+          "summary": "외화 LCR 평균 200% 올해 들어 20%P 상승4대 은행(KB국민·신한·하나·우리은행)의 외화 유동성 대응 능력이 역대 최고로 강해졌다. 반도체 수출 호조 등으로 대기업이 은행..",
+          "publishedAt": "2026-11-18T01:00:48.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/18/news-p.v1.20261118.31e82f5655054cfbbc436ae3c020e134_R.png",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6
+        },
+        {
           "title": "IMF, 韓성장률 3.9%로 상향 …\"통화·재정긴축 필요\"",
           "link": "https://www.mk.co.kr/news/economy/12211478",
           "summary": "국제통화기금(IMF)이 인공지능(AI) 호황과 반도체 수출이 한국 경제를 이끌고 있다며 올해와 내년 성장률 전망치를 대폭 높였다. 다만 반도체 호황으로 경기가 달아오르며 물가가 목..",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.8
+          "score": 5.6
         }
       ]
     },
@@ -92,21 +92,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 178,
+      "poolSize": 192,
       "items": [
-        {
-          "title": "선문답과 법문 담은 '연등회요 2' 출간",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4119168",
-          "summary": "송나라 선사 회옹오명의 '종문연등회요'를 국내 처음으로 완역하는 작업의 두 번째 책 '연등회요 2'가 출간됐습니다.담앤북스는 2024년 7월 첫 책에 이어 두 번째 책 '연등회요-선문답과 법문 공안집'을 선보였다고 오늘 밝혔습니다.'연등회요-선문답과 법문 공안집'은 모두 30권으로 편찬된 '종문연등회요'를 5권씩 나눠 총 6책으로 출간하는 기획입니다.이번…",
-          "publishedAt": "2026-11-17T16:41:04.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.5
-        },
         {
           "title": "“포크레인 몰며 도량정비, 인부들과 라면 먹으며 가람수호”",
           "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444199",
@@ -118,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.1
+          "score": 2
         }
       ]
     },
@@ -146,7 +133,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.1
+          "score": 6
         },
         {
           "title": "경북대, 7개국 참여 '연결의 인문학' 국제학술대회 개최",
@@ -159,7 +146,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.5
+          "score": 5.3
+        },
+        {
+          "title": "Incompatibilist (Nondeterministic) Theories of Free Will",
+          "link": "https://plato.stanford.edu/entries/incompatibilism-theories/",
+          "summary": "[Revised entry by Randolph Clarke, Justin Capes, and Philip Swenson on November 17, 2026. Changes to: Main text, Bibliography] Incompatibilists hold that free will and determinism are mutually exclusi…",
+          "publishedAt": "2026-11-18T01:57:30.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
         },
         {
           "title": "Philosophy Department Bans AI Use",
@@ -172,7 +172,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.9
+          "score": 3.7
         },
         {
           "title": "Philosophers Among Recent ERC Starting Grant Winners",
@@ -185,20 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.9
-        },
-        {
-          "title": "Online Philosophy Resources Weekly Update",
-          "link": "https://dailynous.com/2026/11/16/online-philosophy-resources-weekly-update-448/",
-          "summary": "New and revised entries at online philosophy resources, new reviews of philosophy books, new podcast episodes, recently published open access philosophy books, and more… . […] The post Online Philosop…",
-          "publishedAt": "2026-11-16T10:00:00.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/09/weekly-update-logo-2023.png",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3.8
+          "score": 3.7
         }
       ]
     },
@@ -213,8 +200,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 203,
+      "poolSize": 202,
       "items": [
+        {
+          "title": "창원조각비엔날레 '공명장' 폐막…누적 관람객 11만명",
+          "link": "https://www.yna.co.kr/view/AKR20261118085200052",
+          "summary": "(창원=연합뉴스) 김선경 기자 = 창원문화재단은 2026 창원조각비엔날레의 47일간 여정에 11만940명(누적 관람객)이 함께 했다고 18일 밝...",
+          "publishedAt": "2026-11-18T02:15:06.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/18/AKR20261118085200052_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.5
+        },
         {
           "title": "국립현대미술관장에 기혜경 교수",
           "link": "https://www.khan.co.kr/article/202611152013005/",
@@ -226,7 +226,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.4
+          "score": 6.2
         },
         {
           "title": "익숙한 것을 다시 보기 ‘모더니즘의 주역’ 오키프",
@@ -239,7 +239,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.9
+          "score": 5.7
         },
         {
           "title": "꽃을 그렸다고 여성성을 말한 건 아니다···미국 모더니즘의 주역, 조지아 오키프",
@@ -252,20 +252,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
-        },
-        {
-          "title": "'인천아트쇼 2026' 19∼22일 송도서 개최…5천여점 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261117107900065",
-          "summary": "(인천=연합뉴스) 신민재 기자 = 국내외 유명 작가의 미술 작품을 관람·구매할 수 있는 '인천아트쇼 2026'이 오는 19∼22일 인천 송도컨벤...",
-          "publishedAt": "2026-11-17T05:18:38.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/17/AKR20261117107900065_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 5.7
+          "score": 5.6
         },
         {
           "title": "공연 속 독립운동가 되어볼까… AI로 만나는 체험전시 ‘독립여정’",
@@ -278,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.6
+          "score": 5.5
         }
       ]
     }
