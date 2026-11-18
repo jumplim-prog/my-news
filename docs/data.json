@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-18T02:41:34.474Z",
+  "builtAt": "2026-11-18T10:58:33.893Z",
   "cards": [
     {
       "id": "econ",
@@ -12,16 +12,29 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 343,
+      "poolSize": 338,
       "items": [
         {
-          "title": "금값 1년 만에 최저…美 국채금리·달러 강세 직격",
-          "link": "https://www.hankyung.com/article/202611183493i",
+          "title": "13조달러로 불어난 헤지펀드…AI 쏠림이 국채시장까지 흔드나 [김주완의 글로벌머니 X파일]",
+          "link": "https://www.hankyung.com/article/202611185022i",
           "summary": "",
-          "publishedAt": "2026-11-17T23:32:10.000Z",
+          "publishedAt": "2026-11-18T08:28:28.000Z",
           "image": "",
           "sourceName": "한국경제",
           "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "[외환] 원/달러 환율 5.2원 내린 1,333.0원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261118134300002",
+          "summary": "(",
+          "publishedAt": "2026-11-18T06:34:12.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/18/AKR20261118134300002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
@@ -38,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.9
         },
         {
           "title": "IMF “한국 3분기 실적 기대 이상”…‘2%대 상회’ 고물가에 “추가 긴축을”",
@@ -54,30 +67,17 @@
           "score": 6.5
         },
         {
-          "title": "기업 달러 들어오자…4대은행 외화 대응력 역대 최고",
-          "link": "https://www.mk.co.kr/news/economy/12212145",
-          "summary": "외화 LCR 평균 200% 올해 들어 20%P 상승4대 은행(KB국민·신한·하나·우리은행)의 외화 유동성 대응 능력이 역대 최고로 강해졌다. 반도체 수출 호조 등으로 대기업이 은행..",
-          "publishedAt": "2026-11-18T01:00:48.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/18/news-p.v1.20261118.31e82f5655054cfbbc436ae3c020e134_R.png",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "title": "'5천피' 탈환에 환율도 하락…5.2원 내린 1,333.0원",
+          "link": "https://www.yna.co.kr/view/AKR20261118140200002",
+          "summary": "(서울=연합뉴스) 채새롬 기자 = 18일 엔비디아 발 훈풍에 코스피가 반등하면서 원/달러 환율도 하락했다.",
+          "publishedAt": "2026-11-18T06:51:44.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/18/PYH2026111818770001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6
-        },
-        {
-          "title": "IMF, 韓성장률 3.9%로 상향 …\"통화·재정긴축 필요\"",
-          "link": "https://www.mk.co.kr/news/economy/12211478",
-          "summary": "국제통화기금(IMF)이 인공지능(AI) 호황과 반도체 수출이 한국 경제를 이끌고 있다며 올해와 내년 성장률 전망치를 대폭 높였다. 다만 반도체 호황으로 경기가 달아오르며 물가가 목..",
-          "publishedAt": "2026-11-17T08:44:42.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/18/20261118_01160110000003_L00.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.6
+          "score": 5.9
         }
       ]
     },
@@ -92,22 +92,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 192,
-      "items": [
-        {
-          "title": "“포크레인 몰며 도량정비, 인부들과 라면 먹으며 가람수호”",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444199",
-          "summary": "“관음전 불사 중에, 우리 스님께서 사중이 어렵다는 말을 어디서 들으셨는지 어느날 부르시더니 돈을 7억을 주시는 겁니다. 이걸로 빨리 불사를 완공하라고…. 한평생 관음기도 하시고 법문비 기도비에 신도들이 준 용돈까지 깨알같이 모은 큰 돈을 선뜻 주신 겁니다. 덕분에 관음전을 무사히 완공하고 스님이 따듯하고 안전하게 머무실 황토방도 정성을 다해 만들었건만,…",
-          "publishedAt": "2026-11-16T00:36:48.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2
-        }
-      ]
+      "poolSize": 200,
+      "items": []
     },
     {
       "id": "philosophy",
@@ -120,7 +106,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 145,
+      "poolSize": 146,
       "items": [
         {
           "title": "Leibniz’s Influence on Kant",
@@ -136,17 +122,30 @@
           "score": 6
         },
         {
-          "title": "경북대, 7개국 참여 '연결의 인문학' 국제학술대회 개최",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212578",
-          "summary": "경북대 인문대학이 개교 80주년을 맞아 국제학술대회 '연결의 인문학'을 개최했다고 17일 밝혔다. 이번 학술대회는 지난 12일부터 이틀간 경북대 인문한국진흥관 등에서 열렸다. 한국, 대만, 스위스, 우크라이나, 일본, 중국, 프랑스 등 7개국 인문학자들이 참여했다. 참가자들은 기술 발전과 지정학적 갈등 속에서 단절과 고립을 극복할 인문학적 해법을 논의했다.…",
-          "publishedAt": "2026-11-17T15:59:16.000Z",
+          "title": "TCI, 제32회 한국유기합성학회 학술대회 공식 후원… ‘TCI–SEJIN CI 학술상’ 2명 시상",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212633",
+          "summary": "글로벌 연구용 시약 전문기업 TCI(Tokyo Chemical Industry Co., Ltd.)는 지난 11월 17일부터 19일까지 부산 롯데호텔에서 열린 ‘제32회 한국유기합성학회 학술대회’에 공식 후원사로 참여하고, ‘TCI–SEJIN CI 학술상’을 시상했다고 밝혔다. TCI는 국내 독점 공급사인 ㈜세진씨아이를 통해 오랜 기간 해당 학회의 후원 활동…",
+          "publishedAt": "2026-11-18T16:05:53.000Z",
           "image": "",
           "sourceName": "교수신문",
           "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 5.3
+          "score": 4.6
+        },
+        {
+          "title": "한국호텔관광학회, ‘K-컬처 확산을 통한 관광 콘텐츠와 호텔관광산업 발전 전략’ 추계학술대회 개최",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212630",
+          "summary": "사단법인 한국호텔관광학회(회장 오석윤)는 11월 14일(토) 세종대학교에서 ‘K-컬처 확산을 통한 관광 콘텐츠와 호텔관광산업 발전 전략’을 주제로 2026년 추계학술대회를 개최했다. 이날 행사에는 호텔·관광 분야의 학계 및 산업계 관계자, 연구자, 대학(원)생 등 약 200명이 참석했다.이번 학술대회에서는 세계적으로 확산되고 있는 K-컬처를 관광 콘텐츠로…",
+          "publishedAt": "2026-11-18T15:29:18.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.6
         },
         {
           "title": "Incompatibilist (Nondeterministic) Theories of Free Will",
@@ -159,7 +158,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "Philosophy Department Bans AI Use",
@@ -172,20 +171,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.7
-        },
-        {
-          "title": "Philosophers Among Recent ERC Starting Grant Winners",
-          "link": "https://dailynous.com/2026/11/16/philosophers-among-recent-erc-starting-grant-winners/",
-          "summary": "A few philosophers were among the winners of the European Research Council (ERC) Starting Grants announced earlier this season. They are: Piotr Bystranowski (Jagiellonian University)NormasNescio: […]…",
-          "publishedAt": "2026-11-16T11:00:00.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2023/01/erc-2-1024x801.png",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3.7
+          "score": 3.6
         }
       ]
     },
@@ -200,7 +186,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 202,
+      "poolSize": 205,
       "items": [
         {
           "title": "창원조각비엔날레 '공명장' 폐막…누적 관람객 11만명",
@@ -213,7 +199,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
           "title": "국립현대미술관장에 기혜경 교수",
@@ -226,7 +212,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.2
+          "score": 6
         },
         {
           "title": "익숙한 것을 다시 보기 ‘모더니즘의 주역’ 오키프",
@@ -239,7 +225,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.7
+          "score": 5.5
         },
         {
           "title": "꽃을 그렸다고 여성성을 말한 건 아니다···미국 모더니즘의 주역, 조지아 오키프",
@@ -252,7 +238,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.6
+          "score": 5.4
         },
         {
           "title": "공연 속 독립운동가 되어볼까… AI로 만나는 체험전시 ‘독립여정’",
@@ -265,7 +251,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.5
+          "score": 5.3
         }
       ]
     }
