@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-18T10:58:33.893Z",
+  "builtAt": "2026-11-19T02:11:43.318Z",
   "cards": [
     {
       "id": "econ",
@@ -12,72 +12,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 338,
+      "poolSize": 340,
       "items": [
         {
-          "title": "13조달러로 불어난 헤지펀드…AI 쏠림이 국채시장까지 흔드나 [김주완의 글로벌머니 X파일]",
-          "link": "https://www.hankyung.com/article/202611185022i",
+          "title": "3분기 코스피 상장사 순이익 30% 감소, 코스닥은 순손실···환율 하락 영향",
+          "link": "https://www.khan.co.kr/article/202611181443001/",
+          "summary": "지난 17일 인천 연수구 인천신항 선광신컨테이너터미널에 수출 컨테이너들이 쌓여 있다. 연합뉴스올해 3분기 코스피 상장사들의 순이익이 직전 분기 대비 30% 줄고, 코스닥 상장사들은 순손실을 기록했다. 원·달러 환율 하락의 영향이 큰 것으로 풀이된다.한국거래소와 한국상장회사협의회가 19일 발표한 자료에 따르면 코스피 상장사들의 3분기 매출액은 1070조637…",
+          "publishedAt": "2026-11-18T05:43:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.6
+        },
+        {
+          "title": "기업 달러 들어오자…4대은행 외화 대응력 역대 최고",
+          "link": "https://www.mk.co.kr/news/economy/12212145",
+          "summary": "외화 LCR 평균 200% 올해 들어 20%P 상승4대 은행(KB국민·신한·하나·우리은행)의 외화 유동성 대응 능력이 역대 최고로 강해졌다. 반도체 수출 호조 등으로 대기업이 은행..",
+          "publishedAt": "2026-11-18T01:00:48.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/18/news-p.v1.20261118.31e82f5655054cfbbc436ae3c020e134_R.png",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.5
+        },
+        {
+          "title": "“은행세 걷으면 대출금리 오를 수도”…금융硏, 도입 부작용 지적",
+          "link": "https://www.mk.co.kr/news/economy/12213420",
+          "summary": "한국금융연구원 보고서 사회적책임 강화 위한 은행세 “소비자 부담으로 이어져 수익·건전성 고려해야”은행의 막대한 이익을 사회에 환원하기 위해 부과하는 ‘은행세’가 오히려 금융소비자..",
+          "publishedAt": "2026-11-19T01:52:53.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/19/news-p.v1.20261119.894abf7e97f04f46a341e56490908c2c_R.png",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "앤트로픽, 공모가 83달러…역대 최대 IPO",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853248",
+          "summary": "인공지능 AI 모델 '클로드' 개발사인 앤트로픽이 스페이스X를 제치고 역대 최대 기업공개 조달을 달성하게 됐습니다.앤트로픽은 상장…",
+          "publishedAt": "2026-11-19T01:28:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261119/202242387_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "하나카드, 민원 감소 업계 1위…영세 가맹점주 금리부담도 낮춰",
+          "link": "https://www.hankyung.com/article/2026111840171",
           "summary": "",
-          "publishedAt": "2026-11-18T08:28:28.000Z",
+          "publishedAt": "2026-11-19T00:00:13.000Z",
           "image": "",
           "sourceName": "한국경제",
           "sourceId": "hankyung-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.4
-        },
-        {
-          "title": "[외환] 원/달러 환율 5.2원 내린 1,333.0원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261118134300002",
-          "summary": "(",
-          "publishedAt": "2026-11-18T06:34:12.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/18/AKR20261118134300002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.4
-        },
-        {
-          "title": "달러 19개월 만에 최고치 또 경신…환율 1,330원대 후반으로 상승",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850138",
-          "summary": "▲ 17일 서울 중구 하나은행 딜링룸 전광판에 코스피 등이 표시돼 있다. 이날 코스피는 4거래일 연속 내리며 전장보다 132.02포인…",
-          "publishedAt": "2026-11-17T07:08:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261117/202241733_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.9
-        },
-        {
-          "title": "IMF “한국 3분기 실적 기대 이상”…‘2%대 상회’ 고물가에 “추가 긴축을”",
-          "link": "https://www.hani.co.kr/arti/economy/economy_general/1287794.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레",
-          "sourceId": "hani-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.5
-        },
-        {
-          "title": "'5천피' 탈환에 환율도 하락…5.2원 내린 1,333.0원",
-          "link": "https://www.yna.co.kr/view/AKR20261118140200002",
-          "summary": "(서울=연합뉴스) 채새롬 기자 = 18일 엔비디아 발 훈풍에 코스피가 반등하면서 원/달러 환율도 하락했다.",
-          "publishedAt": "2026-11-18T06:51:44.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/18/PYH2026111818770001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.9
+          "score": 4.5
         }
       ]
     },
@@ -92,8 +92,22 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 200,
-      "items": []
+      "poolSize": 197,
+      "items": [
+        {
+          "title": "[병오년 동안거 결제 법어] 덕숭총림 방장 달하 우송 대종사",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506455",
+          "summary": "唯我獨尊입니다. 오직 이놈不識 알 수 없다.둘러꺼지는 통쾌한 달마스님의 법문應無所住 물든 적이 없다.而生其心 방실방실 반응육조스님 한 말씀頓覺三千是我家 시아경허스님 한 말씀첩첩산중 꽉 찬 이 고요보고 듣는 이 물건, 만고의 화두 이뭘까?백천만 번 관세음보살, 이 물건이 확실해집니다.관세음보살~ 이 자체, 유아독존이 세상 최고는 나, 이놈!보이고 들리는 이…",
+          "publishedAt": "2026-11-19T09:53:13.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
+        }
+      ]
     },
     {
       "id": "philosophy",
@@ -106,7 +120,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 146,
+      "poolSize": 144,
       "items": [
         {
           "title": "Leibniz’s Influence on Kant",
@@ -122,6 +136,32 @@
           "score": 6
         },
         {
+          "title": "How Much AI-Generated Text Is In Today’s Philosophy Journals? (guest post)",
+          "link": "https://dailynous.com/2026/11/18/how-much-ai-generated-text-is-in-todays-philosophy-journals/",
+          "summary": "“It seems that philosophers have started to make substantial use of AI in their papers, and it’s not uncommon for AI-generated text to make it […] The post How Much AI-Generated Text Is In Today’s Phi…",
+          "publishedAt": "2026-11-18T19:02:08.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/11/circuit-shirt-black-white-gold-1024x651.jpg",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 5.9
+        },
+        {
+          "title": "Philosophy of History and Historiography",
+          "link": "https://plato.stanford.edu/entries/history/",
+          "summary": "[New Entry by Jouni-Matti Kuukkanen on November 18, 2026.] [Editor's Note: The following new entry by Jouni-Matti Kuukkanen replaces the former entry on this topic by the previous author.]...",
+          "publishedAt": "2026-11-19T03:28:05.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
+        },
+        {
           "title": "TCI, 제32회 한국유기합성학회 학술대회 공식 후원… ‘TCI–SEJIN CI 학술상’ 2명 시상",
           "link": "https://www.kyosu.net/news/articleView.html?idxno=212633",
           "summary": "글로벌 연구용 시약 전문기업 TCI(Tokyo Chemical Industry Co., Ltd.)는 지난 11월 17일부터 19일까지 부산 롯데호텔에서 열린 ‘제32회 한국유기합성학회 학술대회’에 공식 후원사로 참여하고, ‘TCI–SEJIN CI 학술상’을 시상했다고 밝혔다. TCI는 국내 독점 공급사인 ㈜세진씨아이를 통해 오랜 기간 해당 학회의 후원 활동…",
@@ -132,7 +172,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.6
+          "score": 4.3
         },
         {
           "title": "한국호텔관광학회, ‘K-컬처 확산을 통한 관광 콘텐츠와 호텔관광산업 발전 전략’ 추계학술대회 개최",
@@ -145,33 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.6
-        },
-        {
-          "title": "Incompatibilist (Nondeterministic) Theories of Free Will",
-          "link": "https://plato.stanford.edu/entries/incompatibilism-theories/",
-          "summary": "[Revised entry by Randolph Clarke, Justin Capes, and Philip Swenson on November 17, 2026. Changes to: Main text, Bibliography] Incompatibilists hold that free will and determinism are mutually exclusi…",
-          "publishedAt": "2026-11-18T01:57:30.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
           "score": 4.3
-        },
-        {
-          "title": "Philosophy Department Bans AI Use",
-          "link": "https://dailynous.com/2026/11/16/philosophy-department-bans-ai-use/",
-          "summary": "The Department of Philosophy at Trinity College in Hartford, Connecticut has adopted a new policy banning students from using AI in classrooms or for coursework. […] The post Philosophy Department Ban…",
-          "publishedAt": "2026-11-16T13:49:57.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/11/ai-philosophy-dept-ban.png",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3.6
         }
       ]
     },
@@ -186,33 +200,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 205,
+      "poolSize": 198,
       "items": [
         {
-          "title": "창원조각비엔날레 '공명장' 폐막…누적 관람객 11만명",
-          "link": "https://www.yna.co.kr/view/AKR20261118085200052",
-          "summary": "(창원=연합뉴스) 김선경 기자 = 창원문화재단은 2026 창원조각비엔날레의 47일간 여정에 11만940명(누적 관람객)이 함께 했다고 18일 밝...",
-          "publishedAt": "2026-11-18T02:15:06.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/18/AKR20261118085200052_01_i_P2.jpg",
+          "title": "현대百 어린이책미술관서 미출판 그림책 전시…신진작가 지원",
+          "link": "https://www.yna.co.kr/view/AKR20261119055400030",
+          "summary": "(서울=연합뉴스) 조민정 기자 = 현대백화점[069960]은 오는 20일부터 내년 2월 28일까지 판교점 5층 현대어린이책미술관에서 '언-프린티...",
+          "publishedAt": "2026-11-19T01:12:51.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/19/AKR20261119055400030_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 7.3
-        },
-        {
-          "title": "국립현대미술관장에 기혜경 교수",
-          "link": "https://www.khan.co.kr/article/202611152013005/",
-          "summary": "기혜경 홍익대 교수(사진)가 국립현대미술관 관장에 임명됐다. 문화체육관광부는 지난 13일 국립현대미술관 신임 관장에 기혜경 교수를 임명했다고 밝혔다. 임기는 3년이다.기 신임 관장은 국공립 미술관 현장 경험을 쌓고 한국 근현대미술사를 연구해온 전시기획자다. 국립현대미술관 학예연구사로 13년간 재직하며 덕수궁관, 학예연구실, 서울관 특별전담팀 등을 거쳤다.…",
-          "publishedAt": "2026-11-15T11:13:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 6
+          "score": 7.5
         },
         {
           "title": "익숙한 것을 다시 보기 ‘모더니즘의 주역’ 오키프",
@@ -225,7 +226,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.5
+          "score": 5.2
         },
         {
           "title": "꽃을 그렸다고 여성성을 말한 건 아니다···미국 모더니즘의 주역, 조지아 오키프",
@@ -238,7 +239,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.4
+          "score": 5.1
         },
         {
           "title": "공연 속 독립운동가 되어볼까… AI로 만나는 체험전시 ‘독립여정’",
@@ -251,7 +252,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5.3
+          "score": 5
+        },
+        {
+          "title": "\"기증 아닌 약탈\"…반크, 도쿄박물관 오구라컬렉션 시정요구",
+          "link": "https://www.yna.co.kr/view/AKR20261119018800371",
+          "summary": "(서울=연합뉴스) 김지선 기자 = 사이버 외교사절단 반크(단장 박기태)는 일본 도쿄국립박물관 오구라컬렉션을 시작으로 '헤리티지백'(Heritag...",
+          "publishedAt": "2026-11-19T00:00:02.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/19/AKR20261119018800371_02_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
         }
       ]
     }
