@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-20T01:58:47.745Z",
+  "builtAt": "2026-11-20T10:49:47.758Z",
   "cards": [
     {
       "id": "econ",
@@ -12,46 +12,59 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 336,
+      "poolSize": 342,
       "items": [
         {
-          "title": "JP모건 \"美연준, 내년 3월까지 3연속 금리인상할 것\"",
-          "link": "https://www.yna.co.kr/view/AKR20261120049100009",
-          "summary": "(서울=연합뉴스) 정주호 기자 = JP모건은 19일(현지시간) 미국 연방준비제도(Fed·연준)가 12월에 이어 내년 1월과 3월에도 기준금리를 ...",
-          "publishedAt": "2026-11-20T00:53:02.000Z",
-          "image": "https://img.yna.co.kr/photo/reuters/2026/11/19/PRU20261119053301009_P2.jpg",
+          "title": "원/달러 환율, 증시 급락에 6.2원 오른 1,336.2원",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856132",
+          "summary": "▲ 20일 코스피와 코스닥이 5% 넘게 급락 마감했다. 이날 코스피는 전장보다 267.93포인트 내린 4,869.96에 거래를 마쳤다…",
+          "publishedAt": "2026-11-20T07:13:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261120/202242845_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "국제 금값, 14개월만에 최저…달러는 19개월 최고 수준",
+          "link": "https://www.yna.co.kr/view/AKR20261120083400009",
+          "summary": "(서울=연합뉴스) 정주호 기자 = 미국 연방준비제도(연준·Fed)의 추가 금리 인상 전망에 국제 금값이 5거래일 연속 하락하며 14개월 만의 최...",
+          "publishedAt": "2026-11-20T02:48:13.000Z",
+          "image": "https://img.yna.co.kr/photo/reuters/2026/10/20/PRU20261020155701009_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.5
+          "score": 7.3
         },
         {
-          "title": "“환율 10% 하락하면 가구당 연간 생활비 16만5000원 줄어들지만…”",
-          "link": "https://www.khan.co.kr/article/202611191624001/",
-          "summary": "한국은행은 19일 보고서에서 환율이 10% 떨어지면 가구당 연간 생활비가 16만5000원 절감된다고 분석했다. 한은 제공원·달러 환율이 10% 떨어지면 가구당 연간 생활비는 16만5000원 줄어든다고 한국은행이 분석했다. 특히 저소득층의 생활비 절감 효과가 뚜렷한 것으로 나타났다. 하지만 반도체 등 정보기술(IT)을 제외한 업황 개선이 지연되면 원화 강세에…",
-          "publishedAt": "2026-11-19T07:24:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
+          "title": "“AI 붕괴 오면 고통스런 경기침체 이어질 것…한국 집값도 위험” [딥머니 토크]",
+          "link": "https://www.mk.co.kr/news/economy/12214904",
+          "summary": "케네스 로고프 하버드대 석좌교수 인터뷰(2)2010년대엔 ‘장기 침체’와 ‘저금리’가 주류 경제학계의 지배적 논리로 작용해왔다. 금융위기 이후에도 성장률이 좀처럼 회복되지 않자 래..",
+          "publishedAt": "2026-11-20T09:19:21.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/20/news-p.v1.20261112.d993761a6fa54c79a59af1c0bf4ba3c4_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6
         },
         {
-          "title": "달러 또 최고치 경신인데…환율 4일 연속 하락해 1,330원선",
-          "link": "https://www.yna.co.kr/view/AKR20261119129700002",
-          "summary": "(서울=연합뉴스) 채새롬 기자 = 19일 원/달러 환율이 미국의 추가 긴축 우려에도 4일 연속 하락해 1,330원 선까지 내려왔다.",
-          "publishedAt": "2026-11-19T06:57:38.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/04/PYH2026110404720001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "title": "반도체發 원화강세 예고에도 정부, 환율방어 재원 증액 '0'",
+          "link": "https://www.mk.co.kr/news/economy/12214807",
+          "summary": "반도체 초호황에 벌어온 달러를 원화로 바꾸려는 수요가 늘며 원화 강세가 예상되지만 정부의 환율 안정용 원화재원은 늘어나지 않는 것으로 나타났다. 달러당 원화값이 상승할 때 이를 방..",
+          "publishedAt": "2026-11-20T08:29:06.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/21/20261121_01110109000004_S00.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6
         },
         {
           "title": "‘킹달러’에도 맷집 생긴 원화…‘달러 강세=원화 약세’ 공식 깨져",
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6
-        },
-        {
-          "title": "한은 \"환율 10% 하락 시 가구당 생활비 연 16만 5천 원 절감\"",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855257",
-          "summary": "환율이 10% 떨어지면 가구당 생활비가 1년에 평균 16만 5천 원 줄어든다는 한국은행 분석이 나왔습니다.에너지와 식료품, 외식비가 전체 절감액…",
-          "publishedAt": "2026-11-20T01:30:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261120/202242741_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6
+          "score": 5.8
         }
       ]
     },
@@ -95,6 +95,19 @@
       "poolSize": 201,
       "items": [
         {
+          "title": "안거, 본래면목 참구하는 불멸의 시간",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=339107",
+          "summary": "11월 23일 전국의 선원이 동안거 결제에 들었다. 결제일, 수행자들은 푸른 눈으로 석 달 정진의 결의를 가졌고, 방장과 선지식들은 결제법어로 수행의 방향을 일깨웠다. 주장자로 법상을 치고, 옛 공안을 들어 보이며, 한 번의 할(喝)로 법문을 맺었다. 수백 년을 이어 온 한국 선불교의 장엄한 풍경이다.선의 언어는 본래 파격이었다. ‘부처를 만나면 부처를 죽…",
+          "publishedAt": "2026-11-20T11:54:38.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
+        },
+        {
           "title": "[법인 스님의 문자 반야] 65. 도고마성(道高魔盛)",
           "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506486",
           "summary": "고전 〈서유기〉의 여정은 참으로 오묘하다. 삼장 법사 일행이 수만 리 길을 걸어 마침내 목적지인 서천의 뇌음사에 다다를 무렵, 그들을 가로막는 요괴들의 방해는 더욱 교묘하고 집요해진다. 요괴들의 방해는 여정의 마지막 순간까지 계속된다. 이처럼 수행의 길에서도 경지가 깊어질수록 예상치 못한 장애가 나타나곤 한다. 불교에서는 이를 도고마성(道高魔盛), 곧 도가…",
@@ -105,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 22. 불안·걱정·두려움 참회",
@@ -118,20 +131,33 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
-          "title": "[병오년 동안거 결제 법어] 덕숭총림 방장 달하 우송 대종사",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506455",
-          "summary": "唯我獨尊입니다. 오직 이놈不識 알 수 없다.둘러꺼지는 통쾌한 달마스님의 법문應無所住 물든 적이 없다.而生其心 방실방실 반응육조스님 한 말씀頓覺三千是我家 시아경허스님 한 말씀첩첩산중 꽉 찬 이 고요보고 듣는 이 물건, 만고의 화두 이뭘까?백천만 번 관세음보살, 이 물건이 확실해집니다.관세음보살~ 이 자체, 유아독존이 세상 최고는 나, 이놈!보이고 들리는 이…",
-          "publishedAt": "2026-11-19T09:53:13.000Z",
+          "title": "11. 오늘의 정토불교 ③",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=339118",
+          "summary": "‘대개 팔만사천의 법문은 그 문(門)을 따라서 들어갈 수 있으니, 여래의 방편이 근기를 따라서 각기 다르고 중생들의 근기와 욕망 역시 병을 따라서 같지 않기 때문이다. 그래서 다시 삼문(三門)이라는 요체가 있으니, 경절문(徑截門)이라는 것은 상근기가 깨달아 들어가는 것이며, 원돈문(圓頓門)이라는 것은 원근(圓根, 원돈문을 감당할 근기)이 깨달아 들어가는 것…",
+          "publishedAt": "2026-11-20T14:10:49.000Z",
           "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.7
+          "score": 3.1
+        },
+        {
+          "title": "40. 조주선사의 만법귀일[萬法歸一] ③",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=339117",
+          "summary": "무집착의 정신은 ‘금강경’과 ‘반야심경’에서도 분명히 드러난다. ‘금강경’은 말한다. “정해진 법은 없다. 그것을 일컬어 아뇩다라삼먁삼보리라 한다(無有定法 名阿耨多羅三藐三菩提).”‘반야심경’은 또 말한다. “지혜도 없고, 얻을 것도 없다(無智亦無得).”이 두 구절은 한 가지 사실을 가리킨다. 어떠한 진리도 붙잡는 순간, 그것은 더 이상 진리가 아니다. 아무…",
+          "publishedAt": "2026-11-20T14:03:21.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
         }
       ]
     },
@@ -148,6 +174,19 @@
       "scoredBy": "keyword",
       "poolSize": 146,
       "items": [
+        {
+          "title": "플라톤의 파르메니데스 테아이테토스",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212708",
+          "summary": "서광사가 1988년부터 이어온 플라톤·아리스토텔레스 원전 역주 기획의 열일곱 번째 결실이다. 헬라스어 원전을 번역하고 상세한 주석과 해제를 붙였다. 함께 실린 두 대화편은 플라톤이 50대 말에서 60세 무렵에 쓴 것으로, 후기 대화편인 《소피스테스》 편과 《정치가》 편으로 들어가는 길목에서 터 닦기 구실을 한다. 《파르메니데스》 편은 이데아론을 스스로 검토…",
+          "publishedAt": "2026-11-20T13:39:42.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 7.6
+        },
         {
           "title": "Leibniz’s Influence on Kant",
           "link": "https://plato.stanford.edu/entries/kant-leibniz/",
@@ -172,46 +211,33 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.4
+          "score": 5.2
         },
         {
-          "title": "Philosophy of History and Historiography",
-          "link": "https://plato.stanford.edu/entries/history/",
-          "summary": "[New Entry by Jouni-Matti Kuukkanen on November 18, 2026.] [Editor's Note: The following new entry by Jouni-Matti Kuukkanen replaces the former entry on this topic by the previous author.]...",
-          "publishedAt": "2026-11-19T03:28:05.000Z",
+          "title": "제주 중산간의 인문학: 탐라 웃드르, 그 길을 걷다",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212736",
+          "summary": "제주 중산간의 진짜 얼굴을 만나다제주 중산간은 바람과 돌, 척박한 땅을 벗 삼아 일구며 살아온 탐라 선인들의 삶터이자 제주 공동체의 본향이다. 해안 저지대와 한라산 고지대 사이를 뜻하는 중산간은 단순한 관광지나 개발 대상지가 아니다. 그곳에는 밭을 일구고 물을 길으며 공동체를 지킨 이들의 땀과 역사의 비극 속에서 고향을 잃고도 기억을 지켜낸 사람들의 이야기…",
+          "publishedAt": "2026-11-20T16:31:41.000Z",
           "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 4
+          "score": 4.6
         },
         {
-          "title": "Incompatibilist (Nondeterministic) Theories of Free Will",
-          "link": "https://plato.stanford.edu/entries/incompatibilism-theories/",
-          "summary": "[Revised entry by Randolph Clarke, Justin Capes, and Philip Swenson on November 17, 2026. Changes to: Main text, Bibliography] Incompatibilists hold that free will and determinism are mutually exclusi…",
-          "publishedAt": "2026-11-18T01:57:30.000Z",
+          "title": "매뛰퇴남의 달리기 인문학",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212733",
+          "summary": "삶은 계속 앞으로 나아가고 달리기도 앞으로 나아간다코로나19 이후 러닝 붐과 AI의 등장으로 삶의 속도는 훨씬 빨라졌다. 저자는 저마다의 이유로 삶에 균열이 생길 때마다 자신을 일으켜 세운 것이 ‘달리기’였다고 말한다. 달리기는 재능이 아닌 시간과 몸, 회복과 지속의 정직한 일관성을 보여준다는 것이다. 이 책은 달리기에 대한 저자의 사유와 AI 시대를 살아…",
+          "publishedAt": "2026-11-20T16:31:41.000Z",
           "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
           "candidates": [
             "philosophy"
           ],
-          "score": 3.5
-        },
-        {
-          "title": "‘부정한 점수’만 죄악일까?…‘노벨상 철학자’ 러셀의 대답은요 [.txt]",
-          "link": "https://www.hani.co.kr/arti/culture/book/1288263.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레 문화",
-          "sourceId": "hani-culture",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3.5
+          "score": 4.6
         }
       ]
     },
@@ -229,6 +255,33 @@
       "poolSize": 210,
       "items": [
         {
+          "title": "[게시판] 우리은행 발달장애 작가와 '원(WON) 아르떼 갤러리' 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261120093300002",
+          "summary": "▲ 우리은행은 19일부터 우리원(WON)뱅킹에서 '원(WON) 아르떼 갤러리' 전시를 개최한다고 20일 밝혔다. '원 아르떼 갤러리'는 우리은행...",
+          "publishedAt": "2026-11-20T04:38:08.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/20/AKR20261120093300002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ",
+            "art"
+          ],
+          "score": 7.4
+        },
+        {
+          "title": "서울공예박물관, 청년 공예작가 모집…쇼윈도·한옥서 작품 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261120037400004",
+          "summary": "(서울=연합뉴스) 유한주 기자 = 서울공예박물관은 박물관 쇼윈도와 한옥에서 작품을 선보일 청년 공예작가를 모집한다고 20일 밝혔다.",
+          "publishedAt": "2026-11-20T02:15:02.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/20/AKR20261120037400004_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.3
+        },
+        {
           "title": "“포켓몬 잡으러 경매장 갑니다”···1억원 넘는 포켓몬 카드 세트, 서울옥션에 떴다",
           "link": "https://www.khan.co.kr/article/202611200600041/",
           "summary": "2018년 도쿄도미술관 뭉크 전시와 연계해 발행된 협업 프로모션 포켓몬 카드의 모습. 뭉크의 <절규>를 모티프로 한 이미지가 카드에 등장한다. 서울옥션 제공19일 서울 강남구 서울옥션 강남센터에 마련된 ‘프리미엄 포켓몬 카드’ 전시를 관람객들이 둘러보고 있다. 서울옥션은 오는 24일까지 국내외 거장의 작품과 대중문화 수집품을 한자리에서 선보이는···",
@@ -239,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
           "title": "스페인서 한영수 사진전…서울 여성 모습 담은 26점 전시",
@@ -252,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6
+          "score": 5.8
         },
         {
           "title": "익숙한 것을 다시 보기 ‘모더니즘의 주역’ 오키프",
@@ -265,33 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.7
-        },
-        {
-          "title": "꽃을 그렸다고 여성성을 말한 건 아니다···미국 모더니즘의 주역, 조지아 오키프",
-          "link": "https://www.khan.co.kr/article/202611171635001/",
-          "summary": "조지아 오키프 ‘옥양목 꽃이 있는 소의 두개골’(1931), 캔버스에 유채, 91.4×61㎝. 시카고미술관 알프레드 스티글리츠 컬렉션.화면 가득 확대한 꽃, 이 도상이 여성의 성기를 상징한다는 해석. 조지아 오키프(1887~1986)의 익숙한 이미지다. 남성 비평가들은 오키프의 작업을 여성성의 틀에 가뒀고, 그의 이름 앞에는 현대 사진의 선구자이자 미국 ·…",
-          "publishedAt": "2026-11-17T07:35:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.6
-        },
-        {
-          "title": "서울에 동전 1만6천개 숨긴 英작가…갤러리서 던지는 질문들",
-          "link": "https://www.yna.co.kr/view/AKR20261119142200005",
-          "summary": "(서울=연합뉴스) 박의래 기자 = 지난 8월 31일부터 9월 10일까지 서울 을지로와 한남동, 청담동, 삼청동, 코엑스 곳곳에 동전 1만6천개가...",
-          "publishedAt": "2026-11-19T21:01:00.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/19/AKR20261119142200005_02_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.4
+          "score": 4.5
         }
       ]
     }
