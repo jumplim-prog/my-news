@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-20T10:49:47.758Z",
+  "builtAt": "2026-11-21T01:55:30.518Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 342,
+      "poolSize": 337,
       "items": [
         {
           "title": "원/달러 환율, 증시 급락에 6.2원 오른 1,336.2원",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "국제 금값, 14개월만에 최저…달러는 19개월 최고 수준",
@@ -38,7 +38,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7
+        },
+        {
+          "title": "[다음주 경제] 숨 고르기 한 기준금리, 인상할까…한은 성장률 전망은",
+          "link": "https://www.yna.co.kr/view/AKR20261121014700002",
+          "summary": "(세종=연합뉴스) 이대희 배영경 한지훈 기자 = 다음 주(11월 23∼27일)에는 한국은행 금융통화위원회가 기준금리를 결정한다.",
+          "publishedAt": "2026-11-20T23:36:08.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/22/PYH2026102205130001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 6
         },
         {
           "title": "“AI 붕괴 오면 고통스런 경기침체 이어질 것…한국 집값도 위험” [딥머니 토크]",
@@ -51,33 +64,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 6
+          "score": 5.7
         },
         {
-          "title": "반도체發 원화강세 예고에도 정부, 환율방어 재원 증액 '0'",
+          "title": "반도체發 원화강세 예고에도…정부, 환율방어 재원 증액 '0'",
           "link": "https://www.mk.co.kr/news/economy/12214807",
           "summary": "반도체 초호황에 벌어온 달러를 원화로 바꾸려는 수요가 늘며 원화 강세가 예상되지만 정부의 환율 안정용 원화재원은 늘어나지 않는 것으로 나타났다. 달러당 원화값이 상승할 때 이를 방..",
           "publishedAt": "2026-11-20T08:29:06.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/21/20261121_01110109000004_S00.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/21/20261121_01160109000003_S00.jpg",
           "sourceName": "매일경제",
           "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6
-        },
-        {
-          "title": "‘킹달러’에도 맷집 생긴 원화…‘달러 강세=원화 약세’ 공식 깨져",
-          "link": "https://www.mk.co.kr/news/economy/12214382",
-          "summary": "美 추가 긴축 우려에 달러 고공행진 지속 반도체 수출대금 유입으로 원화는 차별화이달 들어 미국 달러화 가치가 19개월 만에 최고 수준으로 치솟았지만, 달러당 원화값은 오히려 오르고..",
-          "publishedAt": "2026-11-20T01:45:56.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/20/rcv.YNA.20261112.PYH2026111217190001300_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.8
+          "score": 5.6
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 201,
+      "poolSize": 200,
       "items": [
         {
           "title": "안거, 본래면목 참구하는 불멸의 시간",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "[법인 스님의 문자 반야] 65. 도고마성(道高魔盛)",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.2
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 22. 불안·걱정·두려움 참회",
@@ -131,7 +131,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.2
+        },
+        {
+          "title": "“유가사지론 내명, 비불교전통 비판하되 논쟁 않아”",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506505",
+          "summary": "유식불교의 핵심 논서인 〈유가사지론(瑜伽師地論)〉 ‘문소성지(聞所成地)’의 첫 부분인 내명(內明, Adhyātmavidyā)이 비불교 전통을 논쟁의 상대가 아닌 진리로 이끌어야 할 교화의 대상으로 바라봤다는 주장이 제기됐다.독일 함부르크대 박사과정 운산 스님은 11월 20일 서울 법련사 대웅보전에서 열린 보조사상연구원(원장 이병욱) 제162차 정기 월례학술…",
+          "publishedAt": "2026-11-21T07:23:07.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
         },
         {
           "title": "11. 오늘의 정토불교 ③",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
-        },
-        {
-          "title": "40. 조주선사의 만법귀일[萬法歸一] ③",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=339117",
-          "summary": "무집착의 정신은 ‘금강경’과 ‘반야심경’에서도 분명히 드러난다. ‘금강경’은 말한다. “정해진 법은 없다. 그것을 일컬어 아뇩다라삼먁삼보리라 한다(無有定法 名阿耨多羅三藐三菩提).”‘반야심경’은 또 말한다. “지혜도 없고, 얻을 것도 없다(無智亦無得).”이 두 구절은 한 가지 사실을 가리킨다. 어떠한 진리도 붙잡는 순간, 그것은 더 이상 진리가 아니다. 아무…",
-          "publishedAt": "2026-11-20T14:03:21.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.1
+          "score": 2.8
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 146,
+      "poolSize": 145,
       "items": [
         {
           "title": "플라톤의 파르메니데스 테아이테토스",
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.6
+          "score": 7.2
         },
         {
           "title": "Leibniz’s Influence on Kant",
@@ -211,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.2
+          "score": 4.9
         },
         {
           "title": "제주 중산간의 인문학: 탐라 웃드르, 그 길을 걷다",
@@ -224,7 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.6
+          "score": 4.3
         },
         {
           "title": "매뛰퇴남의 달리기 인문학",
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.6
+          "score": 4.3
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 210,
+      "poolSize": 206,
       "items": [
         {
           "title": "[게시판] 우리은행 발달장애 작가와 '원(WON) 아르떼 갤러리' 전시",
@@ -266,7 +266,7 @@
             "econ",
             "art"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "서울공예박물관, 청년 공예작가 모집…쇼윈도·한옥서 작품 전시",
@@ -279,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
+          "score": 7
         },
         {
           "title": "“포켓몬 잡으러 경매장 갑니다”···1억원 넘는 포켓몬 카드 세트, 서울옥션에 떴다",
@@ -292,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.2
+          "score": 6.9
         },
         {
           "title": "스페인서 한영수 사진전…서울 여성 모습 담은 26점 전시",
@@ -305,16 +305,16 @@
           "candidates": [
             "art"
           ],
-          "score": 5.8
+          "score": 5.5
         },
         {
-          "title": "익숙한 것을 다시 보기 ‘모더니즘의 주역’ 오키프",
-          "link": "https://www.khan.co.kr/article/202611172038005/",
-          "summary": "국현 과천관 ‘조지아 오키프…’전‘파랑과 초록음악’(1919~1921), 캔버스에 유채, 58.4×48.3㎝. 시카고미술관 앨프리드 스티글리츠 컬렉션남편 스티글리츠의 명성에 가려져 ‘여성성’ 틀 대신 독자적 세계 조명화면 가득 확대한 꽃, 이 도상이 여성의 성기를 상징한다는 해석. 조지아 오키프(1887~1986)의 익숙한 이미지다. 남성 비평가들은 오키·…",
-          "publishedAt": "2026-11-17T11:38:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "佛 유명작가 우엘벡, 배우 드파르디외와 함께 집단성폭행 혐의 피소",
+          "link": "https://www.yna.co.kr/view/AKR20261121024200009",
+          "summary": "(서울=연합뉴스) 송진원 기자 = 프랑스 국민배우 제라르 드파르디외와 프랑스의 대표적인 현대 소설가인 미셸 우엘벡이 집단 성폭행 혐의로 수사를 ...",
+          "publishedAt": "2026-11-21T01:30:49.000Z",
+          "image": "https://img.yna.co.kr/photo/etc/af/2026/11/20/PAF20261120255001009_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
