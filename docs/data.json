@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-21T01:55:30.518Z",
+  "builtAt": "2026-11-21T10:33:02.912Z",
   "cards": [
     {
       "id": "econ",
@@ -12,7 +12,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 337,
+      "poolSize": 339,
       "items": [
         {
           "title": "원/달러 환율, 증시 급락에 6.2원 오른 1,336.2원",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.9
         },
         {
           "title": "국제 금값, 14개월만에 최저…달러는 19개월 최고 수준",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7
+          "score": 6.8
         },
         {
           "title": "[다음주 경제] 숨 고르기 한 기준금리, 인상할까…한은 성장률 전망은",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6
+          "score": 5.8
         },
         {
           "title": "“AI 붕괴 오면 고통스런 경기침체 이어질 것…한국 집값도 위험” [딥머니 토크]",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.7
+          "score": 5.5
         },
         {
           "title": "반도체發 원화강세 예고에도…정부, 환율방어 재원 증액 '0'",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.6
+          "score": 5.5
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 200,
+      "poolSize": 201,
       "items": [
         {
           "title": "안거, 본래면목 참구하는 불멸의 시간",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
           "title": "[법인 스님의 문자 반야] 65. 도고마성(道高魔盛)",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 22. 불안·걱정·두려움 참회",
@@ -131,7 +131,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 4
+        },
+        {
+          "title": "창원 성주사, 15회째 삼보일배 정진... '평안과 화합 염원'",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4120025",
+          "summary": "천년고찰 창원 불모산 성주사가 세상의 화합과 평화를 염원하는 삼보일배 정진을 봉행했습니다.성주사는 21일 오전 경내 '깨달음의 길'에서 '대웅전'에 이르는 구간에서 '가을 삼보일배 정진'을 진행했습니다.'마음은 평안으로 세상은 화합으로'를 주제로 열린 이번 정진은 주지 법안스님 취임 이후 15회째 이어진 삼보일배 입니다.이날 삼보일배는 개회와 삼귀의, 반야…",
+          "publishedAt": "2026-11-21T17:38:46.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.1
         },
         {
           "title": "“유가사지론 내명, 비불교전통 비판하되 논쟁 않아”",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
-        },
-        {
-          "title": "11. 오늘의 정토불교 ③",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=339118",
-          "summary": "‘대개 팔만사천의 법문은 그 문(門)을 따라서 들어갈 수 있으니, 여래의 방편이 근기를 따라서 각기 다르고 중생들의 근기와 욕망 역시 병을 따라서 같지 않기 때문이다. 그래서 다시 삼문(三門)이라는 요체가 있으니, 경절문(徑截門)이라는 것은 상근기가 깨달아 들어가는 것이며, 원돈문(圓頓門)이라는 것은 원근(圓根, 원돈문을 감당할 근기)이 깨달아 들어가는 것…",
-          "publishedAt": "2026-11-20T14:10:49.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.8
+          "score": 2.9
         }
       ]
     },
@@ -185,20 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.2
-        },
-        {
-          "title": "Leibniz’s Influence on Kant",
-          "link": "https://plato.stanford.edu/entries/kant-leibniz/",
-          "summary": "[Revised entry by Catherine Wilson on November 14, 2026. Changes to: Main text, Bibliography] Kant's interest in the physics, metaphysics, epistemology, and theology of his predecessor G.W. Leibniz is…",
-          "publishedAt": "2026-11-15T00:31:54.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 6
+          "score": 7.1
         },
         {
           "title": "How Much AI-Generated Text Is In Today’s Philosophy Journals? (guest post)",
@@ -211,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.9
+          "score": 4.7
         },
         {
           "title": "제주 중산간의 인문학: 탐라 웃드르, 그 길을 걷다",
@@ -224,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.3
+          "score": 4.1
         },
         {
           "title": "매뛰퇴남의 달리기 인문학",
@@ -237,7 +224,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.3
+          "score": 4.1
+        },
+        {
+          "title": "부커상·유영번역상 수상에 빛나는 소설 ‘궤도’, 광막한 우주에서 인간을 되묻다",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212720",
+          "summary": "[화제의 책_『궤도』]",
+          "publishedAt": "2026-11-20T12:38:03.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 206,
+      "poolSize": 203,
       "items": [
         {
           "title": "[게시판] 우리은행 발달장애 작가와 '원(WON) 아르떼 갤러리' 전시",
@@ -266,7 +266,7 @@
             "econ",
             "art"
           ],
-          "score": 7.1
+          "score": 6.9
         },
         {
           "title": "서울공예박물관, 청년 공예작가 모집…쇼윈도·한옥서 작품 전시",
@@ -279,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7
+          "score": 6.8
         },
         {
           "title": "“포켓몬 잡으러 경매장 갑니다”···1억원 넘는 포켓몬 카드 세트, 서울옥션에 떴다",
@@ -292,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.9
+          "score": 6.7
         },
         {
           "title": "스페인서 한영수 사진전…서울 여성 모습 담은 26점 전시",
@@ -305,7 +305,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.5
+          "score": 5.3
         },
         {
           "title": "佛 유명작가 우엘벡, 배우 드파르디외와 함께 집단성폭행 혐의 피소",
@@ -318,7 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.3
         }
       ]
     }
