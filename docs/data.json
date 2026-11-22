@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-21T10:33:02.912Z",
+  "builtAt": "2026-11-22T00:51:47.449Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 339,
+      "poolSize": 336,
       "items": [
+        {
+          "title": "한은, 석 달 만에 금리 인상 재개 전망…\"내년까지 긴축\"",
+          "link": "https://www.yna.co.kr/view/AKR20261121021600002",
+          "summary": "(서울=연합뉴스) 한지훈 채새롬 이도흔 기자 = 경제 전문가들은 한국은행 금융통화위원회(이하 금통위)가 오는 26일 올해 마지막 통화정책방향 회...",
+          "publishedAt": "2026-11-21T20:45:01.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/22/PYH2026102205300001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "원/달러 환율, 증시 급락에 6.2원 오른 1,336.2원",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856132",
@@ -25,20 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.9
-        },
-        {
-          "title": "국제 금값, 14개월만에 최저…달러는 19개월 최고 수준",
-          "link": "https://www.yna.co.kr/view/AKR20261120083400009",
-          "summary": "(서울=연합뉴스) 정주호 기자 = 미국 연방준비제도(연준·Fed)의 추가 금리 인상 전망에 국제 금값이 5거래일 연속 하락하며 14개월 만의 최...",
-          "publishedAt": "2026-11-20T02:48:13.000Z",
-          "image": "https://img.yna.co.kr/photo/reuters/2026/10/20/PRU20261020155701009_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.8
+          "score": 6.6
         },
         {
           "title": "[다음주 경제] 숨 고르기 한 기준금리, 인상할까…한은 성장률 전망은",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.8
+          "score": 5.5
         },
         {
           "title": "“AI 붕괴 오면 고통스런 경기침체 이어질 것…한국 집값도 위험” [딥머니 토크]",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.5
+          "score": 5.2
         },
         {
           "title": "반도체發 원화강세 예고에도…정부, 환율방어 재원 증액 '0'",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.5
+          "score": 5.2
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 201,
+      "poolSize": 192,
       "items": [
         {
           "title": "안거, 본래면목 참구하는 불멸의 시간",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.7
         },
         {
           "title": "[법인 스님의 문자 반야] 65. 도고마성(道高魔盛)",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.7
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 22. 불안·걱정·두려움 참회",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.7
         },
         {
           "title": "창원 성주사, 15회째 삼보일배 정진... '평안과 화합 염원'",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 2.8
         },
         {
           "title": "“유가사지론 내명, 비불교전통 비판하되 논쟁 않아”",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.9
+          "score": 2.6
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.1
+          "score": 6.8
         },
         {
           "title": "How Much AI-Generated Text Is In Today’s Philosophy Journals? (guest post)",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
           "title": "제주 중산간의 인문학: 탐라 웃드르, 그 길을 걷다",
@@ -211,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.1
+          "score": 3.8
         },
         {
           "title": "매뛰퇴남의 달리기 인문학",
@@ -224,7 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.1
+          "score": 3.8
         },
         {
           "title": "부커상·유영번역상 수상에 빛나는 소설 ‘궤도’, 광막한 우주에서 인간을 되묻다",
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4
+          "score": 3.7
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 203,
+      "poolSize": 200,
       "items": [
         {
           "title": "[게시판] 우리은행 발달장애 작가와 '원(WON) 아르떼 갤러리' 전시",
@@ -266,20 +266,7 @@
             "econ",
             "art"
           ],
-          "score": 6.9
-        },
-        {
-          "title": "서울공예박물관, 청년 공예작가 모집…쇼윈도·한옥서 작품 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261120037400004",
-          "summary": "(서울=연합뉴스) 유한주 기자 = 서울공예박물관은 박물관 쇼윈도와 한옥에서 작품을 선보일 청년 공예작가를 모집한다고 20일 밝혔다.",
-          "publishedAt": "2026-11-20T02:15:02.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/20/AKR20261120037400004_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 6.8
+          "score": 6.6
         },
         {
           "title": "“포켓몬 잡으러 경매장 갑니다”···1억원 넘는 포켓몬 카드 세트, 서울옥션에 떴다",
@@ -292,20 +279,33 @@
           "candidates": [
             "art"
           ],
-          "score": 6.7
+          "score": 6.4
         },
         {
-          "title": "스페인서 한영수 사진전…서울 여성 모습 담은 26점 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261120056800005",
-          "summary": "(서울=연합뉴스) 임순현 기자 = 한국 현대 사진의 선구자로 불리는 한영수(1933∼1999) 작가의 사진전이 스페인에서 처음 열린다.",
-          "publishedAt": "2026-11-20T01:10:06.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/20/AKR20261120056800005_01_i_P2.jpg",
+          "title": "양산서 '위안부 피해 증언' 故 김복동 할머니 생애 조명 전시",
+          "link": "https://www.yna.co.kr/view/AKR20261120128200052",
+          "summary": "(양산=연합뉴스) 이준영 기자 = 김복동평화공원양산시민추진위원회(이하 시민추진위)는 내달 14일까지 경남 양산시 물금읍 미래디자인융합센터 전시실...",
+          "publishedAt": "2026-11-21T23:35:00.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/20/AKR20261120128200052_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 5.3
+          "score": 4.5
+        },
+        {
+          "title": "김치 넣었는데 일본풍?…반고흐미술관 항의 끝에 메뉴 삭제",
+          "link": "https://www.yna.co.kr/view/AKR20261121050300371",
+          "summary": "(서울=연합뉴스) 김지선 기자 = 해외 주요 문화시설 식당에서 마치 일본 음식처럼 판매되던 김치 요리가 항의 끝에 메뉴에서 빠진 사실이 22일 ...",
+          "publishedAt": "2026-11-21T23:20:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/21/AKR20261121050300371_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.5
         },
         {
           "title": "佛 유명작가 우엘벡, 배우 드파르디외와 함께 집단성폭행 혐의 피소",
@@ -318,7 +318,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4
         }
       ]
     }
