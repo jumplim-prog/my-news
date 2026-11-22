@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-22T00:51:47.449Z",
+  "builtAt": "2026-11-22T10:37:41.373Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 336,
+      "poolSize": 326,
       "items": [
+        {
+          "title": "\"고물가에 추가 긴축 유력 … 26일 기준금리 0.25%P↑\"",
+          "link": "https://www.mk.co.kr/news/economy/12215695",
+          "summary": "오는 26일 한국은행 금융통화위원회를 앞두고 한은 출신 시장 전문가들이 일제히 기준금리 인상을 전망했다. 고물가가 지속되는 상황에서 반도체 호황으로 경기까지 예상보다 강한 흐름을 ..",
+          "publishedAt": "2026-11-22T08:36:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/23/20261123_01110110000003_S00.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "한은, 석 달 만에 금리 인상 재개 전망…\"내년까지 긴축\"",
           "link": "https://www.yna.co.kr/view/AKR20261121021600002",
@@ -25,20 +38,20 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
         },
         {
-          "title": "원/달러 환율, 증시 급락에 6.2원 오른 1,336.2원",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856132",
-          "summary": "▲ 20일 코스피와 코스닥이 5% 넘게 급락 마감했다. 이날 코스피는 전장보다 267.93포인트 내린 4,869.96에 거래를 마쳤다…",
-          "publishedAt": "2026-11-20T07:13:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261120/202242845_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
+          "title": "환율, 강달러·주가 급락에 6.2원 오른 1,336.2원",
+          "link": "https://www.yna.co.kr/view/AKR20261120132200002",
+          "summary": "(서울=연합뉴스) 채새롬 기자 = 원/달러 환율은 20일 달러 강세와 증시 급락으로 인한 위험회피 심리 영향으로 상승했다.",
+          "publishedAt": "2026-11-20T06:53:40.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/20/PYH2026112014060001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6.6
+          "score": 6.4
         },
         {
           "title": "[다음주 경제] 숨 고르기 한 기준금리, 인상할까…한은 성장률 전망은",
@@ -51,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.5
+          "score": 5.3
         },
         {
           "title": "“AI 붕괴 오면 고통스런 경기침체 이어질 것…한국 집값도 위험” [딥머니 토크]",
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 5.2
-        },
-        {
-          "title": "반도체發 원화강세 예고에도…정부, 환율방어 재원 증액 '0'",
-          "link": "https://www.mk.co.kr/news/economy/12214807",
-          "summary": "반도체 초호황에 벌어온 달러를 원화로 바꾸려는 수요가 늘며 원화 강세가 예상되지만 정부의 환율 안정용 원화재원은 늘어나지 않는 것으로 나타났다. 달러당 원화값이 상승할 때 이를 방..",
-          "publishedAt": "2026-11-20T08:29:06.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/21/20261121_01160109000003_S00.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.2
+          "score": 5
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 192,
+      "poolSize": 193,
       "items": [
         {
           "title": "안거, 본래면목 참구하는 불멸의 시간",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.5
         },
         {
           "title": "[법인 스님의 문자 반야] 65. 도고마성(道高魔盛)",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
+          "score": 3.5
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 22. 불안·걱정·두려움 참회",
@@ -131,20 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.7
-        },
-        {
-          "title": "창원 성주사, 15회째 삼보일배 정진... '평안과 화합 염원'",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4120025",
-          "summary": "천년고찰 창원 불모산 성주사가 세상의 화합과 평화를 염원하는 삼보일배 정진을 봉행했습니다.성주사는 21일 오전 경내 '깨달음의 길'에서 '대웅전'에 이르는 구간에서 '가을 삼보일배 정진'을 진행했습니다.'마음은 평안으로 세상은 화합으로'를 주제로 열린 이번 정진은 주지 법안스님 취임 이후 15회째 이어진 삼보일배 입니다.이날 삼보일배는 개회와 삼귀의, 반야…",
-          "publishedAt": "2026-11-21T17:38:46.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.8
+          "score": 3.5
         },
         {
           "title": "“유가사지론 내명, 비불교전통 비판하되 논쟁 않아”",
@@ -157,7 +144,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.6
+          "score": 2.4
+        },
+        {
+          "title": "11. 오늘의 정토불교 ③",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=339118",
+          "summary": "‘대개 팔만사천의 법문은 그 문(門)을 따라서 들어갈 수 있으니, 여래의 방편이 근기를 따라서 각기 다르고 중생들의 근기와 욕망 역시 병을 따라서 같지 않기 때문이다. 그래서 다시 삼문(三門)이라는 요체가 있으니, 경절문(徑截門)이라는 것은 상근기가 깨달아 들어가는 것이며, 원돈문(圓頓門)이라는 것은 원근(圓根, 원돈문을 감당할 근기)이 깨달아 들어가는 것…",
+          "publishedAt": "2026-11-20T14:10:49.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 2.1
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.8
+          "score": 6.6
         },
         {
           "title": "How Much AI-Generated Text Is In Today’s Philosophy Journals? (guest post)",
@@ -211,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.8
+          "score": 3.6
         },
         {
           "title": "매뛰퇴남의 달리기 인문학",
@@ -224,7 +224,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.8
+          "score": 3.6
         },
         {
           "title": "부커상·유영번역상 수상에 빛나는 소설 ‘궤도’, 광막한 우주에서 인간을 되묻다",
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.7
+          "score": 3.5
         }
       ]
     },
@@ -252,22 +252,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 200,
+      "poolSize": 198,
       "items": [
-        {
-          "title": "[게시판] 우리은행 발달장애 작가와 '원(WON) 아르떼 갤러리' 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261120093300002",
-          "summary": "▲ 우리은행은 19일부터 우리원(WON)뱅킹에서 '원(WON) 아르떼 갤러리' 전시를 개최한다고 20일 밝혔다. '원 아르떼 갤러리'는 우리은행...",
-          "publishedAt": "2026-11-20T04:38:08.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/20/AKR20261120093300002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ",
-            "art"
-          ],
-          "score": 6.6
-        },
         {
           "title": "“포켓몬 잡으러 경매장 갑니다”···1억원 넘는 포켓몬 카드 세트, 서울옥션에 떴다",
           "link": "https://www.khan.co.kr/article/202611200600041/",
@@ -279,7 +265,20 @@
           "candidates": [
             "art"
           ],
-          "score": 6.4
+          "score": 6.2
+        },
+        {
+          "title": "경주 황룡사역사문화관 상설전시실 새 단장…내년 1월 재개관",
+          "link": "https://www.yna.co.kr/view/AKR20261122016300053",
+          "summary": "(경주=연합뉴스) 김선형 기자 = 경북 경주시는 황룡사역사문화관 2층 상설전시실 개편을 마치고 오는 12월 시범 운영을 거쳐 내년 1월 정식 재...",
+          "publishedAt": "2026-11-22T01:08:48.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/22/AKR20261122016300053_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.3
         },
         {
           "title": "양산서 '위안부 피해 증언' 故 김복동 할머니 생애 조명 전시",
@@ -292,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "김치 넣었는데 일본풍?…반고흐미술관 항의 끝에 메뉴 삭제",
@@ -305,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "佛 유명작가 우엘벡, 배우 드파르디외와 함께 집단성폭행 혐의 피소",
@@ -318,7 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4
+          "score": 3.8
         }
       ]
     }
