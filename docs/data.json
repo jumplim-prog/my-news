@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-22T10:37:41.373Z",
+  "builtAt": "2026-11-23T01:20:13.415Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 326,
+      "poolSize": 330,
       "items": [
+        {
+          "title": "美 Fed 쿡 \"금리 인상 늦으면 큰 충격\"…AI발 물가 압박 경고",
+          "link": "https://www.hankyung.com/article/202611233128i",
+          "summary": "",
+          "publishedAt": "2026-11-22T23:50:12.000Z",
+          "image": "",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
         {
           "title": "\"고물가에 추가 긴축 유력 … 26일 기준금리 0.25%P↑\"",
           "link": "https://www.mk.co.kr/news/economy/12215695",
@@ -25,46 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.5
-        },
-        {
-          "title": "한은, 석 달 만에 금리 인상 재개 전망…\"내년까지 긴축\"",
-          "link": "https://www.yna.co.kr/view/AKR20261121021600002",
-          "summary": "(서울=연합뉴스) 한지훈 채새롬 이도흔 기자 = 경제 전문가들은 한국은행 금융통화위원회(이하 금통위)가 오는 26일 올해 마지막 통화정책방향 회...",
-          "publishedAt": "2026-11-21T20:45:01.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/22/PYH2026102205300001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
           "score": 7.2
-        },
-        {
-          "title": "환율, 강달러·주가 급락에 6.2원 오른 1,336.2원",
-          "link": "https://www.yna.co.kr/view/AKR20261120132200002",
-          "summary": "(서울=연합뉴스) 채새롬 기자 = 원/달러 환율은 20일 달러 강세와 증시 급락으로 인한 위험회피 심리 영향으로 상승했다.",
-          "publishedAt": "2026-11-20T06:53:40.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/20/PYH2026112014060001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.4
-        },
-        {
-          "title": "[다음주 경제] 숨 고르기 한 기준금리, 인상할까…한은 성장률 전망은",
-          "link": "https://www.yna.co.kr/view/AKR20261121014700002",
-          "summary": "(세종=연합뉴스) 이대희 배영경 한지훈 기자 = 다음 주(11월 23∼27일)에는 한국은행 금융통화위원회가 기준금리를 결정한다.",
-          "publishedAt": "2026-11-20T23:36:08.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/10/22/PYH2026102205130001300_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.3
         },
         {
           "title": "“AI 붕괴 오면 고통스런 경기침체 이어질 것…한국 집값도 위험” [딥머니 토크]",
@@ -77,7 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 5
+          "score": 4.7
+        },
+        {
+          "title": "'1조 달러' 한국 수출, 이달 중순도 역대 최대…반도체 4배 급증(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20261123030651002",
+          "summary": "(세종=연합뉴스) 안채원 기자 = 지난 19일 사상 처음 누적 수출액 1조달러를 돌파한 한국 수출이 이달 중순에도 역대 최대 실적을 기록하며 강...",
+          "publishedAt": "2026-11-23T00:11:48.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/19/PYH2026111918450006100_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "[속보] 11월 1∼20일 수출 774억달러, 101.5% 증가…일평균 95.2%↑",
+          "link": "https://www.hankyung.com/article/2026112332227",
+          "summary": "(",
+          "publishedAt": "2026-11-23T00:08:03.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/19/PYH2026111918450006100_P2.jpg",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
         }
       ]
     },
@@ -92,8 +92,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 193,
+      "poolSize": 199,
       "items": [
+        {
+          "title": "덕숭총림 수덕사 방장 달하 우송대종사 병오년 동안거 결제법어",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444332",
+          "summary": "유아독존(唯我獨尊)입니다. 오직 이놈불식(不識) 알 수 없다. 둘러꺼지는 통쾌한 달마스님의 법문응무소주(應無所住) 물든 적이 없다. 이생기심(而生其心) 방실방실 반응육조스님 한 말씀돈각삼천시아가(頓覺三千是我家) 시아경허스님 한 말씀첩첩산중 꽉 찬 이 고요보고 듣는 이 물건, 만고의 화두 이뭘까?백천만 번 관세음보살, 이 물건이 확실해집니다.관세음보살~ 이…",
+          "publishedAt": "2026-11-23T09:49:23.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
+        },
         {
           "title": "안거, 본래면목 참구하는 불멸의 시간",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=339107",
@@ -105,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
+          "score": 3.2
         },
         {
           "title": "[법인 스님의 문자 반야] 65. 도고마성(道高魔盛)",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
+          "score": 3.2
         },
         {
           "title": "[반야 참회로 여는 수행의 첫걸음] 22. 불안·걱정·두려움 참회",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.5
+          "score": 3.2
         },
         {
           "title": "“유가사지론 내명, 비불교전통 비판하되 논쟁 않아”",
@@ -141,19 +154,6 @@
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.4
-        },
-        {
-          "title": "11. 오늘의 정토불교 ③",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=339118",
-          "summary": "‘대개 팔만사천의 법문은 그 문(門)을 따라서 들어갈 수 있으니, 여래의 방편이 근기를 따라서 각기 다르고 중생들의 근기와 욕망 역시 병을 따라서 같지 않기 때문이다. 그래서 다시 삼문(三門)이라는 요체가 있으니, 경절문(徑截門)이라는 것은 상근기가 깨달아 들어가는 것이며, 원돈문(圓頓門)이라는 것은 원근(圓根, 원돈문을 감당할 근기)이 깨달아 들어가는 것…",
-          "publishedAt": "2026-11-20T14:10:49.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
@@ -172,8 +172,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 145,
+      "poolSize": 144,
       "items": [
+        {
+          "title": "Hume’s Moral Philosophy",
+          "link": "https://plato.stanford.edu/entries/hume-moral/",
+          "summary": "[Revised entry by Rachel Cohon on November 22, 2026. Changes to: Main text, Bibliography] Hume's position in ethics, which is based on his empiricist theory of the mind, is best known for four theses:…",
+          "publishedAt": "2026-11-23T07:15:26.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 7.6
+        },
+        {
+          "title": "Method and Metaphysics in Plato’s Sophist and Statesman",
+          "link": "https://plato.stanford.edu/entries/plato-sophstate/",
+          "summary": "[Revised entry by Mary-Louise Gill on November 22, 2026. Changes to: Main text, Bibliography, notes.html] The Sophist and Statesman are late Platonic dialogues, whose relative dates are established by…",
+          "publishedAt": "2026-11-23T05:54:47.000Z",
+          "image": "",
+          "sourceName": "Stanford Encyclopedia",
+          "sourceId": "stanford-sep",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 7.6
+        },
         {
           "title": "플라톤의 파르메니데스 테아이테토스",
           "link": "https://www.kyosu.net/news/articleView.html?idxno=212708",
@@ -185,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.6
+          "score": 6.3
         },
         {
           "title": "How Much AI-Generated Text Is In Today’s Philosophy Journals? (guest post)",
@@ -201,39 +227,13 @@
           "score": 4.5
         },
         {
-          "title": "제주 중산간의 인문학: 탐라 웃드르, 그 길을 걷다",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212736",
-          "summary": "제주 중산간의 진짜 얼굴을 만나다제주 중산간은 바람과 돌, 척박한 땅을 벗 삼아 일구며 살아온 탐라 선인들의 삶터이자 제주 공동체의 본향이다. 해안 저지대와 한라산 고지대 사이를 뜻하는 중산간은 단순한 관광지나 개발 대상지가 아니다. 그곳에는 밭을 일구고 물을 길으며 공동체를 지킨 이들의 땀과 역사의 비극 속에서 고향을 잃고도 기억을 지켜낸 사람들의 이야기…",
-          "publishedAt": "2026-11-20T16:31:41.000Z",
+          "title": "제6회 혜곡최순우상에 ‘나무 인문학자’ 고규홍 작가",
+          "link": "https://www.hani.co.kr/arti/culture/culture_general/1288461.html",
+          "summary": "",
+          "publishedAt": null,
           "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3.6
-        },
-        {
-          "title": "매뛰퇴남의 달리기 인문학",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212733",
-          "summary": "삶은 계속 앞으로 나아가고 달리기도 앞으로 나아간다코로나19 이후 러닝 붐과 AI의 등장으로 삶의 속도는 훨씬 빨라졌다. 저자는 저마다의 이유로 삶에 균열이 생길 때마다 자신을 일으켜 세운 것이 ‘달리기’였다고 말한다. 달리기는 재능이 아닌 시간과 몸, 회복과 지속의 정직한 일관성을 보여준다는 것이다. 이 책은 달리기에 대한 저자의 사유와 AI 시대를 살아…",
-          "publishedAt": "2026-11-20T16:31:41.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 3.6
-        },
-        {
-          "title": "부커상·유영번역상 수상에 빛나는 소설 ‘궤도’, 광막한 우주에서 인간을 되묻다",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=212720",
-          "summary": "[화제의 책_『궤도』]",
-          "publishedAt": "2026-11-20T12:38:03.000Z",
-          "image": "",
-          "sourceName": "교수신문",
-          "sourceId": "kyosu",
+          "sourceName": "한겨레 문화",
+          "sourceId": "hani-culture",
           "candidates": [
             "philosophy"
           ],
@@ -252,20 +252,33 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 198,
+      "poolSize": 183,
       "items": [
         {
-          "title": "“포켓몬 잡으러 경매장 갑니다”···1억원 넘는 포켓몬 카드 세트, 서울옥션에 떴다",
-          "link": "https://www.khan.co.kr/article/202611200600041/",
-          "summary": "2018년 도쿄도미술관 뭉크 전시와 연계해 발행된 협업 프로모션 포켓몬 카드의 모습. 뭉크의 <절규>를 모티프로 한 이미지가 카드에 등장한다. 서울옥션 제공19일 서울 강남구 서울옥션 강남센터에 마련된 ‘프리미엄 포켓몬 카드’ 전시를 관람객들이 둘러보고 있다. 서울옥션은 오는 24일까지 국내외 거장의 작품과 대중문화 수집품을 한자리에서 선보이는···",
-          "publishedAt": "2026-11-19T21:00:04.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "\"SNS로 상품 추천하고, 수수료 받아 가요\"…G마켓 큐레이터 오픈",
+          "link": "https://www.yna.co.kr/view/AKR20261123026600030",
+          "summary": "(서울=연합뉴스) 정수연 기자 = G마켓은 크리에이터와 셀러를 연결하는 제휴 마케팅 서비스 'G마켓 큐레이터'를 시작한다고 23일 밝혔다.",
+          "publishedAt": "2026-11-23T00:32:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123026600030_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 6.2
+          "score": 4.5
+        },
+        {
+          "title": "서울식물원, 12월 '헤세의 정원' 축제…작가 강연·음악회",
+          "link": "https://www.yna.co.kr/view/AKR20261122029200004",
+          "summary": "(서울=연합뉴스) 김동규 기자 = 서울식물원은 다음 달 3일부터 13일까지 식물문화센터에서 문학과 정원을 주제로 겨울축제 '헤세의 정원-봄을 그...",
+          "publishedAt": "2026-11-22T21:00:04.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/22/AKR20261122029200004_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.4
         },
         {
           "title": "경주 황룡사역사문화관 상설전시실 새 단장…내년 1월 재개관",
@@ -278,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "양산서 '위안부 피해 증언' 故 김복동 할머니 생애 조명 전시",
@@ -291,7 +304,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "김치 넣었는데 일본풍?…반고흐미술관 항의 끝에 메뉴 삭제",
@@ -304,20 +317,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.3
-        },
-        {
-          "title": "佛 유명작가 우엘벡, 배우 드파르디외와 함께 집단성폭행 혐의 피소",
-          "link": "https://www.yna.co.kr/view/AKR20261121024200009",
-          "summary": "(서울=연합뉴스) 송진원 기자 = 프랑스 국민배우 제라르 드파르디외와 프랑스의 대표적인 현대 소설가인 미셸 우엘벡이 집단 성폭행 혐의로 수사를 ...",
-          "publishedAt": "2026-11-21T01:30:49.000Z",
-          "image": "https://img.yna.co.kr/photo/etc/af/2026/11/20/PAF20261120255001009_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.8
+          "score": 4
         }
       ]
     }
