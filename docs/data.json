@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-24T05:06:03.505Z",
+  "builtAt": "2026-11-24T19:51:32.587Z",
   "cards": [
     {
       "id": "econ",
@@ -12,20 +12,33 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 338,
+      "poolSize": 337,
       "items": [
         {
-          "title": "채권시장 참여자 54% \"11월 금통위서 기준금리 인상 예상\"",
-          "link": "https://www.yna.co.kr/view/AKR20261124086800008",
-          "summary": "(서울=연합뉴스) 강수지 기자 = 채권시장 참여자의 절반 이상이 이달 한국은행 금융통화위원회에서 기준금리를 인상할 것으로 예상했다.",
-          "publishedAt": "2026-11-24T02:39:50.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124086800008_01_i_P2.jpg",
+          "title": "[외환] 원/달러 환율 3.5원 내린 1,342.4원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261124136800002",
+          "summary": "(",
+          "publishedAt": "2026-11-24T06:30:51.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124136800002_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.2
+        },
+        {
+          "title": "채권시장 참여자 54% \"11월 기준금리 인상 예상\"",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861126",
+          "summary": "▲ 금융투자협회채권시장 참여자의 절반 이상이 오는 26일 예정된 한국은행 금융통화위원회에서 기준금리를 인상할 것으로 예상했습니다.금융…",
+          "publishedAt": "2026-11-24T06:07:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20251104/202124783_1280.jpg",
+          "sourceName": "SBS",
+          "sourceId": "sbs-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.2
         },
         {
           "title": "모기지 금리 7%에 거래 16년래 최저 … 美 집값이 경제에 보내는 신호는?",
@@ -38,46 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7
         },
         {
-          "title": "\"고물가에 추가 긴축 유력 … 26일 기준금리 0.25%P↑\"",
-          "link": "https://www.mk.co.kr/news/economy/12215695",
-          "summary": "오는 26일 한국은행 금융통화위원회를 앞두고 한은 출신 시장 전문가들이 일제히 기준금리 인상을 전망했다. 고물가가 지속되는 상황에서 반도체 호황으로 경기까지 예상보다 강한 흐름을 ..",
-          "publishedAt": "2026-11-22T08:36:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/23/20261123_01110110000003_S00.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
+          "title": "환율, 엔비디아발 위험선호 회복에 하락…3.5원 내린 1,342.4원",
+          "link": "https://www.yna.co.kr/view/AKR20261124140400002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율은 24일 미국 기술주를 중심으로 위험선호 심리가 회복되며 소폭 하락했다.",
+          "publishedAt": "2026-11-24T06:48:34.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112304390001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 6.6
+          "score": 5.7
         },
         {
-          "title": "환율, 2주만에 장중 1,350원대…글로벌 위험회피 심리 반영",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859645",
-          "summary": "▲ 23일 서울 중구 하나은행 딜링룸 현황판에 코스피 등이 표시되고 있다.글로벌 위험회피 심리가 고조된 가운데 원달러 환율이 국내 증…",
-          "publishedAt": "2026-11-23T09:50:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261123/202243502_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
+          "title": "주가 하락에 소비심리 두 달 연속 위축…집값 상승 기대도 8개월 만에 확 꺾여",
+          "link": "https://www.khan.co.kr/article/202611242038035/",
+          "summary": "한국은행 소비자동향조사급매매도 늘었다 24일 서울 강남구 한 부동산 중개업소에 가격을 3억원 내린 ‘급매물’ 안내문이 붙어 있다. 연합뉴스주가 하락과 대출금리 상승으로 소비심리가 두 달 연속 위축됐다는 조사 결과가 나왔다.한국은행이 24일 발표한 ‘소비자동향조사’ 결과에 따르면 11월 소비자심리지수(CCSI)는 103.1로 전월(105.4)보다 2.3포인트…",
+          "publishedAt": "2026-11-24T11:38:03.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5.6
-        },
-        {
-          "title": "3년 만기 국고채 금리 일제히 하락…연 3.623%로 마감",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859634",
-          "summary": "▲위 사진은 기사 내용과 관련이 없습니다.3년 만기 국고채 금리가 오늘 서울 채권시장에서 전 거래일보다 1.9bp 내린 연 3.623…",
-          "publishedAt": "2026-11-23T09:43:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20240328/201912440_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.6
+          "score": 4.3
         }
       ]
     },
@@ -92,8 +92,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 194,
+      "poolSize": 203,
       "items": [
+        {
+          "title": "호흡 알아차림에서 해탈까지…초기불교 수행의 길 풀어내",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=339231",
+          "summary": "“호흡 수행은 단순히 마음을 편안하게 하고 고요하게 하는 데 그치지 않습니다. 선정을 바탕으로 지혜를 개발해 깨달음에 이르는 과정입니다.”제따와나선원장 일목 스님이 초기경전의 가르침과 오랜 수행 경험을 바탕으로 호흡 수행의 원리와 실천법을 정리한 ‘부처님의 호흡 수행’을 펴냈다. 2020년 ‘사성제’에서 불교의 핵심 가르침을 정리한 데 이어, 이번 책에서는…",
+          "publishedAt": "2026-11-24T18:19:42.000Z",
+          "image": "",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
+        },
         {
           "title": "“중도정견 갖추고 타성 경계해야”…백담사 동안거 결제",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=339194",
@@ -105,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "\"본래면목 깨닫자\"…화엄사 동안거 입재",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 2.9
         },
         {
           "title": "“칼날 위에 앉은 듯”…신흥사·백담사 동안거 결제",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 2.9
         },
         {
           "title": "\"이고득락의 법석\" 부산 청계사 산신대제",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
-        },
-        {
-          "title": "제18교구본사 백양사, 동안거 결제…운문선원 등 대중 78명 정진",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444432",
-          "summary": "예로부터 ‘북 마하연, 남 운문’으로 불리며 한국 선불교의 대표적인 수행도량으로 꼽혀온 백암산 운문암이 병오년 동안거에 들어갔다.제18교구본사 백양사(주지 무공스님)는 11월23일 경내 대웅전에서 ‘병오년 동안거 결제법요식’을 봉행했다.이날 결제법회에는 백양사 주지 무공스님과 운문선원장 보인스님을 비롯해 선원 및 교구 대중스님, 신도들이 동참해 원만한 동안…",
-          "publishedAt": "2026-11-24T09:00:58.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.1
+          "score": 2.9
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7
+          "score": 6.7
         },
         {
           "title": "Method and Metaphysics in Plato’s Sophist and Statesman",
@@ -198,7 +198,20 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7
+          "score": 6.7
+        },
+        {
+          "title": "A Game for Teaching Ancient Philosophy",
+          "link": "https://dailynous.com/2026/11/24/a-game-for-teaching-ancient-philosophy/",
+          "summary": "Javier Hidalgo, a philosopher at the University of Richmond, has developed a classroom simulation game to teach about different ancient philosophies called “Ancient Philosophy as […] The post A Game f…",
+          "publishedAt": "2026-11-24T17:23:59.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/11/ancient-philosophy-game-1024x706.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 5.9
         },
         {
           "title": "How Much AI-Generated Text Is In Today’s Philosophy Journals? (guest post)",
@@ -224,20 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 4.2
-        },
-        {
-          "title": "Online Philosophy Resources Weekly Update",
-          "link": "https://dailynous.com/2026/11/23/online-philosophy-resources-weekly-update-449/",
-          "summary": "New and revised entries at online philosophy resources, new reviews of philosophy books, new podcast episodes, recently published open access philosophy books, and more… . […] The post Online Philosop…",
-          "publishedAt": "2026-11-23T14:23:53.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/09/weekly-update-logo-2023.png",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.2
+          "score": 3.9
         }
       ]
     },
@@ -252,8 +252,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 170,
+      "poolSize": 179,
       "items": [
+        {
+          "title": "핫한 서촌에 미술관 산책 가볼까",
+          "link": "https://www.khan.co.kr/article/202611242047005/",
+          "summary": "명소로 자리 잡은 대림미술관재단 설립 30돌 맞아 소장품전국내외 유명 작가 작품 70여점김창열의 회화 ‘회귀’(1995)와 조각 ‘비나이다’(1996). 대림미술관 제공‘2030 핫플’ ‘힙스터의 성지’. 대림미술관을 검색하면 따라붙는 수식어들이다. 경복궁 서편, 서촌의 조용한 골목에 들어서면 주택들 사이로 미술관이 나타난다. 옛 드라마 속 부잣집을 떠올리…",
+          "publishedAt": "2026-11-24T11:47:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.3
+        },
+        {
+          "title": "‘2030 핫플’ 대림미술관의 뜻밖의 선택…김창열부터 피카소까지 한자리서 만난다",
+          "link": "https://www.khan.co.kr/article/202611241638001/",
+          "summary": "대림문화재단 30주년 첫 소장품전국내외 유명 작품 70여 점 전시서울 서촌에 자리 잡은 대림미술관. 대림미술관 제공‘2030 핫플’, ‘힙스터의 성지’. 대림미술관을 검색하면 따라붙는 수식어들이다. 경복궁 서편, 서촌의 조용한 골목에 들어서면 주택들 사이로 미술관이 나타난다. 옛 드라마 속 부잣집을 떠올리게 하는 번듯한 양옥을 미술관으로 개조한 공간이···",
+          "publishedAt": "2026-11-24T07:38:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 5.7
+        },
         {
           "title": "새롭게 만나는 샤갈의 색채…캔버스에서 스테인드글라스까지 ‘샤갈, 너머의 여정’",
           "link": "https://www.khan.co.kr/article/202611231333001/",
@@ -265,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.5
+          "score": 5.2
         },
         {
           "title": "美 미술관 소장 고려불화, 보존처리 돕는다…라이엇 게임즈 지원",
@@ -278,46 +304,20 @@
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.1
         },
         {
-          "title": "삼국사기·삼국유사 최초로 한자리 전시…한성백제박물관 특별전",
-          "link": "https://www.yna.co.kr/view/AKR20261123164900004",
-          "summary": "(서울=연합뉴스) 김동규 기자 = 우리 고대사를 대표하는 역사서 삼국사기와 삼국유사의 옛 판본이 국내에서 처음으로 한자리에 전시된다. 국보인 옥...",
-          "publishedAt": "2026-11-23T21:00:02.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123164900004_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "삼국사기·삼국유사 백제박물관서 첫 만남",
+          "link": "https://www.khan.co.kr/article/202611242056045/",
+          "summary": "국내 최초 한자리에 전시…서울시, 27일부터 내년 2월까지 ‘특별전’우리 고대사를 대표하는 역사서 <삼국사기>와 <삼국유사>가 처음으로 한자리에서 전시된다. 서울시는 오는 27일부터 내년 2월21일까지 한성백제박물관 상설전시실에서 ‘삼국사기·삼국유사, 백제를 기록하다’ 특별전을 연다고 24일 밝혔다.국보인 <삼국사기>는 11···",
+          "publishedAt": "2026-11-24T11:56:04.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.3
-        },
-        {
-          "title": "서울시립 사진미술관, 한국 사진사 조명 '확산의 물결' 기획전",
-          "link": "https://www.yna.co.kr/view/AKR20261123166200004",
-          "summary": "(서울=연합뉴스) 김동규 기자 = 서울시립미술관은 25일부터 내년 3월 21일까지 서울시립 사진미술관에서 소장품 기획전 '확산의 물결'을 연다고...",
-          "publishedAt": "2026-11-23T21:00:01.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123166200004_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.3
-        },
-        {
-          "title": "국립춘천박물관서 공예명작전…27팀 작품 136점 한자리에",
-          "link": "https://www.yna.co.kr/view/AKR20261124079600062",
-          "summary": "(춘천=연합뉴스) 강태현 기자 = 국립춘천박물관과 한국공예·디자인문화진흥원(이하 공진원)은 24일부터 내달 27일까지 박물관 열린 전시실에서 '...",
-          "publishedAt": "2026-11-24T02:03:19.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124079600062_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 2.9
+          "score": 2.8
         }
       ]
     }
