@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-23T11:39:06.377Z",
+  "builtAt": "2026-11-24T05:06:03.505Z",
   "cards": [
     {
       "id": "econ",
@@ -12,14 +12,14 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 335,
+      "poolSize": 338,
       "items": [
         {
-          "title": "[외환] 원/달러 환율 9.7원 오른 1,345.9원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261123127400002",
-          "summary": "(",
-          "publishedAt": "2026-11-23T06:30:46.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123127400002_01_i_P2.jpg",
+          "title": "채권시장 참여자 54% \"11월 금통위서 기준금리 인상 예상\"",
+          "link": "https://www.yna.co.kr/view/AKR20261124086800008",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 채권시장 참여자의 절반 이상이 이달 한국은행 금융통화위원회에서 기준금리를 인상할 것으로 예상했다.",
+          "publishedAt": "2026-11-24T02:39:50.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124086800008_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
@@ -28,17 +28,17 @@
           "score": 7.4
         },
         {
-          "title": "증시 흔들려도 금리 인상?…'물가잡기'와 '금융안정' 별도 관리하나 [심성미의 중앙은행 워치]",
-          "link": "https://www.hankyung.com/article/202611233707i",
-          "summary": "",
-          "publishedAt": "2026-11-23T06:21:40.000Z",
-          "image": "",
-          "sourceName": "한국경제",
-          "sourceId": "hankyung-economy",
+          "title": "모기지 금리 7%에 거래 16년래 최저 … 美 집값이 경제에 보내는 신호는?",
+          "link": "https://www.mk.co.kr/news/economy/12216095",
+          "summary": "샘 발베르데 팔콘캐피털 매니징디렉터 인터뷰미국의 고금리 환경이 장기간 이어진데다 최근 인플레이션 대응을 위한 연방준비제도(Fed)의 기준금리 인상이 본격화하면서 국채금리가 뛰고 이..",
+          "publishedAt": "2026-11-23T20:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/23/news-a.v1.20261123.a3475a3756414363894b08c629d6f29e_R.png",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.3
         },
         {
           "title": "\"고물가에 추가 긴축 유력 … 26일 기준금리 0.25%P↑\"",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.9
+          "score": 6.6
         },
         {
           "title": "환율, 2주만에 장중 1,350원대…글로벌 위험회피 심리 반영",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6
+          "score": 5.6
         },
         {
           "title": "3년 만기 국고채 금리 일제히 하락…연 3.623%로 마감",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6
+          "score": 5.6
         }
       ]
     },
@@ -92,21 +92,8 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 193,
+      "poolSize": 194,
       "items": [
-        {
-          "title": "김해 연화사, 제2회 개산조다례재 봉행…원공스님 법문",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4120364",
-          "summary": "김해시 도심 사찰인 연화사가 오늘(23일) 경내에서 ‘제2회 개산조다례재’를 봉행했습니다.초청법사 원공스님은 과거 수십 년 전 연화사와 맺었던 인연과 주지 혜진 스님이 개산조다례재를 이어가는 소회를 전하며, 2,500년 넘게 부처님 법을 전해 온 장유화상을 비롯한 스님들과 신도·공덕주들의 원력을 되새겼습니다.또 “생사와 거취에 휘둘리지 않고 눈앞의 당체를…",
-          "publishedAt": "2026-11-23T18:24:08.000Z",
-          "image": "",
-          "sourceName": "BBS 불교방송",
-          "sourceId": "bbs-news",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.6
-        },
         {
           "title": "“중도정견 갖추고 타성 경계해야”…백담사 동안거 결제",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=339194",
@@ -118,42 +105,55 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.6
+          "score": 4.3
         },
         {
-          "title": "조계종 선본종찰 양양 진전사, 주지 공일 스님 취임…100일 기도 입재",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=339195",
-          "summary": "조계종 선본종찰인 양양 진전사가 신임 주지 공일 스님의 취임과 함께 100일 기도를 시작했다.진전사는 11월 23일 경내 적광보전 앞마당에서 ‘신임 주지 공일 스님 취임식 및 100일 기도 입재 법회’를 봉행했다. 법회는 삼귀의와 반야심경에 이어 주지 임명장 수여, 신흥사 주지 지혜 스님의 격려사, 공일 스님의 취임사, 축사 순으로 진행됐다.이날 법회에는…",
-          "publishedAt": "2026-11-23T18:11:54.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.1
-        },
-        {
-          "title": "“생사 해결에 전념해야”…송광사 동안거 결제",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506541",
-          "summary": "조계총림 송광사가 병오년 동안거 결제를 맞아 생사해탈을 향한 정진의 원력을 새롭게 다졌다.조계총림 송광사(주지 무자 스님)는 11월 23일 병오년 동안거 결제를 맞아 방장 편양 현묵 대종사의 결제법문을 통해 수행의 본분을 되새기고 석 달간의 정진에 들어갔다.이날 현묵 스님은 법어를 통해 겨울의 추위와 생사의 고통을 대비하며 수행자가 안거에 들어가는 근본 목…",
-          "publishedAt": "2026-11-23T18:00:38.000Z",
+          "title": "\"본래면목 깨닫자\"…화엄사 동안거 입재",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506556",
+          "summary": "조계종 제19교구본사 화엄사 회주 종열 대종사가 병오년 동안거 결제를 맞아 수행자들에게 출가의 초심을 잃지 않고 본래면목을 깨닫기 위한 용맹정진에 나설 것을 당부했다.종열 스님은 11월 23일 병오년 동안거 결제 법문에서 어린 시절 출가 인연과 60여 년간 이어온 수행 여정을 회고하며 참선 수행의 중요성과 한국불교 수행 전통의 계승을 강조했다.종열 스님은…",
+          "publishedAt": "2026-11-24T13:27:14.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.1
+          "score": 3.2
         },
         {
-          "title": "“달 그림자 좇지 말고, 본래 밝은 자성 밝혀라”",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506535",
-          "summary": "“이번 겨울 안거에서는 법문을 듣고 아는 것에만 머물지 말고, 직접 실행에 옮겨 스스로 대자유를 성취해야 합니다”조계종 종정 중봉 성파 대종사는 11월 23일 영축총림 통도사 설법전에서 봉행된 ‘불기 2570년 병오년 동안거 결제법요식’에서 결제 법어를 통해 수행자들의 치열한 정진을 당부했다.성파 스님은 법문에서 부처님 당시 제자들이 걸식을 마치고 고독원(…",
-          "publishedAt": "2026-11-23T16:36:43.000Z",
+          "title": "“칼날 위에 앉은 듯”…신흥사·백담사 동안거 결제",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506553",
+          "summary": "설악산 백담사에서 한국 선불교의 수행 전통을 잇는 수좌 스님들이 석 달간의 치열한 겨울 정진에 들어갔다. 설악당 무산 대종사가 남긴 ‘칼날 위에 앉은 듯한 정신으로 수행하라’는 가르침을 되새기며 화두 참구에 전념할 것을 다짐했다.조계종 제3교구본사 신흥사와 백담사 조계종립 기본선원은 11월 23일 인제 백담사 검인당에서 불기 2570년 병오년 동안거 결제법…",
+          "publishedAt": "2026-11-24T13:17:38.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
+        },
+        {
+          "title": "\"이고득락의 법석\" 부산 청계사 산신대제",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506546",
+          "summary": "부산 부산진구 청계사(회주 진남 스님)가 11월 23일 대웅전 앞에서 ‘불기 2570년(2026년) 산신대제’를 봉행했다.신도들의 가내 태평과 사업 번창, 무량공덕과 업장 소멸을 기원하기 위해 마련된 이날 행사에는 청계사 사부대중과 지역 불자들이 동참했다.1부 의식은 삼귀의와 반야심경 봉독에 이어 산신재 불공 및 축원으로 진행됐다.회주 진남 스님은 축원을…",
+          "publishedAt": "2026-11-24T13:06:09.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
+        },
+        {
+          "title": "제18교구본사 백양사, 동안거 결제…운문선원 등 대중 78명 정진",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444432",
+          "summary": "예로부터 ‘북 마하연, 남 운문’으로 불리며 한국 선불교의 대표적인 수행도량으로 꼽혀온 백암산 운문암이 병오년 동안거에 들어갔다.제18교구본사 백양사(주지 무공스님)는 11월23일 경내 대웅전에서 ‘병오년 동안거 결제법요식’을 봉행했다.이날 결제법회에는 백양사 주지 무공스님과 운문선원장 보인스님을 비롯해 선원 및 교구 대중스님, 신도들이 동참해 원만한 동안…",
+          "publishedAt": "2026-11-24T09:00:58.000Z",
+          "image": "",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.4
+          "score": 7
         },
         {
           "title": "Method and Metaphysics in Plato’s Sophist and Statesman",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.4
+          "score": 7
         },
         {
           "title": "How Much AI-Generated Text Is In Today’s Philosophy Journals? (guest post)",
@@ -214,30 +214,30 @@
           "score": 4.5
         },
         {
-          "title": "제6회 혜곡최순우상에 ‘나무 인문학자’ 고규홍 작가",
-          "link": "https://www.hani.co.kr/arti/culture/culture_general/1288461.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레 문화",
-          "sourceId": "hani-culture",
+          "title": "New: Chinese Journal of Philosophy (and Lecture Series)",
+          "link": "https://dailynous.com/2026/11/23/new-chinese-journal-of-philosophy-and-lecture-series/",
+          "summary": "Timothy Williamson will be the inaugural speaker in a new lecture series accompanying a new journal: The Chinese Journal of Philosophy (CJP). Published by Oxford […] The post New: Chinese Journal of P…",
+          "publishedAt": "2026-11-23T16:48:54.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/11/chinese-journal-of-philosophy-lecture-1024x651.jpg",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
           "candidates": [
             "philosophy"
           ],
-          "score": 3.5
+          "score": 4.2
         },
         {
-          "title": "브레히트부터 셰익스피어까지…청년 배우 60명이 뜯어본 고전 ‘어떤 연극’",
-          "link": "https://www.hani.co.kr/arti/culture/music/1288416.html",
-          "summary": "",
-          "publishedAt": null,
-          "image": "",
-          "sourceName": "한겨레 문화",
-          "sourceId": "hani-culture",
+          "title": "Online Philosophy Resources Weekly Update",
+          "link": "https://dailynous.com/2026/11/23/online-philosophy-resources-weekly-update-449/",
+          "summary": "New and revised entries at online philosophy resources, new reviews of philosophy books, new podcast episodes, recently published open access philosophy books, and more… . […] The post Online Philosop…",
+          "publishedAt": "2026-11-23T14:23:53.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/09/weekly-update-logo-2023.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
           "candidates": [
             "philosophy"
           ],
-          "score": 3.5
+          "score": 4.2
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 186,
+      "poolSize": 170,
       "items": [
         {
           "title": "새롭게 만나는 샤갈의 색채…캔버스에서 스테인드글라스까지 ‘샤갈, 너머의 여정’",
@@ -265,27 +265,14 @@
           "candidates": [
             "art"
           ],
-          "score": 5.9
+          "score": 5.5
         },
         {
-          "title": "제3회 서울조각상 대상에 오유경 '연결인식의 감각'",
-          "link": "https://www.yna.co.kr/view/AKR20261123042500004",
-          "summary": "(서울=연합뉴스) 김준태 기자 = 서울시는 제3회 서울조각상 대상으로 오유경 작가의 '연결인식의 감각'을 선정했다고 23일 밝혔다.",
-          "publishedAt": "2026-11-23T02:15:01.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123042500004_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 5.8
-        },
-        {
-          "title": "김제시, '시민 기록물 수집 공모전' 작품 500점 전시",
-          "link": "https://www.yna.co.kr/view/AKR20261123121300055",
-          "summary": "(김제=연합뉴스) 백도인 기자 = 전북 김제시가 올해 '시민 기록물 수집 공모전'에 응모한 우수 작품을 선보이는 전시회를 23일 청소년종합센터에...",
-          "publishedAt": "2026-11-23T06:16:10.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123121300055_01_i_P2.jpg",
+          "title": "美 미술관 소장 고려불화, 보존처리 돕는다…라이엇 게임즈 지원",
+          "link": "https://www.yna.co.kr/view/AKR20261124057700005",
+          "summary": "(서울=연합뉴스) 김예나 기자 = 미국으로 건너간 뒤 세월의 흔적이 켜켜이 쌓인 희귀한 고려시대 불화가 고국 품에서 옛 모습을 되찾는다.",
+          "publishedAt": "2026-11-24T01:15:11.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124057700005_03_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
@@ -294,31 +281,43 @@
           "score": 4.4
         },
         {
-          "title": "세화미술관, 광화문 '해머링맨'에 산타복…기부 캠페인 진행",
-          "link": "https://www.yna.co.kr/view/AKR20261123112600003",
-          "summary": "(서울=연합뉴스) 강태우 기자 = 태광그룹 세화예술문화재단이 운영하는 세화미술관은 연말을 맞아 서울 광화문의 명물 '해머링맨'에 산타 모자와 빨...",
-          "publishedAt": "2026-11-23T05:37:56.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123112600003_01_i_P2.jpg",
+          "title": "삼국사기·삼국유사 최초로 한자리 전시…한성백제박물관 특별전",
+          "link": "https://www.yna.co.kr/view/AKR20261123164900004",
+          "summary": "(서울=연합뉴스) 김동규 기자 = 우리 고대사를 대표하는 역사서 삼국사기와 삼국유사의 옛 판본이 국내에서 처음으로 한자리에 전시된다. 국보인 옥...",
+          "publishedAt": "2026-11-23T21:00:02.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123164900004_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
         },
         {
-          "title": "농협, 쌀 체험·전시·판매 공간 'NH라이스스토어미담' 개관",
-          "link": "https://www.yna.co.kr/view/AKR20261123106900030",
-          "summary": "(서울=연합뉴스) 김세린 기자 = 농협중앙회는 기존 쌀박물관을 새롭게 단장한 쌀 체험·전시·판매 복합문화공간 'NH라이스스토어미담'을 개관했다고...",
-          "publishedAt": "2026-11-23T05:19:26.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123106900030_01_i_P2.jpg",
+          "title": "서울시립 사진미술관, 한국 사진사 조명 '확산의 물결' 기획전",
+          "link": "https://www.yna.co.kr/view/AKR20261123166200004",
+          "summary": "(서울=연합뉴스) 김동규 기자 = 서울시립미술관은 25일부터 내년 3월 21일까지 서울시립 사진미술관에서 소장품 기획전 '확산의 물결'을 연다고...",
+          "publishedAt": "2026-11-23T21:00:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123166200004_01_i_P2.jpg",
           "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
+          "sourceId": "yna-culture",
           "candidates": [
-            "econ",
             "art"
           ],
-          "score": 4.4
+          "score": 4.3
+        },
+        {
+          "title": "국립춘천박물관서 공예명작전…27팀 작품 136점 한자리에",
+          "link": "https://www.yna.co.kr/view/AKR20261124079600062",
+          "summary": "(춘천=연합뉴스) 강태현 기자 = 국립춘천박물관과 한국공예·디자인문화진흥원(이하 공진원)은 24일부터 내달 27일까지 박물관 열린 전시실에서 '...",
+          "publishedAt": "2026-11-24T02:03:19.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124079600062_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 2.9
         }
       ]
     }
