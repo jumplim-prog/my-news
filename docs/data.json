@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-25T03:54:46.536Z",
+  "builtAt": "2026-11-25T18:56:02.818Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,34 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 342,
+      "poolSize": 336,
       "items": [
+        {
+          "title": "코스피 6% 폭락하자 채권시장으로?…금통위 전날 국고채 금리 일제히 하락",
+          "link": "https://www.mk.co.kr/news/economy/12218490",
+          "summary": "한국은행 금융통화위원회의 기준금리 결정을 하루 앞둔 25일 국고채 금리가 일제히 하락했다. 25일 서울 채권시장에서 3년 만기 국고채 금리는 전 거래일보다 5.7bp(1bp=0.0..",
+          "publishedAt": "2026-11-25T08:51:22.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/25/news-p.v1.20261125.e8a25efe61da447ebc8f1562c7c2ed41_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
+        {
+          "title": "[외환] 원/달러 환율 0.8원 오른 1,343.2원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261125131800002",
+          "summary": "(",
+          "publishedAt": "2026-11-25T06:33:49.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125131800002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.2
+        },
         {
           "title": "외국인, 국채선물 대량 매수…마지막 금리인상에 베팅?",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862312",
@@ -25,59 +51,33 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
-          "title": "모기지 금리 7%에 거래 16년래 최저 … 美 집값이 경제에 보내는 신호는?",
-          "link": "https://www.mk.co.kr/news/economy/12216095",
-          "summary": "샘 발베르데 팔콘캐피털 매니징디렉터 인터뷰미국의 고금리 환경이 장기간 이어진데다 최근 인플레이션 대응을 위한 연방준비제도(Fed)의 기준금리 인상이 본격화하면서 국채금리가 뛰고 이..",
-          "publishedAt": "2026-11-23T20:00:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/23/news-a.v1.20261123.a3475a3756414363894b08c629d6f29e_R.png",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 6.8
-        },
-        {
-          "title": "10월 가계대출 금리 5% 돌파…주담대 14년 7개월만에 최고",
-          "link": "https://www.yna.co.kr/view/AKR20261125080800002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 지난달 은행권 가계대출 금리가 2년 11개월만에 연 5%를 넘어섰다.",
-          "publishedAt": "2026-11-25T03:00:09.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125080800002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.5
-        },
-        {
-          "title": "국고채 금리 대체로 하락…3년물 장중 연 3.633%",
-          "link": "https://www.yna.co.kr/view/AKR20261125090600008",
-          "summary": "(서울=연합뉴스) 25일 국고채 금리가 대체로 하락하고 있다.",
-          "publishedAt": "2026-11-25T02:40:57.000Z",
+          "title": "은행권 가계대출 금리 연 5% 넘었다",
+          "link": "https://www.khan.co.kr/article/202611252127035/",
+          "summary": "주담대 연 4.98%…14년여 내 최고지난달 은행권 가계대출 금리가 2년11개월 만에 연 5%를 넘었다. 주택담보대출(주담대) 금리도 연 5% 턱밑까지 올라와 14년7개월 만에 최고치를 기록했다.한국은행이 25일 발표한 ‘금융기관 가중평균금리’ 통계에 따르면 지난 10월 중 예금은행의 가계대출 가중평균금리(신규취급액 기준)는 연 5.02%로 전월(4.96%…",
+          "publishedAt": "2026-11-25T12:27:03.000Z",
           "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 5.9
+        },
+        {
+          "title": "환율, 미국 기술주 조정·외국인 순매도에 소폭 상승…1,343.2원",
+          "link": "https://www.yna.co.kr/view/AKR20261125137900002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 미국 기술주 조정이 재개되고 외국인 투자자들이 국내 주식을 순매도하면서 원/달러 환율이 소폭 상승했다.",
+          "publishedAt": "2026-11-25T06:55:54.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/25/PYH2026112515520001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.5
-        },
-        {
-          "title": "예금금리 4% 시대…‘조건 없이 받을 수 있는 금리’ 따로 있다는데",
-          "link": "https://www.mk.co.kr/news/economy/12217939",
-          "summary": "우대조건 없는 전북은행 정기예금 연 3.98% SC제일은행 최고 연 4.15%…우대금리 더하면 4%대 가입 한도도 상품별 차이…최대 10억원까지 예치 가능은행 정기예금 금리가 연 ..",
-          "publishedAt": "2026-11-25T02:34:12.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/25/news-p.v1.20261125.aa778cc5beec4f009c2643cc54f02e14_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 4.5
+          "score": 5.7
         }
       ]
     },
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "“중도정견 갖추고 타성 경계해야”…백담사 동안거 결제",
@@ -118,46 +118,46 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3.8
+          "score": 3.5
         },
         {
-          "title": "현실 속 깨달음의 세계…동국불교미술인회 정기전",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506571",
-          "summary": "가사를 수하고 탁발에 나서는 부처님의 모습을 입체적으로 표현한 ‘공덕’(서칠교, 2026). 고요한 시선과 온화한 미소가 가사의 질감과 대비되는 매끈한 면에 담겨 시선을 끈다. 인로왕보살이 영가들을 반야용선에 태워 극락세계로 인도하는 ‘인로왕보살 극락인도 목조각탱’(송근영, 2026)은 악착같이 매달려 가는 ‘악착보살’을 새겨 넣어 엄숙함 속에 익살스러움을…",
-          "publishedAt": "2026-11-25T11:20:21.000Z",
+          "title": "월간 '불교' 12월호, 세계 확장하는 한국불교 오늘",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506590",
+          "summary": "불교 전문지 월간 2026년 12월호(통권 781호)가 발간됐다.이번 호는 불교의례와 수행, 선불교의 역사, 불교문화와 미학을 아우르며 불교 전통의 의미와 현대적 가치를 조명한다. 특히 국내외 불교 현장을 통해 오늘날 불교의 활동과 미래 과제를 살펴본다.주요 연재에서는 불교의례와 수행의 의미를 깊이 있게 다룬다. 이성운 교수는 ‘불교의례의 연원’에서 수륙재…",
+          "publishedAt": "2026-11-25T19:45:06.000Z",
           "image": "",
           "sourceName": "현대불교",
           "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
-          "score": 3.2
+          "score": 3
         },
         {
-          "title": "\"본래면목 깨닫자\"…화엄사 동안거 입재",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506556",
-          "summary": "조계종 제19교구본사 화엄사 회주 종열 대종사가 병오년 동안거 결제를 맞아 수행자들에게 출가의 초심을 잃지 않고 본래면목을 깨닫기 위한 용맹정진에 나설 것을 당부했다.종열 스님은 11월 23일 병오년 동안거 결제 법문에서 어린 시절 출가 인연과 60여 년간 이어온 수행 여정을 회고하며 참선 수행의 중요성과 한국불교 수행 전통의 계승을 강조했다.종열 스님은…",
-          "publishedAt": "2026-11-24T13:27:14.000Z",
+          "title": "덕숭총림 수덕사, 병오년 동안거 236명 정진",
+          "link": "https://www.beopbo.com/news/articleView.html?idxno=339247",
+          "summary": "덕숭총림 수덕사 사부대중이 경허·만공 선사의 수행 가풍을 계승하며 3개월간의 용맹정진에 들어갔다.조계종 제7교구본사 수덕사(주지 도신 스님)는 11월23일 경내 대웅전에서 방장 달하 우송 스님을 비롯해 산내 암자와 본·말사 스님들이 참석한 가운데 불기 2570년 병오년 동안거 결제법회를 봉행했다.법회는 삼귀의와 반야심경 봉독, 거량, 방장 스님 등단, 청법…",
+          "publishedAt": "2026-11-25T18:53:53.000Z",
           "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
+          "sourceName": "법보신문",
+          "sourceId": "beopbo",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.7
+          "score": 3
         },
         {
-          "title": "“칼날 위에 앉은 듯”…신흥사·백담사 동안거 결제",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506553",
-          "summary": "설악산 백담사에서 한국 선불교의 수행 전통을 잇는 수좌 스님들이 석 달간의 치열한 겨울 정진에 들어갔다. 설악당 무산 대종사가 남긴 ‘칼날 위에 앉은 듯한 정신으로 수행하라’는 가르침을 되새기며 화두 참구에 전념할 것을 다짐했다.조계종 제3교구본사 신흥사와 백담사 조계종립 기본선원은 11월 23일 인제 백담사 검인당에서 불기 2570년 병오년 동안거 결제법…",
-          "publishedAt": "2026-11-24T13:17:38.000Z",
+          "title": "해봉당 자승대종사 3주기 추모 다례재…“불퇴전의 전법 원력 이어가겠습니다”",
+          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444486",
+          "summary": "“부처님은 평생 최선을 다해 중생의 이익을 위해 법을 설하셨습니다. 제가 ‘부처님 법’하면 여러분들은 ‘전합시다’로 응답해 주시기를 바랍니다.”해봉당 자승대종사의 생전 육성 법문이 11월25일 서울 봉은사 법왕루에 울려 퍼졌다.조계종 제33·34대 총무원장으로서 종단 안정과 쇄신에 크게 기여하고, 퇴임 후에는 상월결사를 이끌며 생의 마지막까지 불교와 세상을…",
+          "publishedAt": "2026-11-25T14:22:02.000Z",
           "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
+          "sourceName": "불교신문",
+          "sourceId": "ibulgyo",
           "candidates": [
             "buddhism"
           ],
-          "score": 2.7
+          "score": 2.9
         }
       ]
     },
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 144,
+      "poolSize": 143,
       "items": [
         {
           "title": "Hume’s Moral Philosophy",
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.6
+          "score": 6.3
         },
         {
           "title": "Method and Metaphysics in Plato’s Sophist and Statesman",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.5
+          "score": 6.2
         },
         {
           "title": "A Game for Teaching Ancient Philosophy",
@@ -211,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.8
+          "score": 5.5
         },
         {
           "title": "How Much AI-Generated Text Is In Today’s Philosophy Journals? (guest post)",
@@ -227,17 +227,18 @@
           "score": 4.5
         },
         {
-          "title": "New: Chinese Journal of Philosophy (and Lecture Series)",
-          "link": "https://dailynous.com/2026/11/23/new-chinese-journal-of-philosophy-and-lecture-series/",
-          "summary": "Timothy Williamson will be the inaugural speaker in a new lecture series accompanying a new journal: The Chinese Journal of Philosophy (CJP). Published by Oxford […] The post New: Chinese Journal of P…",
-          "publishedAt": "2026-11-23T16:48:54.000Z",
-          "image": "https://dailynous.com/wp-content/uploads/2026/11/chinese-journal-of-philosophy-lecture-1024x651.jpg",
-          "sourceName": "Daily Nous",
-          "sourceId": "dailynous",
+          "title": "The Moral Education of AI",
+          "link": "https://3quarksdaily.com/3quarksdaily/2026/11/the-moral-education-of-ai.html",
+          "summary": "by Herbert Harris Prologue In 1898, H.G. Wells imagined minds watching the Earth from across the gulf of space, “intellects vast and cool and unsympathetic.” His Martians were alien not because they w…",
+          "publishedAt": "2026-11-25T10:00:58.000Z",
+          "image": "https://3quarksdaily.com/wp-content/uploads/2026/11/Shared-Understanding-Human-and-AI-Dialogue-360x240.png",
+          "sourceName": "3 Quarks Daily",
+          "sourceId": "3quarks",
           "candidates": [
-            "philosophy"
+            "philosophy",
+            "art"
           ],
-          "score": 3.8
+          "score": 4.3
         }
       ]
     },
@@ -252,8 +253,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 180,
+      "poolSize": 181,
       "items": [
+        {
+          "title": "‘좌편향’ 논란 부른 부산시립미술관 전시, 직접 가봤더니···우리가 잊고 있던 해방기 미술",
+          "link": "https://www.khan.co.kr/article/202611251600001/",
+          "summary": "미술사학자 최열(오른쪽)이 부산시립미술관 전시장 들머리에 걸린 이쾌대의 ‘군상Ⅰ-해방고지’(1948)를 가리키며 강선주 학예연구사와 이야기를 나누고 있다. 훗날 월북한 이쾌대는 해방 소식을 주고받는 사람들과 바닥에 쓰러진 이들을 한 화폭에 담아 해방기의 환희와 혼란을 그렸다. 연작의 또 다른 작품인 ‘군상Ⅳ’는 1948년 미 공군의 독도 폭격 훈련으로 조업…",
+          "publishedAt": "2026-11-25T07:00:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.3
+        },
         {
           "title": "핫한 서촌에 미술관 산책 가볼까",
           "link": "https://www.khan.co.kr/article/202611242047005/",
@@ -265,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.2
+          "score": 6.9
         },
         {
           "title": "‘2030 핫플’ 대림미술관의 뜻밖의 선택…김창열부터 피카소까지 한자리서 만난다",
@@ -278,7 +292,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.6
+          "score": 5.3
         },
         {
           "title": "새롭게 만나는 샤갈의 색채…캔버스에서 스테인드글라스까지 ‘샤갈, 너머의 여정’",
@@ -291,33 +305,20 @@
           "candidates": [
             "art"
           ],
-          "score": 5
+          "score": 4.7
         },
         {
-          "title": "재일교포 오승호 작가, 日 최고 권위 나오키상 후보 올라",
-          "link": "https://www.yna.co.kr/view/AKR20261125093700009",
-          "summary": "(서울=연합뉴스) 김병규 기자 = 재일교포 오승호(고 가쓰히로) 작가가 일본 최고 권위의 대중 문학상인 나오키산주고(直木三十五)상(약칭 나오키상...",
-          "publishedAt": "2026-11-25T02:57:25.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125093700009_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "지워지다시피 한 ‘해방기 미술’ 한데 모아…“경계선을 돌파한 시도”",
+          "link": "https://www.khan.co.kr/article/202611252022005/",
+          "summary": "‘좌편향 논란’ 부산시립미술관 특별전…미술사학자 최열과 살펴보니미술사학자 최열(오른쪽)이 부산시립미술관 전시장 들머리에 걸린 이쾌대의 ‘군상 | -해방고지’를 가리키며 강선주 학예연구사와 이야기를 나누고 있다.(오른쪽 사진) 전시에선 현재는 전해지지 않은 작품들을 글로 복원한다. 작품마다 담긴 ‘해방’이라는 단어로부터 당시 분위기를 읽어낼 수 있다. 배문규…",
+          "publishedAt": "2026-11-25T11:22:00.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.5
-        },
-        {
-          "title": "동두천시, 내달 1∼10일 도자기 전시회 개최",
-          "link": "https://www.yna.co.kr/view/AKR20261125074500060",
-          "summary": "(동두천=연합뉴스) 노승혁 기자 = 경기 동두천시는 '2026 지역문화 활성화 지원사업'의 하나로 지역 예술단체 도자기공방숲이 다음 달 1∼10...",
-          "publishedAt": "2026-11-25T01:48:04.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125074500060_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.5
+          "score": 4.3
         }
       ]
     }
