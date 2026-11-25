@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-24T19:51:32.587Z",
+  "builtAt": "2026-11-25T03:54:46.536Z",
   "cards": [
     {
       "id": "econ",
@@ -12,33 +12,20 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 337,
+      "poolSize": 342,
       "items": [
         {
-          "title": "[외환] 원/달러 환율 3.5원 내린 1,342.4원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261124136800002",
-          "summary": "(",
-          "publishedAt": "2026-11-24T06:30:51.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124136800002_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.2
-        },
-        {
-          "title": "채권시장 참여자 54% \"11월 기준금리 인상 예상\"",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861126",
-          "summary": "▲ 금융투자협회채권시장 참여자의 절반 이상이 오는 26일 예정된 한국은행 금융통화위원회에서 기준금리를 인상할 것으로 예상했습니다.금융…",
-          "publishedAt": "2026-11-24T06:07:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20251104/202124783_1280.jpg",
+          "title": "외국인, 국채선물 대량 매수…마지막 금리인상에 베팅?",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862312",
+          "summary": "▲ 신현송 한국은행 총재오는 26일 한국은행 금융통화위원회의 기준금리 인상 가능성이 제기되는 가운데 외국인이 3년과 10년 국채선물을…",
+          "publishedAt": "2026-11-25T00:48:00.000Z",
+          "image": "https://img.sbs.co.kr/newimg/news/20261012/202230498_1280.jpg",
           "sourceName": "SBS",
           "sourceId": "sbs-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.4
         },
         {
           "title": "모기지 금리 7%에 거래 16년래 최저 … 美 집값이 경제에 보내는 신호는?",
@@ -51,33 +38,46 @@
           "candidates": [
             "econ"
           ],
-          "score": 7
+          "score": 6.8
         },
         {
-          "title": "환율, 엔비디아발 위험선호 회복에 하락…3.5원 내린 1,342.4원",
-          "link": "https://www.yna.co.kr/view/AKR20261124140400002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율은 24일 미국 기술주를 중심으로 위험선호 심리가 회복되며 소폭 하락했다.",
-          "publishedAt": "2026-11-24T06:48:34.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112304390001300_P2.jpg",
+          "title": "10월 가계대출 금리 5% 돌파…주담대 14년 7개월만에 최고",
+          "link": "https://www.yna.co.kr/view/AKR20261125080800002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 지난달 은행권 가계대출 금리가 2년 11개월만에 연 5%를 넘어섰다.",
+          "publishedAt": "2026-11-25T03:00:09.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125080800002_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5.7
+          "score": 4.5
         },
         {
-          "title": "주가 하락에 소비심리 두 달 연속 위축…집값 상승 기대도 8개월 만에 확 꺾여",
-          "link": "https://www.khan.co.kr/article/202611242038035/",
-          "summary": "한국은행 소비자동향조사급매매도 늘었다 24일 서울 강남구 한 부동산 중개업소에 가격을 3억원 내린 ‘급매물’ 안내문이 붙어 있다. 연합뉴스주가 하락과 대출금리 상승으로 소비심리가 두 달 연속 위축됐다는 조사 결과가 나왔다.한국은행이 24일 발표한 ‘소비자동향조사’ 결과에 따르면 11월 소비자심리지수(CCSI)는 103.1로 전월(105.4)보다 2.3포인트…",
-          "publishedAt": "2026-11-24T11:38:03.000Z",
+          "title": "국고채 금리 대체로 하락…3년물 장중 연 3.633%",
+          "link": "https://www.yna.co.kr/view/AKR20261125090600008",
+          "summary": "(서울=연합뉴스) 25일 국고채 금리가 대체로 하락하고 있다.",
+          "publishedAt": "2026-11-25T02:40:57.000Z",
           "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 4.3
+          "score": 4.5
+        },
+        {
+          "title": "예금금리 4% 시대…‘조건 없이 받을 수 있는 금리’ 따로 있다는데",
+          "link": "https://www.mk.co.kr/news/economy/12217939",
+          "summary": "우대조건 없는 전북은행 정기예금 연 3.98% SC제일은행 최고 연 4.15%…우대금리 더하면 4%대 가입 한도도 상품별 차이…최대 10억원까지 예치 가능은행 정기예금 금리가 연 ..",
+          "publishedAt": "2026-11-25T02:34:12.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/25/news-p.v1.20261125.aa778cc5beec4f009c2643cc54f02e14_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 4.5
         }
       ]
     },
@@ -97,7 +97,7 @@
         {
           "title": "호흡 알아차림에서 해탈까지…초기불교 수행의 길 풀어내",
           "link": "https://www.beopbo.com/news/articleView.html?idxno=339231",
-          "summary": "“호흡 수행은 단순히 마음을 편안하게 하고 고요하게 하는 데 그치지 않습니다. 선정을 바탕으로 지혜를 개발해 깨달음에 이르는 과정입니다.”제따와나선원장 일목 스님이 초기경전의 가르침과 오랜 수행 경험을 바탕으로 호흡 수행의 원리와 실천법을 정리한 ‘부처님의 호흡 수행’을 펴냈다. 2020년 ‘사성제’에서 불교의 핵심 가르침을 정리한 데 이어, 이번 책에서는…",
+          "summary": "“호흡 수행은 단순히 마음을 편안하게 하고 고요하게 하는 데 그치지 않습니다. 선정을 바탕으로 지혜를 개발해 깨달음에 이르는 과정입니다.”제따와나선원장 일묵 스님이 초기경전의 가르침과 오랜 수행 경험을 바탕으로 호흡 수행의 원리와 실천법을 정리한 ‘부처님의 호흡 수행’을 펴냈다. 2020년 ‘사성제’에서 불교의 핵심 가르침을 정리한 데 이어, 이번 책에서는…",
           "publishedAt": "2026-11-24T18:19:42.000Z",
           "image": "",
           "sourceName": "법보신문",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "“중도정견 갖추고 타성 경계해야”…백담사 동안거 결제",
@@ -118,7 +118,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
+          "score": 3.8
+        },
+        {
+          "title": "현실 속 깨달음의 세계…동국불교미술인회 정기전",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506571",
+          "summary": "가사를 수하고 탁발에 나서는 부처님의 모습을 입체적으로 표현한 ‘공덕’(서칠교, 2026). 고요한 시선과 온화한 미소가 가사의 질감과 대비되는 매끈한 면에 담겨 시선을 끈다. 인로왕보살이 영가들을 반야용선에 태워 극락세계로 인도하는 ‘인로왕보살 극락인도 목조각탱’(송근영, 2026)은 악착같이 매달려 가는 ‘악착보살’을 새겨 넣어 엄숙함 속에 익살스러움을…",
+          "publishedAt": "2026-11-25T11:20:21.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 3.2
         },
         {
           "title": "\"본래면목 깨닫자\"…화엄사 동안거 입재",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.9
+          "score": 2.7
         },
         {
           "title": "“칼날 위에 앉은 듯”…신흥사·백담사 동안거 결제",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.9
-        },
-        {
-          "title": "\"이고득락의 법석\" 부산 청계사 산신대제",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506546",
-          "summary": "부산 부산진구 청계사(회주 진남 스님)가 11월 23일 대웅전 앞에서 ‘불기 2570년(2026년) 산신대제’를 봉행했다.신도들의 가내 태평과 사업 번창, 무량공덕과 업장 소멸을 기원하기 위해 마련된 이날 행사에는 청계사 사부대중과 지역 불자들이 동참했다.1부 의식은 삼귀의와 반야심경 봉독에 이어 산신재 불공 및 축원으로 진행됐다.회주 진남 스님은 축원을…",
-          "publishedAt": "2026-11-24T13:06:09.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 2.9
+          "score": 2.7
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.7
+          "score": 6.6
         },
         {
           "title": "Method and Metaphysics in Plato’s Sophist and Statesman",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.7
+          "score": 6.5
         },
         {
           "title": "A Game for Teaching Ancient Philosophy",
@@ -211,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.9
+          "score": 5.8
         },
         {
           "title": "How Much AI-Generated Text Is In Today’s Philosophy Journals? (guest post)",
@@ -237,7 +237,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 3.9
+          "score": 3.8
         }
       ]
     },
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 179,
+      "poolSize": 180,
       "items": [
         {
           "title": "핫한 서촌에 미술관 산책 가볼까",
@@ -265,7 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "‘2030 핫플’ 대림미술관의 뜻밖의 선택…김창열부터 피카소까지 한자리서 만난다",
@@ -278,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 5.7
+          "score": 5.6
         },
         {
           "title": "새롭게 만나는 샤갈의 색채…캔버스에서 스테인드글라스까지 ‘샤갈, 너머의 여정’",
@@ -291,33 +291,33 @@
           "candidates": [
             "art"
           ],
-          "score": 5.2
+          "score": 5
         },
         {
-          "title": "美 미술관 소장 고려불화, 보존처리 돕는다…라이엇 게임즈 지원",
-          "link": "https://www.yna.co.kr/view/AKR20261124057700005",
-          "summary": "(서울=연합뉴스) 김예나 기자 = 미국으로 건너간 뒤 세월의 흔적이 켜켜이 쌓인 희귀한 고려시대 불화가 고국 품에서 옛 모습을 되찾는다.",
-          "publishedAt": "2026-11-24T01:15:11.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124057700005_03_i_P2.jpg",
+          "title": "재일교포 오승호 작가, 日 최고 권위 나오키상 후보 올라",
+          "link": "https://www.yna.co.kr/view/AKR20261125093700009",
+          "summary": "(서울=연합뉴스) 김병규 기자 = 재일교포 오승호(고 가쓰히로) 작가가 일본 최고 권위의 대중 문학상인 나오키산주고(直木三十五)상(약칭 나오키상...",
+          "publishedAt": "2026-11-25T02:57:25.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125093700009_01_i_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 4.5
         },
         {
-          "title": "삼국사기·삼국유사 백제박물관서 첫 만남",
-          "link": "https://www.khan.co.kr/article/202611242056045/",
-          "summary": "국내 최초 한자리에 전시…서울시, 27일부터 내년 2월까지 ‘특별전’우리 고대사를 대표하는 역사서 <삼국사기>와 <삼국유사>가 처음으로 한자리에서 전시된다. 서울시는 오는 27일부터 내년 2월21일까지 한성백제박물관 상설전시실에서 ‘삼국사기·삼국유사, 백제를 기록하다’ 특별전을 연다고 24일 밝혔다.국보인 <삼국사기>는 11···",
-          "publishedAt": "2026-11-24T11:56:04.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "동두천시, 내달 1∼10일 도자기 전시회 개최",
+          "link": "https://www.yna.co.kr/view/AKR20261125074500060",
+          "summary": "(동두천=연합뉴스) 노승혁 기자 = 경기 동두천시는 '2026 지역문화 활성화 지원사업'의 하나로 지역 예술단체 도자기공방숲이 다음 달 1∼10...",
+          "publishedAt": "2026-11-25T01:48:04.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125074500060_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 2.8
+          "score": 4.5
         }
       ]
     }
