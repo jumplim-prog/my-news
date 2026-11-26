@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-25T18:56:02.818Z",
+  "builtAt": "2026-11-26T03:20:26.602Z",
   "cards": [
     {
       "id": "econ",
@@ -12,72 +12,72 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 336,
+      "poolSize": 328,
       "items": [
         {
-          "title": "코스피 6% 폭락하자 채권시장으로?…금통위 전날 국고채 금리 일제히 하락",
-          "link": "https://www.mk.co.kr/news/economy/12218490",
-          "summary": "한국은행 금융통화위원회의 기준금리 결정을 하루 앞둔 25일 국고채 금리가 일제히 하락했다. 25일 서울 채권시장에서 3년 만기 국고채 금리는 전 거래일보다 5.7bp(1bp=0.0..",
-          "publishedAt": "2026-11-25T08:51:22.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/25/news-p.v1.20261125.e8a25efe61da447ebc8f1562c7c2ed41_R.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.3
-        },
-        {
-          "title": "[외환] 원/달러 환율 0.8원 오른 1,343.2원(15:30 기준가)",
-          "link": "https://www.yna.co.kr/view/AKR20261125131800002",
-          "summary": "(",
-          "publishedAt": "2026-11-25T06:33:49.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125131800002_01_i_P2.jpg",
+          "title": "실질소득 10분기만에 감소 전환…자영업자 고금리·물가 타격",
+          "link": "https://www.yna.co.kr/view/AKR20261126073500002",
+          "summary": "(세종=연합뉴스) 송정은 기자 = 올해 3분기(7∼9월) 가구의 실질소득이 작년 같은 기간보다 2.1% 줄어 10분기 만에 감소세로 돌아섰다.",
+          "publishedAt": "2026-11-26T03:00:06.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/06/23/PYH2026062313680001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.5
         },
         {
-          "title": "외국인, 국채선물 대량 매수…마지막 금리인상에 베팅?",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862312",
-          "summary": "▲ 신현송 한국은행 총재오는 26일 한국은행 금융통화위원회의 기준금리 인상 가능성이 제기되는 가운데 외국인이 3년과 10년 국채선물을…",
-          "publishedAt": "2026-11-25T00:48:00.000Z",
-          "image": "https://img.sbs.co.kr/newimg/news/20261012/202230498_1280.jpg",
-          "sourceName": "SBS",
-          "sourceId": "sbs-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.1
-        },
-        {
-          "title": "은행권 가계대출 금리 연 5% 넘었다",
-          "link": "https://www.khan.co.kr/article/202611252127035/",
-          "summary": "주담대 연 4.98%…14년여 내 최고지난달 은행권 가계대출 금리가 2년11개월 만에 연 5%를 넘었다. 주택담보대출(주담대) 금리도 연 5% 턱밑까지 올라와 14년7개월 만에 최고치를 기록했다.한국은행이 25일 발표한 ‘금융기관 가중평균금리’ 통계에 따르면 지난 10월 중 예금은행의 가계대출 가중평균금리(신규취급액 기준)는 연 5.02%로 전월(4.96%…",
-          "publishedAt": "2026-11-25T12:27:03.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 5.9
-        },
-        {
-          "title": "환율, 미국 기술주 조정·외국인 순매도에 소폭 상승…1,343.2원",
-          "link": "https://www.yna.co.kr/view/AKR20261125137900002",
-          "summary": "(서울=연합뉴스) 이도흔 기자 = 미국 기술주 조정이 재개되고 외국인 투자자들이 국내 주식을 순매도하면서 원/달러 환율이 소폭 상승했다.",
-          "publishedAt": "2026-11-25T06:55:54.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/25/PYH2026112515520001300_P2.jpg",
+          "title": "원/달러 환율, 금통위 금리 인상에 1,340원선 아래로",
+          "link": "https://www.yna.co.kr/view/AKR20261126095700002",
+          "summary": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율이 26일 기준금리를 인상한 한국은행 금융통화위원회(금통위)를 소화하며 1,340원선 아래로 떨어...",
+          "publishedAt": "2026-11-26T02:45:43.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112303080001300_P2.jpg",
           "sourceName": "연합뉴스",
           "sourceId": "yna-economy",
           "candidates": [
             "econ"
           ],
-          "score": 5.7
+          "score": 7.5
+        },
+        {
+          "title": "[속보] 한은 총재 \"물가상승률, 2028년 목표 수준에 수렴…선제 대응\"",
+          "link": "https://www.hankyung.com/article/2026112619307",
+          "summary": "(서울=연합뉴스) 채새롬 이도흔 기자 = 신현송 한국은행 총재는 26일 금리 인상과 관련해 \"이번 인상은 선제적인 대응이기도 하고, 가시화된 물...",
+          "publishedAt": "2026-11-26T02:30:42.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112603430001300_P2.jpg",
+          "sourceName": "한국경제",
+          "sourceId": "hankyung-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "금통위원 2명 금리 인상에 반대…긴축 '속도' 문구 삭제",
+          "link": "https://www.yna.co.kr/view/AKR20261126077300002",
+          "summary": "(서울=연합뉴스) 한지훈 기자 = 한국은행 금융통화위원회는 26일 \"국내 경제 성장세가 한층 강화된 가운데 물가상승률이 상당 기간 목표 수준을 ...",
+          "publishedAt": "2026-11-26T01:56:10.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112603660001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
+        },
+        {
+          "title": "증시 불안에도…한은, 성장·물가 눈높이 상향에 긴축 고삐",
+          "link": "https://www.yna.co.kr/view/AKR20261126067600002",
+          "summary": "(서울=연합뉴스) 채새롬 기자 = 한국은행 금융통화위원회가 최근 증시 불안에도 석 달 만에 기준금리 인상을 재개했다.",
+          "publishedAt": "2026-11-26T01:22:44.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/01/PYH2026090110410005100_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.5
         }
       ]
     },
@@ -105,20 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4
-        },
-        {
-          "title": "“중도정견 갖추고 타성 경계해야”…백담사 동안거 결제",
-          "link": "https://www.beopbo.com/news/articleView.html?idxno=339194",
-          "summary": "백담사 무금선원과 조계종립 기본선원 수좌들이 동안거 결제에 들어갔다. 동안거는 겨울 석 달 동안 산문을 닫고 참선 수행에 전념하는 수행 기간이다. 백담사는 11월 23일 경내 검인당에서 병오년 동안거 결제법요식을 봉행했다.법요식은 삼귀의와 반야심경 봉독에 이어 백담사 기본선원 조실 영진 스님의 법문, 사홍서원 순으로 진행됐다. 조실 영진 스님과 신흥사 주지…",
-          "publishedAt": "2026-11-23T17:51:35.000Z",
-          "image": "",
-          "sourceName": "법보신문",
-          "sourceId": "beopbo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 3.5
+          "score": 3.8
         },
         {
           "title": "월간 '불교' 12월호, 세계 확장하는 한국불교 오늘",
@@ -131,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.8
         },
         {
           "title": "덕숭총림 수덕사, 병오년 동안거 236명 정진",
@@ -144,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 3
+          "score": 2.8
         },
         {
           "title": "해봉당 자승대종사 3주기 추모 다례재…“불퇴전의 전법 원력 이어가겠습니다”",
@@ -157,7 +144,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 2.9
+          "score": 2.7
+        },
+        {
+          "title": "현실 속 깨달음의 세계…동국불교미술인회 정기전",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506571",
+          "summary": "가사를 수하고 탁발에 나서는 부처님의 모습을 입체적으로 표현한 ‘공덕’(서칠교, 2026). 고요한 시선과 온화한 미소가 가사의 질감과 대비되는 매끈한 면에 담겨 시선을 끈다. 인로왕보살이 영가들을 반야용선에 태워 극락세계로 인도하는 ‘인로왕보살 극락인도 목조각탱’(송근영, 2026)은 악착같이 매달려 가는 ‘악착보살’을 새겨 넣어 엄숙함 속에 익살스러움을…",
+          "publishedAt": "2026-11-25T11:20:21.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 2.7
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.3
+          "score": 6.1
         },
         {
           "title": "Method and Metaphysics in Plato’s Sophist and Statesman",
@@ -198,7 +198,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 6.2
+          "score": 6.1
         },
         {
           "title": "A Game for Teaching Ancient Philosophy",
@@ -211,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.5
+          "score": 5.3
         },
         {
           "title": "How Much AI-Generated Text Is In Today’s Philosophy Journals? (guest post)",
@@ -238,7 +238,7 @@
             "philosophy",
             "art"
           ],
-          "score": 4.3
+          "score": 4.1
         }
       ]
     },
@@ -253,7 +253,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 181,
+      "poolSize": 184,
       "items": [
         {
           "title": "‘좌편향’ 논란 부른 부산시립미술관 전시, 직접 가봤더니···우리가 잊고 있던 해방기 미술",
@@ -266,7 +266,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.3
+          "score": 7.1
         },
         {
           "title": "핫한 서촌에 미술관 산책 가볼까",
@@ -279,7 +279,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.9
+          "score": 6.7
         },
         {
           "title": "‘2030 핫플’ 대림미술관의 뜻밖의 선택…김창열부터 피카소까지 한자리서 만난다",
@@ -292,33 +292,33 @@
           "candidates": [
             "art"
           ],
-          "score": 5.3
+          "score": 5.1
         },
         {
-          "title": "새롭게 만나는 샤갈의 색채…캔버스에서 스테인드글라스까지 ‘샤갈, 너머의 여정’",
-          "link": "https://www.khan.co.kr/article/202611231333001/",
-          "summary": "퐁피두센터 한화 ‘샤갈, 너머의 여정’ 회화·조각·도자 등 65점 전시마르크 샤갈 ‘에펠탑의 신랑 신부’(1938~1938), 리넨 캔버스에 유채, 150×136.5㎝. 퐁피두센터 한화 제공“20세기의 거장 ‘마크·샤갈’을 위한 대회고전이 … 동면 중인 파리 미술계를 떠들썩하게 만들고 있다.” 1970년 2월18일 경향신문 임영방 파리 통신원은 마르크 샤·…",
-          "publishedAt": "2026-11-23T04:33:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "이지호 전남미술관장, 프랑스 문화예술공로훈장 오피시에 수훈",
+          "link": "https://www.yna.co.kr/view/AKR20261126089800054",
+          "summary": "(광양=연합뉴스) 장아름 기자 = 이지호 전남미술관장이 한국과 프랑스 간 미술 교류에 기여한 공로를 인정받아 프랑스 정부로부터 문화예술공로훈장 ...",
+          "publishedAt": "2026-11-26T02:31:05.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/26/AKR20261126089800054_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.7
+          "score": 4.5
         },
         {
-          "title": "지워지다시피 한 ‘해방기 미술’ 한데 모아…“경계선을 돌파한 시도”",
-          "link": "https://www.khan.co.kr/article/202611252022005/",
-          "summary": "‘좌편향 논란’ 부산시립미술관 특별전…미술사학자 최열과 살펴보니미술사학자 최열(오른쪽)이 부산시립미술관 전시장 들머리에 걸린 이쾌대의 ‘군상 | -해방고지’를 가리키며 강선주 학예연구사와 이야기를 나누고 있다.(오른쪽 사진) 전시에선 현재는 전해지지 않은 작품들을 글로 복원한다. 작품마다 담긴 ‘해방’이라는 단어로부터 당시 분위기를 읽어낼 수 있다. 배문규…",
-          "publishedAt": "2026-11-25T11:22:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
+          "title": "겨울 수목원서 만나는 크리스마스…전시·체험 행사 풍성",
+          "link": "https://www.yna.co.kr/view/AKR20261126087600063",
+          "summary": "(세종=연합뉴스) 김준호 기자 = 한국수목원정원관리원은 겨울과 크리스마스 시즌을 맞아 국립세종수목원, 국립한국자생식물원, 국립정원문화원에서 다양...",
+          "publishedAt": "2026-11-26T02:21:46.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/26/AKR20261126087600063_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.3
+          "score": 4.5
         }
       ]
     }
