@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-27T03:25:58.040Z",
+  "builtAt": "2026-11-27T18:38:26.117Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,47 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 288,
+      "poolSize": 336,
       "items": [
+        {
+          "title": "환율, 물가가 먼저…한은 총재 통화정책에 ‘주가’는 후순위였다 [BOK WATCHER]",
+          "link": "https://www.mk.co.kr/news/economy/12220459",
+          "summary": "신현송 총재 취임 후 성적표‘환율 →물가 →주가’ 신현송 한국은행 총재가 통화정책을 펼 때 고려하는 순서로 관측되는 부분이다. 한국은행 금융통화위원회는 11월 26일 올해 마지막 ..",
+          "publishedAt": "2026-11-27T10:10:35.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/27/news-a.v1.20261126.e9969ec8c9954f81b5d1038daa74e7e9_R.png",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
+        {
+          "title": "원/달러 환율, 증시 반등·월말 네고에 하락…1,337.9원",
+          "link": "https://www.yna.co.kr/view/AKR20261127127600002",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율은 27일 미국 기술주를 중심으로 투자심리가 회복되면서 국내 증시가 반등하고, 월말 수출업체의 달...",
+          "publishedAt": "2026-11-27T07:19:59.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/27/PYH2026112702570001300_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.3
+        },
+        {
+          "title": "[외환] 원/달러 환율 4.8원 내린 1,337.9원(15:30 기준가)",
+          "link": "https://www.yna.co.kr/view/AKR20261127118200002",
+          "summary": "(",
+          "publishedAt": "2026-11-27T06:31:11.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127118200002_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.2
+        },
         {
           "title": "'고물가 우려' 금리 또 인상…내년 성장률 4.1%",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865926",
@@ -25,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "환율, 물가, 마지막은 주가 … 한은 총재가 통화정책에 고려하는 우선 순위",
@@ -38,46 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
-        },
-        {
-          "title": "신현송 “내년에 반도체 낙수효과”…금리 인상엔 또 “선제 대응”",
-          "link": "https://www.khan.co.kr/article/202611262127005/",
-          "summary": "성장률 전망 상향 근거로 “법인세·성과급·배당 등 국민경제로 환원”금통위 다수, 6개월 후 금리 ‘3.5~3.75%’ 전망…내년에도 인상 예고통화정책 방향 설명 신현송 한은 총재가 26일 서울 중구 한국은행에서 열린 금융통화위원회의 통화정책 방향에 대해 설명하고 있다. 사진공동취재단신현송 한국은행 총재는 26일 올해와 내년 성장률 전망치를 올리면서 “충분한…",
-          "publishedAt": "2026-11-26T12:27:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.2
-        },
-        {
-          "title": "신현송 \"내년 4.1% 성장 자신\"… 기준금리 인상 재시동",
-          "link": "https://www.mk.co.kr/news/economy/12219713",
-          "summary": "한국은행이 반도체 경기 호조에 힘입어 내년 경제성장률 전망치를 4%대로 대폭 상향하면서 기준금리를 연 3.25%로 인상했다. 수출과 투자 중심의 고성장에 물가 압력이 커지고 부동산..",
-          "publishedAt": "2026-11-26T08:42:11.000Z",
-          "image": "",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.1
-        },
-        {
-          "title": "계속되는 고성장·고물가…소비 부진에도 '긴축' 고삐",
-          "link": "https://www.mk.co.kr/news/economy/12219695",
-          "summary": "한국은행이 3개월 만에 기준금리를 추가 인상한 배경에는 물가 상승 압력, 예상보다 강한 성장세, 금융 안정 우려라는 세 가지 요인이 복합적으로 작용했다. 우선 물가 상승 압력이 커..",
-          "publishedAt": "2026-11-26T08:41:02.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/27/20261127_01160102000002_L00.jpg",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7.1
+          "score": 7
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 202,
+      "poolSize": 198,
       "items": [
         {
           "title": "신순숙(우빽카·72) 사마타·위빠사나 수행 - 중",
@@ -105,7 +105,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 7.7
+          "score": 7.3
+        },
+        {
+          "title": "대해 스님의 스크린 법문 ‘인간 초거대 알고리즘’ 개봉",
+          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506626",
+          "summary": "대해 스님의 두 번째 장편 불교 영화 이 관객들을 만났다. 대해 스님은 전작 으로 UN 본부 상영과 세계 유수 영화제 23관왕을 기록한 바 있다. 영화를 통해 부처님의 가르침을 전해온 대해 스님이 직접 각본과 연출을 맡아 완성한 이 작품은 제58회 휴스턴 국제영화제 실버 레미 어워드와 제24회 다카 국제영화제 영적 영화 부문 베스트 픽션 필름상 등 해외 영…",
+          "publishedAt": "2026-11-27T17:06:39.000Z",
+          "image": "",
+          "sourceName": "현대불교",
+          "sourceId": "hyunbul",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
         },
         {
           "title": "호흡 알아차림에서 해탈까지 초기불교 해설",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.3
         },
         {
           "title": "[법인 스님의 문자 반야] 66. 자실인의(慈室忍衣)",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.7
+          "score": 4.3
         },
         {
           "title": "불안에 시달리는 현대인 위한 길잡이",
@@ -141,19 +154,6 @@
           "image": "",
           "sourceName": "불교신문",
           "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.6
-        },
-        {
-          "title": "지금 여기에서 시작하는 행복",
-          "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=506599",
-          "summary": "수십 년 동안 절에 다니고 법문을 들어도 불교가 어렵게 느껴지는 이유는 무엇일까. 사성제와 팔정도, 연기와 무아 등 낯선 교리와 용어가 많아서일까.이학종 전 미디어붓다 대표는 그 이유를 교리의 난해함이 아니라, 불교를 배우는 순서에서 찾는다. 부처님은 처음부터 어려운 교리를 설하지 않았다. 먼저 베푸는 삶을 권하고, 해치지 않는 삶을 가르쳤으며, 욕망과 집…",
-          "publishedAt": "2026-11-26T18:45:03.000Z",
-          "image": "",
-          "sourceName": "현대불교",
-          "sourceId": "hyunbul",
           "candidates": [
             "buddhism"
           ],
@@ -172,7 +172,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 143,
+      "poolSize": 144,
       "items": [
         {
           "title": "A Priorism in Moral Epistemology",
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.6
+          "score": 7.2
         },
         {
           "title": "Hume’s Moral Philosophy",
@@ -214,6 +214,19 @@
           "score": 6
         },
         {
+          "title": "인천대 인천학연구원, 한중 해양도시 정체성 학술대회 개최",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212935",
+          "summary": "인천대 인천학연구원은 2026년 11월 20일 인천대 미추홀캠퍼스 미래관에서 인천대 공자학원과 공동으로 학술대회를 열었다. 학술대회 주제는 '지역학으로 본 한중 해양도시 인천과 대련의 정체성'이었다. 이번 학술대회에서는 한·중 학자 5명이 인천과 동아시아 해양도시를 문학, 도시, 언어, 종교문화 등 다양한 관점에서 조명했다. 발표 내용에는 인천 배경 현대시…",
+          "publishedAt": "2026-11-27T15:14:47.000Z",
+          "image": "",
+          "sourceName": "교수신문",
+          "sourceId": "kyosu",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 5.9
+        },
+        {
           "title": "A Game for Teaching Ancient Philosophy",
           "link": "https://dailynous.com/2026/11/24/a-game-for-teaching-ancient-philosophy/",
           "summary": "Javier Hidalgo, a philosopher at the University of Richmond, has developed a classroom simulation game to teach about different ancient philosophies called “Ancient Philosophy as […] The post A Game f…",
@@ -221,19 +234,6 @@
           "image": "https://dailynous.com/wp-content/uploads/2026/11/ancient-philosophy-game-1024x706.png",
           "sourceName": "Daily Nous",
           "sourceId": "dailynous",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 4.8
-        },
-        {
-          "title": "Japanese Confucian Philosophy",
-          "link": "https://plato.stanford.edu/entries/japanese-confucian/",
-          "summary": "[Revised entry by John Tucker on November 26, 2026. Changes to: Main text, Bibliography] In Japan, Confucianism stands, along with Buddhism, as a major religio-philosophical teaching introduced from t…",
-          "publishedAt": "2026-11-27T01:29:30.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
           "candidates": [
             "philosophy"
           ],
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 194,
+      "poolSize": 189,
       "items": [
         {
           "title": "‘좌편향’ 논란 부른 부산시립미술관 전시, 직접 가봤더니···우리가 잊고 있던 해방기 미술",
@@ -265,46 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.6
-        },
-        {
-          "title": "핫한 서촌에 미술관 산책 가볼까",
-          "link": "https://www.khan.co.kr/article/202611242047005/",
-          "summary": "명소로 자리 잡은 대림미술관재단 설립 30돌 맞아 소장품전국내외 유명 작가 작품 70여점김창열의 회화 ‘회귀’(1995)와 조각 ‘비나이다’(1996). 대림미술관 제공‘2030 핫플’ ‘힙스터의 성지’. 대림미술관을 검색하면 따라붙는 수식어들이다. 경복궁 서편, 서촌의 조용한 골목에 들어서면 주택들 사이로 미술관이 나타난다. 옛 드라마 속 부잣집을 떠올리…",
-          "publishedAt": "2026-11-24T11:47:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 6.2
-        },
-        {
-          "title": "국중박 네 번째 서화전시 주인공은 ‘아는 사람만 아는 문인화가, 이인상’",
-          "link": "https://www.khan.co.kr/article/202611271049001/",
-          "summary": "작가 모름 ‘이인상 초상(李麟祥肖像)’, 조선 18세기, 종이에 먹과 엷은 색, 이홍근 기증. 국립중앙박물관 제공두어 글자만 써도 글자마다 따로 논다. 추사 김정희의 아들 김상우가 글씨를 배우며 아버지에게 털어놓은 고민이다. 추사는 <완당집>에 실린 ‘서시우아(書示佑兒)’에서 자신도 60년을 ···",
-          "publishedAt": "2026-11-27T01:49:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 6
-        },
-        {
-          "title": "‘2030 핫플’ 대림미술관의 뜻밖의 선택…김창열부터 피카소까지 한자리서 만난다",
-          "link": "https://www.khan.co.kr/article/202611241638001/",
-          "summary": "대림문화재단 30주년 첫 소장품전국내외 유명 작품 70여 점 전시서울 서촌에 자리 잡은 대림미술관. 대림미술관 제공‘2030 핫플’, ‘힙스터의 성지’. 대림미술관을 검색하면 따라붙는 수식어들이다. 경복궁 서편, 서촌의 조용한 골목에 들어서면 주택들 사이로 미술관이 나타난다. 옛 드라마 속 부잣집을 떠올리게 하는 번듯한 양옥을 미술관으로 개조한 공간이···",
-          "publishedAt": "2026-11-24T07:38:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4.6
+          "score": 6.3
         },
         {
           "title": "충주박물관 ,충주읍성터 발굴 성과 전시…원앙무늬 벽돌 등 공개",
@@ -317,7 +278,46 @@
           "candidates": [
             "art"
           ],
-          "score": 4.5
+          "score": 4.1
+        },
+        {
+          "title": "관광공사, 하이커 그라운드서 신진 작가 10인 현대미술 특별전",
+          "link": "https://www.yna.co.kr/view/AKR20261127029800030",
+          "summary": "(서울=연합뉴스) 구정모 기자 = 한국관광공사는 한국화랑협회와 함께 내년 3월 30일까지 중구 한국관광 홍보관 하이커 그라운드에서 한국 현대미술...",
+          "publishedAt": "2026-11-27T00:02:12.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127029800030_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.1
+        },
+        {
+          "title": "새로운 형태 탐구 멈추지 않는 77세 조각가…\"삶 자체가 영감\"",
+          "link": "https://www.yna.co.kr/view/AKR20261126187800005",
+          "summary": "(서울=연합뉴스) 김예나 기자 = \"살아있다는 것, 삶을 영위한다는 것, 그리고 존재한다는 것, 이런 점들에 가슴이 벅차오르는 감정을 느낍니다....",
+          "publishedAt": "2026-11-26T22:30:01.000Z",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/27/PYH2026112700630000500_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4.1
+        },
+        {
+          "title": "서울시, DDP유구전시장 이전 심의 부결에 \"유감…대책 마련해야\"",
+          "link": "https://www.yna.co.kr/view/AKR20261126164000004",
+          "summary": "(서울=연합뉴스) 유한주 기자 = 서울시는 동대문디자인플라자(DDP) 유구전시장 이전안이 국가유산청 심의에서 부결된 데 유감을 표하며 유구 훼손...",
+          "publishedAt": "2026-11-26T21:00:10.000Z",
+          "image": "https://img.yna.co.kr/photo/cms/2025/06/16/03/PCM20250616000103990_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 4
         }
       ]
     }
