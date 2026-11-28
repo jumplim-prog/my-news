@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-28T03:01:45.698Z",
+  "builtAt": "2026-11-28T17:17:33.074Z",
   "cards": [
     {
       "id": "econ",
@@ -25,7 +25,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.4
+          "score": 7.1
         },
         {
           "title": "환율, 물가가 먼저…한은 총재 통화정책에 ‘주가’는 후순위였다 [BOK WATCHER]",
@@ -38,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.9
         },
         {
           "title": "원/달러 환율, 증시 반등·월말 네고에 하락…1,337.9원",
@@ -51,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.8
         },
         {
           "title": "[외환] 원/달러 환율 4.8원 내린 1,337.9원(15:30 기준가)",
@@ -64,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
+          "score": 6.8
         },
         {
           "title": "'고물가 우려' 금리 또 인상…내년 성장률 4.1%",
@@ -77,7 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 6.9
+          "score": 6.6
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 197,
+      "poolSize": 187,
       "items": [
         {
           "title": "신순숙(우빽카·72) 사마타·위빠사나 수행 - 중",
@@ -105,7 +105,20 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 7.2
+          "score": 6.9
+        },
+        {
+          "title": "오대산 월정사서 ‘연기의 파동’…불교 연기법으로 기후위기 살펴",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4121604",
+          "summary": "한강시원지체험관이 오늘(28일) 오대산 월정사 화엄루와 대법륜전 일대에서 수행·문화 행사 ‘연기의 파동’을 열었습니다. 내일(29일)까지 1박 2일간 이어지는 이번 행사는 불교의 연기법을 바탕으로 기후·생태 위기와 일상에서의 실천을 함께 고민하는 자리로 마련됐습니다.첫날 행사에는 월정사 주지 인광스님과 한강시원지체험관장 현기스님, 이창열 평창군의회 의장과…",
+          "publishedAt": "2026-11-28T15:00:00.000Z",
+          "image": "",
+          "sourceName": "BBS 불교방송",
+          "sourceId": "bbs-news",
+          "candidates": [
+            "buddhism"
+          ],
+          "score": 4.5
         },
         {
           "title": "대해 스님의 스크린 법문 ‘인간 초거대 알고리즘’ 개봉",
@@ -118,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4
         },
         {
           "title": "호흡 알아차림에서 해탈까지 초기불교 해설",
@@ -131,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
+          "score": 3.9
         },
         {
           "title": "[법인 스님의 문자 반야] 66. 자실인의(慈室忍衣)",
@@ -144,20 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.2
-        },
-        {
-          "title": "불안에 시달리는 현대인 위한 길잡이",
-          "link": "http://www.ibulgyo.com/news/articleView.html?idxno=444574",
-          "summary": "마음을 고요히 가라앉히는 ‘지(止, 사마타)’와 대상을 있는 그대로 꿰뚫어 보는 ‘관(觀, 위빠사나)’은 불교 수행의 시작과 끝을 관통하는 두 개의 기둥이다. 오늘날 명상이 세계적인 일상 문화이자 심리 치유의 도구로 자리 잡았지만, 정작 수행 현장에서는 여전히 해묵은 질문과 혼란이 반복되고 있다. 이런 가운데 이 둘의 관계에 대한 불교와 심리학 분야에서의…",
-          "publishedAt": "2026-11-27T09:03:00.000Z",
-          "image": "",
-          "sourceName": "불교신문",
-          "sourceId": "ibulgyo",
-          "candidates": [
-            "buddhism"
-          ],
-          "score": 4.1
+          "score": 3.9
         }
       ]
     },
@@ -185,7 +185,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.1
+          "score": 6.8
         },
         {
           "title": "Hume’s Moral Philosophy",
@@ -211,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.8
+          "score": 5.5
         },
         {
           "title": "A Game for Teaching Ancient Philosophy",
@@ -252,7 +252,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 188,
+      "poolSize": 181,
       "items": [
         {
           "title": "부산국제아트페어 내달 3일 개막…작가·관객 직접 교류",
@@ -265,20 +265,7 @@
           "candidates": [
             "art"
           ],
-          "score": 7.4
-        },
-        {
-          "title": "‘좌편향’ 논란 부른 부산시립미술관 전시, 직접 가봤더니···우리가 잊고 있던 해방기 미술",
-          "link": "https://www.khan.co.kr/article/202611251600001/",
-          "summary": "미술사학자 최열(오른쪽)이 부산시립미술관 전시장 들머리에 걸린 이쾌대의 ‘군상Ⅰ-해방고지’(1948)를 가리키며 강선주 학예연구사와 이야기를 나누고 있다. 훗날 월북한 이쾌대는 해방 소식을 주고받는 사람들과 바닥에 쓰러진 이들을 한 화폭에 담아 해방기의 환희와 혼란을 그렸다. 연작의 또 다른 작품인 ‘군상Ⅳ’는 1948년 미 공군의 독도 폭격 훈련으로 조업…",
-          "publishedAt": "2026-11-25T07:00:00.000Z",
-          "image": "",
-          "sourceName": "경향신문",
-          "sourceId": "khan-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 6.1
+          "score": 7.1
         },
         {
           "title": "충주박물관 ,충주읍성터 발굴 성과 전시…원앙무늬 벽돌 등 공개",
@@ -291,20 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4
-        },
-        {
-          "title": "관광공사, 하이커 그라운드서 신진 작가 10인 현대미술 특별전",
-          "link": "https://www.yna.co.kr/view/AKR20261127029800030",
-          "summary": "(서울=연합뉴스) 구정모 기자 = 한국관광공사는 한국화랑협회와 함께 내년 3월 30일까지 중구 한국관광 홍보관 하이커 그라운드에서 한국 현대미술...",
-          "publishedAt": "2026-11-27T00:02:12.000Z",
-          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127029800030_01_i_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 3.9
+          "score": 3.7
         },
         {
           "title": "[책과 삶]40년간 죽은 작가 무덤에 코냑 바친 남자, 그를 따라 미국까지 간 김혼비···지극하고 유쾌한 ‘포 덕질’",
@@ -317,7 +291,33 @@
           "candidates": [
             "art"
           ],
-          "score": 3.9
+          "score": 3.6
+        },
+        {
+          "title": "교보출판 어워즈 ‘올해의 작가’에 ‘그랬다고 적었다’ 펴낸 김애란",
+          "link": "https://www.khan.co.kr/article/202611262028015/",
+          "summary": "소설가 김애란(사진)이 제13회 교보 출판 어워즈 ‘올해의 작가’로 꼽혔다.교보문고는 26일 올해 교보 출판 어워즈 수상자를 발표했다. 올해 <그랬다고 적었다>(문학동네)를 펴낸 김애란은 “깊이 있는 작품 세계와 섬세한 문학적 표현으로 독자들의 폭넓은 공감을 얻으며 한국문학의 가치를 확산하는 데 기여했다”는 평을 받았다.<이기적 유전자&gt···",
+          "publishedAt": "2026-11-26T11:28:01.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 3.4
+        },
+        {
+          "title": "강유정 문체부 장관 후보자 “석 자 얼음 녹기 시작했다”···한한령 대응 최우선",
+          "link": "https://www.khan.co.kr/article/202611261600021/",
+          "summary": "강유정 문화체육관광부 장관 후보자가 26일 서울 종로구 국립현대미술관 서울 사무동에 마련된 인사청문회 준비단 사무실로 출근하며 취재진 질문에 답하고 있다. 연합뉴스강유정 문화체육관광부 장관 후보자가 최우선 현안으로 한중 관계의 회복에 따른 한한령(한류 제한령) 해제와 이에 따른 후속 조치 마련을 꼽았다.강 후보자는 26일 오후 서울 종로구 국립현대미술관 사…",
+          "publishedAt": "2026-11-26T07:00:02.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 3.3
         }
       ]
     }
