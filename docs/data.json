@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-27T18:38:26.117Z",
+  "builtAt": "2026-11-28T03:01:45.698Z",
   "cards": [
     {
       "id": "econ",
@@ -12,8 +12,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 336,
+      "poolSize": 333,
       "items": [
+        {
+          "title": "“한은 금리 인상, 이제 시작일 뿐?”…다시 빨라진 글로벌 ‘긴축 시계’",
+          "link": "https://www.mk.co.kr/news/world/12220621",
+          "summary": "세계 물가상승률 4.9%로 재상승 美 성장률 4.3%·근원 PCE 3.3% ECB, 지난달에도 금리인상 검토 日 경기 역성장에도 물가 잡기 무게 고유가에 AI 투자發 수요까지 가세..",
+          "publishedAt": "2026-11-27T22:52:49.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/28/rcv.YNA.20261126.PRU20261126074501009_R.jpg",
+          "sourceName": "매일경제",
+          "sourceId": "mk-economy",
+          "candidates": [
+            "econ"
+          ],
+          "score": 7.4
+        },
         {
           "title": "환율, 물가가 먼저…한은 총재 통화정책에 ‘주가’는 후순위였다 [BOK WATCHER]",
           "link": "https://www.mk.co.kr/news/economy/12220459",
@@ -25,7 +38,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.1
         },
         {
           "title": "원/달러 환율, 증시 반등·월말 네고에 하락…1,337.9원",
@@ -38,7 +51,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.3
+          "score": 7.1
         },
         {
           "title": "[외환] 원/달러 환율 4.8원 내린 1,337.9원(15:30 기준가)",
@@ -51,7 +64,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.2
+          "score": 7.1
         },
         {
           "title": "'고물가 우려' 금리 또 인상…내년 성장률 4.1%",
@@ -64,20 +77,7 @@
           "candidates": [
             "econ"
           ],
-          "score": 7.1
-        },
-        {
-          "title": "환율, 물가, 마지막은 주가 … 한은 총재가 통화정책에 고려하는 우선 순위",
-          "link": "https://www.mk.co.kr/news/economy/12219637",
-          "summary": "신현송 총재 취임 후 성적표‘환율 →물가 →주가’ 신현송 한국은행 총재가 통화정책을 펼 때 고려하는 순서로 관측되는 부분이다. 한국은행 금융통화위원회는 11월 26일 올해 마지막 ..",
-          "publishedAt": "2026-11-26T20:00:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/26/news-a.v1.20261126.e9969ec8c9954f81b5d1038daa74e7e9_R.png",
-          "sourceName": "매일경제",
-          "sourceId": "mk-economy",
-          "candidates": [
-            "econ"
-          ],
-          "score": 7
+          "score": 6.9
         }
       ]
     },
@@ -92,7 +92,7 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 198,
+      "poolSize": 197,
       "items": [
         {
           "title": "신순숙(우빽카·72) 사마타·위빠사나 수행 - 중",
@@ -105,7 +105,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 7.3
+          "score": 7.2
         },
         {
           "title": "대해 스님의 스크린 법문 ‘인간 초거대 알고리즘’ 개봉",
@@ -118,7 +118,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.5
+          "score": 4.3
         },
         {
           "title": "호흡 알아차림에서 해탈까지 초기불교 해설",
@@ -131,7 +131,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4.2
         },
         {
           "title": "[법인 스님의 문자 반야] 66. 자실인의(慈室忍衣)",
@@ -144,7 +144,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4.2
         },
         {
           "title": "불안에 시달리는 현대인 위한 길잡이",
@@ -157,7 +157,7 @@
           "candidates": [
             "buddhism"
           ],
-          "score": 4.3
+          "score": 4.1
         }
       ]
     },
@@ -185,26 +185,13 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 7.2
+          "score": 7.1
         },
         {
           "title": "Hume’s Moral Philosophy",
           "link": "https://plato.stanford.edu/entries/hume-moral/",
           "summary": "[Revised entry by Rachel Cohon on November 22, 2026. Changes to: Main text, Bibliography] Hume's position in ethics, which is based on his empiricist theory of the mind, is best known for four theses:…",
           "publishedAt": "2026-11-23T07:15:26.000Z",
-          "image": "",
-          "sourceName": "Stanford Encyclopedia",
-          "sourceId": "stanford-sep",
-          "candidates": [
-            "philosophy"
-          ],
-          "score": 6
-        },
-        {
-          "title": "Method and Metaphysics in Plato’s Sophist and Statesman",
-          "link": "https://plato.stanford.edu/entries/plato-sophstate/",
-          "summary": "[Revised entry by Mary-Louise Gill on November 22, 2026. Changes to: Main text, Bibliography, notes.html] The Sophist and Statesman are late Platonic dialogues, whose relative dates are established by…",
-          "publishedAt": "2026-11-23T05:54:47.000Z",
           "image": "",
           "sourceName": "Stanford Encyclopedia",
           "sourceId": "stanford-sep",
@@ -224,7 +211,7 @@
           "candidates": [
             "philosophy"
           ],
-          "score": 5.9
+          "score": 5.8
         },
         {
           "title": "A Game for Teaching Ancient Philosophy",
@@ -232,6 +219,19 @@
           "summary": "Javier Hidalgo, a philosopher at the University of Richmond, has developed a classroom simulation game to teach about different ancient philosophies called “Ancient Philosophy as […] The post A Game f…",
           "publishedAt": "2026-11-24T17:23:59.000Z",
           "image": "https://dailynous.com/wp-content/uploads/2026/11/ancient-philosophy-game-1024x706.png",
+          "sourceName": "Daily Nous",
+          "sourceId": "dailynous",
+          "candidates": [
+            "philosophy"
+          ],
+          "score": 4.5
+        },
+        {
+          "title": "How Much AI-Generated Text Is In Today’s Philosophy Journals? (guest post)",
+          "link": "https://dailynous.com/2026/11/18/how-much-ai-generated-text-is-in-todays-philosophy-journals/",
+          "summary": "“It seems that philosophers have started to make substantial use of AI in their papers, and it’s not uncommon for AI-generated text to make it […] The post How Much AI-Generated Text Is In Today’s Phi…",
+          "publishedAt": "2026-11-18T19:02:08.000Z",
+          "image": "https://dailynous.com/wp-content/uploads/2026/11/circuit-shirt-black-white-gold-1024x651.jpg",
           "sourceName": "Daily Nous",
           "sourceId": "dailynous",
           "candidates": [
@@ -252,8 +252,21 @@
       ],
       "summary": "",
       "scoredBy": "keyword",
-      "poolSize": 189,
+      "poolSize": 188,
       "items": [
+        {
+          "title": "부산국제아트페어 내달 3일 개막…작가·관객 직접 교류",
+          "link": "https://www.yna.co.kr/view/AKR20261127061000051",
+          "summary": "(부산=연합뉴스) 이영재 기자 = 작가와 관객이 직접 만나 교류하는 예술작품 전시회 '부산국제아트페어'가 다음 달 초 개막한다.",
+          "publishedAt": "2026-11-27T23:01:01.000Z",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127061000051_01_i_P2.jpg",
+          "sourceName": "연합뉴스",
+          "sourceId": "yna-culture",
+          "candidates": [
+            "art"
+          ],
+          "score": 7.4
+        },
         {
           "title": "‘좌편향’ 논란 부른 부산시립미술관 전시, 직접 가봤더니···우리가 잊고 있던 해방기 미술",
           "link": "https://www.khan.co.kr/article/202611251600001/",
@@ -265,7 +278,7 @@
           "candidates": [
             "art"
           ],
-          "score": 6.3
+          "score": 6.1
         },
         {
           "title": "충주박물관 ,충주읍성터 발굴 성과 전시…원앙무늬 벽돌 등 공개",
@@ -278,7 +291,7 @@
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 4
         },
         {
           "title": "관광공사, 하이커 그라운드서 신진 작가 10인 현대미술 특별전",
@@ -291,33 +304,20 @@
           "candidates": [
             "art"
           ],
-          "score": 4.1
+          "score": 3.9
         },
         {
-          "title": "새로운 형태 탐구 멈추지 않는 77세 조각가…\"삶 자체가 영감\"",
-          "link": "https://www.yna.co.kr/view/AKR20261126187800005",
-          "summary": "(서울=연합뉴스) 김예나 기자 = \"살아있다는 것, 삶을 영위한다는 것, 그리고 존재한다는 것, 이런 점들에 가슴이 벅차오르는 감정을 느낍니다....",
-          "publishedAt": "2026-11-26T22:30:01.000Z",
-          "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/27/PYH2026112700630000500_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
+          "title": "[책과 삶]40년간 죽은 작가 무덤에 코냑 바친 남자, 그를 따라 미국까지 간 김혼비···지극하고 유쾌한 ‘포 덕질’",
+          "link": "https://www.khan.co.kr/article/202611270600071/",
+          "summary": "친구가 준 아몬티야도를 마시며 ‘아몬티야도 술병’을 읽고 매혹포가 최후로 마신 선술집 찾고두 무덤 중 한 곳에 코냑 바치기특유의 개그와 언어유희와 함께대표시 ‘까마귀’ 전문 해석 등‘덕후’답게 균형 잡힌 작품 비평포이 작품 새롭게 보는 ‘문’ 열어에드거 앨런 포의 무덤에 바쳐진 꼬냑과 장미. 위키피디아포 문김혼비 지음 | 난다 | 272쪽 | 1만8800원…",
+          "publishedAt": "2026-11-26T21:00:07.000Z",
+          "image": "",
+          "sourceName": "경향신문",
+          "sourceId": "khan-culture",
           "candidates": [
             "art"
           ],
-          "score": 4.1
-        },
-        {
-          "title": "서울시, DDP유구전시장 이전 심의 부결에 \"유감…대책 마련해야\"",
-          "link": "https://www.yna.co.kr/view/AKR20261126164000004",
-          "summary": "(서울=연합뉴스) 유한주 기자 = 서울시는 동대문디자인플라자(DDP) 유구전시장 이전안이 국가유산청 심의에서 부결된 데 유감을 표하며 유구 훼손...",
-          "publishedAt": "2026-11-26T21:00:10.000Z",
-          "image": "https://img.yna.co.kr/photo/cms/2025/06/16/03/PCM20250616000103990_P2.jpg",
-          "sourceName": "연합뉴스",
-          "sourceId": "yna-culture",
-          "candidates": [
-            "art"
-          ],
-          "score": 4
+          "score": 3.9
         }
       ]
     }
